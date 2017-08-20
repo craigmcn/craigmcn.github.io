@@ -1,0 +1,21 @@
+---
+title: 'Hockey&#8217;s Back (aka Serenity Now!)'
+date: 2005-10-06T09:44:08+00:00
+excerpt: "Not only have I actually decided to blog this week, or indeed this month, but Hockey's Back, too! While the local"
+layout: post
+categories:
+  - Opinion
+  - People
+tags:
+  - hockey
+  - movies
+  - review
+  - Washington Capitals
+---
+Not only have I actually decided to blog this week, or indeed this month, but **[Hockey&#8217;s Back](http://www.tsn.ca/nhl/)**, too! While the local favourite [Toronto Maple Leafs](http://www.torontomapleleafs.com/) lost (at home to the rival [Ottawa Senators](http://www.ottawasenators.com/), in a final shootout), my beloved [Washington Capitals](http://www.washingtoncaps.com/) won their first game (at home against the [Columbus Blue Jackets](http://www.bluejackets.com/)). I&#8217;m not sure whether I&#8217;ll be able to continue cheering for the Caps, though, since they still have [Matt Pettinger](http://www.tsn.ca/nhl/teams/players/bio/?id=2175&hubname=nhl-capitals) in their line-up.
+
+It&#8217;s not that I don&#8217;t like Matt, I&#8217;ve never even met the boy. It&#8217;s that I don&#8217;t like his sister. She was my archnemesis back when I worked in Banff. Not archrival, she never came close to being better than me at anything! I don&#8217;t remember what initially put her in my bad books, but she never did anything to get out, and in fact only reinforced my reasons for having her there. One instance in particular, she arrived at 7:30am, for her 7:30am shift. She was the supervisor on duty, who was supposed to be on duty from 7:30am. Now, by arriving at 7:30am, obviously she couldn&#8217;t be on duty at the same time, having to take her coat off, get her float out, get logged into the computer, get the overnight update from me, etc. I just made a joking gesture of looking at my watch, and immediately she was defensive, &#8220;I&#8217;m not late! It&#8217;s just 7:30am!&#8221; True &#8216;dat, sistah! I didn&#8217;t care, that was the common practice between me and the other supervisors in the same situation, I joked with them about them coming in late. I mean, come on, it&#8217;s 7:30am, who wants to be at work that early? And since I&#8217;d already been there since 11:00pm the day before and couldn&#8217;t leave until 8:00am anyway, what did I care about another few minutes? So, due to his relationship with my archnemesis, Matt Pettinger&#8217;s reputation is in a pending status with me.
+
+I also have to mention that I went to see [Serenity](http://www.imdb.com/title/tt0379786/) on opening night last Friday. [Gwildor](http://gwild0r.tumblr.com/), JAC and I went for the 7:10pm show, but it was sold out. So we went to see [A History of Violence](http://www.imdb.com/title/tt0399146/). A very good movie, with a really good story and some fine acting, but it dragged on a little. There were a couple of times in the movie where I thought, &#8220;Okay, that&#8217;s the story. We&#8217;re done.&#8221; But then there was more. In hindsight, the dragging on provided the closure that was necessary, but the importance and urgency was never really clear. Mind you, it was David Cronenberg, so it sort of has to be expected.
+
+JAC and I ended up going to the 10:10pm show of Serenity, but Gwildor had to back out, due to the lateness of the show. It&#8217;s a shame, because he missed an excellent adventure story. I even acquired the 12 (maybe 11?) episodes of the [Firefly](http://www.imdb.com/title/tt0303461/) TV series (from which the movie came, due to huge fan support) to get the back story with which I was unfamiliar. It&#8217;s like a rough-and-tumble cowboy story in space. And there is really no end to the adventures a group of smugglers and thieves can have in a world of Earth-like planets. To add some context for those of you unfamiliar with the show or movie, the main characters are like a whole bunch of [Han Solo](http://www.starwars.com/explore/encyclopedia/characters/hansolo/)s and the main enemies are like the [Galactic Empire](http://www.starwars.com/explore/encyclopedia/groups/empire/) (equipped with similarly stupid hats). Good times had by all!!

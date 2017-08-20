@@ -1,0 +1,15 @@
+---
+title: Distillery Jazz Festival
+date: 2004-05-28T09:51:01+00:00
+excerpt: "Alright, I meant to post this yesterday, but, well, I didn't. Wednesday night was my journey to the Distillery"
+layout: post
+categories:
+  - Opinion
+  - Technology
+tags:
+  - computers
+  - music
+---
+Alright, I meant to post this yesterday, but, well, I didn&#8217;t. Wednesday night was my journey to the <a href="http://www.thedistillerydistrict.com" target="_blank">Distillery District</a> to witness one night of the <a href="http://rraz.ca/Jazz.html" target="_blank">Distillery Jazz Festival</a>. I was thoroughly impressed by the location: the Distillery District is the renovated <a href="http://www.distilleryheritage.com/" target="_blank">Gooderham and Worts</a> distillery (<a href="http://www.google.ca/search?q=%22gooderham+and+worts%22&ie=UTF-8&hl=en&btnG=Google+Search&meta=" target="_blank">more</a>), with restaurants, cafés, art galleries and art studios. Interestingly enough, it houses the <a href="http://millstreetbrewery.com" target="_blank">Mill Street Brewery</a> &#8230; hmmm, back to its roots? I enjoyed an excellent <span style="color: #036; cursor: help;" title="Dark Medium Roast: Stratford's most famous cup of coffee. Bold, rounded, and generous, a gutsy cup for any time of the day. Careful: you might end up writing about it."><em>Balzac&#8217;s Blend</em></span> coffee at <a href="http://www.balzacscoffee.com/" target="_blank">Balzac&#8217;s</a>, then a fine pint of <span style="color: #036; cursor: help;" title="(5.5% alc./vol.)Our porter is rich and robust, dark brown in colour with a dark roasted coffee nose, imparting an intense coffee flavour with notes of chocolate.Made with beans supplied by Balzac's Coffee, this porter offers a rich, full and unique flavour. Currently, there are no other coffee-flavoured beers in the Ontario market."><em>Coffee Porter</em></span> from the Mill St. Brewery. It was a great place for a jazz festival &#8230; it would be equally great for any kind of outdoor festival, like the Fringe or a busker&#8217;s festival. There&#8217;s some dance studios and great, big open auditoria for concerts or plays or what-have-you. And the jazz, well, you&#8217;ll have to read the <a href="/distillery-jazz-festival-review.html" target="_blank">review</a> &#8230; it&#8217;s a little biased since I was specifically there for 2 of the shows, done by friends of mine.
+
+I&#8217;m still fighting with my computers &#8230; my trusty little IBM is doing overtime as a web surfing machine &#8230; boy, is it slow!! I&#8217;m pretty sure my original computer is toast, it just makes some beeping noises when it starts up and never boots completely. The new one is fantastic, I&#8217;ve never seen a computer boot so fast!! I think I&#8217;ll pick up a new motherboard and some DDR RAM tonight and see if I can use the old processor to get the original computer going again &#8230;

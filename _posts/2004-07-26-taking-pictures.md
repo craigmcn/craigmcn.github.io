@@ -1,0 +1,11 @@
+---
+title: Taking pictures
+date: 2004-07-26T02:55:14+00:00
+excerpt: "I'm going to apologize right away, because this is a blog pretty much for the sake of a blog. I really don't have"
+layout: post
+categories:
+  - People
+---
+I&#8217;m going to apologize right away, because this is a blog pretty much for the sake of a blog. I really don&#8217;t have much to say. I was out and about all afternoon Saturday, traipsing across the city with <a href="http://trikie.tripod.com/" target="_blank">Trikie</a> and <a href="http://gwild0r.tumblr.com/" target="_blank">Gwildor</a> and their friend K. We were taking pictures, I believe, for the Trikie/Gwildor wedding website<del>, currently under construction</del>. We were up to <a href="http://www.casaloma.org/" target="_blank">Casa Loma</a>, down to the waterfront, then across most of downtown to all the little &#8216;parkette&#8217;s&#8217; littering the downtown core. We had a nice dinner at <a href="http://www.pier4.ca/TourWallyMagoosBar.html" target="_blank">Wallymagoo&#8217;s Marinebar</a> while we were on the waterfront. So that was my weekend &#8230; I remember getting up at a decent hour Sunday, I did some stuff, it was 11:45am, I did some more stuff, it was 2:45 &#8230; I had wanted to go to a matinée movie, but at 3pm I still hadn&#8217;t had a shower, nor done the laundry I had intended to do&#8230; oh, well, next time.
+
+I have every intention of getting the login stuff up and running this week &#8230; yeah, whatever &#8230; no, really, I really think I can get it done. And once I get that working, I&#8217;ll add an option for email, &#8217;cause I&#8217;m this close (\*holds index finger and thumb close together\*) to getting the Delete and Send options working. Then I&#8217;ve got an address book and calendar to build (which I know already exist and I could just download, but I&#8217;m gonna build my own), build a way to save emails and automatically delete them from the email server, and implement my OpenDB CD database&#8230; it&#8217;ll be fun, and cool if I ever get it all working.

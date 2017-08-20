@@ -1,0 +1,47 @@
+
+<footer>
+
+  <div class="wrapper">
+
+    <div class="footer-grid">
+      <div class="footer-grid-item">
+        <p class="site-description">Things I think about or just find and want to share.</p>
+
+        <p>subscribe <a href="/feed.xml">via RSS</a></p>
+      </div>
+
+      <div class="footer-grid-item">
+        <ul>
+          <li><a href="/bagpipe-jokes">bagpipe jokes</a></li>
+          <li><a href="/archive.html">archive</a></li>
+          <li><a href="/category">categories</a></li>
+          <li><a href="/tag">tags</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-grid-item">
+        <ul>
+          <li><a href="/about/">about</a></li>
+          <li><a href="/contact/">contact</a></li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://dv8b8dkxht4vb.cloudfront.net/js/jquery.fancybox.pack.js?v=2.1.5"></script>
+<script>$(function() { $("a[rel=lightbox]").fancybox() })</script>
+{% if page.format == "gallery" %}
+<script>$(function() { $(".gallery a").fancybox() })</script>
+{% endif %}
+<script>$(function() { $('#disqus_thread iframe').css('height', 'auto').css('min-height', '320px')
+  $('.toggle').on('click', function(e){
+    e.preventDefault()
+    var $this = $(this)
+    $this.toggleClass('active')
+    $($this.data('target')).slideToggle('fast')
+  })
+})</script>
