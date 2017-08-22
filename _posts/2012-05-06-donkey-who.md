@@ -3,6 +3,7 @@ title: Donkey Who
 date: 2012-05-06T14:08:45+00:00
 excerpt: Exterminate!
 layout: post
+categories:
   - Funny
 tags:
   - Daleks
