@@ -1,0 +1,27 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% capture pageTitle%}{{page.title}}{%endcapture%}
+  {% capture siteTitle%}{{site.title}}{%endcapture%}
+  <title>{% if pageTitle %}{{ pageTitle | escape }}{% else %}{{ siteTitle | escape }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ siteTitle }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+  <meta property="og:title" content="{% if pageTitle %}{{ pageTitle | escape }}{% else %}{{ siteTitle | escape }}{% endif %}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:image" content="https://dv8b8dkxht4vb.cloudfront.net/img/tartan_dark_reg_1x.sm.jpg">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@craigmcn">
+  <meta name="twitter:title" content="{% if pageTitle %}{{ pageTitle | escape }}{% else %}{{ siteTitle | escape }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:image" content="https://dv8b8dkxht4vb.cloudfront.net/img/tartan_dark_reg_1x.sm.jpg">
+
+  <link rel="stylesheet" href="https://dv8b8dkxht4vb.cloudfront.net/css/jquery.fancybox.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+</head>
