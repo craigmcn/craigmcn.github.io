@@ -1,6 +1,6 @@
 ---
 title: "Back Online"
-date: 2017-08-22T11:45:00-07:00
+date: 2017-08-24T11:45:00-07:00
 excerpt: "I’m trying to divest myself of unnecessary technology assets so I’ve delegated hosting this site to Github and its Pages service."
 layout: post
 categories:
