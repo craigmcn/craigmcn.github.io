@@ -1,0 +1,132 @@
+---
+layout: default
+---
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+    <small><time datetime="{{ page.date | date: "%Y-%m-%dT%H:%M:%S%z" }}" itemprop="datePublished">{{ page.date | date: "%Y %B %-d" }}</time></small>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+	<div class="social-share">
+	    <h5>Share</h5>
+	    <p>
+	        <a class="sm-facebook" href="https://www.facebook.com/sharer.php?u={{ site.url | url_param_escape }}{{ page.url | url_param_escape }}&t={{ page.title | url_param_escape }}" title="Share on Facebook" target="_blank" rel="noopener noreferrer">
+	           <i class="fa fa-facebook-official fa-2x" aria-hidden="true"></i>
+	           <span class="sr-only">Facebook</span>
+	        </a>
+	        <a class="sm-twitter" href="https://twitter.com/intent/tweet?via={{ site.twitter_username }}&text={{ page.title | url_param_escape }}&url={{ site.url | url_param_escape }}{{ page.url | url_param_escape }}" title="Share on Twitter" target="_blank" rel="noopener noreferrer">
+	           <i class="fa fa-twitter fa-2x" aria-hidden="true"></i>
+	           <span class="sr-only">Twitter</span>
+	        </a>
+	    </p>
+	</div>
+
+{% comment %}
+=======================
+Related posts
+
+Loop through all posts until at most 3 posts have a score of 3
+- test the number of matching categories
+- test the number of matching tags
+- display matching posts
+=======================
+{% endcomment %}
+
+{% assign related = "" | split:"|"  %}
+
+{% for post in site.posts %}
+	{% assign score = 0 %}
+	{% assign item = "" %}
+	{% if post != page %}
+		{% for category in post.categories %}
+			{% if page.categories contains category %}
+				{% assign score = score | plus: 1 %}
+			{% endif %}
+		{% endfor %}
+		{% for tag in post.tags %}
+			{% if page.tags contains tag %}
+				{% assign score = score | plus: 1 %}
+			{% endif %}
+		{% endfor %}
+		{% if score > 2 %}
+			{% capture item %}<div class="related-posts-item"><a href="{{ post.url }}" title="{{ post.excerpt }}">{{ post.title }}</a><br><small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y %B %-d" }}</time></small></div>{% endcapture %}
+			{% assign related = related | push: item %}
+		{% endif %}
+	{% endif %}
+	{% if related.size == 3 %}
+		{% break %}
+	{% endif %}
+{% endfor %}
+
+{% if related.size > 0 %}
+<div class="related-posts">
+  <h5>Related</h5>
+  <div class="related-posts-grid">
+	{% for item in related %}
+		{{ item }}
+	{% endfor %}
+  </div>
+</div>
+{% endif %}
+
+{% comment %}
+=======================
+Post meta
+
+For each post category, generate HTML, add it to a list, parse the list to an
+array, recombine with additional text
+For each post tag, generate HTML, add it to a list, parse the list to an array,
+recombine with additional text
+=======================
+{% endcomment %}
+
+{% assign category_list = "" %}
+{% assign category_text = "" %}
+{% for category in page.categories %}
+	{% capture category_html %}<a href="/category#{{ category | slugify }}">{{ category }}</a>{% endcapture %}
+	{% assign category_list = category_list | append:category_html | append:'|' %}
+{% endfor %}
+{% assign category_array = category_list | split:'|' | sort %}
+{% if category_array.size > 0 %}
+	{% assign category_list = category_array | join: ', ' %}
+	{% assign category_text = "posted in " | append:category_list %}
+{% endif %}
+
+{% assign tag_list = "" %}
+{% assign tag_text = "" %}
+{% for tag in page.tags %}
+	{% capture tag_html %}<a href="/tag#{{ tag | slugify }}">{{ tag }}</a>{% endcapture %}
+	{% assign tag_list = tag_list | append:tag_html | append:'|' %}
+{% endfor %}
+{% assign tag_array = tag_list | split:'|' | sort %}
+{% if tag_array.size > 0 %}
+	{% assign tag_list = tag_array | join: ', ' %}
+	{% assign tag_text = "tagged " | append:tag_list %}
+{% endif %}
+
+{% if category_array.size > 0 and tag_array.size > 0 %}
+<div class="post-meta">This entry was {{ category_text }} and {{ tag_text }}.</div>
+{% elsif category_array.size > 0 and tag_array.size == 0 %}
+<div class="post-meta">This entry was {{ category_text }}.</div>
+{% elsif category_array.size == 0 and tag_array.size > 0 %}
+<div class="post-meta">This entry was {{ tag_text }}.</div>
+{% else %}
+<div class="post-meta">This entry was not categorized nor tagged.</div>
+{% endif %}
+
+</article>
+
+<nav class="post-navigation">
+{% if page.previous.url %} 
+  <a class="post-navigation-previous" href="{{ page.previous.url }}"><i class="fa fa-angle-left"></i> {{ page.previous.title }}</a> 
+{% endif %} 
+{% if page.next.url %} 
+  <a class="post-navigation-next" href="{{ page.next.url }}">{{ page.next.title }} <i class="fa fa-angle-right"></i></a> 
+{% endif %} 
+</nav>
