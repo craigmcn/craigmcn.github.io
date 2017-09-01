@@ -1,6 +1,6 @@
 ---
 title: "Folsom Prison Blues"
-date: 2017-08-28T04:45:00-07:00
+date: 2017-09-04T04:45:00-07:00
 excerpt: "This week’s instalment of Music Monday is Folsom Prison Blues. The 1957 Johnny Cash original and a 2008 cover by Everlast."
 layout: post
 categories:
