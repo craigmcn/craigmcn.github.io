@@ -6,7 +6,7 @@ layout: post
 categories:
   - People
 tags:
-  - Chase Holfeder
+  - Chase Holfelder
   - covers
   - music
   - Music Monday
