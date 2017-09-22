@@ -13,7 +13,7 @@ tags:
   - Pharrell Williams
   - Walk off the Earth
 ---
-This week’s instalment of Music Monday is [_Happy_](https://en.wikipedia.org/wiki/Happy_(Pharrell_Williams_song)) by [Pharrell Williams](http://pharrellwilliams.com/) from their 2014 album, [G&nbsp;I&nbsp;R&nbsp;L](https://en.wikipedia.org/wiki/Girl_(Pharrell_Williams_album)). The [Walk off the Earth](http://www.walkofftheearth.com/) version is from a 2014 performance.
+This week’s instalment of Music Monday is [_Happy_](https://en.wikipedia.org/wiki/Happy_(Pharrell_Williams_song)) by [Pharrell Williams](http://pharrellwilliams.com/) from his 2014 album, [G&nbsp;I&nbsp;R&nbsp;L](https://en.wikipedia.org/wiki/Girl_(Pharrell_Williams_album)). The [Walk off the Earth](http://www.walkofftheearth.com/) version is from a 2014 performance.
 
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ZbZSe6N_BXs" frameborder="0" allowfullscreen></iframe>
