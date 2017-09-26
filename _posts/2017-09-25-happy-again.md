@@ -22,5 +22,3 @@ This week’s instalment of Music Monday is [_Happy_](https://en.wikipedia.org/w
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/IbVoo7YLWnI" frameborder="0" allowfullscreen></iframe>
 </div>
----
-Happy: The 2014 Pharrell Williams original and a 2014 cover by Walk off the Earth #musicmonday https://craigmcn.ca/happy-again.html
