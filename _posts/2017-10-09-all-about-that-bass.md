@@ -22,5 +22,3 @@ This week’s instalment of Music Monday is [_All About That Bass_](https://en.w
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/BuyGVhQFLbs" frameborder="0" allowfullscreen></iframe>
 </div>
----
-All About That Bass: The 2014 Meghan Trainor original and a 2014 cover by Home Free #musicmonday https://craigmcn.ca/all-about-that-bass.html
