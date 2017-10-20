@@ -28,7 +28,7 @@ layout: default
 	</div>
 
   <div id="comments">
-    <h4><a class="toggle" href="#comments" data-target="#disqus_thread">Comments</a></h4>
+    <h4><a class="toggle" href="#comments" data-target="#disqus_thread"><span class="badge disqus-comment-count" data-disqus-url="{{ site.url | url_param_escape }}{{ page.url }}"></span>Comments</a></h4>
 	<div id="disqus_thread"></div>
 	<script>
 	var disqus_config = function () {
