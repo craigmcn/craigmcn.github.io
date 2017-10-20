@@ -233,6 +233,15 @@ textarea {
   color: #1da1f2;
 }
 
+.badge {
+  background-color: $text-link-color;
+  color: $white;
+  display: inline-block;
+  padding: 1px 5px 1px 5px;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+
 @include media-query($on-laptop) {
   .wrapper {
     margin: 0 auto;
