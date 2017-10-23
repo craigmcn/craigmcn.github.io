@@ -22,5 +22,3 @@ This week’s instalment of Music Monday is [_Ahead by a Century_](https://en.wi
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ct5xmRi5DN8" frameborder="0" allowfullscreen></iframe>
 </div>
----
-Ahead by a Century: The 1996 The Tragically Hip original and a 2017 cover by The Jerry Cans #musicmonday https://craigmcn.ca/ahead-by-a-century.html
