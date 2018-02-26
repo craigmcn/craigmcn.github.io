@@ -22,5 +22,3 @@ This week’s instalment of Music Monday is [_Rocky Mountain Way_](https://en.wi
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/_CRWKTguxNQ" frameborder="0" allowfullscreen></iframe>
 </div>
----
-Rocky Mountain Way: The 1973 Joe Walsh original and a 2012 cover by Godsmack #musicmonday https://craigmcn.ca/rocky-mountain-way.html
