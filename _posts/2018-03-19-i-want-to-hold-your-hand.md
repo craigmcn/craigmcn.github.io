@@ -22,7 +22,3 @@ This week’s instalment of Music Monday is [_I Want to Hold Your Hand_](https:/
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/xs9mkVMv830" frameborder="0" allowfullscreen></iframe>
 </div>
-
----
-
-I Want to Hold Your Hand: The 1964 The Beatles original and a 1969 cover by Al Green #musicmonday https://craigmcn.ca/i-want-to-hold-your-hand.html
