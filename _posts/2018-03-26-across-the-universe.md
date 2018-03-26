@@ -22,7 +22,3 @@ This week’s instalment of Music Monday is [_Across the Universe_](https://en.w
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/cAe1lVDbLf0" frameborder="0" allowfullscreen></iframe>
 </div>
-
----
-
-Across the Universe: The 1969 The Beatles original and a 2001 cover by Rufus Wainwright #musicmonday https://craigmcn.ca/across-the-universe.html
