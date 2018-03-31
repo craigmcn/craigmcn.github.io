@@ -1,6 +1,6 @@
 ---
 title: "Islands in the Stream"
-date: 2018-04-08T04:45:00-07:00
+date: 2018-04-09T04:45:00-07:00
 excerpt: "This week’s instalment of Music Monday is Islands in the Stream. The 1983 Kenny Rogers original and a 2017 cover by Jimmy Fallon."
 layout: post
 categories:
