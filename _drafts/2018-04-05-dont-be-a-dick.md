@@ -1,6 +1,6 @@
 ---
 title: "Don’t be a dick"
-date: 2018-03-01T11:45:00-07:00
+date: 2018-04-05T11:45:00-07:00
 excerpt: "I do my best to follow Wheaton’s Law: “Don’t be a dick”"
 layout: post
 categories:
