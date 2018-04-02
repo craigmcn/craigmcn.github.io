@@ -13,7 +13,7 @@ tags:
   - music
   - video
   - Pharrell Williams
-  - "Weird Al" Yankovic
+  - Weird Al Yankovic
 ---
 This week’s instalment of Music Monday is [_Happy_](https://en.wikipedia.org/wiki/Happy_(Pharrell_Williams_song)) by [Pharrell Williams](http://pharrellwilliams.com/) from his 2014 album, [Girl](https://en.wikipedia.org/wiki/Girl_(Pharrell_Williams_album)). The [“Weird Al” Yankovic](http://www.weirdal.com/) parody, [Tacky](https://en.wikipedia.org/wiki/Tacky_(song)), is from his 2014 album, [Mandatory Fun](https://en.wikipedia.org/wiki/Mandatory_Fun).
 

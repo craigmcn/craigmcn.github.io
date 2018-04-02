@@ -21,9 +21,9 @@ A little while ago, I mentioned rule #3, “[Do your job](/do-your-job.html),”
 
 I try to follow this law as much as possible, and have built some more specific rules based on the concept. I like to believe that in most situations I think, “Am I being (or will I be) a dick?” and then acting to ensure the answer is a definitive no.
 
-Often that action is to just do nothing. It’s mostly the concept that if I have nothing good to say, I won’t say anything at all.
+Often that action is to just do nothing, or simply comply. It’s mostly the concept that if I have nothing good to say, I won’t say anything at all. Or maybe, “Better to remain silent and be thought a fool than to speak and to remove all doubt.” Generally, don’t get into it.
 
-I sometimes feel that to help someone else be a dick I have to not be a dick. Or I suppose that in not being a dick I help someone else to be a dick.
+Because I sometimes feel that to help someone else be a dick I have to not be a dick. Or I suppose that in not being a dick I help someone else to be a dick.
 
 The other day I was at a coffee shop for lunch. When I sat down, I sat at the only two person table left. While I was sitting, the two tables on either side of me emptied and then a group came in and asked me to move so they could have four seats together.
 
