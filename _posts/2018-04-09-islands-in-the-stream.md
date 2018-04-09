@@ -25,5 +25,3 @@ This week’s instalment of Music Monday is [_Islands in the Stream_](https://en
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/DZ7bV6P06Sc" frameborder="0" allowfullscreen></iframe>
 </div>
----
-Islands in the Stream: The 1983 Kenny Rogers original and a 2017 cover by Jimmy Fallon #musicmonday https://craigmcn.ca/islands-in-the-stream.html
