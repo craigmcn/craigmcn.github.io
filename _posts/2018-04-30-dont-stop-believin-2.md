@@ -22,5 +22,3 @@ This week’s instalment of Music Monday is [_Don’t Stop Believin’_](https:/
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/UngXu2zwF9E" frameborder="0" allowfullscreen></iframe>
 </div>
----
-Don’t Stop Believin’: The 1981 Journey original and a 2017 cover by Postmodern Jukebox #musicmonday https://craigmcn.ca/dont-stop-believin-2.html
