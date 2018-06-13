@@ -10,8 +10,8 @@ permalink: /contact/
     <input id="name" type="text" name="name" required>
   </p>
   <p>
-    <label for="email">Email</label>
-    <input id="email" type="email" name="replyto" required>
+    <label for="reply_to">Email</label>
+    <input id="reply_to" type="email" name="reply_to" required>
   </p>
   <p>
     <label for="message">Message</label>
@@ -27,10 +27,12 @@ permalink: /contact/
 <script>
   (() => {
     const form = document.querySelector('form');
-    const formResponse = document.querySelector('js-form-response');
+    const formResponse = document.getElementById('js-form-response');
 
     form.onsubmit = e => {
       e.preventDefault();
+
+      if (form._gotcha.value) return false;
 
       // Prepare data to send
       const data = {};
