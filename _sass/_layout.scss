@@ -242,6 +242,13 @@ textarea {
   margin-right: 5px;
 }
 
+#js-form-response {
+  border: 2px solid #b3b3b3;
+  border-radius: 2px;
+  font-weight: bold;
+  padding: .375rem 1rem; 
+}
+
 @include media-query($on-laptop) {
   .wrapper {
     margin: 0 auto;
