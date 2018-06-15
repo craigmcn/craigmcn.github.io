@@ -25,44 +25,44 @@ permalink: /contact/
 <p id="js-form-response"></p>
 
 <script>
-  (() => {
-    const form = document.querySelector('form');
-    const formResponse = document.getElementById('js-form-response');
+(() => {
+  const form = document.querySelector('form');
+  const formResponse = document.getElementById('js-form-response');
 
-    form.onsubmit = e => {
-      e.preventDefault();
+  form.onsubmit = e => {
+    e.preventDefault();
 
-      if (form._gotcha.value) return false;
+    if (form._gotcha.value) return false;
 
-      // Prepare data to send
-      const data = {};
-      const formElements = Array.from(form);
-      formElements.map(input => (data[input.name] = input.value));
+    // Prepare data to send
+    const data = {};
+    const formElements = Array.from(form);
+    formElements.map(input => (data[input.name] = input.value));
 
-      // Log what our lambda function will receive
-      console.log(JSON.stringify(data));
+    // Construct an HTTP request
+    var xhr = new XMLHttpRequest();
+    xhr.open(form.method, form.action, true);
+    xhr.setRequestHeader('Accept', 'application/json; charset=utf-8');
+    xhr.setRequestHeader('Content-Type', 'application/json; charset=UTF-8');
 
-      // Construct an HTTP request
-      var xhr = new XMLHttpRequest();
-      xhr.open(form.method, form.action, true);
-      xhr.setRequestHeader('Accept', 'application/json; charset=utf-8');
-      xhr.setRequestHeader('Content-Type', 'application/json; charset=UTF-8');
+    // Send the collected data as JSON
+    xhr.send(JSON.stringify(data));
 
-      // Send the collected data as JSON
-      xhr.send(JSON.stringify(data));
-
-      // Callback function
-      xhr.onloadend = response => {
-        if (response.target.status === 200) {
-          // The form submission was successful
-          form.reset();
-          formResponse.innerHTML = 'Thanks for the message. I’ll be in touch shortly.';
-        } else {
-          // The form submission failed
-          formResponse.innerHTML = 'Something went wrong';
-          console.error(JSON.parse(response.target.response).message);
-        }
-      };
+    // Callback function
+    xhr.onloadend = response => {
+      if (response.target.status === 200) {
+        // The form submission was successful
+        form.reset();
+        formResponse.innerHTML = 'Thanks for the message. I’ll be in touch shortly.';
+        formResponse.style.borderColor = 'hsl(120, 61%, 34%)'
+      } else {
+        // The form submission failed
+        formResponse.innerHTML = 'Something went wrong';
+        formResponse.style.borderColor = 'hsl(0, 68%, 42%)'
+        console.error(JSON.parse(response.target.response).message);
+      }
+      formResponse.style.opacity = 1
     };
-  })();
+  };
+})();
 </script>
