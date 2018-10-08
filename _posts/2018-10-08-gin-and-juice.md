@@ -29,5 +29,3 @@ From [Wikipedia](https://en.wikipedia.org/wiki/The_Gourds#Career):
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H4hGSR5njZE" frameborder="0" allowfullscreen></iframe>
 </div>
----
-Gin and Juice: The 1993 Snoop Doggy Dogg original and a 2000 cover by The Gourds #musicmonday https://craigmcn.ca/gin-and-juice.html
