@@ -20,7 +20,7 @@ This week’s instalment of Music Monday is [_Cat’s in the Cradle_](https://en
 [Verities & Balderdash](https://en.wikipedia.org/wiki/Verities_%26_Balderdash). The [Ugly Kid Joe](http://uglykidjoe.net/)
 version is from their 1992 album, [America’s Least Wanted](https://en.wikipedia.org/wiki/America%27s_Least_Wanted).
 
-Another garbage cover. I can’t imagine why they would pick this song and brutalize it with their sound.
+I want to call this another garbage cover, but it’s not completely terrible, and I think I kind of liked it when it came out.
 
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EUNZMiYo_4s" frameborder="0" allowfullscreen></iframe>
