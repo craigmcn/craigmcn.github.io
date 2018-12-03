@@ -8,6 +8,7 @@ categories:
 - Music Monday
 tags:
 - covers
+- garbage
 - music
 - video
 - The Rolling Stones
