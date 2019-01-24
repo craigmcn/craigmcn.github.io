@@ -1,6 +1,6 @@
 ---
 title: "Heart of Gold"
-date: 2019-02-04T16:00:00-0800
+date: 2019-02-04T11:45:00-08000
 excerpt: "This week’s instalment of Music Monday is Heart of Gold. The 1972 Neil Young original and a 2018 cover by Midnight Shine."
 layout: post
 categories:
