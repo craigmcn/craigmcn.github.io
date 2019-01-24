@@ -1,6 +1,6 @@
 ---
 title: "How You Remind Me"
-date: 2019-01-27T16:00:00-0800
+date: 2019-01-28T11:45:00-0800
 excerpt: "This week’s instalment of Music Monday is How You Remind Me. The 2001 Nickelback original and a 2018 cover by Charlotte Cardin."
 layout: post
 categories:
