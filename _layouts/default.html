@@ -5,9 +5,11 @@
 
   <body>
 
+    <div class="visually-hidden"><a href="#main">Skip to main content</a> <a href="#footer">Skip to footer</a></div>
+
     {% include header.html %}
 
-    <main class="page-content">
+    <main id="main" class="page-content">
       <div class="wrapper">
         {{ content }}
       </div>
