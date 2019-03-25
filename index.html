@@ -5,11 +5,13 @@ layout: default
 <div class="home">
 
   {% for post in site.posts limit:6 %}
+  <article style="margin-bottom:2em">
     <h2>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h2>
     <p class="post-meta" style="margin-top:-1em">{{ post.date | date: "%b %-d, %Y" }}</p>
-    <p style="margin-bottom:2em">{{ post.excerpt }}</p>
+    <p>{{ post.excerpt }}</p>
+  </article>
   {% endfor %}
 
 </div>
