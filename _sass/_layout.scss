@@ -3,7 +3,7 @@
   padding: $vertical-rhythm 0;
   h1 {
     display: inline-block;
-    font-size: 1em;
+    font-size: 200%;
     margin: 0;
   }
 }
@@ -19,6 +19,9 @@ footer {
   }
   li {
     line-height: 2;
+  }
+  .footer-text-link {
+    text-decoration: underline;
   }
 }
 
@@ -42,9 +45,6 @@ article {
 
 .site-title {
   color: $text-primary-color;
-  font-family: $heading-font;
-  font-size: 200%;
-  font-weight: 700;
   text-decoration: none;
 }
 
