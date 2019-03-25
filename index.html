@@ -5,9 +5,9 @@ layout: default
 <div class="home">
 
   {% for post in site.posts limit:6 %}
-  <article style="margin-bottom:2em">
+  <article style="margin-bottom:2em" aria-labelledby="post-{{ post.url }}">
     <h2>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <a id="post-{{ post.url }}" class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h2>
     <p class="post-meta" style="margin-top:-1em">{{ post.date | date: "%b %-d, %Y" }}</p>
     <p>{{ post.excerpt }}</p>
