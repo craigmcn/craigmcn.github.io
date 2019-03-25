@@ -5,7 +5,7 @@ layout: default
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+    <h2 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <small><time datetime="{{ page.date | date: "%Y-%m-%dT%H:%M:%S%z" }}" itemprop="datePublished">{{ page.date | date: "%Y %B %-d" }}</time></small>
   </header>
 
@@ -14,7 +14,7 @@ layout: default
   </div>
 
 	<div class="social-share">
-	    <h5>Share</h5>
+	    <h3>Share</h3>
 	    <p>
 	        <a class="sm-facebook" href="https://www.facebook.com/sharer.php?u={{ site.url | url_param_escape }}{{ page.url | url_param_escape }}&t={{ page.title | url_param_escape }}" title="Share on Facebook" target="_blank" rel="noopener noreferrer">
 	           <i class="fa fa-facebook-official fa-2x" aria-hidden="true"></i>
@@ -84,7 +84,7 @@ Loop through all posts until at most 3 posts have a score of 3
 
 {% if related.size > 0 %}
 <div class="related-posts">
-  <h5>Related</h5>
+  <h4>Related</h4>
   <div class="related-posts-grid">
 	{% for item in related %}
 		{{ item }}
@@ -107,7 +107,7 @@ recombine with additional text
 {% assign category_list = "" %}
 {% assign category_text = "" %}
 {% for category in page.categories %}
-	{% capture category_html %}<a href="/category#{{ category | slugify }}">{{ category }}</a>{% endcapture %}
+	{% capture category_html %}<a href="/category#{{ category | slugify }}" title="More posts in {{ category }} category">{{ category }}</a>{% endcapture %}
 	{% assign category_list = category_list | append:category_html | append:'|' %}
 {% endfor %}
 {% assign category_array = category_list | split:'|' | sort %}
@@ -119,7 +119,7 @@ recombine with additional text
 {% assign tag_list = "" %}
 {% assign tag_text = "" %}
 {% for tag in page.tags %}
-	{% capture tag_html %}<a href="/tag#{{ tag | slugify }}">{{ tag }}</a>{% endcapture %}
+	{% capture tag_html %}<a href="/tag#{{ tag | slugify }}" title="More posts tagged {{ tag }}">{{ tag }}</a>{% endcapture %}
 	{% assign tag_list = tag_list | append:tag_html | append:'|' %}
 {% endfor %}
 {% assign tag_array = tag_list | split:'|' | sort %}
