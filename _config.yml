@@ -9,10 +9,10 @@
 title: craigmcn
 email: therealcraigmcn@gmail.com
 description: Things I think about or just find and want to share.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://craigmcn.ca" # the base hostname & protocol for your site
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'https://craigmcn.ca' # the base hostname & protocol for your site
 twitter_username: craigmcn
-github_username:  craigmcn
+github_username: craigmcn
 linkedin_username: craigmcnaughton
 
 # Build settings
@@ -21,12 +21,12 @@ markdown: kramdown
 # Outputting
 permalink: /:title.html
 sass:
-    style: compressed
-    
+  style: compressed
+
 # Enable sitemap and redirection
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
-  
+
 # Exclude?
 exclude: [vendor]
