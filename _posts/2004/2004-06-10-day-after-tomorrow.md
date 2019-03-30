@@ -1,7 +1,7 @@
 ---
 title: The Day After Tomorrow
 date: 2004-06-10T06:20:39+00:00
-excerpt: '- The Day After Tomorrow -I had the privilege of seeing The Day After Tomorrow on the big screen. And let me tell you,'
+excerpt: 'I had the privilege of seeing The Day After Tomorrow on the big screen. And let me tell you,'
 layout: post
 categories:
   - Opinion
@@ -12,6 +12,7 @@ tags:
   - review
   - Tom Rooney
 ---
+
 I had the privilege of seeing <a href="http://www.imdb.com/title/tt0319262/" target="_blank">The Day After Tomorrow</a> on the big screen. And let me tell you, the big screen is the place to see it. I just cannot imagine that viewers will get the same perspective watching the DVD on their TV at home. The <a href="http://www.imdb.com/title/tt0319262/trailers" target="_blank">trailers</a> show the Statue of Liberty being engulfed by a tidal wave, the spray of which comes up to the top of the lady&#8217;s torch. Well, we get to see that tidal wave forming from a camera angle directed towards Manhattan island, and I find it hard to believe that that scene would be as impressive on the small screen.
 
 All in all, absolutely a worthwhile movie. Although the story develops unbelievably quickly, and there are some loose ends not tied up, it is told well, with a little romance and comic relief to break up the drama. From what I could tell, and have learned since, the science is acceptable. The theory that global warming could lead to another ice age, while debated, is an accepted theory. That it could happen within a few months or weeks is highly suspect. But it makes for a cool, effects-laden movie!

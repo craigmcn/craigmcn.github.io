@@ -1,7 +1,7 @@
 ---
 title: Jobs, Careers and Identity
 date: 2014-04-24T10:24:13+00:00
-excerpt: A job or career can be a defining part of us. We spend a third of our life asleep and almost another third at work. Whenever we meet new people, they often ask, "What do you do?" And the answer forms a significant part of their idea of us.
+excerpt: A job or career can be a defining part of us. We spend a third of our life asleep and almost another third at work. Whenever we meet new people, they often ask, “What do you do?” And the answer forms a significant part of their idea of us.
 layout: post
 categories:
   - Opinion
@@ -12,6 +12,7 @@ tags:
   - relationship
   - self-doubt
 ---
+
 <div class="getty embed image alignright">
   <div style="padding:66.666667% 0 0 0">
     <iframe src="//embed.gettyimages.com/embed/95589073?et=zlCxoJd-RJ1yrSHQWZv8dw&viewMoreLink=off&sig=_qQMg9TBpvpzL28D0Z5tJ79xQjyUwCYenpCXOhcjw60=&caption=true" width="507" height="338" scrolling="no" frameborder="0"></iframe>

@@ -1,7 +1,7 @@
 ---
 title: The Future of My Ignorance
 date: 2014-10-30T14:12:56+00:00
-excerpt: Ideally, the argument against "Yes" is "No." And vice versa. But all too often the extreme argument only gets a moderate response.
+excerpt: Ideally, the argument against “Yes” is “No.” And vice versa. But all too often the extreme argument only gets a moderate response.
 layout: post
 categories:
   - Opinion
@@ -12,6 +12,7 @@ tags:
   - frustration
   - Thoughtful Thursday
 ---
+
 <div class="getty embed image alignright">
   <div style="padding:150.000000% 0 0 0">
     <iframe src="//embed.gettyimages.com/embed/125144727?et=rLyB3TsGSaxYBsZ_AQfnzg&viewMoreLink=off&sig=A7bY6utRrP7hXko_fRKMKcXhRDlLs-8vhrebXSAv1zw=&caption=true" width="338" height="507" scrolling="no" frameborder="0"></iframe>
@@ -22,7 +23,7 @@ tags:
   </p>
 </div>
 
-A large number of issues have come up in the last week that have challenged my efforts to [ignore things](http://craigmcn.ca/greed-self-interest-ignorance.html "Greed, Self-Interest and Ignorance"). It all brought to mind an issue that has been with me for a long time now: the frustration of extreme arguments.
+A large number of issues have come up in the last week that have challenged my efforts to [ignore things](http://craigmcn.ca/greed-self-interest-ignorance.html 'Greed, Self-Interest and Ignorance'). It all brought to mind an issue that has been with me for a long time now: the frustration of extreme arguments.
 
 Ideally, the argument against &#8220;Yes&#8221; is &#8220;No.&#8221; And vice versa. But all too often the extreme argument only gets a soft-hearted, moderate response. &#8220;Abortion is murder!&#8221; &#8220;A woman&#8217;s health is her business.&#8221; &#8220;Homosexuality is a sin!&#8221; &#8220;Live and let live.&#8221;
 

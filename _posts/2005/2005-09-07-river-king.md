@@ -1,7 +1,7 @@
 ---
 title: The River King
 date: 2005-09-07T12:05:55+00:00
-excerpt: On what seems to be its official website, The River Kingis described as being in the "Supernatural Thriller" genre. I
+excerpt: On what seems to be its official website, The River King is described as being in the “Supernatural Thriller” genre.
 layout: post
 categories:
   - Opinion
@@ -10,7 +10,8 @@ tags:
   - movies
   - review
 ---
-On what seems to be its official website, [<span style="font-style: italic;">The River King</span>](http://www.imdb.com/title/tt0386751/) is described as being in the &#8220;Supernatural Thriller&#8221; genre. I describe it as an atypical murder mystery with elements of psychological thriller and police drama. Starring [Edward Burns](http://www.imdb.com/name/nm0122653/) ([<span style="font-style: italic;">Saving Private Ryan</span>](http://www.imdb.com/title/tt0120815/), [<span style="font-style: italic;">15 Minutes</span>](http://www.imdb.com/title/tt0179626/)) as a smalltown police officer, Abel Grey, the story involves the drowning of a prep school boy, Gus Pierce, which, for whatever reason, seems suspicious to our main protagonist.
+
+On what seems to be its official website, [_The River King_](http://www.imdb.com/title/tt0386751/) is described as being in the &#8220;Supernatural Thriller&#8221; genre. I describe it as an atypical murder mystery with elements of psychological thriller and police drama. Starring [Edward Burns](http://www.imdb.com/name/nm0122653/) ([_Saving Private Ryan_](http://www.imdb.com/title/tt0120815/), [_15 Minutes_](http://www.imdb.com/title/tt0179626/)) as a smalltown police officer, Abel Grey, the story involves the drowning of a prep school boy, Gus Pierce, which, for whatever reason, seems suspicious to our main protagonist.
 
 The supernatural aspect of the movie comes first from a young boy who appears, then disappears, in the woods near the river where the boy has drowned. Next, an odd smudge with the image of our dead boy appears in crime scene photos of the dead boy&#8217;s room. Of course, no one believes Officer Grey except for the odd, [spinster-ish schoolteacher](http://www.imdb.com/name/nm0000383/). And of course, she quickly becomes the love interest, even though she&#8217;s engaged to another schoolteacher, who&#8217;s kind of a jackass.
 
