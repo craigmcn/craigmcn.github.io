@@ -1,8 +1,7 @@
 ---
 title: Eco-choices
 date: 2007-10-28T11:19:00+00:00
-excerpt: |
-  I forwarded this video to all my Facebook "friends", but I figured I'd also hit those of you non-Facebookers.
+excerpt: "I forwarded this video to all my Facebook “friends”, but I figured I'd also hit those of you non-Facebookers."
 layout: post
 categories:
   - Opinion
@@ -13,6 +12,7 @@ tags:
   - environment
   - recycling
 ---
+
 I forwarded <del>this video</del> (_This video has been removed by the user._) to all my [Facebook](http://www.facebook.com/) &#8220;friends&#8221;, but I figured I&#8217;d also hit those of you non-Facebookers. This guy presents exactly the same point that I would (if I could get off my lazy ass and do a video or write an essay or something). _**Update 2012-08-10:** Sorry, the video&#8217;s been removed. The dude was talking about how whether climate change is true or not, there&#8217;s no reason not to act._
 
 The whole concept of global climate change is abstract, subjective and not entirely verifiable. This leads naysayers to inaction and doomsayers to extremism. I think that there&#8217;s a middle ground, of sorts. Regardless of whether climate change is a reality, there can be no harm in driving less, using more energy-efficient products, reusing products, reducing waste, recycling, etc. Generally, reducing your &#8220;environmental footprint&#8221;.

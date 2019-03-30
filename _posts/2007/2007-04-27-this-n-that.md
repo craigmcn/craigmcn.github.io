@@ -1,8 +1,7 @@
 ---
 title: 'This &#8216;n&#8217; that'
 date: 2007-04-27T20:30:00+00:00
-excerpt: |
-  Nothin' much. Just realized that I used "It's all over but the crying" for both posts about the ending of
+excerpt: "Just realized that I used “It's all over but the crying” for both posts about the ending of Roll Up the Rim"
 layout: post
 categories:
   - Opinion
@@ -12,6 +11,7 @@ tags:
   - MySpace
   - Roll Up the Rim
 ---
+
 Nothin&#8217; much. Just realized that I used &#8220;It&#8217;s all over but the crying&#8221; for both posts about the ending of the Roll Up the Rim contest ([2006](/its-all-over-but-the-crying.html), [2007](/its-all-over-but-the-crying-2.html)). Kind of an odd coincidence, I think.
 
 Other than that, this [Facebook](http://www.facebook.com/) thing seems to have taken off. I&#8217;ve found a bunch of people I never expected to see again, and I&#8217;m sure I&#8217;ll run into some more. But I&#8217;m still not sure what it&#8217;s all worth. Especially, what it&#8217;s all worth to the Facebook people. I don&#8217;t click on the ads, so how would they generate the necessary revenue to maintain such an impressive site?

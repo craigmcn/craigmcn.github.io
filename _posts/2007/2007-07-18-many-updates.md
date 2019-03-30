@@ -1,8 +1,7 @@
 ---
 title: Many updates
 date: 2007-07-18T08:34:00+00:00
-excerpt: |
-  Hi there, boys and girls! Wublub's recent post spurred me to post something. Not because I feel that "Facebook
+excerpt: "Wublub's recent post spurred me to post something, but not because I feel that “Facebook killed my website”"
 layout: post
 categories:
   - Opinion
@@ -12,6 +11,7 @@ tags:
   - Harry Potter
   - websites
 ---
+
 Hi there, boys and girls! Wublub&#8217;s recent post <em style="font-size: 0.8em;">(2012-08-12: Wublub&#8217;s website has since been removed)</em> spurred me to post something. Not because I feel that &#8220;Facebook killed my website&#8221;, but because I realized that it&#8217;s been far too long since I posted anything.
 
 I realized that I failed to mention my 2-week vacation to [Saskatoon](http://www.tourismsaskatoon.com/). It was very relaxing and enjoyable. Although I spent perhaps too much time drinking beer at the [Yard and Flagon](http://www.yardandflagon.ca/home)—those hot wings ripped my lips off! I managed to see some old friends and make some new ones. Good times!
