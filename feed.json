@@ -6,7 +6,8 @@ layout: null
   {
     "url": "{{ post.url | prepend: site.baseurl }}",
     "title": "{{ post.title }}",
-    "excerpt": "{{ post.excerpt }}",
+    "date": "{{ post.date | date: "%Y %B %-d" }}",
+    "excerpt": "{{- post.excerpt -}}",
     "categories": [
         {%- for category in post.categories -%}
             "{{ category }}"{%- unless forloop.last -%},{%- endunless -%}
