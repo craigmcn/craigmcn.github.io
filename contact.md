@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-<form action="https://nqw5473oc2.execute-api.us-east-1.amazonaws.com/dev/static-site-mailer" method="POST" style="width:66.667%">
+<form id="contact-form" action="https://nqw5473oc2.execute-api.us-east-1.amazonaws.com/dev/static-site-mailer" method="POST" style="width:66.667%">
   <p>
     <label for="name">Name</label>
     <input id="name" type="text" name="name" required>
@@ -26,7 +26,7 @@ permalink: /contact/
 
 <script>
 (() => {
-  const form = document.querySelector('form');
+  const form = document.getElementById('contact-form');
   const formResponse = document.getElementById('js-form-response');
 
   form.onsubmit = e => {

@@ -31,6 +31,18 @@ small {
   color: $text-secondary-color;
 }
 
+.subtitle {
+  color: $text-secondary-color;
+  h1 &,
+  h2 & {
+    font-size: 0.75em;
+  }
+  h3 &,
+  h4 & {
+    font-size: 0.9em;
+  }
+}
+
 small {
   font-size: 80%;
   font-weight: 400;
@@ -73,15 +85,18 @@ a {
   }
 }
 
-.visually-hidden { /* https://snook.ca/archives/html_and_css/hiding-content-for-accessibility */
-    position: absolute !important;
-    height: 1px; width: 1px;
-    overflow: hidden;
-    clip: rect(1px, 1px, 1px, 1px);
+.visually-hidden {
+  /* https://snook.ca/archives/html_and_css/hiding-content-for-accessibility */
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px, 1px, 1px, 1px);
   a:focus,
   input:focus,
   button:focus {
-    position:static;
-    width:auto; height:auto;
+    position: static;
+    width: auto;
+    height: auto;
   }
 }
