@@ -211,6 +211,14 @@ button[type='submit'] {
   }
 }
 
+button.site-search__button:hover {
+  color: #fff;
+}
+button.site-search__button {
+  color: #2e5986;
+  background-color: #fff;
+}
+
 label {
   padding-bottom: 0.5em;
 }

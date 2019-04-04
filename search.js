@@ -1,11 +1,13 @@
-const q = location.search.substring(3).replace(/[^A-Za-z0-9 \.,_-]/gim, ''),
+const q = decodeURIComponent(location.search.substring(3))
+    .replace(/\+/g, ' ')
+    .replace(/([^\w \+\*:;,\.()/\\]+)/gi, ''),
   l = q.toLowerCase().split(' '),
   resultsEl = document.getElementById('results'),
   resultsList = [],
   toSearchArray = str =>
     str
       .toLowerCase()
-      .replace(/[^a-z0-9 -]/g, '')
+      .replace(/([^\w\s\+\*:;,\.()/\\]+)/g, '')
       .split(' ')
 
 if (l.length === 0) {
