@@ -14,9 +14,9 @@ tags:
 - The Gravel Spreaders
 ---
 This week’s instalment of Music Monday is [_Crazy Train_](https://en.wikipedia.org/wiki/Crazy_Train) by
-[Ozzy Osbourne](http://ozzy.com/) from their 1980 album,
+[Ozzy Osbourne](http://ozzy.com/) from his 1980 album,
 [Blizzard of Ozz](https://en.wikipedia.org/wiki/Blizzard_of_Ozz). The [The Gravel Spreaders](http://www.thegravelspreaders.com/)
-version is from their 2012 album, [COVER ALBUM](http://example.com).
+version is from a 2012 performance.
 
 In putting this one together, I found out that the other [Crazy Train](/crazy-train.html) cover I posted is also bluegrass.
 
