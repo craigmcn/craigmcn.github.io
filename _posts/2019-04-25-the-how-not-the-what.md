@@ -1,6 +1,6 @@
 ---
 title: 'The how, not the what'
-date: 2019-04-11T11:45:00-07:00
+date: 2019-04-25T11:45:00-07:00
 excerpt: 'I often find myself agreeing with the what but not necessarily the how. The thing is understandable, the implementation, not so much.'
 layout: post
 categories:
