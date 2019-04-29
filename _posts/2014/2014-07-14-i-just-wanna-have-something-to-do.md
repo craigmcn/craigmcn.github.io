@@ -15,7 +15,7 @@ tags:
   - video
 ---
 <div id="attachment_3942" class="wp-caption alignleft">
-  <a href="https://dv8b8dkxht4vb.cloudfront.net/img/Ramones_-_Ramones_cover.jpg" rel="lightbox"><img class="size-full wp-image-3942" src="https://dv8b8dkxht4vb.cloudfront.net/img/Ramones_-_Ramones_cover.jpg" alt="album cover: Ramones (1976)" width="240" height="240" srcset="https://dv8b8dkxht4vb.cloudfront.net/img/Ramones_-_Ramones_cover.jpg 240w, https://dv8b8dkxht4vb.cloudfront.net/img/Ramones_-_Ramones_cover-150x150.jpg 150w" sizes="(max-width: 240px) 100vw, 240px" /></a>
+  <a href="https://dv8b8dkxht4vb.cloudfront.net/img/Ramones_-_Ramones_cover.jpg" data-fslightbox="lightbox"><img class="size-full wp-image-3942" src="https://dv8b8dkxht4vb.cloudfront.net/img/Ramones_-_Ramones_cover.jpg" alt="album cover: Ramones (1976)" width="240" height="240" srcset="https://dv8b8dkxht4vb.cloudfront.net/img/Ramones_-_Ramones_cover.jpg 240w, https://dv8b8dkxht4vb.cloudfront.net/img/Ramones_-_Ramones_cover-150x150.jpg 150w" sizes="(max-width: 240px) 100vw, 240px" /></a>
   
   <p class="wp-caption-text">
     Ramones (1976)

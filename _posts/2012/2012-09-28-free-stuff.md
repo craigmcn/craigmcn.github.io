@@ -8,7 +8,7 @@ categories:
 tags:
   - Kijiji
 ---
-<a href="https://dv8b8dkxht4vb.cloudfront.net/img/lawnmowers.jpg" rel="lightbox"><img class="alignright size-medium wp-image-3295" title="lawnmowers" src="https://dv8b8dkxht4vb.cloudfront.net/img/lawnmowers-300x225.jpg" alt="Lawnmowers" width="300" height="225" srcset="https://dv8b8dkxht4vb.cloudfront.net/img/lawnmowers-300x225.jpg 300w, https://dv8b8dkxht4vb.cloudfront.net/img/lawnmowers-400x300.jpg 400w, https://dv8b8dkxht4vb.cloudfront.net/img/lawnmowers.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" /></a>I forgot to tell you about my excellent experience getting rid of some stuff.
+<a href="https://dv8b8dkxht4vb.cloudfront.net/img/lawnmowers.jpg" data-fslightbox="lightbox"><img class="alignright size-medium wp-image-3295" title="lawnmowers" src="https://dv8b8dkxht4vb.cloudfront.net/img/lawnmowers-300x225.jpg" alt="Lawnmowers" width="300" height="225" srcset="https://dv8b8dkxht4vb.cloudfront.net/img/lawnmowers-300x225.jpg 300w, https://dv8b8dkxht4vb.cloudfront.net/img/lawnmowers-400x300.jpg 400w, https://dv8b8dkxht4vb.cloudfront.net/img/lawnmowers.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" /></a>I forgot to tell you about my excellent experience getting rid of some stuff.
 
 I had these two lawnmowers, an electric and a reel mower, that weren&#8217;t pulling their weight. The electric was actually alright, but blew the circuit breaker every other time I used it. The reel mower didn&#8217;t even turn; I&#8217;m not sure what was wrong, but it obviously needed work that I wasn&#8217;t going to do.
 

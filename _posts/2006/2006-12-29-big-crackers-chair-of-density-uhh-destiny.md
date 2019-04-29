@@ -8,7 +8,7 @@ categories:
 tags:
   - furniture
 ---
-So, for those of you unfamiliar with my furniture, I own a <a href="https://dv8b8dkxht4vb.cloudfront.net/img/chair_after.jpg" rel="lightbox">Chair of Destiny</a>. Let me tell you the story &#8230;
+So, for those of you unfamiliar with my furniture, I own a <a href="https://dv8b8dkxht4vb.cloudfront.net/img/chair_after.jpg" data-fslightbox="lightbox">Chair of Destiny</a>. Let me tell you the story &#8230;
 
 The year was [1994](http://en.wikipedia.org/wiki/1994): [Friends](http://www2.warnerbros.com/friendstv/index.html) premiered on [NBC](http://www.nbc.com/); the [Channel Tunnel](http://www.eurotunnel.com/ukcp3main) opened; and [Netscape Navigator](http://en.wikipedia.org/wiki/Netscape_Navigator) 1.0 was released. Big Cracker was in Saskamatoon, living with a roommate (Yateser) while attending university. Cracker and Yateser needed a second couch, so that each of us had somewhere to nap. The university had a bulletin board system running on the [VAX/VMS](http://en.wikipedia.org/wiki/VAX) server, and, lo and behold, someone was advertising a couch and chair set for $50. I bought the couch and chair and Yateser and I loaded them into the back of his truck and brought them home.
 
@@ -20,4 +20,4 @@ I was getting ready to go home around Christmastime in 2000 and was bringing som
 
 So, I&#8217;ve had my chair reupholstered. The padding that was turning to a sandy powder, the loose back leg and the sharp edges poking through the fabric are no more. For infinitely more money than the chair cost me, it now looks brand new. Throughout the process, as they provided me updates on the work being done, they praised the condition and the construction of the chair and assured me that it would last me another 25 years. I certainly hope so. For the price I paid, I can&#8217;t afford to buy another chair for the next 25 years!
 
-** Update:** I&#8217;ve linked &#8216;<a href="https://dv8b8dkxht4vb.cloudfront.net/img/chair_after.jpg" rel="lightbox">Chair of Destiny</a>&#8216; to the &#8216;after&#8217; picture of the chair. Unfortunately, it never occurred to me to get a &#8216;before&#8217; picture. You&#8217;ll have to take my word for it that it was a run-down, green-and-gold floral pattern chair that needed some work.
+** Update:** I&#8217;ve linked &#8216;<a href="https://dv8b8dkxht4vb.cloudfront.net/img/chair_after.jpg" data-fslightbox="lightbox">Chair of Destiny</a>&#8216; to the &#8216;after&#8217; picture of the chair. Unfortunately, it never occurred to me to get a &#8216;before&#8217; picture. You&#8217;ll have to take my word for it that it was a run-down, green-and-gold floral pattern chair that needed some work.

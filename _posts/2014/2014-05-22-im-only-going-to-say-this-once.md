@@ -14,7 +14,7 @@ tags:
   - university
 ---
 <div id="attachment_3855" style="width: 310px" class="wp-caption alignleft">
-  <a href="https://dv8b8dkxht4vb.cloudfront.net/img/PMB_vandalsim_21May2014.jpg" rel="lightbox"><img class="wp-image-3855 size-medium" src="https://dv8b8dkxht4vb.cloudfront.net/img/PMB_vandalsim_21May2014-300x300.jpg" alt="Vandalism protesting TransformUS at the University of Saskatchewan" width="300" height="300" srcset="https://dv8b8dkxht4vb.cloudfront.net/img/PMB_vandalsim_21May2014-300x300.jpg 300w, https://dv8b8dkxht4vb.cloudfront.net/img/PMB_vandalsim_21May2014-150x150.jpg 150w, https://dv8b8dkxht4vb.cloudfront.net/img/PMB_vandalsim_21May2014-1024x1024.jpg 1024w, https://dv8b8dkxht4vb.cloudfront.net/img/PMB_vandalsim_21May2014-624x624.jpg 624w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://dv8b8dkxht4vb.cloudfront.net/img/PMB_vandalsim_21May2014.jpg" data-fslightbox="lightbox"><img class="wp-image-3855 size-medium" src="https://dv8b8dkxht4vb.cloudfront.net/img/PMB_vandalsim_21May2014-300x300.jpg" alt="Vandalism protesting TransformUS at the University of Saskatchewan" width="300" height="300" srcset="https://dv8b8dkxht4vb.cloudfront.net/img/PMB_vandalsim_21May2014-300x300.jpg 300w, https://dv8b8dkxht4vb.cloudfront.net/img/PMB_vandalsim_21May2014-150x150.jpg 150w, https://dv8b8dkxht4vb.cloudfront.net/img/PMB_vandalsim_21May2014-1024x1024.jpg 1024w, https://dv8b8dkxht4vb.cloudfront.net/img/PMB_vandalsim_21May2014-624x624.jpg 624w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     <a href="http://instagram.com/p/oQ3RxyCNoR/">Vandalism protesting TransformUS</a>

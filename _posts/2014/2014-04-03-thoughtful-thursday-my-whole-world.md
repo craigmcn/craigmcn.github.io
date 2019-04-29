@@ -13,15 +13,16 @@ tags:
   - relationship
   - self-doubt
 ---
+
 <div class="gallery" style="width: 310px" class="wp-caption alignright">
-  <a href="https://dv8b8dkxht4vb.cloudfront.net/img/Broken-heart-broken-hearts-6853600-500-455.jpg" rel="lightbox"><img class="size-medium wp-image-3792" alt="Broken hearts" src="https://dv8b8dkxht4vb.cloudfront.net/img/Broken-heart-broken-hearts-6853600-500-455-300x273.jpg" width="300" height="273" srcset="https://dv8b8dkxht4vb.cloudfront.net/img/Broken-heart-broken-hearts-6853600-500-455-300x273.jpg 300w, https://dv8b8dkxht4vb.cloudfront.net/img/Broken-heart-broken-hearts-6853600-500-455.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://dv8b8dkxht4vb.cloudfront.net/img/Broken-heart-broken-hearts-6853600-500-455.jpg" data-fslightbox="lightbox"><img class="size-medium wp-image-3792" alt="Broken hearts" src="https://dv8b8dkxht4vb.cloudfront.net/img/Broken-heart-broken-hearts-6853600-500-455-300x273.jpg" width="300" height="273" srcset="https://dv8b8dkxht4vb.cloudfront.net/img/Broken-heart-broken-hearts-6853600-500-455-300x273.jpg 300w, https://dv8b8dkxht4vb.cloudfront.net/img/Broken-heart-broken-hearts-6853600-500-455.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     Broken hearts (http://www.fanpop.com/fans/Mela1994)
   </p>
 </div>
 
-So I mentioned in [my last post](music-monday-everything-i-do-i-do-it-for-you.html "Music Monday: (Everything I Do) I Do It For You") that I recently broke up with my girlfriend of just over one year. Well, she broke up with me. She dumped me. She wasn&#8217;t in love with me, something wasn&#8217;t 100% right, a few other issues. It&#8217;s sad, I&#8217;m sad, I&#8217;m hurt, I&#8217;m doubting myself, all kinds of other things are being affected by my feelings. I hate it.
+So I mentioned in [my last post](music-monday-everything-i-do-i-do-it-for-you.html 'Music Monday: (Everything I Do) I Do It For You') that I recently broke up with my girlfriend of just over one year. Well, she broke up with me. She dumped me. She wasn&#8217;t in love with me, something wasn&#8217;t 100% right, a few other issues. It&#8217;s sad, I&#8217;m sad, I&#8217;m hurt, I&#8217;m doubting myself, all kinds of other things are being affected by my feelings. I hate it.
 
 I&#8217;m in counselling to try to resolve my issues. My biggest issue being that I&#8217;m doubting myself, my reasoning, my abilities, whether I&#8217;m looking for the right relationship, whether I&#8217;d know when I find the right relationship, whether I&#8217;m even physically in the right place for that relationship, and a host of other doubts relating to my life and my work. And, of course, my mind spins around these things all the time, settling them and then unsettling them.
 

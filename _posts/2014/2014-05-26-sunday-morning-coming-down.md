@@ -15,7 +15,7 @@ tags:
   - video
 ---
 <div id="attachment_3865" class="wp-caption alignleft">
-  <a href="https://dv8b8dkxht4vb.cloudfront.net/img/184px-Kristofferson_-_78.jpg" rel="lightbox"><img class="size-thumbnail wp-image-3865" src="https://dv8b8dkxht4vb.cloudfront.net/img/184px-Kristofferson_-_78-150x150.jpg" alt="Kris Kristofferson (c. 1978)" width="150" height="150" /></a>
+  <a href="https://dv8b8dkxht4vb.cloudfront.net/img/184px-Kristofferson_-_78.jpg" data-fslightbox="lightbox"><img class="size-thumbnail wp-image-3865" src="https://dv8b8dkxht4vb.cloudfront.net/img/184px-Kristofferson_-_78-150x150.jpg" alt="Kris Kristofferson (c. 1978)" width="150" height="150" /></a>
   
   <p class="wp-caption-text">
     Kris Kristofferson (c. 1978)

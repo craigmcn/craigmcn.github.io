@@ -11,4 +11,4 @@ tags:
 ---
 HA HA, this is HI-larious!
 
-<a href="https://dv8b8dkxht4vb.cloudfront.net/img/tim_hortons.jpg" rel="lightbox"><img class="size-full wp-image-2920 alignnone" title="tim_hortons" src="https://dv8b8dkxht4vb.cloudfront.net/img/tim_hortons.jpg" alt="Roll Up the Rim" width="240" height="194" /></a>
+<a href="https://dv8b8dkxht4vb.cloudfront.net/img/tim_hortons.jpg" data-fslightbox="lightbox"><img class="size-full wp-image-2920 alignnone" title="tim_hortons" src="https://dv8b8dkxht4vb.cloudfront.net/img/tim_hortons.jpg" alt="Roll Up the Rim" width="240" height="194" /></a>

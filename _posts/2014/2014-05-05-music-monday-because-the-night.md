@@ -15,7 +15,7 @@ tags:
   - video
 ---
 <div id="attachment_3841" style="width: 160px" class="wp-caption alignleft">
-  <a href="https://dv8b8dkxht4vb.cloudfront.net/img/Easter_cover.jpg" rel="lightbox"><img class="wp-image-3841 size-thumbnail" src="https://dv8b8dkxht4vb.cloudfront.net/img/Easter_cover-150x150.jpg" alt="album cover: Easter (1978)" width="150" height="150" srcset="https://dv8b8dkxht4vb.cloudfront.net/img/Easter_cover-150x150.jpg 150w, https://dv8b8dkxht4vb.cloudfront.net/img/Easter_cover.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+  <a href="https://dv8b8dkxht4vb.cloudfront.net/img/Easter_cover.jpg" data-fslightbox="lightbox"><img class="wp-image-3841 size-thumbnail" src="https://dv8b8dkxht4vb.cloudfront.net/img/Easter_cover-150x150.jpg" alt="album cover: Easter (1978)" width="150" height="150" srcset="https://dv8b8dkxht4vb.cloudfront.net/img/Easter_cover-150x150.jpg 150w, https://dv8b8dkxht4vb.cloudfront.net/img/Easter_cover.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   
   <p class="wp-caption-text">
     Easter (1978)

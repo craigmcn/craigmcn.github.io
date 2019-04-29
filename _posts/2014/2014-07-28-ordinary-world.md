@@ -14,7 +14,7 @@ tags:
   - video
 ---
 <div id="attachment_3956" style="width: 160px" class="wp-caption alignleft">
-  <a href="https://dv8b8dkxht4vb.cloudfront.net/img/220px-Duran_Duran_-_The_Wedding_Album_-_Cover.jpg" rel="lightbox"><img class="size-thumbnail wp-image-3956" src="https://dv8b8dkxht4vb.cloudfront.net/img/220px-Duran_Duran_-_The_Wedding_Album_-_Cover-150x150.jpg" alt="Duran Duran (The Wedding Album) (1993)" width="150" height="150" srcset="https://dv8b8dkxht4vb.cloudfront.net/img/220px-Duran_Duran_-_The_Wedding_Album_-_Cover-150x150.jpg 150w, https://dv8b8dkxht4vb.cloudfront.net/img/220px-Duran_Duran_-_The_Wedding_Album_-_Cover.jpg 220w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+  <a href="https://dv8b8dkxht4vb.cloudfront.net/img/220px-Duran_Duran_-_The_Wedding_Album_-_Cover.jpg" data-fslightbox="lightbox"><img class="size-thumbnail wp-image-3956" src="https://dv8b8dkxht4vb.cloudfront.net/img/220px-Duran_Duran_-_The_Wedding_Album_-_Cover-150x150.jpg" alt="Duran Duran (The Wedding Album) (1993)" width="150" height="150" srcset="https://dv8b8dkxht4vb.cloudfront.net/img/220px-Duran_Duran_-_The_Wedding_Album_-_Cover-150x150.jpg 150w, https://dv8b8dkxht4vb.cloudfront.net/img/220px-Duran_Duran_-_The_Wedding_Album_-_Cover.jpg 220w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   
   <p class="wp-caption-text">
     Duran Duran (The Wedding Album) (1993)

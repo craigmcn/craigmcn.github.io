@@ -11,7 +11,7 @@ tags:
   - tasks
 ---
 <div id="attachment_3562" style="width: 310px" class="wp-caption alignright">
-  <a href="https://dv8b8dkxht4vb.cloudfront.net/img/work-experience-important.jpg" rel="lightbox"><img class="size-medium wp-image-3562" alt="Important" src="https://dv8b8dkxht4vb.cloudfront.net/img/work-experience-important-300x296.jpg" width="300" height="296" srcset="https://dv8b8dkxht4vb.cloudfront.net/img/work-experience-important-300x296.jpg 300w, https://dv8b8dkxht4vb.cloudfront.net/img/work-experience-important.jpg 399w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://dv8b8dkxht4vb.cloudfront.net/img/work-experience-important.jpg" data-fslightbox="lightbox"><img class="size-medium wp-image-3562" alt="Important" src="https://dv8b8dkxht4vb.cloudfront.net/img/work-experience-important-300x296.jpg" width="300" height="296" srcset="https://dv8b8dkxht4vb.cloudfront.net/img/work-experience-important-300x296.jpg 300w, https://dv8b8dkxht4vb.cloudfront.net/img/work-experience-important.jpg 399w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     Credit: http://www.graduates.co.uk/why-is-work-experience-so-important/
