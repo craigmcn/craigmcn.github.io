@@ -5,15 +5,11 @@
 .page-content img,
 .wp-caption,
 .getty.image,
-iframe[src*=youtube],
-iframe[src*=vimeo] {
-  border: $border-primary-color 1px solid;
+iframe[src*='youtube'],
+iframe[src*='vimeo'] {
+  border: $lightgrey 1px solid;
   border-radius: 2px;
   padding: 3px;
-}
-
-.wp-caption {
-  /* margin-top: 1em; /* seems to do more harm than good. */
 }
 
 .wp-caption img {
@@ -26,7 +22,7 @@ iframe[src*=vimeo] {
   width: 100%;
   max-width: 400px;
   min-width: 200px;
-  &>div {
+  & > div {
     overflow: hidden;
     position: relative;
     height: 0;
@@ -44,46 +40,51 @@ iframe[src*=vimeo] {
 
 .getty.image p,
 .wp-caption-text {
-  color: $text-secondary-color;
+  color: $midgrey;
   font-size: 80%;
   margin: 3px 0 0 0;
   a {
-    color: $text-secondary-color;
+    color: $midgrey;
     text-decoration: none;
     font-weight: normal !important;
     border: none;
     display: inline-block;
     &:hover {
-      color: darken($text-secondary-color, 25%)
+      color: $darkgrey;
     }
   }
 }
 
-
-img[align=left], img[align=right],
-.alignleft, .alignright {
-  margin-bottom: 0.5em;
+img[align='left'],
+img[align='right'],
+.alignleft,
+.alignright {
+  margin-bottom: $spacing / 2;
   &:after {
     clear: both;
-    content: "";
+    content: '';
     display: table;
   }
 }
 
-img[align=left],
+img[align='left'],
 .alignleft {
   float: left;
-  margin-right: 1em;
+  margin-right: $spacing;
 }
 
-img[align=right],
+img[align='right'],
 .alignright {
   float: right;
-  margin-left: 1em;
+  margin-left: $spacing;
 }
 
 .photo-attribution {
   font-style: italic;
-  color: gray;
+  color: $lightgrey;
   font-size: 90%;
+}
+
+.gallery {
+  display: flex;
 }

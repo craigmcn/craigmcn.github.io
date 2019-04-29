@@ -1,17 +1,21 @@
+html {
+  box-sizing: border-box;
+}
 *,
 *:before,
 *:after {
-  /* reset box-sizing */
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
+  box-sizing: inherit;
 }
 
-// Elements
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
-  background-color: $white;
-  color: $text-primary-color;
-  font-family: $body-font;
+  font-family: $system-stack;
+  color: $black;
+  font-variant-ligatures: common-ligatures;
 }
 
 h1,
@@ -20,22 +24,60 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: $heading-font;
-  font-weight: 700;
+  font-weight: normal;
 }
 
+h2,
+h3,
 h4,
 h5,
-h6,
-small {
-  color: $text-secondary-color;
+h6 {
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+}
+
+p {
+  line-height: 1.4;
+}
+
+p + p,
+p + div {
+  margin-top: $spacing;
+}
+
+a {
+  color: $primary;
+  &:hover,
+  &:active {
+    color: darken($primary, 10%);
+  }
+  &:visited {
+    color: lighten($primary, 8%);
+  }
+}
+
+/* Lists */
+ul,
+ol {
+  margin-bottom: $spacing;
+}
+ul ul,
+ul ol,
+ol ol,
+ol ul {
+  margin-bottom: $spacing / 2;
+  margin-left: 2rem;
+}
+li {
+  line-height: 1.3em;
+  margin-bottom: $spacing / 4;
 }
 
 .subtitle {
-  color: $text-secondary-color;
+  color: $midgrey;
   h1 &,
   h2 & {
-    font-size: 0.75em;
+    font-size: 0.8em;
   }
   h3 &,
   h4 & {
@@ -43,24 +85,11 @@ small {
   }
 }
 
-small {
-  font-size: 80%;
-  font-weight: 400;
-}
-
-p {
-  line-height: 1.5;
-}
-
-li {
-  line-height: 1.8;
-}
-
 blockquote {
-  color: $text-secondary-color;
-  margin-left: 0;
-  padding-left: 2em;
-  border-left: 3px solid $border-secondary-color;
+  color: $darkgrey;
+  margin: $spacing 0;
+  padding-left: $spacing * 2;
+  border-left: 3px solid $darkgrey;
 }
 
 img {
@@ -69,29 +98,92 @@ img {
   max-width: 100%;
 }
 
-a {
-  color: $text-link-color;
+button,
+label {
+  display: inline-block;
+}
+
+button,
+input,
+textarea {
+  padding: 0.375rem 1rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border: 1px solid $grey;
+  border-radius: 2px;
+  background-color: $white;
+}
+
+label {
+  padding-bottom: 0.5em;
+}
+
+input,
+textarea {
+  display: block;
+  width: 100%;
+  color: $darkgrey;
+  background-color: $white;
+  background-image: none;
+}
+
+/* button reset */
+button,
+[type='button'],
+[type='submit'],
+[type='reset'] {
+  background: none;
+  border: none;
+  color: inherit;
+  cursor: pointer;
+  font: inherit;
+  padding: 0;
+}
+
+/* Buttons */
+.button {
+  border: 1px solid $grey;
+  border-radius: 0.25em;
+  color: $black;
+  display: inline-block;
+  padding: 0.5em 1em;
   text-decoration: none;
-  &:visited {
-    color: $text-link-visited-color;
-  }
-  &:hover {
-    color: $text-link-hover-color;
-    text-decoration: underline;
-  }
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+
+  &:hover,
   &:active {
-    color: $text-link-active-color;
-    text-decoration: underline;
+    background-color: $darkgrey;
+    border-color: $black;
+    color: $white;
+  }
+
+  &--primary {
+    border-color: $primary;
+    color: $primary;
+    &:hover,
+    &:active {
+      background-color: $primary;
+      border-color: $primaryDark;
+      color: $white;
+    }
   }
 }
 
+/* Wrapper */
+.wrapper {
+  max-width: 50rem;
+  margin: 0 auto;
+}
+
+/* https://a11yproject.com/posts/how-to-hide-content/ */
 .visually-hidden {
-  /* https://snook.ca/archives/html_and_css/hiding-content-for-accessibility */
   position: absolute !important;
   height: 1px;
   width: 1px;
   overflow: hidden;
   clip: rect(1px, 1px, 1px, 1px);
+
   a:focus,
   input:focus,
   button:focus {

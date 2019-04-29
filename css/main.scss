@@ -1,54 +1,50 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+
 @charset "utf-8";
 
 /**
  * Fonts
  */
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,700|Roboto);
-$raleway-stack: Raleway,
-sans-serif;
-$roboto-stack: Roboto,
-sans-serif;
+@import url('https://fonts.googleapis.com/css?family=Raleway:600');
+$raleway-stack: 'Raleway', 'Verdana', 'Lucida Grande', 'Gill Sans', 'Arial',
+  'Helvetica', sans-serif;
+$system-stack: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+  Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol' !default;
 
 /**
- * Variables
- */
-// Font stacks
-$body-font: $roboto-stack;
-$heading-font: $raleway-stack;
-
-// Colours
-$medium-blue: #2e5986;
-$medium-green: #3c4c31;
-$medium-red: #631d1f;
-$medium-black: #202020;
-$light-blue: #97acc3;
-$light-green: #9ea698;
-$light-red: #b18e8f;
-$light-black: #7a7575;
-$dark-blue: #122335;
-$dark-green: #181e13;
-$dark-red: #270b0c;
-$dark-black: #000;
+   * Colours
+   */
 $white: #fff;
-$text-primary-color: $medium-black;
-$text-secondary-color: $light-black;
-$text-link-color: $medium-blue;
-$text-link-hover-color: mix(white, $medium-blue, 20%);
-$text-link-visited-color: mix(black, $medium-blue, 20%);
-$text-link-active-color: $medium-red;
-$border-primary-color: $light-black;
-$border-secondary-color: lighten($light-black, 20%);
+$black: #222;
+$grey: #adafaa;
+$midgrey: #767676;
+$darkgrey: #444;
+$lightgrey: #ccc;
+$silver: #f8f8f8;
+$pink: #e83e8c;
+$primary: #005b99; /* https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/federal-identity-program/technical-specifications/official-symbols/colour-values.html */
+$primaryDark: darken($primary, 20%);
+$secondary: #993d00; /* 180deg from primary*/
+$secondaryDark: darken($secondary, 20%);
+$green: #036803;
+$successDark: darken($green, 20%);
+$info: #03607d;
+$infoDark: darken($info, 20%);
+$red: #b60202;
+$dangerDark: darken($red, 20%);
+$yellow: #f9d615;
+$warning: #695802;
+$warningDark: darken($warning, 20%);
 
 // Spacing
-$content-width: 800px;
+$content-width: 50rem;
 $line-height: 1.5;
-$vertical-rhythm: 1em;
+$spacing: 1rem;
 
 // Media queries
-$on-laptop: 800px;
+$on-laptop: $content-width;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -58,20 +54,10 @@ $on-laptop: 800px;
 //     }
 // }
 @mixin media-query($device) {
-    @media screen and (min-width: $device) {
-        @content;
-    }
-}
-
-%vertical-rhythm {
-    margin-bottom: $vertical-rhythm / 2;
+  @media screen and (min-width: $device) {
+    @content;
+  }
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "normalize",
-        "base",
-        "layout",
-        "legacy",
-        "syntax-highlighting"
-;
+@import 'normalize', 'base', 'layout', 'legacy', 'syntax-highlighting';
