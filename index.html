@@ -2,16 +2,13 @@
 layout: default
 ---
 
-<div class="home">
-
-  {% for post in site.posts limit:6 %}
-  <article style="margin-bottom:2em" aria-labelledby="post-{{ post.title | slugify }}">
-    <h2>
-      <a id="post-{{ post.title | slugify }}" class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
-    <p class="post-meta" style="margin-top:-1em">{{ post.date | date: "%b %-d, %Y" }}</p>
-    <p>{{ post.excerpt }}</p>
-  </article>
-  {% endfor %}
-
-</div>
+{%- for post in site.posts limit:8 -%}
+<article class="page-content__article" aria-labelledby="post-{{ post.title | slugify }}">
+  <h2>
+    <a id="post-{{ post.title | slugify }}" class="post-link"
+      href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    <span class="subtitle">{{ post.date | date: "%b %-d, %Y" }}</span>
+  </h2>
+  <p>{{ post.excerpt }}</p>
+</article>
+{%- endfor -%}

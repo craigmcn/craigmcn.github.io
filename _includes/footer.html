@@ -6,7 +6,7 @@
       <div class="footer-grid-item">
         <p class="site-description">Things I think about or just find and want to share.</p>
 
-        <p>subscribe <a class="footer-text-link" href="/feed.xml">via RSS</a></p>
+        <p>subscribe <a href="/feed.xml">via RSS</a></p>
       </div>
 
       <div class="footer-grid-item">
@@ -30,32 +30,31 @@
 
 </footer>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script src="https://dv8b8dkxht4vb.cloudfront.net/js/jquery.fancybox.pack.js?v=2.1.5"></script>
 {%- if page.title == "Search results" -%}
-<script src="/search.js?v=1.0.0"></script>
-{%- endif -%}
-<script>
-  $(function () {
-    $("a[rel=lightbox]").fancybox()
-  })
-</script>
-{%- if page.format == "gallery" -%}
-<script>
-  $(function () {
-    $(".gallery a").fancybox()
-  })
-</script>
+<script src="/js/search.js?v=1.0.0"></script>
 {%- endif -%}
 {%- if page.layout == "post" -%}
+<script src="/js/fslightbox.min.js"></script>
 <script>
-  $(function () {
-    $('#disqus_thread iframe').css('height', 'auto').css('min-height', '320px')
-    $('.toggle').on('click', function (e) {
-      e.preventDefault()
-      var $this = $(this)
-      $this.toggleClass('active')
-      $($this.data('target')).slideToggle('fast')
+  const toggles = document.querySelectorAll('.toggle');
+  toggles.forEach(toggle => {
+    toggle.addEventListener('click', e => {
+      const target = document.getElementById(e.currentTarget.dataset.target)
+      target.style.display = (target.style.display == "none") ? "block" : "none";
+      e.currentTarget.classList.toggle('active')
+      if (target.dataset.type === 'disqus' && target.childNodes.length === 0) {
+        const disqus_config = function () {
+          this.page.url = '{{ site.url | url_param_escape }}{{ page.url }}';
+          this.page.identifier = '{{ page.id }}';
+        };
+        // disqus
+        // DON'T EDIT BELOW THIS LINE
+        var d = document,
+          s = d.createElement('script');
+        s.src = '//craigmcn.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+      }
     })
   })
 </script>
