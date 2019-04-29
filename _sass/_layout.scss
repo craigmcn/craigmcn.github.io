@@ -157,7 +157,7 @@ a.toggle {
 
 .post__share h3,
 .related-posts h3 {
-  margin-bottom: 0.25rem;
+  margin-bottom: $spacing / 4;
 }
 
 .post__meta {
@@ -242,6 +242,7 @@ a.toggle {
   }
   .related-posts-item {
     color: $midgrey;
+    max-width: 16.5rem;
   }
   .post__nav {
     display: flex;
