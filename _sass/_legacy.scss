@@ -85,6 +85,22 @@ img[align='right'],
   font-size: 90%;
 }
 
-.gallery {
+div.gallery {
   display: flex;
+  margin-bottom: 1rem;
+}
+dl.gallery-item:not(:last-child) {
+  margin-right: 1rem;
+}
+dl.gallery-item {
+  border: 1px solid #797979;
+  position: relative;
+}
+dd.gallery-caption {
+  background: rgba(0, 0, 0, 0.5);
+  bottom: 0;
+  color: white;
+  font-size: 80%;
+  padding: 2px 4px;
+  position: absolute;
 }
