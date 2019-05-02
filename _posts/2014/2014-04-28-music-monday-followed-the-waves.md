@@ -11,7 +11,7 @@ tags:
   - video
 ---
 <div id="attachment_3823" style="width: 230px" class="wp-caption alignright">
-  <a href="https://dv8b8dkxht4vb.cloudfront.net/img/220px-Auf_der_Maur_cover.jpg" data-fslightbox="lightbox"><img class="size-full wp-image-3823" src="https://dv8b8dkxht4vb.cloudfront.net/img/220px-Auf_der_Maur_cover.jpg" alt="album cover: Auf der Maur (2004)" width="220" height="220" srcset="https://dv8b8dkxht4vb.cloudfront.net/img/220px-Auf_der_Maur_cover.jpg 220w, https://dv8b8dkxht4vb.cloudfront.net/img/220px-Auf_der_Maur_cover-150x150.jpg 150w" sizes="(max-width: 220px) 100vw, 220px" /></a>
+  <a href="https://dv8b8dkxht4vb.cloudfront.net/img/220px-Auf_der_Maur_cover.jpg?x-request=xhr" data-fslightbox="lightbox"><img class="size-full wp-image-3823" src="https://dv8b8dkxht4vb.cloudfront.net/img/220px-Auf_der_Maur_cover.jpg" alt="album cover: Auf der Maur (2004)" width="220" height="220" srcset="https://dv8b8dkxht4vb.cloudfront.net/img/220px-Auf_der_Maur_cover.jpg 220w, https://dv8b8dkxht4vb.cloudfront.net/img/220px-Auf_der_Maur_cover-150x150.jpg 150w" sizes="(max-width: 220px) 100vw, 220px" /></a>
   
   <p class="wp-caption-text">
     Auf der Maur (2004)
