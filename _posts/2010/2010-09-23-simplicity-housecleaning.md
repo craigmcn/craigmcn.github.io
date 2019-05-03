@@ -9,7 +9,8 @@ tags:
   - housework
   - productivity
 ---
-<img class="alignleft" title="Spring Cleaning" src="https://dv8b8dkxht4vb.cloudfront.net/img/spring-cleaning.jpg" alt="Spring Cleaning - image" />
+
+<img class="alignleft" title="Spring Cleaning" src="https://cdn.craigmcn.ca/img/spring-cleaning.jpg" alt="Spring Cleaning - image" />
 
 Given my developing trend of posting simplicity and productivity information, and reading similar blogs, my stepmom asked about storing cleaning supplies for the different areas of the home. And more specifically, storing cleaning cloths that have been used, but do not yet require a wash.
 
@@ -27,7 +28,7 @@ If you guys have other ideas, I’d love to hear them. But it really amounts to 
 
 For reference, a small collection of the articles I read:
 
-  * [http://www.ehow.com/how\_2196397\_outfit-cleaning-caddy.html](http://www.ehow.com/how_2196397_outfit-cleaning-caddy.html)
-  * <http://www.marthastewart.com/article/kitchen-cleaning-caddy>
-  * <http://ezinearticles.com/?Why-Should-You-Get-a-Cleaning-Caddy?&id=4308046>
-  * <http://www.cleaningsuppliescaddy.com/>
+- [http://www.ehow.com/how_2196397_outfit-cleaning-caddy.html](http://www.ehow.com/how_2196397_outfit-cleaning-caddy.html)
+- <http://www.marthastewart.com/article/kitchen-cleaning-caddy>
+- <http://ezinearticles.com/?Why-Should-You-Get-a-Cleaning-Caddy?&id=4308046>
+- <http://www.cleaningsuppliescaddy.com/>

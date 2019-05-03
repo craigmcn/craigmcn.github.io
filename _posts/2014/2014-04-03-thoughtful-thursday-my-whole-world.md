@@ -15,7 +15,7 @@ tags:
 ---
 
 <div class="gallery" style="width: 310px" class="wp-caption alignright">
-  <a href="https://dv8b8dkxht4vb.cloudfront.net/img/Broken-heart-broken-hearts-6853600-500-455.jpg" data-fslightbox="lightbox"><img class="size-medium wp-image-3792" alt="Broken hearts" src="https://dv8b8dkxht4vb.cloudfront.net/img/Broken-heart-broken-hearts-6853600-500-455-300x273.jpg" width="300" height="273" srcset="https://dv8b8dkxht4vb.cloudfront.net/img/Broken-heart-broken-hearts-6853600-500-455-300x273.jpg 300w, https://dv8b8dkxht4vb.cloudfront.net/img/Broken-heart-broken-hearts-6853600-500-455.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://cdn.craigmcn.ca/img/Broken-heart-broken-hearts-6853600-500-455.jpg?x-request=xhr" data-fslightbox="lightbox"><img class="size-medium wp-image-3792" alt="Broken hearts" src="https://cdn.craigmcn.ca/img/Broken-heart-broken-hearts-6853600-500-455-300x273.jpg" width="300" height="273" srcset="https://cdn.craigmcn.ca/img/Broken-heart-broken-hearts-6853600-500-455-300x273.jpg 300w, https://cdn.craigmcn.ca/img/Broken-heart-broken-hearts-6853600-500-455.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     Broken hearts (http://www.fanpop.com/fans/Mela1994)

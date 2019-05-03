@@ -12,7 +12,8 @@ tags:
   - paper
   - productivity
 ---
-<img class="alignleft size-full wp-image-1356" title="Files" src="https://dv8b8dkxht4vb.cloudfront.net/img/files.jpg" alt="Files - image" width="300" height="200">
+
+<img class="alignleft size-full wp-image-1356" title="Files" src="https://cdn.craigmcn.ca/img/files.jpg" alt="Files - image" width="300" height="200">
 
 I&#8217;ve spent a few hours a day over the last few days filing and cleaning out old files. I&#8217;ve come up with a stack for shredding that’s over 20cm thick. I&#8217;ve also recycled a stack about one-third that size. Part of that was a stack of stuff from my former employer that’s probably at least 12cm thick.
 

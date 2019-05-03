@@ -11,7 +11,8 @@ tags:
 redirect_from:
   - /post/18937273699
 ---
-<img class="alignleft size-medium wp-image-3394" title="picard-engage" src="https://dv8b8dkxht4vb.cloudfront.net/img/picard-engage-300x200.jpg" alt="Picard: Engage" width="300" height="200" srcset="https://dv8b8dkxht4vb.cloudfront.net/img/picard-engage-300x200.jpg 300w, https://dv8b8dkxht4vb.cloudfront.net/img/picard-engage.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" />
+
+<img class="alignleft size-medium wp-image-3394" title="picard-engage" src="https://cdn.craigmcn.ca/img/picard-engage-300x200.jpg" alt="Picard: Engage" width="300" height="200" srcset="https://cdn.craigmcn.ca/img/picard-engage-300x200.jpg 300w, https://cdn.craigmcn.ca/img/picard-engage.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" />
 
 I don’t need to engage with someone who’s not engaged with me. I&#8217;m not quite sure what prompted me to think about this, but it happens fairly regularly.
 

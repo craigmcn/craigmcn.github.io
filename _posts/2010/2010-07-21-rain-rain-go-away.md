@@ -9,7 +9,8 @@ tags:
   - complaints
   - weather
 ---
-<img class="alignright size-full wp-image-1384" title="Rain" src="https://dv8b8dkxht4vb.cloudfront.net/img/rain.jpg" alt="Rain - image" width="300" height="200">
+
+<img class="alignright size-full wp-image-1384" title="Rain" src="https://cdn.craigmcn.ca/img/rain.jpg" alt="Rain - image" width="300" height="200">
 
 I don&#8217;t know about the rest of you, but this rain&#8217;s starting to get me down. 🙁 If it&#8217;s going to rain all summer, fine, I&#8217;ll accept it. I&#8217;ll buy myself a better [raincoat](http://www.mec.ca/Products/product_detail.jsp?PRODUCT%3C%3Eprd_id=845524442629023&FOLDER%3C%3Efolder_id=2534374302699139&bmUID=1279724590109) and a bus pass, and I&#8217;ll suck it up. But when the forecast everyday calls for rain and then it doesn&#8217;t rain, it really pisses me off.
 

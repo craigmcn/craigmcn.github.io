@@ -19,13 +19,13 @@ redirect_from:
 <div id='gallery-1' class='gallery galleryid-95 gallery-columns-3 gallery-size-thumbnail gallery1'>
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="https://dv8b8dkxht4vb.cloudfront.net/img/tumblr_m0zx14FDeE1qefdi4o1_1280-300x240.jpg" title="" data-fslightbox="lightbox"><img src="https://dv8b8dkxht4vb.cloudfront.net/img/tumblr_m0zx14FDeE1qefdi4o1_1280-150x150.jpg" width="150" height="150" alt="" /></a>
+      <a href="https://cdn.craigmcn.ca/img/tumblr_m0zx14FDeE1qefdi4o1_1280-300x240.jpg?x-request=xhr" title="" data-fslightbox="lightbox"><img src="https://cdn.craigmcn.ca/img/tumblr_m0zx14FDeE1qefdi4o1_1280-150x150.jpg" width="150" height="150" alt="" /></a>
     </dt>
   </dl>
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="https://dv8b8dkxht4vb.cloudfront.net/img/tumblr_m0zx14FDeE1qefdi4o2_1280-300x200.jpg" title="The Ovas at Olvera Street in protest." data-fslightbox="lightbox"><img src="https://dv8b8dkxht4vb.cloudfront.net/img/tumblr_m0zx14FDeE1qefdi4o2_1280-150x150.jpg" width="150" height="150" alt="The Ovas at Olvera Street in protest." /></a>
+      <a href="https://cdn.craigmcn.ca/img/tumblr_m0zx14FDeE1qefdi4o2_1280-300x200.jpg?x-request=xhr" title="The Ovas at Olvera Street in protest." data-fslightbox="lightbox"><img src="https://cdn.craigmcn.ca/img/tumblr_m0zx14FDeE1qefdi4o2_1280-150x150.jpg" width="150" height="150" alt="The Ovas at Olvera Street in protest." /></a>
     </dt>
     
     <dd class="gallery-caption" id="caption97">
@@ -35,7 +35,7 @@ redirect_from:
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="https://dv8b8dkxht4vb.cloudfront.net/img/tumblr_m0zx14FDeE1qefdi4o3_1280-300x200.jpg" title="The Ovas end one of their bi-weekly meet" data-fslightbox="lightbox"><img src="https://dv8b8dkxht4vb.cloudfront.net/img/tumblr_m0zx14FDeE1qefdi4o3_1280-150x150.jpg" width="150" height="150" alt="The Ovas end one of their bi-weekly meet" /></a>
+      <a href="https://cdn.craigmcn.ca/img/tumblr_m0zx14FDeE1qefdi4o3_1280-300x200.jpg?x-request=xhr" title="The Ovas end one of their bi-weekly meet" data-fslightbox="lightbox"><img src="https://cdn.craigmcn.ca/img/tumblr_m0zx14FDeE1qefdi4o3_1280-150x150.jpg" width="150" height="150" alt="The Ovas end one of their bi-weekly meet" /></a>
     </dt>
     
     <dd class="gallery-caption" id="caption98">

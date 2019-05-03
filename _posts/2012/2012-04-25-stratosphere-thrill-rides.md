@@ -20,13 +20,13 @@ redirect_from:
 <div id='gallery-4' class='gallery galleryid-31 gallery-columns-3 gallery-size-thumbnail gallery1 clearfix'>
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="https://dv8b8dkxht4vb.cloudfront.net/img/tumblr_m31o2sNiTc1qlv5s6o1_1280.jpg" title="" data-fslightbox="lightbox"><img src="https://dv8b8dkxht4vb.cloudfront.net/img/tumblr_m31o2sNiTc1qlv5s6o1_1280-240x240.jpg" alt="" /></a>
+      <a href="https://cdn.craigmcn.ca/img/tumblr_m31o2sNiTc1qlv5s6o1_1280.jpg?x-request=xhr" title="" data-fslightbox="lightbox"><img src="https://cdn.craigmcn.ca/img/tumblr_m31o2sNiTc1qlv5s6o1_1280-240x240.jpg" alt="" /></a>
     </dt>
   </dl>
   
   <dl class="gallery-item">
     <dt class="gallery-icon">
-      <a href="https://dv8b8dkxht4vb.cloudfront.net/img/tumblr_m31o2sNiTc1qlv5s6o2_1280.jpg" title="" data-fslightbox="lightbox"><img src="https://dv8b8dkxht4vb.cloudfront.net/img/tumblr_m31o2sNiTc1qlv5s6o2_1280-240x240.jpg" alt="" /></a>
+      <a href="https://cdn.craigmcn.ca/img/tumblr_m31o2sNiTc1qlv5s6o2_1280.jpg?x-request=xhr" title="" data-fslightbox="lightbox"><img src="https://cdn.craigmcn.ca/img/tumblr_m31o2sNiTc1qlv5s6o2_1280-240x240.jpg" alt="" /></a>
     </dt>
   </dl>
 </div>

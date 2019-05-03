@@ -10,7 +10,8 @@ tags:
   - customer service
   - management
 ---
-<img class="alignleft size-medium wp-image-293" title="thrown-out" src="https://dv8b8dkxht4vb.cloudfront.net/img/thrown-out-300x225.jpg" alt="Billy Connolly - The Man Who Sued God" width="300" height="225" srcset="https://dv8b8dkxht4vb.cloudfront.net/img/thrown-out-300x225.jpg 300w, https://dv8b8dkxht4vb.cloudfront.net/img/thrown-out.jpg 400w" sizes="(max-width: 300px) 100vw, 300px">
+
+<img class="alignleft size-medium wp-image-293" title="thrown-out" src="https://cdn.craigmcn.ca/img/thrown-out-300x225.jpg" alt="Billy Connolly - The Man Who Sued God" width="300" height="225" srcset="https://cdn.craigmcn.ca/img/thrown-out-300x225.jpg 300w, https://cdn.craigmcn.ca/img/thrown-out.jpg 400w" sizes="(max-width: 300px) 100vw, 300px">
 
 I was out to [Hudson&#8217;s Taphouse](http://hudsonstaphouse.com "Hudson's Taphouse") this weekend, as I frequently am, and saw an example of customer service that was less than admirable. I don&#8217;t know the details, nor did I ask, but some people were asked to leave and they were not impressed.
 

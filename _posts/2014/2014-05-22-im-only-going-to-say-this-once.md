@@ -1,7 +1,7 @@
 ---
-title: "I’m Only Going to Say This Once"
+title: 'I’m Only Going to Say This Once'
 date: 2014-05-22T09:44:59+00:00
-excerpt: "There seems to be some idea that money shouldn’t matter at the university, that somehow we should be able to provide any kind of post-secondary education to anyone regardless of the cost. Bullshit."
+excerpt: 'There seems to be some idea that money shouldn’t matter at the university, that somehow we should be able to provide any kind of post-secondary education to anyone regardless of the cost. Bullshit.'
 layout: post
 categories:
   - Opinion
@@ -13,11 +13,12 @@ tags:
   - taxes
   - university
 ---
+
 <div id="attachment_3855" style="width: 310px" class="wp-caption alignleft">
-  <a href="https://dv8b8dkxht4vb.cloudfront.net/img/PMB_vandalsim_21May2014.jpg" data-fslightbox="lightbox"><img class="wp-image-3855 size-medium" src="https://dv8b8dkxht4vb.cloudfront.net/img/PMB_vandalsim_21May2014-300x300.jpg" alt="Vandalism protesting TransformUS at the University of Saskatchewan" width="300" height="300" srcset="https://dv8b8dkxht4vb.cloudfront.net/img/PMB_vandalsim_21May2014-300x300.jpg 300w, https://dv8b8dkxht4vb.cloudfront.net/img/PMB_vandalsim_21May2014-150x150.jpg 150w, https://dv8b8dkxht4vb.cloudfront.net/img/PMB_vandalsim_21May2014-1024x1024.jpg 1024w, https://dv8b8dkxht4vb.cloudfront.net/img/PMB_vandalsim_21May2014-624x624.jpg 624w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://cdn.craigmcn.ca/img/PMB_vandalsim_21May2014.jpg?x-request=xhr" data-fslightbox="lightbox"><img class="wp-image-3855 size-medium" src="https://cdn.craigmcn.ca/img/PMB_vandalsim_21May2014-300x300.jpg" alt="Vandalism protesting TransformUS at the University of Saskatchewan" width="300" height="300" srcset="https://cdn.craigmcn.ca/img/PMB_vandalsim_21May2014-300x300.jpg 300w, https://cdn.craigmcn.ca/img/PMB_vandalsim_21May2014-150x150.jpg 150w, https://cdn.craigmcn.ca/img/PMB_vandalsim_21May2014-1024x1024.jpg 1024w, https://cdn.craigmcn.ca/img/PMB_vandalsim_21May2014-624x624.jpg 624w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
-    <a href="http://instagram.com/p/oQ3RxyCNoR/">Vandalism protesting TransformUS</a>
+    <a href="https://cdn.craigmcn.ca/img/PMB_vandalsim_21May2014.jpg">Vandalism protesting TransformUS</a>
   </p>
 </div>
 
@@ -47,4 +48,4 @@ There seems to be some idea that money shouldn&#8217;t matter at the university,
 
 So we&#8217;re forced to find ways to save money. We amalgamate units that provide similar services, and then require fewer people. We reorganize departments so they require fewer administrative resources. And we ask instructors to teach larger classes and discontinue programs with low enrolment. Or we start to work for free. It&#8217;s time to choose.
 
-I don&#8217;t know anymore if the university is the right place for me any longer. [I posted before](http://craigmcn.ca/jobs-careers-and-identity.html "Jobs, Careers and Identity") some questions I have for myself and my future and those are top of mind again. The university is supposed to be a place where we can test some innovate ideas, take some risks, and learn, learn, learn. And I don&#8217;t see it anymore. Even people within my area who should know better are suggesting ridiculous options simply to avoid change or new work. We&#8217;re all professional, educated adults. Let&#8217;s start acting that way.
+I don&#8217;t know anymore if the university is the right place for me any longer. [I posted before](http://craigmcn.ca/jobs-careers-and-identity.html 'Jobs, Careers and Identity') some questions I have for myself and my future and those are top of mind again. The university is supposed to be a place where we can test some innovate ideas, take some risks, and learn, learn, learn. And I don&#8217;t see it anymore. Even people within my area who should know better are suggesting ridiculous options simply to avoid change or new work. We&#8217;re all professional, educated adults. Let&#8217;s start acting that way.

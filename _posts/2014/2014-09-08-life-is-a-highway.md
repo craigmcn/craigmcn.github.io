@@ -13,8 +13,9 @@ tags:
   - Tom Cochrane
   - video
 ---
+
 <div id="attachment_3987" style="width: 160px" class="wp-caption alignleft">
-  <a href="https://dv8b8dkxht4vb.cloudfront.net/img/tcochmad.jpg" data-fslightbox="lightbox"><img class="size-thumbnail wp-image-3987" src="https://dv8b8dkxht4vb.cloudfront.net/img/tcochmad-150x150.jpg" alt="Album cover: Mad, Mad World (Tom Cochrane, 1991)" width="150" height="150" srcset="https://dv8b8dkxht4vb.cloudfront.net/img/tcochmad-150x150.jpg 150w, https://dv8b8dkxht4vb.cloudfront.net/img/tcochmad.jpg 284w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+  <a href="https://cdn.craigmcn.ca/img/tcochmad.jpg?x-request=xhr" data-fslightbox="lightbox"><img class="size-thumbnail wp-image-3987" src="https://cdn.craigmcn.ca/img/tcochmad-150x150.jpg" alt="Album cover: Mad, Mad World (Tom Cochrane, 1991)" width="150" height="150" srcset="https://cdn.craigmcn.ca/img/tcochmad-150x150.jpg 150w, https://cdn.craigmcn.ca/img/tcochmad.jpg 284w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   
   <p class="wp-caption-text">
     Mad, Mad World (Tom Cochrane, 1991)

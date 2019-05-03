@@ -14,7 +14,8 @@ tags:
   - programming
   - WordPress
 ---
-<img class="alignright size-full wp-image-1004" title="logo-v-rgb_300x214" src="https://dv8b8dkxht4vb.cloudfront.net/img/logo-v-rgb_300x214.jpg" alt="" width="300" height="214">
+
+<img class="alignright size-full wp-image-1004" title="logo-v-rgb_300x214" src="https://cdn.craigmcn.ca/img/logo-v-rgb_300x214.jpg" alt="" width="300" height="214">
 
 Like a giant nerd, I have spent the last few days migrating two blogs and two commenting systems to WordPress (WP). There&#8217;s a really good WordPress plug-in that quickly and easily imported my Tumblog into WordPress, but that was the only easy part.
 

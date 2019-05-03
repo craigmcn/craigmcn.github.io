@@ -10,7 +10,8 @@ tags:
   - hot holiday
   - weather
 ---
-<a href="https://dv8b8dkxht4vb.cloudfront.net/img/rsz_2012-12-02_140124.jpg" data-fslightbox="lightbox"><img class="size-medium wp-image-3572  alignleft" title="Saskatoon riverbank in winter" alt="Saskatoon riverbank in winter" src="https://dv8b8dkxht4vb.cloudfront.net/img/rsz_2012-12-02_140124-300x225.jpg" width="300" height="225" srcset="https://dv8b8dkxht4vb.cloudfront.net/img/rsz_2012-12-02_140124-300x225.jpg 300w, https://dv8b8dkxht4vb.cloudfront.net/img/rsz_2012-12-02_140124-624x468.jpg 624w, https://dv8b8dkxht4vb.cloudfront.net/img/rsz_2012-12-02_140124.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+
+<a href="https://cdn.craigmcn.ca/img/rsz_2012-12-02_140124.jpg?x-request=xhr" data-fslightbox="lightbox"><img class="size-medium wp-image-3572  alignleft" title="Saskatoon riverbank in winter" alt="Saskatoon riverbank in winter" src="https://cdn.craigmcn.ca/img/rsz_2012-12-02_140124-300x225.jpg" width="300" height="225" srcset="https://cdn.craigmcn.ca/img/rsz_2012-12-02_140124-300x225.jpg 300w, https://cdn.craigmcn.ca/img/rsz_2012-12-02_140124-624x468.jpg 624w, https://cdn.craigmcn.ca/img/rsz_2012-12-02_140124.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 
 Boy, the weather this winter sure has gotten me down. I&#8217;ve worked from home a couple of times, mostly because I just couldn&#8217;t bring myself to get ready and go to work. (Partly, people at work bug the hell out of me, but that&#8217;s a different situation.)
 

@@ -10,7 +10,8 @@ tags:
   - Lifehacker
   - productivity
 ---
-<img class="alignleft" title="Broom and Dustpan" src="https://dv8b8dkxht4vb.cloudfront.net/img/spring-cleaning.png" alt="Broom and Dustpan - image" />
+
+<img class="alignleft" title="Broom and Dustpan" src="https://cdn.craigmcn.ca/img/spring-cleaning.png" alt="Broom and Dustpan - image" />
 
 [Lifehacker turned me onto the topic](http://lifehacker.com/5705014/make-conquering-housework-a-habit-with-the-1+minute-rule) and I was skeptical, until I read the source article, which was much clearer. Lifehacker’s examples (taking out the trash/recycling, washing a couple of dishes) seem like much more than one minute’s work. But [Gretchen Rubin’s examples](http://www.happiness-project.com/happiness_project/about.html) (throw away the junk mail, put the peanut-butter jar back in the cabinet, close the cabinet door) are much more realistic.
 

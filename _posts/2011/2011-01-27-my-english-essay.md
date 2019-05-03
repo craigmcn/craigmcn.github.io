@@ -10,6 +10,7 @@ tags:
   - language
   - writing
 ---
-Hey everybody! I just finished writing my first essay for my English class and wouldn&#8217;t mind a little feedback. [Check it out](https://dv8b8dkxht4vb.cloudfront.net/img/beowulf.pdf "Beowulf"), and let me know what you think. Feel free to say anything. I might not do anything with your feedback, but you never know.
+
+Hey everybody! I just finished writing my first essay for my English class and wouldn&#8217;t mind a little feedback. [Check it out](https://cdn.craigmcn.ca/img/beowulf.pdf 'Beowulf'), and let me know what you think. Feel free to say anything. I might not do anything with your feedback, but you never know.
 
 Thanks.

@@ -17,6 +17,7 @@ format: image
 redirect_from:
   - /post/21726525285
 ---
-<img class="alignnone size-full wp-image-36" src="https://dv8b8dkxht4vb.cloudfront.net/img/tumblr_m2ztshr6TO1qlv5s6o1_1280.jpg" alt="" width="960" height="960" srcset="https://dv8b8dkxht4vb.cloudfront.net/img/tumblr_m2ztshr6TO1qlv5s6o1_1280.jpg 960w, https://dv8b8dkxht4vb.cloudfront.net/img/tumblr_m2ztshr6TO1qlv5s6o1_1280-150x150.jpg 150w, https://dv8b8dkxht4vb.cloudfront.net/img/tumblr_m2ztshr6TO1qlv5s6o1_1280-300x300.jpg 300w" sizes="(max-width: 960px) 100vw, 960px" />
+
+<img class="alignnone size-full wp-image-36" src="https://cdn.craigmcn.ca/img/tumblr_m2ztshr6TO1qlv5s6o1_1280.jpg" alt="" width="960" height="960" srcset="https://cdn.craigmcn.ca/img/tumblr_m2ztshr6TO1qlv5s6o1_1280.jpg 960w, https://cdn.craigmcn.ca/img/tumblr_m2ztshr6TO1qlv5s6o1_1280-150x150.jpg 150w, https://cdn.craigmcn.ca/img/tumblr_m2ztshr6TO1qlv5s6o1_1280-300x300.jpg 300w" sizes="(max-width: 960px) 100vw, 960px" />
 
 This seems like a real waste of a very nice reproduction of a historical monument.

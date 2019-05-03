@@ -10,7 +10,8 @@ tags:
   - Daily Writing Tips
   - word choices
 ---
-<img class="alignright" title="Bite Me toilet" src="https://dv8b8dkxht4vb.cloudfront.net/img/bite-me-toilet-200.jpg" alt="Bite Me toilet - image" />
+
+<img class="alignright" title="Bite Me toilet" src="https://cdn.craigmcn.ca/img/bite-me-toilet-200.jpg" alt="Bite Me toilet - image" />
 
 I noticed this posted on [Daily Writing Tips](http://www.dailywritingtips.com/fleshing-out-and-flushing-out/), but didn’t really think it was a thing until my boss said it the other day, “flush it out,” meaning that we would work out a response or solution.
 

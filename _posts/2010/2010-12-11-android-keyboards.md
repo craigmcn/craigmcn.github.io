@@ -11,7 +11,8 @@ tags:
   - Swype
   - ThickButtons
 ---
-<img class="alignleft" title="HTC Desire" src="https://dv8b8dkxht4vb.cloudfront.net/img/htc-desire.jpg" alt="HTC Desire - image" />
+
+<img class="alignleft" title="HTC Desire" src="https://cdn.craigmcn.ca/img/htc-desire.jpg" alt="HTC Desire - image" />
 
 I don’t think I really hyped it up much, but I got myself an Android phone a few months ago. An [HTC Desire](http://www.htc.com/www/product/desire/overview.html), to be specific, and I love it. What I especially love is the apps, and that if you’re not happy with the defaults, you can probably find something else.
 

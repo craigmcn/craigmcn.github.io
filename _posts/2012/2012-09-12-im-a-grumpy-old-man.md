@@ -9,7 +9,8 @@ tags:
   - complaints
   - nostalgia
 ---
-<img class="alignleft size-full wp-image-3062" title="Grumpy old man" src="https://dv8b8dkxht4vb.cloudfront.net/img/old-man.jpg" alt="Grumpy old man" width="175" height="262" />
+
+<img class="alignleft size-full wp-image-3062" title="Grumpy old man" src="https://cdn.craigmcn.ca/img/old-man.jpg" alt="Grumpy old man" width="175" height="262" />
 
 With the migration of all my blog posts from bigcracker.ca and craigmcn.tumblr.com, I&#8217;ve been reviewing all the posts for broken links and adding new [WordPress](http://wordpress.org/) [metadata](http://en.wikipedia.org/wiki/Metadata) to them.
 

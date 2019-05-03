@@ -1,10 +1,10 @@
 ---
 title: Remembrance Day 2013
 date: 2013-11-11T10:39:52+00:00
-excerpt: "They shall grow not old, as we that are left grow old;
+excerpt: 'They shall grow not old, as we that are left grow old;
   Age shall not weary them, nor the years condemn.
   At the going down of the sun and in the morning
-  We will remember them. (We will remember them.)"
+  We will remember them. (We will remember them.)'
 layout: post
 categories:
   - Opinion
@@ -12,17 +12,18 @@ categories:
 tags:
   - Remembrance Day
 ---
-> <img class="alignleft size-full wp-image-3663" alt="poppies" src="https://dv8b8dkxht4vb.cloudfront.net/img/image001.jpg" width="97" height="97" />They shall grow not old, as we that are left grow old;
-  
+
+> <img class="alignleft size-full wp-image-3663" alt="poppies" src="https://cdn.craigmcn.ca/img/image001.jpg" width="97" height="97" />They shall grow not old, as we that are left grow old;
+
 > Age shall not weary them, nor the years condemn.
-  
+
 > At the going down of the sun and in the morning
-  
+
 > We will remember them. (We will remember them.)
-  
+
 > — [Laurence Binyon (1914)](http://www.firstworldwar.com/poetsandprose/binyon.htm)
 
-The [white poppy v. red poppy debate](remembrance-poppies-red-v-white.html "Remembrance Poppies: Red v. White") [came up again this year](http://saskatoon.ctvnews.ca/video?clipId=1039666). I&#8217;m disappointed. Again, I argue that while the white poppy may be intended to promote peace, the red poppy does not promote nor glorify war. I don’t believe that anyone wearing a red poppy does so in support of war.
+The [white poppy v. red poppy debate](remembrance-poppies-red-v-white.html 'Remembrance Poppies: Red v. White') [came up again this year](http://saskatoon.ctvnews.ca/video?clipId=1039666). I&#8217;m disappointed. Again, I argue that while the white poppy may be intended to promote peace, the red poppy does not promote nor glorify war. I don’t believe that anyone wearing a red poppy does so in support of war.
 
 This day makes me remember my Dad&#8217;s dad who served in Europe in World War Two, and had he been born a few years earlier, could have served in the First World War. It makes me remember my Mom&#8217;s dad who served in Europe in the Second World War. It makes me remember my Mom&#8217;s mom who worked in a munitions factory during World War Two. It makes me remember my Dad&#8217;s mom who was a nurse during the Second World War, and became a nurse partly because the hospitals actually had food regularly. And it makes me think of my Dad and my uncle who wouldn&#8217;t have been born if my grandparents hadn&#8217;t met in the Netherlands and my Nana hadn&#8217;t chosen to immigrate to Canada. This story is repeated with my stepmom&#8217;s parents.
 

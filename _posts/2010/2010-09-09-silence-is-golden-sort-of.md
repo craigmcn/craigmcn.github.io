@@ -11,7 +11,8 @@ tags:
   - productivity
   - typing
 ---
-<img class="alignleft" title="silence" src="https://dv8b8dkxht4vb.cloudfront.net/img/silence.gif" alt="silence - image" />
+
+<img class="alignleft" title="silence" src="https://cdn.craigmcn.ca/img/silence.gif" alt="silence - image" />
 
 Sorry for my extended silence this week. I&#8217;ve been working on redesigning this site and have run into some problems. I was hoping to clean up the URLs and folders, but that has revealed issues in some other areas. Don&#8217;t worry, I&#8217;ll sort it out.
 

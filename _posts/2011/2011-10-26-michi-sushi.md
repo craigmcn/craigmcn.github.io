@@ -1,7 +1,7 @@
 ---
 title: Michi Sushi
 date: 2011-10-26T14:20:00+00:00
-excerpt: "The service was excellent, and the servers easy on the eyes. I sat at the counter and watched the sushi chefs whipping up some excellent-looking dishes."
+excerpt: 'The service was excellent, and the servers easy on the eyes. I sat at the counter and watched the sushi chefs whipping up some excellent-looking dishes.'
 layout: post
 categories:
   - Opinion
@@ -12,11 +12,12 @@ tags:
 redirect_from:
   - /post/11959692337
 ---
-<img src="https://dv8b8dkxht4vb.cloudfront.net/img/michi-asahi-beer.jpg" alt="Asahi Beer at Michi Sushi" height="300" align="left" />
 
-<img src="https://dv8b8dkxht4vb.cloudfront.net/img/michi-black-sesame-ice-cream.jpg" alt="Black Sesame Ice Cream at Michi Sushi" width="300" align="left" />
+<img src="https://cdn.craigmcn.ca/img/michi-asahi-beer.jpg" alt="Asahi Beer at Michi Sushi" height="300" align="left" />
 
-Sorry, I’m not accustomed to taking pictures of my food to share with people, so I don’t have a picture of my delicious Bento box from [Michi Sushi](http://www.michi.ca/ "Michi Japanese Restaurant & Sushi Bar"). Salad, glass noodles, sashimi, tempura, teriyaki beef. Very tasty.
+<img src="https://cdn.craigmcn.ca/img/michi-black-sesame-ice-cream.jpg" alt="Black Sesame Ice Cream at Michi Sushi" width="300" align="left" />
+
+Sorry, I’m not accustomed to taking pictures of my food to share with people, so I don’t have a picture of my delicious Bento box from [Michi Sushi](http://www.michi.ca/ 'Michi Japanese Restaurant & Sushi Bar'). Salad, glass noodles, sashimi, tempura, teriyaki beef. Very tasty.
 
 I have a picture of the Asahi beer, and the black sesame ice cream.
 

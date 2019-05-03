@@ -12,6 +12,7 @@ format: image
 redirect_from:
   - /post/11748640882
 ---
-<img class="alignnone size-full wp-image-209" src="https://dv8b8dkxht4vb.cloudfront.net/img/tumblr_ltfubdDzmv1qlv5s6o1_1280-1024x612.jpg" alt="My fancy room at the Hotel Saskatchewan." srcset="https://dv8b8dkxht4vb.cloudfront.net/img/tumblr_ltfubdDzmv1qlv5s6o1_1280.jpg 1280w, https://dv8b8dkxht4vb.cloudfront.net/img/tumblr_ltfubdDzmv1qlv5s6o1_1280-300x179.jpg 300w, https://dv8b8dkxht4vb.cloudfront.net/img/tumblr_ltfubdDzmv1qlv5s6o1_1280-1024x612.jpg 1024w, https://dv8b8dkxht4vb.cloudfront.net/img/tumblr_ltfubdDzmv1qlv5s6o1_1280-500x300.jpg 500w" sizes="(max-width: 1024px) 80vw, (max-width: 1280px) 100vw, 1280px" />
+
+<img class="alignnone size-full wp-image-209" src="https://cdn.craigmcn.ca/img/tumblr_ltfubdDzmv1qlv5s6o1_1280-1024x612.jpg" alt="My fancy room at the Hotel Saskatchewan." srcset="https://cdn.craigmcn.ca/img/tumblr_ltfubdDzmv1qlv5s6o1_1280.jpg 1280w, https://cdn.craigmcn.ca/img/tumblr_ltfubdDzmv1qlv5s6o1_1280-300x179.jpg 300w, https://cdn.craigmcn.ca/img/tumblr_ltfubdDzmv1qlv5s6o1_1280-1024x612.jpg 1024w, https://cdn.craigmcn.ca/img/tumblr_ltfubdDzmv1qlv5s6o1_1280-500x300.jpg 500w" sizes="(max-width: 1024px) 80vw, (max-width: 1280px) 100vw, 1280px" />
 
 My fancy room at the Hotel Saskatchewan.

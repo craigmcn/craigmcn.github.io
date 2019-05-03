@@ -9,7 +9,8 @@ categories:
 tags:
   - mice
 ---
-<img class="alignleft" title="Mouse in Swiss Cheese" src="https://dv8b8dkxht4vb.cloudfront.net/img/mouse-swiss-cheese.jpg" alt="Mouse in Swiss Cheese - image" />
+
+<img class="alignleft" title="Mouse in Swiss Cheese" src="https://cdn.craigmcn.ca/img/mouse-swiss-cheese.jpg" alt="Mouse in Swiss Cheese - image" />
 
 I have mice living in my house. Gross, I know, but  a fact of life and a problem I&#8217;m trying to solve. I have a dog in the house, so my efforts include some safety precautions. No poisons, and no traps out during the day for puppy to get into. I&#8217;m not interested in live traps—sorry, folks—I&#8217;m interested in killing the mice dead; no more mice to get into my house.
 

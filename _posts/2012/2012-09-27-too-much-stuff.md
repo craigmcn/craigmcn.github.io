@@ -10,8 +10,9 @@ tags:
   - consumerism
   - consumption
 ---
+
 <div id="attachment_3290" style="width: 310px" class="wp-caption alignleft">
-  <a href="https://dv8b8dkxht4vb.cloudfront.net/img/too-much-stuff.jpg" data-fslightbox="lightbox"><img class="size-medium wp-image-3290" title="too-much-stuff" src="https://dv8b8dkxht4vb.cloudfront.net/img/too-much-stuff-300x213.jpg" alt="Too Much Stuff!" width="300" height="213" srcset="https://dv8b8dkxht4vb.cloudfront.net/img/too-much-stuff-300x213.jpg 300w, https://dv8b8dkxht4vb.cloudfront.net/img/too-much-stuff-421x300.jpg 421w, https://dv8b8dkxht4vb.cloudfront.net/img/too-much-stuff.jpg 550w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://cdn.craigmcn.ca/img/too-much-stuff.jpg?x-request=xhr" data-fslightbox="lightbox"><img class="size-medium wp-image-3290" title="too-much-stuff" src="https://cdn.craigmcn.ca/img/too-much-stuff-300x213.jpg" alt="Too Much Stuff!" width="300" height="213" srcset="https://cdn.craigmcn.ca/img/too-much-stuff-300x213.jpg 300w, https://cdn.craigmcn.ca/img/too-much-stuff-421x300.jpg 421w, https://cdn.craigmcn.ca/img/too-much-stuff.jpg 550w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     © Car Culture/Getty Images

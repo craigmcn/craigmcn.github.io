@@ -10,6 +10,7 @@ tags:
   - photos
 format: gallery
 ---
-Sometimes, when I look out my back window, there&#8217;s a <span class="gallery"><a href="https://dv8b8dkxht4vb.cloudfront.net/img/Giant-Girl-drinking-milk-1024x768.jpg">giant girl drinking milk</a></span> behind my house.
+
+Sometimes, when I look out my back window, there&#8217;s a <span class="gallery"><a href="https://cdn.craigmcn.ca/img/Giant-Girl-drinking-milk-1024x768.jpg?x-request=xhr">giant girl drinking milk</a></span> behind my house.
 
 Strange.

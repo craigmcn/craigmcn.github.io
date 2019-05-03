@@ -19,14 +19,14 @@
     content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <meta property="og:description"
     content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="og:image" content="https://dv8b8dkxht4vb.cloudfront.net/img/tartan_dark_reg_1x.sm.jpg">
+  <meta property="og:image" content="https://cdn.craigmcn.ca/img/tartan_dark_reg_1x.sm.jpg">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@craigmcn">
   <meta name="twitter:title"
     content="{% if pageTitle != '' %}{{ pageTitle | escape }}{% else %}{{ site.title | escape }}{% endif %}">
   <meta name="twitter:description"
     content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:image" content="https://dv8b8dkxht4vb.cloudfront.net/img/tartan_dark_reg_1x.sm.jpg">
+  <meta name="twitter:image" content="https://cdn.craigmcn.ca/img/tartan_dark_reg_1x.sm.jpg">
 
   <link rel="stylesheet" href="/css/fslightbox.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
