@@ -69,7 +69,7 @@ layout: default
 	{%- endif -%}
 	{%- endfor -%}
 	{%- if score > 2 -%}
-	{%- capture item -%}<div class="related-posts-item"><a href="{{ post.url }}"
+	{%- capture item -%}<div class="related-posts__item"><a href="{{ post.url }}"
 			title="{{ post.excerpt }}">{{ post.title }}</a><br><span class="text-small"><time
 				datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y %B %-d" }}</time></span></div>
 	{%- endcapture -%}
@@ -84,7 +84,7 @@ layout: default
 	{%- if related.size > 0 -%}
 	<div class="related-posts">
 		<h3>Related</h3>
-		<div class="related-posts-grid">
+		<div class="related-posts__grid">
 			{%- for item in related -%}
 			{{ item }}
 			{%- endfor -%}

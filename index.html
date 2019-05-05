@@ -5,7 +5,7 @@ layout: default
 {%- for post in site.posts limit:8 -%}
 <article class="page-content__article" aria-labelledby="post-{{ post.title | slugify }}">
   <h2>
-    <a id="post-{{ post.title | slugify }}" class="post-link"
+    <a id="post-{{ post.title | slugify }}" class="post__link"
       href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     <span class="subtitle">{{ post.date | date: "%b %-d, %Y" }}</span>
   </h2>

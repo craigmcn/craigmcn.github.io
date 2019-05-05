@@ -5,6 +5,7 @@ layout: null
 {%- for post in site.posts -%}
   {
     "url": "{{ post.url | prepend: site.baseurl }}",
+    "slug": "{{ post.title | slugify }}",
     "title": "{{ post.title }}",
     "date": "{{ post.date | date: "%Y %B %-d" }}",
     "excerpt": "{{- post.excerpt -}}",

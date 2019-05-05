@@ -28,7 +28,9 @@
     content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="twitter:image" content="https://cdn.craigmcn.ca/img/tartan_dark_reg_1x.sm.jpg">
 
+  {%- if page.layout == "post" -%}
   <link rel="stylesheet" href="/css/fslightbox.min.css">
+  {%- endif -%}
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
   <script>
     (function (i, s, o, g, r, a, m) {

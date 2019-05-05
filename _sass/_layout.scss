@@ -80,7 +80,7 @@ footer {
   }
 }
 
-.post-link {
+.post__link {
   text-decoration: none;
 }
 
@@ -143,7 +143,7 @@ a.toggle {
   vertical-align: middle;
 }
 
-.post-content {
+.post__content {
   &:after {
     clear: both;
     content: '';
@@ -182,7 +182,7 @@ a.toggle {
   padding: $spacing * 0.5 0;
 }
 
-.related-posts-item {
+.related-posts__item {
   margin-bottom: $spacing;
 }
 
@@ -234,17 +234,17 @@ a.toggle {
   .site-search__input {
     width: 20em;
   }
-  .related-posts-grid {
+  .related-posts__grid {
     display: -moz-flex;
     display: -webkit-flex;
     display: flex;
   }
-  .related-posts-item {
+  .related-posts__item {
     -moz-flex: 1 0 auto;
     -webkit-flex: 1 0 auto;
     flex: 1 0 auto;
   }
-  .related-posts-item {
+  .related-posts__item {
     color: $midgrey;
     max-width: 16.5rem;
   }

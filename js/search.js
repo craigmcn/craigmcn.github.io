@@ -28,21 +28,21 @@ if (l.length === 0) {
       if (results.length > 0) {
         results.forEach(r => {
           resultsList.push(
-            '<div><h3><a href="' +
-              r.url +
-              '">' +
-              r.title +
-              '</a> <span class="subtitle">' +
-              r.date +
-              '</span></h3><p>' +
-              r.excerpt +
-              '</p></div>'
+            `<article class="page-content__article" aria-labelledby="post-${
+              r.slug
+            }">
+            <h2>
+              <a id="post-${r.slug}" class="post__link" href="${r.url}">${
+              r.title
+            }</a>
+              <span class="subtitle">'${r.date}</span></h2>
+            <p>${r.excerpt}</p>
+            </article>`
           )
         })
         resultsEl.innerHTML = resultsList.join('\n')
       } else {
-        resultsEl.innerHTML =
-          'Your search for <em>' + q + '</em> returned no results.'
+        resultsEl.innerHTML = `Your search for <em>${q}</em> returned no results.`
       }
     })
     .catch(error => console.error(error))
