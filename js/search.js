@@ -35,7 +35,7 @@ if (l.length === 0) {
               <a id="post-${r.slug}" class="post__link" href="${r.url}">${
               r.title
             }</a>
-              <span class="subtitle">'${r.date}</span></h2>
+              <span class="subtitle">${r.date}</span></h2>
             <p>${r.excerpt}</p>
             </article>`
           )
