@@ -76,6 +76,8 @@ li {
 
 .subtitle {
   color: $midgrey;
+  display: block;
+  margin-top: 0.5rem;
   h1 &,
   h2 & {
     font-size: 0.8em;
@@ -195,5 +197,11 @@ button,
     position: static;
     width: auto;
     height: auto;
+  }
+}
+
+@include media-query($on-laptop) {
+  .subtitle {
+    display: inline;
   }
 }
