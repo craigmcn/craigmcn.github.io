@@ -55,6 +55,10 @@ iframe[src*='vimeo'] {
   }
 }
 
+.getty-embed--standard {
+    width: 100%;
+}
+
 img[align='left'],
 img[align='right'],
 .alignleft,
@@ -103,4 +107,10 @@ dd.gallery-caption {
   font-size: 80%;
   padding: 2px 4px;
   position: absolute;
+}
+
+@include media-query($on-laptop) {
+  .getty-embed--standard {
+    width: 50%;
+  }
 }
