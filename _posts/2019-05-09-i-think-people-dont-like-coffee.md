@@ -23,7 +23,7 @@ redirect_from: "i-think-people-don-t-like-coffee.html"
 
 No, seriously. I think people don’t like coffee. I was making myself coffee the other morning, and I thought, “I really like drinking coffee.” And then I thought about all the complaints I hear about bad coffee.
 
-People at work tell me the free coffee in the break room is terrible and they either put up with it or don’t even drink it. They make their own freshly ground coffee in a coffee press, from filtered water and specially selected and roasted beans. Or they get a latte or blended coffee beverage from a coffee bar. Or they load up their coffee with creama and sugar.
+People at work tell me the free coffee in the break room is terrible and they either put up with it or don’t even drink it. They make their own freshly ground coffee in a coffee press, from filtered water and specially selected and roasted beans. Or they get a latte or blended coffee beverage from a coffee bar. Or they load up their coffee with cream and sugar.
 
 I think it all points to people not actually liking coffee. They disguise the roasted, bitter flavour with cream and sugar, or steamed milk, and potentially other flavours. Or they only like a specific blend prepared in a specfic way, which seems not much different to me; they only like a very limited kind of coffee.
 
