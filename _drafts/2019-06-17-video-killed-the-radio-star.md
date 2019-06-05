@@ -1,6 +1,6 @@
 ---
 title: "Video Killed The Radio Star"
-date: 2019-06-10T11:45:00-0700
+date: 2019-06-17T11:45:00-0700
 excerpt: "This week’s instalment of Music Monday is Video Killed The Radio Star. The 1980 The Buggles original and a 2019 cover by Walk Off the Earth."
 layout: post
 categories:
