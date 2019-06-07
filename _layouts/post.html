@@ -21,13 +21,13 @@ layout: default
 			<a class="sm-facebook"
 				href="https://www.facebook.com/sharer.php?u={{ site.url | url_param_escape }}{{ page.url | url_param_escape }}&t={{ page.title | url_param_escape }}"
 				title="Share on Facebook" target="_blank" rel="noopener noreferrer">
-				<i class="fa fa-facebook-official fa-2x" aria-hidden="true"></i>
+				<span class="fa fa-facebook-official fa-2x" aria-hidden="true" role="img"></span>
 				<span class="sr-only">Facebook</span>
 			</a>
 			<a class="sm-twitter"
 				href="https://twitter.com/intent/tweet?via={{ site.twitter_username }}&text={{ page.title | url_param_escape }}&url={{ site.url | url_param_escape }}{{ page.url | url_param_escape }}"
 				title="Share on Twitter" target="_blank" rel="noopener noreferrer">
-				<i class="fa fa-twitter fa-2x" aria-hidden="true"></i>
+				<span class="fa fa-twitter fa-2x" aria-hidden="true" role="img"></span>
 				<span class="sr-only">Twitter</span>
 			</a>
 		</p>
@@ -143,11 +143,12 @@ layout: default
 
 <nav class="post__nav">
 	{%- if page.previous.url -%}
-	<a href="{{ page.previous.url }}" title="Previous post: {{ page.previous.title }}"><i class="fa fa-angle-left"></i>
+	<a href="{{ page.previous.url }}" title="Previous post: {{ page.previous.title }}"><span class="fa fa-angle-left"
+			aria-hidden="true" role="img"></span>
 		{{ page.previous.title }}</a>
 	{%- endif -%}
 	{%- if page.next.url -%}
-	<a href="{{ page.next.url }}" title="Next post: {{ page.next.title }}">{{ page.next.title }} <i
-			class="fa fa-angle-right"></i></a>
+	<a href="{{ page.next.url }}" title="Next post: {{ page.next.title }}">{{ page.next.title }} <span
+			class="fa fa-angle-right" aria-hidden="true" role="img"></span></a>
 	{%- endif -%}
 </nav>
