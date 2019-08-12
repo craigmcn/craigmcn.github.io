@@ -18,7 +18,7 @@ This week’s instalment of Music Monday is [_Hotline Bling_](https://en.wikiped
 [Views](https://en.wikipedia.org/wiki/Views_(album)), but released as a single in 2015. The [Daniela Andrade](https://www.danielaandrade.com/)
 version is from a 2015 performance.
 
-To be frank, I think Drake’s version is awful. Daniela Andrade’s version is good, but the content doesn’t fit.
+To be frank, I think the song is generally awful and Drake doesn’t make it better. Daniela Andrade’s version is good, but the content doesn’t fit her style.
 
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uxpDa-c-4Mc" frameborder="0" allowfullscreen title="Video: Hotline Bling by Drake"></iframe>
