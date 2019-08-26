@@ -19,7 +19,7 @@ This week’s instalment of Music Monday is [_Somebody That I Used to Know_](htt
 [Making Mirrors](https://en.wikipedia.org/wiki/Making_Mirrors). The [Walk off the Earth](https://www.walkofftheearth.com/)
 version is from a 2012 performance.
 
-Thanks to a very lovely friend who gave me the scoop from one of [CBC Music’s Under the Cover](https://www.cbc.ca/listen/cbc-music-playlists/369-Covers) features from last week.
+Thanks to a very lovely friend who gave me the scoop from one of [CBC Music’s Under the Covers](https://www.cbc.ca/listen/cbc-music-playlists/369-Covers) features from last week.
 
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8UVNT4wvIGY" frameborder="0" allowfullscreen title="Video: Somebody That I Used to Know by Gotye"></iframe>
