@@ -1,7 +1,7 @@
 ---
-title: 'Cowtown&#8217;s on fire'
+title: "Cowtown’s on fire"
 date: 2006-11-10T23:04:32+00:00
-excerpt: "After a fairly uneventful, but waay too early flight, I'm in beautiful, snowy Calgary, Alberta. When the plane was"
+excerpt: "After a fairly uneventful, but waay too early flight, I’m in beautiful, snowy Calgary, Alberta."
 layout: post
 categories:
   - People
