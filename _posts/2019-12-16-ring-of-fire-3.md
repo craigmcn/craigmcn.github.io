@@ -1,5 +1,5 @@
 ---
-title: "Ring of Fire"
+title: "Ring of Fire (3)"
 date: 2019-12-16T11:45:00-0800
 excerpt: "This week’s instalment of Music Monday is Ring of Fire. The 1963 Johnny Cash original and a 1990 cover by Brian Eno."
 layout: post
