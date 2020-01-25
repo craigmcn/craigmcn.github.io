@@ -13,7 +13,7 @@ tags:
 redirect_from:
   - /post/12749937881
 ---
-<img src="http://dl.dropbox.com/u/8133385/images/once-upon-time-grimm.jpg" alt="Once Upon a Time and Grimm" align="left" />[Once Upon a Time](http://www.imdb.com/title/tt1843230/ "Once Upon a Time") and [Grimm](http://www.imdb.com/title/tt1830617/ "Grimm") are both new television shows that I quite enjoy, but for which I only see limited success, unfortunately. Both are modern retellings (is that a word?) of fairy tales, or rather stories that bring fairy tales into the modern day.
+<img src="https://cdn.craigmcn.ca/img/once-upon-time-grimm.jpg" alt="Once Upon a Time and Grimm" align="left" />[Once Upon a Time](http://www.imdb.com/title/tt1843230/ "Once Upon a Time") and [Grimm](http://www.imdb.com/title/tt1830617/ "Grimm") are both new television shows that I quite enjoy, but for which I only see limited success, unfortunately. Both are modern retellings (is that a word?) of fairy tales, or rather stories that bring fairy tales into the modern day.
 
 In _**Once Upon a Time**_, the land of [Disney] fairy tales has succumbed to a curse put on it by Snow White’s wicked stepmother, the Queen. All of the characters have been transported (?) to the “real world” town of Storybrooke, Maine, where they are oblivious to their past. The only person who knows what’s really happening (apparently) is the transported Queen’s adopted son, Henry Mills, who is the son of the daughter of Snow White and Prince Charming, Emma Swan. The prophecy around the curse is that Emma will return after 28 years to break the curse.
 

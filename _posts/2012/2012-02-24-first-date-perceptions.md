@@ -12,7 +12,7 @@ tags:
 redirect_from:
   - /post/18198625057
 ---
-<img src="http://dl.dropbox.com/u/8133385/images/dating.jpg" alt="Dating" width="300" height="200" align="left" />I had originally titled this post First Date Misconceptions, because I felt that I had misread what was going on, but after a few hours of thought, I think it’s alright.
+<img src="https://cdn.craigmcn.ca/img/dating.jpg" alt="Dating" width="300" height="200" align="left" />I had originally titled this post First Date Misconceptions, because I felt that I had misread what was going on, but after a few hours of thought, I think it’s alright.
 
 It also wasn’t really a first date, more of a short meeting for drinks to talk and get to know each other. Hopefully, a first date will be forthcoming.
 

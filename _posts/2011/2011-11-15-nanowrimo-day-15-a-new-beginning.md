@@ -16,7 +16,7 @@ tags:
 redirect_from:
   - /post/12862647814
 ---
-<img src="http://dl.dropbox.com/u/8133385/images/Firefly___Malcolm_Reynolds_by_Pyroiguana.jpg" alt="Firefly - Malcolm Reynolds by ~Pyroiguana" width="300" height="267" align="right" />Alright, so the story of poor Carter McGill, betrayed and framed by his brother, forced to go on the run to save himself, is going nowhere. So I’ve started something new. I’m counting all the original words, but telling a whole new story.
+<img src="https://cdn.craigmcn.ca/img/Firefly___Malcolm_Reynolds_by_Pyroiguana.jpg" alt="Firefly - Malcolm Reynolds by ~Pyroiguana" width="300" height="267" align="right" />Alright, so the story of poor Carter McGill, betrayed and framed by his brother, forced to go on the run to save himself, is going nowhere. So I’ve started something new. I’m counting all the original words, but telling a whole new story.
 
 I’ve moved into science fiction, with a slight Western feel. Yes, like [Firefly](http://www.fireflywiki.org/ "Firefly"). Who doesn’t love cowboys in space?
 

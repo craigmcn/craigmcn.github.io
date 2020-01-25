@@ -11,7 +11,7 @@ tags:
 redirect_from:
   - /post/20418709863
 ---
-<img src="http://dl.dropbox.com/u/8133385/images/puppy-friends.jpg" alt="Puppy friends" width="300" height="225" align="right" />I’m not sure where this thought came from, but it’s been stuck in my head for a while now:
+<img src="https://cdn.craigmcn.ca/img/puppy-friends.jpg" alt="Puppy friends" width="300" height="225" align="right" />I’m not sure where this thought came from, but it’s been stuck in my head for a while now:
 
 > Just because you and I are friends, doesn’t mean that I’ll like your friends, nor that I should be friends with them.
 

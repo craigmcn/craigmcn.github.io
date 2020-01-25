@@ -16,7 +16,7 @@ redirect_from:
   - /post/18911917861
   - /pragmatism-idealism.html
 ---
-<img src="http://dl.dropbox.com/u/8133385/images/no-plastic-bags.jpg" alt="No Plastic Bags" width="240" height="240" align="left" />The other day, I was asked to sign a petition to ban plastic bags. And while I support the use of reusable bags, it made me think. I certainly don’t like plastic bags [building up in the ocean](http://en.wikipedia.org/wiki/Great_Pacific_Garbage_Patch "Great Pacific Garbage Patch"), drifting through the streets, lining the fence around the landfill, nor getting stuck in my tree for almost two years. But what is the alternative?
+<img src="https://cdn.craigmcn.ca/img/no-plastic-bags.jpg" alt="No Plastic Bags" width="240" height="240" align="left" />The other day, I was asked to sign a petition to ban plastic bags. And while I support the use of reusable bags, it made me think. I certainly don’t like plastic bags [building up in the ocean](http://en.wikipedia.org/wiki/Great_Pacific_Garbage_Patch "Great Pacific Garbage Patch"), drifting through the streets, lining the fence around the landfill, nor getting stuck in my tree for almost two years. But what is the alternative?
 
 A ban on plastic bags seems reasonable: no plastic bags, no plastic bag garbage. But what if I don’t have a reusable bag with me? Can I hope for a paper bag to be available? And what does that environmental impact look like?
 

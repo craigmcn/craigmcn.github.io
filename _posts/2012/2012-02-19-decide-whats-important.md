@@ -13,7 +13,7 @@ tags:
 redirect_from:
   - /post/17895454052
 ---
-<img src="http://dl.dropbox.com/u/8133385/images/important.jpg" alt="Important?" width="240" height="239" align="left" />And do that.
+<img src="https://cdn.craigmcn.ca/img/important.jpg" alt="Important?" width="240" height="239" align="left" />And do that.
 
 That’s my motto. I’m not fantastic about it making it happen myself, but I’m trying to make it what drives me.
 

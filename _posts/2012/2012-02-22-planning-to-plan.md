@@ -13,7 +13,7 @@ tags:
 redirect_from:
   - /post/18080600097
 ---
-<img src="http://dl.dropbox.com/u/8133385/images/planning.jpg" alt="Planning" width="300" height="214" align="right" />I’m driven a little bit nuts right now with planning. Our organization has four-year planning cycles, the second of which is just finishing and the third starting.
+<img src="https://cdn.craigmcn.ca/img/planning.jpg" alt="Planning" width="300" height="214" align="right" />I’m driven a little bit nuts right now with planning. Our organization has four-year planning cycles, the second of which is just finishing and the third starting.
 
 I’m not complaining about the process or the need for planning. The first planning cycle was mostly a top-down approach (here’s what we want to do, how can you make it happen?) and has evolved to a bottom-up approach (what do you want to do? We’ll fit it to a set of organization-wide themes).
 

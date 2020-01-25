@@ -12,7 +12,7 @@ tags:
 redirect_from:
   - /post/12699377508
 ---
-<img src="http://dl.dropbox.com/u/8133385/images/red-white-poppy.jpg" alt="Red and White Poppy" width="263" height="179" align="right" />
+<img src="https://cdn.craigmcn.ca/img/red-white-poppy.jpg" alt="Red and White Poppy" width="263" height="179" align="right" />
 
 I had a different post scheduled for today, but I’ve postponed it to tomorrow to write a commentary on red versus white poppies for Remembrance Day. Yes, Remembrance Day was yesterday, and my brief post with the photo of the National War Memorial I took in 2005 and the stanza from Laurence Binyon’s poem was my short, solemn contribution.
 

@@ -16,7 +16,7 @@ redirect_from:
   - /in-which-im-annoyed-by-a-whiny-whiner.html
   - /in-which-im-annoyed-by-whiny-whiner.html
 ---
-<img src="http://dl.dropbox.com/u/8133385/images/math-400.jpg" alt="Math" width="300" align="right" />
+<img src="https://cdn.craigmcn.ca/img/math-400.jpg" alt="Math" width="300" align="right" />
 
 I posted a little while ago that [university is maybe not for everyone](/university-or-bust.html "University or Bust?"). I didn’t use those words exactly, but that was the message. Recently on the bus to work, which is also the bus to the university, I overheard a student talking overly loudly (I almost suggested he could consider using his “inside voice”) about how he had failed many of his midterms and was generally failing most of his classes. He seemed frustrated that he was taking a geography class and was required to use math. He went on to explain that he had a brighter outlook for his third and fourth years, because he had heard that upper-year students get first pick of classes and then he could take classes that he wanted and would enjoy.
 

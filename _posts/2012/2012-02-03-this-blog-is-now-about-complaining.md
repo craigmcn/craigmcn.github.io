@@ -11,7 +11,7 @@ tags:
 redirect_from:
   - /post/16976707677
 ---
-<img src="http://dl.dropbox.com/u/8133385/images/complain-thumb.jpg" alt="Complaining Cat" width="268" height="213" align="left" />Yes, seriously. I’ve decided that I don’t understand people, and I’m not qualified to engage in debates on topics that relate to how people feel and act.
+<img src="https://cdn.craigmcn.ca/img/complain-thumb.jpg" alt="Complaining Cat" width="268" height="213" align="left" />Yes, seriously. I’ve decided that I don’t understand people, and I’m not qualified to engage in debates on topics that relate to how people feel and act.
 
 The other night, at family dinner, I was discussing how I don’t bother saving for things that I want. If I want to do or buy something and know that I can afford it (immediately or over time, using credit), I’ll do or buy it. Why not? To which I was told that some people (in fact, a lot of people) have already used their maximum credit.
 

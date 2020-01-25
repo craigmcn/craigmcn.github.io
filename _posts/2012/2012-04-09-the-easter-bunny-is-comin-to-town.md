@@ -12,7 +12,7 @@ tags:
 redirect_from:
   - /post/20794395949
 ---
-[<img src="http://dl.dropbox.com/u/8133385/images/the-easter-bunny-is-comin-to-town.jpg" alt="The Easter Bunny is Comin' to Town" align="left" />](http://www.imdb.com/title/tt0075971/ "The Easter Bunny is Comin' to Town")I remember having seen this 1977 made-for-tv movie when I was four years old. I only remember a few pieces, but I also have a cassette tape recording of me discussing the synopsis and mentioning one of the villains of the movie, Gadzooks, the mean grizzly bear.
+[<img src="https://cdn.craigmcn.ca/img/the-easter-bunny-is-comin-to-town.jpg" alt="The Easter Bunny is Comin' to Town" align="left" />](http://www.imdb.com/title/tt0075971/ "The Easter Bunny is Comin' to Town")I remember having seen this 1977 made-for-tv movie when I was four years old. I only remember a few pieces, but I also have a cassette tape recording of me discussing the synopsis and mentioning one of the villains of the movie, Gadzooks, the mean grizzly bear.
 
 Being Easter Sunday, I chose to watch the movie again last night after our big family dinner. What a mess! The movie is not very good. The religious references are poorly done and the story is generally just a random mix of silly stories that try to explain the origins of random Easter traditions (that may or may not exist).
 

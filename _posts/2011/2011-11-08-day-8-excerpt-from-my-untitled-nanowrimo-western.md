@@ -12,7 +12,7 @@ tags:
 redirect_from:
   - /post/12537044569
 ---
-<img width="300" alt="Bowie Knife" src="http://dl.dropbox.com/u/8133385/images/bowie-dark-rider.jpg" align="right" />
+<img width="300" alt="Bowie Knife" src="https://cdn.craigmcn.ca/img/bowie-dark-rider.jpg" align="right" />
 
 It was like something out of a nightmare. It was late, well past dark, when Carter rode the grulla stallion into the barn. The horse became skittish and Carter tried to soothe him with some gentle words. He dismounted and walked the still-bucking horse into his stall. That’s when he noticed that the other horses also seemed restless. Carter walked around the barn, looking for anything amiss, a fox, badger, skunk, anything that might spook the animals.
 

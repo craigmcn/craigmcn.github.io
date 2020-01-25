@@ -14,7 +14,7 @@ tags:
 redirect_from:
   - /post/17615117108
 ---
-<img src="http://dl.dropbox.com/u/8133385/images/expert-pete-prodoehl.jpg" alt="Expert (by Pete Prodoehl)" width="300" height="200" align="right" />I read [Malcolm Gladwell](http://www.gladwell.com/ "gladwell dot com")’s _[Outliers](http://www.gladwell.com/outliers/index.html "Outliers by Malcolm Gladwell")_ last week and it gave me some interesting things to think about.
+<img src="https://cdn.craigmcn.ca/img/expert-pete-prodoehl.jpg" alt="Expert (by Pete Prodoehl)" width="300" height="200" align="right" />I read [Malcolm Gladwell](http://www.gladwell.com/ "gladwell dot com")’s _[Outliers](http://www.gladwell.com/outliers/index.html "Outliers by Malcolm Gladwell")_ last week and it gave me some interesting things to think about.
 
 There is a common understanding that it takes 10,000 hours of focused study in a given endeavour to become an expert in said endeavour. (This is based, in part, on a study done in “the early 1990s by the psychologist K. Anders Ericsson and two colleagues at Berlin’s elite Academy of Music.” [_Outliers_, chapter 2, section 2]).
 

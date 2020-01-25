@@ -15,7 +15,7 @@ tags:
 redirect_from:
   - /post/17042993111
 ---
-<img src="http://dl.dropbox.com/u/8133385/images/rsz_pastry-coffee.jpg" alt="Pastry and coffee" width="300" height="199" align="left" />On the way back to the office after lunch, we began talking about coffee as we passed the Tim Hortons. Somebody asked if I planned to try the [new lattes](http://www.timhortons.com/ca/en/menu/menu_products.html "Tim Hortons Flavoured Lattes") that are on offer. I answered in the negative, not because I’m some sort of coffee snob (I drink Tim’s coffee every now and again), but because I prefer the [handcrafted beverages](http://www.starbucks.com/menu "Starbucks handcrafted beverages") at Starbucks.
+<img src="https://cdn.craigmcn.ca/img/rsz_pastry-coffee.jpg" alt="Pastry and coffee" width="300" height="199" align="left" />On the way back to the office after lunch, we began talking about coffee as we passed the Tim Hortons. Somebody asked if I planned to try the [new lattes](http://www.timhortons.com/ca/en/menu/menu_products.html "Tim Hortons Flavoured Lattes") that are on offer. I answered in the negative, not because I’m some sort of coffee snob (I drink Tim’s coffee every now and again), but because I prefer the [handcrafted beverages](http://www.starbucks.com/menu "Starbucks handcrafted beverages") at Starbucks.
 
 While on the topic, someone else asked if I had tried a particular coffee house and bakery in my neighbourhood, to which I replied in the negative again, with clarification. This particular coffee house and bakery is closed Sundays and Mondays, “to maintain family values”. Okay. Whatever. Be closed, but don’t preach to me at the same time. I feel I’m being judged on my own family values, just because I showed up on a Sunday.
 

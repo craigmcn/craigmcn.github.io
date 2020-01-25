@@ -13,7 +13,7 @@ tags:
 redirect_from:
   - /post/19740358198
 ---
-<img src="http://dl.dropbox.com/u/8133385/images/cute-puppies.jpg" alt="Cute Puppies" width="300" height="187" align="left" />I ended up with a few extra days of work recently because someone mentioned people doing something stupid, and I chose to make it stop.
+<img src="https://cdn.craigmcn.ca/img/cute-puppies.jpg" alt="Cute Puppies" width="300" height="187" align="left" />I ended up with a few extra days of work recently because someone mentioned people doing something stupid, and I chose to make it stop.
 
 A question about my solution came in this morning that forced me to write this post.
 

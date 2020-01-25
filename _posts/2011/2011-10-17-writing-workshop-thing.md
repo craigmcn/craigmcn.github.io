@@ -14,7 +14,7 @@ tags:
 redirect_from:
   - /post/11600307578
 ---
-<img src="http://dl.dropbox.com/u/8133385/images/shaving-kit.jpg" alt="shaving kit" width="300" align="right" />
+<img src="https://cdn.craigmcn.ca/img/shaving-kit.jpg" alt="shaving kit" width="300" align="right" />
 
 I mentioned before about the writing workshop I attended. Here’s another assignment we had, writing about a thing. In my case, I chose to write about a ritual. Again, this is related to the untitled Western I’m contemplating for [NaNoWriMo](http://www.nanowrimo.org/ "National Novel Writing Month").
 

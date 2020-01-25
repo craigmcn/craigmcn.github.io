@@ -16,7 +16,7 @@ redirect_from:
 ---
 _(There was no Day 2, sorry.)_
 
-<img src="http://dl.dropbox.com/u/8133385/images/cowboy-silhouette.jpg" alt="Cowboy Silhouette" height="300" align="right" />When he arrived at the livery, the stable boy took his horse and asked for his name. Being on the run, Carter knew he couldn’t use his own name, but what could he use? He needed something he could remember, and something he could use for a while, wherever he went. He didn’t want to use the name of anyone he knew, he wasn’t far enough from Sierra Blanca that someone might not know the person’s name he chose.
+<img src="https://cdn.craigmcn.ca/img/cowboy-silhouette.jpg" alt="Cowboy Silhouette" height="300" align="right" />When he arrived at the livery, the stable boy took his horse and asked for his name. Being on the run, Carter knew he couldn’t use his own name, but what could he use? He needed something he could remember, and something he could use for a while, wherever he went. He didn’t want to use the name of anyone he knew, he wasn’t far enough from Sierra Blanca that someone might not know the person’s name he chose.
 
 Why hadn’t he thought of something? People on the lam probably came up with a bunch of false names so they always had one ready. What was he going to say?
 

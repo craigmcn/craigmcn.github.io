@@ -16,7 +16,7 @@ tags:
 redirect_from:
   - /post/15133242213
 ---
-<img src="http://dl.dropbox.com/u/8133385/images/new_year_2012_fireworks.jpg" alt="New Year's 2012 Fireworks" width="300" height="169" align="left" />One New Year’s resolution for me. Not a huge list of things that are going to make my life infinitely better, nor make me a phenomenally better person. But kind of a huge list nonetheless.
+<img src="https://cdn.craigmcn.ca/img/new_year_2012_fireworks.jpg" alt="New Year's 2012 Fireworks" width="300" height="169" align="left" />One New Year’s resolution for me. Not a huge list of things that are going to make my life infinitely better, nor make me a phenomenally better person. But kind of a huge list nonetheless.
 
 My New Year’s resolution is to use a To Do list. And a calendar, I suppose. Keep track of the things that I want to do and set up a schedule to get it all done. Not done today or tomorrow, but eventually. And I fully expect that even as things get crossed off the list more things will be added, but all in all things will get done.
 
