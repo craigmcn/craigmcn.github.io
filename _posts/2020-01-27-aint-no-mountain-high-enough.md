@@ -1,7 +1,7 @@
 ---
-title: "Ain't No Mountain High Enough"
+title: "Ain’t No Mountain High Enough"
 date: 2020-01-27T11:45:00-0800
-excerpt: "This week’s instalment of Music Monday is Ain't No Mountain High Enough. The 1967 Marvin Gaye and Tammi Terrell original and a 1970 cover by Diana Ross."
+excerpt: "This week’s instalment of Music Monday is Ain’t No Mountain High Enough. The 1967 Marvin Gaye and Tammi Terrell original and a 1970 cover by Diana Ross."
 layout: post
 categories:
 - People
