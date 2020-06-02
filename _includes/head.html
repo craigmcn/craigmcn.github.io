@@ -27,14 +27,16 @@
     content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <meta property="og:description"
     content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="og:image" content="https://cdn.craigmcn.ca/img/tartan_dark_reg_1x.sm.jpg">
+  <meta property="og:image"
+    content="https://res.cloudinary.com/dwhav0odz/image/upload/v1591110968/tartan_dark_reg_1x.sm_ecfrqk.jpg">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@craigmcn">
   <meta name="twitter:title"
     content="{% if pageTitle != '' %}{{ pageTitle | escape }}{% else %}{{ site.title | escape }}{% endif %}">
   <meta name="twitter:description"
     content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:image" content="https://cdn.craigmcn.ca/img/tartan_dark_reg_1x.sm.jpg">
+  <meta name="twitter:image"
+    content="https://res.cloudinary.com/dwhav0odz/image/upload/v1591110968/tartan_dark_reg_1x.sm_ecfrqk.jpg">
 
   {%- if page.layout == "post" -%}
   <link rel="stylesheet" href="/css/fslightbox.min.css">
