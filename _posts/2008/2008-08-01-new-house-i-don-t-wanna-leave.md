@@ -14,7 +14,9 @@ I was offered, and I took, a half day at work today. Cool, some extra time to ge
 > “Can you get this done today?”
 >
 > “Yup, no problem.”
+>
 > “Oh, but do these 10 other things first.”
+>
 > “Oh, then no, I can’t get it done today.”
 
 Good thing I can get 8 hours worth of work done in 3 and a half!
