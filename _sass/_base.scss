@@ -200,6 +200,27 @@ button,
   }
 }
 
+/* Skip links https://www.youtube.com/watch?v=VUR0I5mqq7I
+ * visually-hidden > :focus isn't performing as expected
+ */
+a.skip-link {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: $primary;
+  color: $primaryContrastAa;
+  padding: 0.5rem;
+  text-align: center;
+  text-decoration: none;
+  transition: translate 150ms ease-in-out;
+  translate: 0 -100%;
+  
+  &:focus {
+    translate: 0;
+  }
+}
+
 @include media-query($on-laptop) {
   .subtitle {
     display: inline;
