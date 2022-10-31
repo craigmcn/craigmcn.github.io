@@ -1,5 +1,4 @@
 ---
-published: false
 title: Best of You
 date: '2022-10-31T11:45:00-0700'
 excerpt: >-
