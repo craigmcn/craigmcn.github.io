@@ -11,6 +11,7 @@ tags:
   - two spaces
 redirect_from:
   - /post/16423475112
+  - /2012/01/24/two-spaces/
 ---
 A [grammar blog](http://btr.michaelkwan.com/2012/01/20/grammar-101-the-internet-changed-everything/ "Grammar 101: The Internet Changed Everything") I read the other day reminded me of a [Slate post](http://www.slate.com/articles/technology/technology/2011/01/space_invaders.html "Space Invaders") from a couple of weeks ago about the practice of adding two spaces after a period when typing. [Farhad Manjoo](http://www.slate.com/authors.farhad_manjoo.html "Farhad Manjoo"), the Slate author, has very strong opinions on the subject, and even consulted typographers for clarification. I checked with the [Modern Language Association](http://www.mla.org/style_faq3 "Modern Language Association") (MLA) website, which provides a non-prescriptive answer.
 
