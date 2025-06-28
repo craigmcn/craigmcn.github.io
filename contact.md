@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 <form id="contact-form" action="https://nqw5473oc2.execute-api.us-east-1.amazonaws.com/dev/static-site-mailer" method="POST" style="width:66.667%">
-  <input type="text" name="_gotcha" style="display:none" />
+  <input type="text" name="_gotcha" class="field-wrapper" />
   <p>
     <label for="name">Name</label>
     <input id="name" type="text" name="name" required>
