@@ -60,5 +60,16 @@ $on-laptop: $content-width;
   }
 }
 
+/* Honeypot */
+.field-wrapper {
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 0;
+  width: 0;
+  z-index: -1;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import 'normalize', 'base', 'layout', 'legacy', 'syntax-highlighting';

@@ -5,7 +5,10 @@ permalink: /contact/
 ---
 
 <form id="contact-form" action="https://nqw5473oc2.execute-api.us-east-1.amazonaws.com/dev/static-site-mailer" method="POST" style="width:66.667%">
-  <input type="text" name="_gotcha" style="display:none" />
+  <p class="field-wrapper">
+    <span class="sr-only">If you are human, please leave this field blank.</span>
+    <input type="text" name="_gotcha" tabindex="-1" autocomplete="nope" />
+  </p>
   <p>
     <label for="name">Name</label>
     <input id="name" type="text" name="name" required>
