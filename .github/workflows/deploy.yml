@@ -24,6 +24,11 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
+      - name: Debug environment
+        run: |
+          pwd
+          ls -la
+          env | grep -i bundle || true
       - name: Install dependencies
         run: bundle install
       - name: Build with Jekyll
