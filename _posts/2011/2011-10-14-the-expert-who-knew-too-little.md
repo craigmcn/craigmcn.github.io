@@ -1,18 +1,19 @@
 ---
 title: The Expert Who Knew Too Little
-date: 2011-10-14T16:29:56+00:00
+date: 2011-10-14 16:29:56 Z
+categories:
+- People
+tags:
+- Dunning-Kruger
+- knowledge
+- novice
+- programming
 excerpt: You don’t even know enough to realize just how little you know.
 layout: post
-categories:
-  - People
-tags:
-  - Dunning-Kruger
-  - knowledge
-  - novice
-  - programming
 redirect_from:
-  - /post/11451635279
+- "/post/11451635279"
 ---
+
 In the last few days, I’ve run across a couple of articles that discuss being an expert. [The first one](http://net.tutsplus.com/articles/do-you-suffer-from-the-dunning-kruger-effect/ "Do You Suffer From the Dunning-Kruger Effect?") mentions the Dunning-Kruger effect and contains the summary quote:
 
 > You don’t even know enough to realize just how little you know.

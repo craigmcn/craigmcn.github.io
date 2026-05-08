@@ -1,15 +1,16 @@
 ---
-title: 'This &#8216;n&#8217; that'
-date: 2007-04-27T20:30:00+00:00
-excerpt: "Just realized that I used “It's all over but the crying” for both posts about the ending of Roll Up the Rim"
-layout: post
+title: This &#8216;n&#8217; that
+date: 2007-04-27 20:30:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - complaints
-  - Facebook
-  - MySpace
-  - Roll Up the Rim
+- complaints
+- Facebook
+- MySpace
+- Roll Up the Rim
+excerpt: Just realized that I used “It's all over but the crying” for both posts about
+  the ending of Roll Up the Rim
+layout: post
 ---
 
 Nothin&#8217; much. Just realized that I used &#8220;It&#8217;s all over but the crying&#8221; for both posts about the ending of the Roll Up the Rim contest ([2006](/its-all-over-but-the-crying.html), [2007](/its-all-over-but-the-crying-2.html)). Kind of an odd coincidence, I think.

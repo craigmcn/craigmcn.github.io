@@ -1,8 +1,6 @@
 ---
 title: "(I Can’t Get No) Satisfaction"
-date: 2019-05-27T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is (I Can’t Get No) Satisfaction. The 1965 The Rolling Stones original and a 1978 cover by Devo."
-layout: post
+date: 2019-05-27 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,8 +10,12 @@ tags:
 - video
 - The Rolling Stones
 - Devo
+excerpt: This week’s instalment of Music Monday is (I Can’t Get No) Satisfaction.
+  The 1965 The Rolling Stones original and a 1978 cover by Devo.
+layout: post
 redirect_from: "-i-can-t-get-no-satisfaction.html"
 ---
+
 This week’s instalment of Music Monday is [_(I Can’t Get No) Satisfaction_](https://en.wikipedia.org/wiki/(I_Can%27t_Get_No)_Satisfaction) by
 [The Rolling Stones](http://rollingstones.com/) from their 1965 album,
 [Out of Our Heads](https://en.wikipedia.org/wiki/Out_of_Our_Heads#American_release). The [Devo](http://clubdevo.com/)

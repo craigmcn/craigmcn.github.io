@@ -1,18 +1,20 @@
 ---
-title: "Ahead by a Century"
-date: 2017-10-23T04:45:00-07:00
-excerpt: "This week’s instalment of Music Monday is Ahead by a Century. The 1995 The Tragically Hip original and a 2017 cover by The Jerry Cans."
-layout: post
+title: Ahead by a Century
+date: 2017-10-23 11:45:00 Z
 categories:
-  - People
-  - Music Monday
+- People
+- Music Monday
 tags:
-  - covers
-  - music
-  - video
-  - The Tragically Hip
-  - The Jerry Cans
+- covers
+- music
+- video
+- The Tragically Hip
+- The Jerry Cans
+excerpt: This week’s instalment of Music Monday is Ahead by a Century. The 1995 The
+  Tragically Hip original and a 2017 cover by The Jerry Cans.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Ahead by a Century_](https://en.wikipedia.org/wiki/Ahead_by_a_Century) by [The Tragically Hip](http://thehip.com/) from their 1996 album, [Trouble at the Henhouse](https://en.wikipedia.org/wiki/Trouble_at_the_Henhouse). The [The Jerry Cans](https://www.thejerrycans.com/) version is from a 2017 recording.
 
 <div class="video-container">

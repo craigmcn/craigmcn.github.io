@@ -1,21 +1,20 @@
 ---
-published: true
 title: This Flight Tonight
-date: '2021-12-13T11:45:00-0800'
-excerpt: >-
-  This week’s instalment of Music Monday is This Flight Tonight. The 1971 Joni
+date: 2021-12-13 19:45:00 Z
+categories:
+- People
+- Music Monday
+tags:
+- covers
+- music
+- video
+- Joni Mitchell
+- Nazareth
+excerpt: This week’s instalment of Music Monday is This Flight Tonight. The 1971 Joni
   Mitchell original and a 1973 cover by Nazareth.
 layout: post
-categories:
-  - People
-  - Music Monday
-tags:
-  - covers
-  - music
-  - video
-  - Joni Mitchell
-  - Nazareth
 ---
+
 This week’s instalment of Music Monday is [_This Flight Tonight_](https://en.wikipedia.org/wiki/This_Flight_Tonight) by
 [Joni Mitchell](https://jonimitchell.com/) from her 1971 album,
 [Blue](https://jonimitchell.com/music/album.cfm?id=5). The [Nazareth](https://www.nazarethdirect.co.uk/website/)

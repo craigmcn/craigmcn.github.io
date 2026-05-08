@@ -1,13 +1,15 @@
 ---
 title: Old school LEGO time!
-date: 2008-05-28T17:16:00+00:00
-excerpt: Man, I just found the sweetest website! Gwildor mentioned the other day something about finding old LEGO.
-layout: post
+date: 2008-05-28 17:16:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - toys
+- toys
+excerpt: Man, I just found the sweetest website! Gwildor mentioned the other day something
+  about finding old LEGO.
+layout: post
 ---
+
 Man, I just found the [sweetest website](http://peeron.com/inv)! Gwildor mentioned the other day something about finding old [LEGO™](http://www.lego.com/en-US/default.aspx) instructions on the interweb. I can&#8217;t recall if he mentioned where he found them, but I went [googling](http://www.google.ca/) and found them! Now I have to go back to my dad&#8217;s garage and pull all my LEGO out!
 
 Some of my favourites:

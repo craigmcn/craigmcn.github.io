@@ -1,8 +1,6 @@
 ---
-title: "Kiss from a Rose"
-date: 2019-04-29T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Kiss from a Rose. The 1994 Seal original and a 2011 cover by Mustered Courage."
-layout: post
+title: Kiss from a Rose
+date: 2019-04-29 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Seal
 - Mustered Courage
+excerpt: This week’s instalment of Music Monday is Kiss from a Rose. The 1994 Seal
+  original and a 2011 cover by Mustered Courage.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Kiss from a Rose_](https://en.wikipedia.org/wiki/Kiss_from_a_Rose) by
 [Seal](http://seal.com/) from his 1994 album,
 [Seal](https://en.wikipedia.org/wiki/Seal_(1994_album)). The [Mustered Courage](https://www.facebook.com/musteredcourage)

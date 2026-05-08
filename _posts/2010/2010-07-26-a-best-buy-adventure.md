@@ -1,14 +1,16 @@
 ---
 title: A Best Buy Adventure
-date: 2010-07-26T14:34:00+00:00
-excerpt: ' I went down to the new Best Buy in town yesterday ... what a nuthouse! The only reason I was there was for autographs'
-layout: post
+date: 2010-07-26 14:34:00 Z
 categories:
-  - People
+- People
 tags:
-  - Roughriders
-  - Saskatchewan
+- Roughriders
+- Saskatchewan
+excerpt: " I went down to the new Best Buy in town yesterday ... what a nuthouse!
+  The only reason I was there was for autographs"
+layout: post
 ---
+
 I went down to the new [Best Buy](http://www.bestbuy.ca/en-CA/home.aspx) in town yesterday &#8230; what a nuthouse! The only reason I was there was for autographs from [Andy Fantuz](http://www.cfl.ca/roster/show/id/4579) (I think that crooked smile might be permanent) and [Darian Durant](http://www.riderville.com/roster/show/id/1543) of the [Saskatchewan Roughriders](http://www.riderville.com/). And not even for me, but for little P&E. I picked up a cap and got the peak signed, but I&#8217;m not sure I cared.
 
 The nuthouse part about it was that the autograph signing didn&#8217;t start &#8217;til 13:00h, and even when we got there at about 10:15h, we were already 75<sup>th</sup> in line! There were a bunch of door prizes and daily specials that were only available to the first few people in line, and there were probably close to 300 people in line by the time the doors opened at 11:00h.

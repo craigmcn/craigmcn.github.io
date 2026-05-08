@@ -1,14 +1,15 @@
 ---
 title: 'Music Monday: Followed the Waves'
-date: 2014-04-28T10:48:31+00:00
-excerpt: "Melissa Auf der Maur's Followed the Waves, the first single from her 2004 debut solo album, Auf der Maur."
-layout: post
+date: 2014-04-28 10:48:31 Z
 categories:
-  - People
+- People
 tags:
-  - Melissa Auf der Maur
-  - music
-  - video
+- Melissa Auf der Maur
+- music
+- video
+excerpt: Melissa Auf der Maur's Followed the Waves, the first single from her 2004
+  debut solo album, Auf der Maur.
+layout: post
 ---
 
 <div id="attachment_3823" style="width: 230px" class="wp-caption alignright">

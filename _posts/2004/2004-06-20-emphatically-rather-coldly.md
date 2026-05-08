@@ -1,14 +1,15 @@
 ---
 title: Emphatically and rather coldly
-date: 2004-06-20T11:19:34+00:00
-excerpt: "Obviously, I'm not important enough to merit comments about my boycotting of the staff barbecue"
-layout: post
+date: 2004-06-20 11:19:34 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - complaints
-  - Liz Phair
-  - music
+- complaints
+- Liz Phair
+- music
+excerpt: Obviously, I'm not important enough to merit comments about my boycotting
+  of the staff barbecue
+layout: post
 ---
 
 Obviously, I&#8217;m not important enough to merit comments about my boycotting of the staff barbecue — thanks for _your_ input, K — fine! Anyway, as you can well imagine, I didn&#8217;t go. And nobody noticed. Well, I guess a couple of people noticed, and maybe more, but only 1 person actually said something&#8230; &#8220;Ha! You forgot about the barbecue?&#8221; (imagine this in a _Wayne&#8217;s World_-esque tone) &#8230; &#8220;No,&#8221; I responded, concisely, emphatically and rather coldly.

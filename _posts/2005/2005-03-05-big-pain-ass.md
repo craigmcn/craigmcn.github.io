@@ -1,13 +1,15 @@
 ---
 title: A big pain in the ass
-date: 2005-03-05T09:54:26+00:00
-excerpt: "A quick shout out to Wublub for passing exam 1 in his CSC course! Good on ya!I'm hoping you guys can help me with"
-layout: post
+date: 2005-03-05 09:54:26 Z
 categories:
-  - People
+- People
 tags:
-  - life
+- life
+excerpt: A quick shout out to Wublub for passing exam 1 in his CSC course! Good on
+  ya!I'm hoping you guys can help me with
+layout: post
 ---
+
 A quick shout out to Wublub for passing exam 1 in his <a href="https://www.csi.ca/student/en_ca/courses/financial/csc.xhtml" target="_blank">CSC</a> course! Good on ya!
 
 I&#8217;m hoping you guys can help me with something that&#8217;s on my mind. You provided me with all kinds of insight [last year] when I made some <a href="/cyberbullying.html" target="_blank">comments about bullying</a>, so I hope you can do likewise in this case&#8230;

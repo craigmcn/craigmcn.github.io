@@ -1,8 +1,6 @@
 ---
-title: "I Just Wanna Make Love To You"
-date: 2019-03-04T11:45:00-0800
-excerpt: "This week’s instalment of Music Monday is I Just Wanna Make Love To You. The 1960 Etta James original and a 2019 cover by Whitehorse."
-layout: post
+title: I Just Wanna Make Love To You
+date: 2019-03-04 19:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Etta James
 - Whitehorse
+excerpt: This week’s instalment of Music Monday is I Just Wanna Make Love To You.
+  The 1960 Etta James original and a 2019 cover by Whitehorse.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_I Just Wanna Make Love To You_](https://en.wikipedia.org/wiki/I_Just_Want_to_Make_Love_to_You) by
 [Etta James](https://en.wikipedia.org/wiki/Etta_James) from her 1960 album,
 [At Last!](https://en.wikipedia.org/wiki/At_Last!). The [Whitehorse](http://whitehorsemusic.ca/)

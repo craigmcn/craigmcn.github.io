@@ -1,11 +1,13 @@
 ---
 title: See my vest
-date: 2007-09-05T17:44:29+00:00
-excerpt: "I'm not sure what brought this to mind, but, man, I love it!See My Vest -- a song from The Simpsons, sung by C. Montgomery Burns"
-layout: post
+date: 2007-09-05 17:44:29 Z
 categories:
-  - Funny
+- Funny
+excerpt: I'm not sure what brought this to mind, but, man, I love it!See My Vest --
+  a song from The Simpsons, sung by C. Montgomery Burns
+layout: post
 ---
+
 I&#8217;m not sure what brought this to mind, but, man, I love it!
 
 > **See My Vest

@@ -1,19 +1,22 @@
 ---
 title: Four-way Stop
-date: 2012-06-04T09:48:19+00:00
-excerpt: I should have posted something Friday when it happened and I was still enraged. It would have been full of profanity and somewhat rambling. I was coming home on my bike and stopped at a four-way stop.
-layout: post
+date: 2012-06-04 09:48:19 Z
 categories:
-  - Funny
+- Funny
 tags:
-  - four-way stop
-  - honking
-  - idiots
-  - traffic
+- four-way stop
+- honking
+- idiots
+- traffic
+excerpt: I should have posted something Friday when it happened and I was still enraged.
+  It would have been full of profanity and somewhat rambling. I was coming home on
+  my bike and stopped at a four-way stop.
+layout: post
 format: video
 redirect_from:
-  - /post/24405822760
+- "/post/24405822760"
 ---
+
 <div class="video-container">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/5XdohA-4tQ0" frameborder="0" allowfullscreen></iframe>
 </div>

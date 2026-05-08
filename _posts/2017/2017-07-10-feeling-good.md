@@ -1,18 +1,20 @@
 ---
-title: "Feeling Good"
-date: 2017-07-10T11:45:00-06:00
-excerpt: "This week’s instalment of Music Monday is Feeling Good. The 1965 Nina Simone original and a 2005 cover by Michael Bublé."
-layout: post
+title: Feeling Good
+date: 2017-07-10 17:45:00 Z
 categories:
-  - People
-  - Music Monday
+- People
+- Music Monday
 tags:
-  - covers
-  - music
-  - video
-  - Nina Simone
-  - Michael Bublé
+- covers
+- music
+- video
+- Nina Simone
+- Michael Bublé
+excerpt: This week’s instalment of Music Monday is Feeling Good. The 1965 Nina Simone
+  original and a 2005 cover by Michael Bublé.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Feeling Good_](https://en.wikipedia.org/wiki/Feeling_Good) by [Nina Simone](http://www.ninasimone.com/) from her 1965 album, [I Put a Spell on You](https://en.wikipedia.org/wiki/I_Put_a_Spell_on_You_(album)). The [Michael Bublé](http://michaelbuble.com/) version is from his 2005 album, [It’s Time](https://en.wikipedia.org/wiki/It%27s_Time_(Michael_Bubl%E9_album)).
 
 This song was performed at a high school graduation banquet I attended recently, and I quite enjoyed the song and the banquet.

@@ -1,18 +1,20 @@
 ---
-title: "Hallelujah"
-date: 2016-11-14T11:45:00-07:00
-excerpt: "This week’s instalment of Music Monday is Hallelujah. The 1984 Leonard Cohen original and a 2016 cover by Liz Phair."
-layout: post
+title: Hallelujah
+date: 2016-11-14 18:45:00 Z
 categories:
-  - People
-  - Music Monday
+- People
+- Music Monday
 tags:
-  - covers
-  - music
-  - video
-  - Leonard Cohen
-  - Liz Phair
+- covers
+- music
+- video
+- Leonard Cohen
+- Liz Phair
+excerpt: This week’s instalment of Music Monday is Hallelujah. The 1984 Leonard Cohen
+  original and a 2016 cover by Liz Phair.
+layout: post
 ---
+
 As a tribute to one more terrible loss in 2016, this week’s instalment of Music Monday is [_Hallelujah_](https://en.wikipedia.org/wiki/Hallelujah_(Leonard_Cohen_song)) by [Leonard Cohen](http://leonardcohen.com/) from his 1984 album, [Various Positions](https://en.wikipedia.org/wiki/Various_Positions). The [Liz Phair](http://www.lizphair.com/) version is from her 2016 &#8220;recording on a rainy night by candlelight.&#8221;
 
 <div class="video-container">

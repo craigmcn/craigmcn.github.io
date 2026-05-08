@@ -1,19 +1,25 @@
 ---
 title: Five Days of Three Positives
-date: 2014-08-07T16:12:51+00:00
-excerpt: This past week on Facebook, I posted three positive things for each of five days. I thought this Thoughtful Thursday I could re-post all 15 and the story behind each one. This was such a fantastic exercise, I thoroughly enjoyed it. Some days, it was tough thinking up three positive things. When I just let myself think about the simpler things that made me smile during the day or that made me feel relaxed, it came very easily.
-layout: post
+date: 2014-08-07 16:12:51 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - breathing
-  - dogs
-  - meditation
-  - positive
-  - Thoughtful Thursday
-  - understanding
-  - yoga
+- breathing
+- dogs
+- meditation
+- positive
+- Thoughtful Thursday
+- understanding
+- yoga
+excerpt: This past week on Facebook, I posted three positive things for each of five
+  days. I thought this Thoughtful Thursday I could re-post all 15 and the story behind
+  each one. This was such a fantastic exercise, I thoroughly enjoyed it. Some days,
+  it was tough thinking up three positive things. When I just let myself think about
+  the simpler things that made me smile during the day or that made me feel relaxed,
+  it came very easily.
+layout: post
 ---
+
 <div class="getty embed image alignright">
   <div style="padding:75.104603% 0 0 0">
     <iframe src="//embed.gettyimages.com/embed/162918657?et=vXJOWQrDRpxEiAHqMcztHQ&viewMoreLink=off&sig=vpLMh02bvzwXYRXI-PVIU3KsQCD9AzLnWkC4RjDuVQ8=&caption=true" width="478" height="359" scrolling="no" frameborder="0"></iframe>

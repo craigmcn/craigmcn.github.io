@@ -1,15 +1,17 @@
 ---
 title: Almost boycotting
-date: 2007-12-10T09:00:00+00:00
-excerpt: "Some of you may know my boycott of McDonald's for discontinuing one of their breakfast sandwiches -- ongoing now for"
-layout: post
+date: 2007-12-10 09:00:00 Z
 categories:
-  - Funny
-  - Opinion
-  - People
+- Funny
+- Opinion
+- People
 tags:
-  - customer service
+- customer service
+excerpt: Some of you may know my boycott of McDonald's for discontinuing one of their
+  breakfast sandwiches -- ongoing now for
+layout: post
 ---
+
 Some of you may know my boycott of [McDonald&#8217;s](http://www.mcdonalds.ca/en/food/index.aspx) for discontinuing one of their breakfast sandwiches—ongoing now for about 4 years. Well, I almost ended up boycotting [Zellers](http://www.hbc.com/zellers/) yesterday.
 
 Saturday, I bought a shirt—a nice [Stanfield&#8217;s](http://www.stanfields.com/men/underwear/shirts.html) waffle-pattern, long-sleeved, thermal undershirt. The package had an &#8220;L/G&#8221; sticker on it. I own a large Stanfield&#8217;s waffle-pattern, long-sleeved, thermal undershirt, so I didn&#8217;t feel the need to try this one on, or to examine it any more closely. When I got home and took it out of the package, the tag showed &#8220;XL/TG&#8221;. Not usually a big deal, but the Zellers location is closing and &#8220;all sales final&#8221; signs are posted all over the store.

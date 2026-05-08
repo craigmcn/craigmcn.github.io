@@ -1,16 +1,19 @@
 ---
-title: "Why can’t we make taxes easier?"
-date: 2019-04-11T11:45:00-07:00
-excerpt: "I listened to a podcast about a project that took advantage of the fact that the government already knows most of your tax-related activity and can just send you a completed tax return."
-layout: post
+title: Why can’t we make taxes easier?
+date: 2019-04-11 18:45:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - thoughtfulthursday
-  - economics
-  - taxes
+- thoughtfulthursday
+- economics
+- taxes
+excerpt: I listened to a podcast about a project that took advantage of the fact that
+  the government already knows most of your tax-related activity and can just send
+  you a completed tax return.
+layout: post
 redirect_from: why-can-t-we-make-taxes-easier.html
 ---
+
 <div class="getty embed image alignright"><div style="padding:66.60118% 0 0 0"><iframe src="//embed.gettyimages.com/embed/944708000?et=TPu5S5cNQnRYQZJ1ea3uQQ&tld=ca&sig=gSaoSg-PyaAYtTUlfw_2oOwhl--QvYUeScUzdKozHCk=&caption=true&ver=1" scrolling="no" frameborder="0" width="508" height="339"></iframe></div>
   <p>
     <a href="http://www.gettyimages.ca/detail/944708000" target="_blank" rel="noopener noreferrer">#944708000</a> /

@@ -1,11 +1,13 @@
 ---
 title: Explanations, Apologies and Compromises
-date: 2014-07-31T12:00:14+00:00
-excerpt: "I'd like to draw your attention to one old and two recent posts to explain, apologize and compromise."
-layout: post
+date: 2014-07-31 12:00:14 Z
 categories:
-  - Uncategorized
+- Uncategorized
+excerpt: I'd like to draw your attention to one old and two recent posts to explain,
+  apologize and compromise.
+layout: post
 ---
+
 <div class="getty embed image alignright">
   <div style="padding:102.689487% 0 0 0">
     <iframe src="//embed.gettyimages.com/embed/92194603?et=YcF7WeGQRbdp3TpWl3FRXA&viewMoreLink=off&sig=UTo1rz3SuOV0JHXx9qwslNjMpbtoepHm47qsOCQ-IgQ=&caption=true" width="409" height="420" scrolling="no" frameborder="0"></iframe>

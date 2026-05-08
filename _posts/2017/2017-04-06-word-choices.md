@@ -1,16 +1,18 @@
 ---
-title: "Word Choices"
-date: 2017-04-06T11:45:00-07:00
-excerpt: "Over the last few months I’ve heard about some word choices that better represent the idea being conveyed."
-layout: post
+title: Word Choices
+date: 2017-04-06 18:45:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - thoughtfulthursday
-  - language
-  - politically correct
-  - government
+- thoughtfulthursday
+- language
+- politically correct
+- government
+excerpt: Over the last few months I’ve heard about some word choices that better represent
+  the idea being conveyed.
+layout: post
 ---
+
 <div class="wp-caption alignright">
 <img src="https://pbs.twimg.com/media/C8uk1kdXUAEZcPX.jpg:small" alt="Maxime Bernier's team's response to Senator Lynn Beyak's removal from Aboriginal People's Committee" width="300">
   <p class="wp-caption-text">

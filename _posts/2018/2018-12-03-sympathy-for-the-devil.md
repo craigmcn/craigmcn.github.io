@@ -1,8 +1,6 @@
 ---
-title: "Sympathy for the Devil"
-date: 2018-12-03T11:45:00-0600
-excerpt: "This week’s instalment of Music Monday is Sympathy for the Devil. The 1968 The Rolling Stones original and a 1969 cover by Sandie Shaw."
-layout: post
+title: Sympathy for the Devil
+date: 2018-12-03 17:45:00 Z
 categories:
 - People
 - Music Monday
@@ -13,7 +11,11 @@ tags:
 - video
 - The Rolling Stones
 - Sandie Shaw
+excerpt: This week’s instalment of Music Monday is Sympathy for the Devil. The 1968
+  The Rolling Stones original and a 1969 cover by Sandie Shaw.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Sympathy for the Devil_](https://en.wikipedia.org/wiki/Sympathy_for_the_Devil) by
 [The Rolling Stones](http://rollingstones.com/) from their 1968 album,
 [Beggars Banquet](https://en.wikipedia.org/wiki/Beggars_Banquet). The [Sandie Shaw](http://www.sandieshaw.com/)

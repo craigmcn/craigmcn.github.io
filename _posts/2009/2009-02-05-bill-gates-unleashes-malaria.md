@@ -1,14 +1,16 @@
 ---
 title: Bill Gates unleashes malaria
-date: 2009-02-05T07:59:11+00:00
-excerpt: Bill Gates released a jar of mosquitoes into the audience at the Technology, Entertainment, Design Conference (TED).
-layout: post
+date: 2009-02-05 07:59:11 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - TED
+- TED
+excerpt: Bill Gates released a jar of mosquitoes into the audience at the Technology,
+  Entertainment, Design Conference (TED).
+layout: post
 ---
+
 I was looking for a sensational headline for this post, did it work?
 
 Apparently, Bill Gates [released a jar of mosquitoes](http://www.foxnews.com/story/0,2933,488348,00.html) into the audience at the [Technology, Entertainment, Design Conference (TED)](http://www.ted.com/). His message was about the threat of malaria and that “[t]here is no reason only poor people should be infected.” I love it!

@@ -1,17 +1,19 @@
 ---
-title: 'Paul Wells’ Back Page'
-date: 2004-03-16T09:03:44+00:00
-excerpt: "So, I get the Maclean’s magazine every week, and I read it cover-to-cover. (Even Barbara Amiel’s column.)"
-layout: post
+title: Paul Wells’ Back Page
+date: 2004-03-16 09:03:44 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - constitution
-  - David Miller
-  - provinces
-  - Toronto
-  - Urban Municipalities
+- constitution
+- David Miller
+- provinces
+- Toronto
+- Urban Municipalities
+excerpt: So, I get the Maclean’s magazine every week, and I read it cover-to-cover.
+  (Even Barbara Amiel’s column.)
+layout: post
 ---
+
 So, I get the <a href="http://www.macleans.ca" target="_blank">Maclean&#8217;s</a> magazine every week, and I read it cover-to-cover. (Even Barbara Amiel&#8217;s column, because I need to know what the ultra-right-wing-criminal-billionaire&#8217;s-wife demographic is thinking.) I really like to read <a href="http://www.macleans.ca/paulwells" target="_blank">Paul Wells&#8217;</a> Back Page, he is a really good replacement to Allan Fotheringham. The link will take you to <a href="http://www.macleans.ca/paulwells" target="_blank">Inkless Wells</a>, his Weblog. My discussion focuses on his latest Back Page column. I waited a while to publish this, because it was not available until the new issue hit the newsstands.
 
 The column is about poor David Miller, mayor of Toronto, and his plight to wheedle more money out of the federal government. Not surprisingly, Toronto&#8217;s municipal government is Canda&#8217;s sixth-largest, obviously behind Canada, Ontario, Quebec, BC and Alberta. And yet Toronto is still only a functionary of the Province of Ontario, just like London, Windsor and Sudbury&#8230; only 10 times larger than any 1 of those.

@@ -1,15 +1,17 @@
 ---
 title: Yay for Blue Rodeo!
-date: 2006-01-22T08:30:38+00:00
-excerpt: "I know Big Gwilly doesn't care much for the Blue Rodeo, but they're easily my favourite band of all time. I finally"
-layout: post
+date: 2006-01-22 08:30:38 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - Justin Rutledge
-  - music
-  - review
+- Justin Rutledge
+- music
+- review
+excerpt: I know Big Gwilly doesn't care much for the Blue Rodeo, but they're easily
+  my favourite band of all time. I finally
+layout: post
 ---
+
 I know [Big Gwilly](http://gwild0r.tumblr.com/) doesn&#8217;t care much for the [Blue Rodeo](http://www.bluerodeo.com/), but they&#8217;re easily my favourite band of all time. I finally got a chance to see them again last night at [Massey Hall](http://www.masseyhall.com/), for the first time in 12 years and a day. Seriously, the last time I saw Blue Rodeo perform was January 20, 1994, on their [Five Days in July](http://www.bluerodeo.com/discography/five-days-in-july/) tour. That date sticks in my head because it was the last day I had an actual girlfriend. Yes, I&#8217;ve seen some nice girls since then, but we&#8217;ve never actually dated.
 
 Also, the next day I saw [Rymes with Orange](http://en.wikipedia.org/wiki/Rymes_with_Orange) for the first time (so 12 years ago to the day, as of last night). I have a feeling they opened for someone else, but I don&#8217;t remember, &#8217;cause I was drunk. I&#8217;d been drinking rye and iced tea (&#8217;cause that was all the mix there was) and was absolutely shitfaced. We went to the [campus bar](http://www.ussu.ca/louis/), and I was already wasted. I had a few more drinks. Why, I can&#8217;t possibly imagine. But I proceeded to vomit all over the table I was sitting at and, surprise, surprise, the staff threw me out! They were polite enough to pay for my cab ride home, and Al&#8217;s cab ride back, &#8217;cause he wasn&#8217;t gonna miss the show!!

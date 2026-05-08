@@ -1,16 +1,18 @@
 ---
 title: Holy overreaction, Batman!
-date: 2007-03-09T08:10:22+00:00
-excerpt: "So I'm walking across the mall parking lot to work this morning. At the end of the mall, there is a fairly narrow"
-layout: post
+date: 2007-03-09 08:10:22 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - complaints
-  - driving
-  - idiots
+- complaints
+- driving
+- idiots
+excerpt: So I'm walking across the mall parking lot to work this morning. At the end
+  of the mall, there is a fairly narrow
+layout: post
 ---
+
 So I&#8217;m walking across the mall parking lot to work this morning. At the end of the mall, there is a fairly narrow driveway with a mostly blind corner. Invariably, some jackass flies around the corner (past the poorly marked stop sign) and then has to come to a screeching halt because of other traffic or pedestrians. And that&#8217;s what happened this morning.
 
 From my perspective, drivers have 2 choices: either come flying around that corner and risk the consequences, or stop at the stop sign and proceed cautiously around the building. This dude comes flying around the corner and stops in my path about 2 or 3 metres (3 or 4 steps) away from me. I stop and mutter under my breath, &#8220;Keep movin&#8217;, for Chris&#8217; sake&#8221;, and then proceed to walk around the tool and his car.

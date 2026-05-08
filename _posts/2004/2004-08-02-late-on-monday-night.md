@@ -1,13 +1,14 @@
 ---
 title: Late on a Monday night
-date: 2004-08-02T10:00:04+00:00
-excerpt: Well, a big “Hey, Howdy!” to everyone late on a Monday night. Good news, Gwildor, Wublub and I are now live on
-layout: post
+date: 2004-08-02 10:00:04 Z
 categories:
-  - Technology
+- Technology
 tags:
-  - web hosting
-  - websites
+- web hosting
+- websites
+excerpt: Well, a big “Hey, Howdy!” to everyone late on a Monday night. Good news,
+  Gwildor, Wublub and I are now live on
+layout: post
 ---
 
 Well, a big &#8220;Hey, Howdy!&#8221; to everyone late on a Monday night. Good news, Gwildor, Wublub and I are now live on ExternalGateway.com &#8230; well, I know Gwildor and I have moved our sites over &#8230; with a few wrinkles here and there, but &#8220;Live and Learn&#8221; I always say. Always? Well, maybe not _always_. But I think I&#8217;ve said it, like, once, at least.

@@ -1,16 +1,18 @@
 ---
 title: Another blast from the past
-date: 2009-07-07T10:58:37+00:00
-excerpt: "I really have to remember that my phone takes pictures, then I could show you what I'm talking about. But, alas, no."
-layout: post
+date: 2009-07-07 10:58:37 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - bicycles
-  - Bike Doctor
-  - nostalgia
+- bicycles
+- Bike Doctor
+- nostalgia
+excerpt: I really have to remember that my phone takes pictures, then I could show
+  you what I'm talking about. But, alas, no.
+layout: post
 ---
+
 I really have to remember that [my phone](http://www.motorola.com/motoinfo/product/details.jsp?globalObjectId=236 "Motorola MOTO Q9c") takes pictures, then I could show you what I&#8217;m talking about. But, alas, no picture, so you&#8217;ll just have to trust me.
 
 Almost 20 years ago, I saved up my money and bought myself a $400 mountain bike. I had done some solid research and I bought myself a great bike. (As with everything, it was outdated by the next year.) And obviously a great bike, because when leaving work the other day, I saw it locked up outside [the mall](http://www.midtownplaza.ca/ "Midtown Plaza, Saskatoon").

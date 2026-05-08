@@ -1,11 +1,13 @@
 ---
 title: Questionable advertising
-date: 2007-06-07T10:55:00+00:00
-excerpt: This sort of follows from my previous post about violence. And maybe this is a better topic of study for ad-titude.com,
-layout: post
+date: 2007-06-07 10:55:00 Z
 categories:
-  - Opinion
+- Opinion
+excerpt: This sort of follows from my previous post about violence. And maybe this
+  is a better topic of study for ad-titude.com,
+layout: post
 ---
+
 This sort of follows from my [previous post](/i-dont-know-what-to-say.html) about violence. And maybe this is a better topic of study for [ad-titude.com](http://www.ad-titude.com/), but I&#8217;m going with it.
 
 [The Workplace Safety and Insurance Board (WSIB)](http://www.wsib.on.ca/wsib/wsibsite.nsf/public/home_e) has a public awareness campaign on right now hosted at a website called [prevent-it.ca](http://www.prevent-it.ca/). I see the ads on the subway all the time and I think they&#8217;re highly questionable. They certainly give the impression that we (and especially the targeted youth audience) have become inured to images of violence.

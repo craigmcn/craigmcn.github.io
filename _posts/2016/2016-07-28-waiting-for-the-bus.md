@@ -1,15 +1,18 @@
 ---
 title: Waiting for the Bus
-date: 2016-07-28T11:45:00-07:00
-excerpt: "I see you waiting for the bus. You get on the bus and then you have to search through your bag for your wallet and then extract your bus pass or ticket or change. What the hell were you waiting for?"
-layout: post
+date: 2016-07-28 18:45:00 Z
 categories:
-  - People
+- People
 tags:
-  - blogging
-  - complaints
-  - transit
+- blogging
+- complaints
+- transit
+excerpt: I see you waiting for the bus. You get on the bus and then you have to search
+  through your bag for your wallet and then extract your bus pass or ticket or change.
+  What the hell were you waiting for?
+layout: post
 ---
+
 <div class="getty embed image alignleft">
   <div style="padding:150.000000% 0 0 0">
     <iframe src="//embed.gettyimages.com/embed/454360537?et=3-qPsKv-RwlNiyQBR9k3aw&viewMoreLink=off&sig=DWXSFzjrGa0OoZzSo4jJLLwU2h7fRfPSBbyhdwM4u2k=&caption=true" width="338" height="507" scrolling="no" frameborder="0"></iframe>

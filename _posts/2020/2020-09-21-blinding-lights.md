@@ -1,8 +1,6 @@
 ---
-title: "Blinding Lights"
-date: 2020-09-21T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Blinding Lights. The 2020 Weeknd original and a 2020 cover by Giant Rooks."
-layout: post
+title: Blinding Lights
+date: 2020-09-21 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - The Weeknd
 - Giant Rooks
+excerpt: This week’s instalment of Music Monday is Blinding Lights. The 2020 Weeknd
+  original and a 2020 cover by Giant Rooks.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Blinding Lights_](https://en.wikipedia.org/wiki/Blinding_Lights) by
 [The Weeknd](http://theweeknd.com/) from his 2020 album,
 [After Hours](https://en.wikipedia.org/wiki/After_Hours_(The_Weeknd_album)). The [Giant Rooks](https://www.giant-rooks.com/)

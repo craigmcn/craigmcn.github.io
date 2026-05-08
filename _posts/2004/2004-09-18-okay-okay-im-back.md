@@ -1,13 +1,15 @@
 ---
-title: 'Okay, okay &#8230; I&#8217;m back'
-date: 2004-09-18T12:04:13+00:00
-excerpt: "Okay, okay ... I'm back.I don't have much to say right now, but I read about this in Maclean's and thought I'd"
-layout: post
+title: Okay, okay &#8230; I&#8217;m back
+date: 2004-09-18 12:04:13 Z
 categories:
-  - People
+- People
 tags:
-  - news
+- news
+excerpt: Okay, okay ... I'm back.I don't have much to say right now, but I read about
+  this in Maclean's and thought I'd
+layout: post
 ---
+
 Okay, okay &#8230; I&#8217;m back.
 
 I don&#8217;t have much to say right now, but I read about this in Maclean&#8217;s and thought I&#8217;d share it with you.

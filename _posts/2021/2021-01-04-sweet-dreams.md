@@ -1,8 +1,6 @@
 ---
-title: "Sweet Dreams (Are Made of This)"
-date: 2021-01-04T11:45:00-0800
-excerpt: "This week’s instalment of Music Monday is Sweet Dreams (Are Made of This). The 1983 Eurythmics original and a 1995 cover by Marilyn Manson."
-layout: post
+title: Sweet Dreams (Are Made of This)
+date: 2021-01-04 19:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Eurythmics
 - Marilyn Manson
+excerpt: This week’s instalment of Music Monday is Sweet Dreams (Are Made of This).
+  The 1983 Eurythmics original and a 1995 cover by Marilyn Manson.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Sweet Dreams (Are Made of This)_](https://en.wikipedia.org/wiki/Sweet_Dreams_(Are_Made_of_This)) by
 [Eurythmics](http://eurythmics.com/) from their 1983 album,
 [Sweet Dreams (Are Made of This)](https://en.wikipedia.org/wiki/Sweet_Dreams_(Are_Made_of_This)_(album)). The [Marilyn Manson](http://marilynmanson.com/)

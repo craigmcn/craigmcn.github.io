@@ -1,13 +1,15 @@
 ---
-title: 'Evacuation &#8230; days 4, 5, 6 and 7'
-date: 2006-05-28T00:36:58+00:00
-excerpt: So, the evac was really over Thursday afternoon when my Mommy came into town. We stayed at a hotel near her conference.
-layout: post
+title: Evacuation &#8230; days 4, 5, 6 and 7
+date: 2006-05-28 00:36:58 Z
 categories:
-  - People
+- People
 tags:
-  - construction
+- construction
+excerpt: So, the evac was really over Thursday afternoon when my Mommy came into town.
+  We stayed at a hotel near her conference.
+layout: post
 ---
+
 So, the evac was really over Thursday afternoon when my Mommy came into town. We stayed at a hotel near her conference. I drove my fancy [rental car](http://www.mazda.ca/MciWeb/displayPage.action?pageParameter=modelsMain&vehicleCode=M3S#/home) to work. Then drove back to the hotel after work. I managed to stop by the disaster zone and get some pictures, but the holes were already cemented over.
 
 We spent Saturday in London, visiting Mommy&#8217;s friends and our family. Good times, but a little stressful when visiting my great aunt who has some personal issues, living on her own most of the time, at 85 years old, which tend to alienate people.

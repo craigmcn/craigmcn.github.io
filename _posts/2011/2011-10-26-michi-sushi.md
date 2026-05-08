@@ -1,16 +1,17 @@
 ---
 title: Michi Sushi
-date: 2011-10-26T14:20:00+00:00
-excerpt: 'The service was excellent, and the servers easy on the eyes. I sat at the counter and watched the sushi chefs whipping up some excellent-looking dishes.'
-layout: post
+date: 2011-10-26 14:20:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - customer service
-  - food
-  - review
+- customer service
+- food
+- review
+excerpt: The service was excellent, and the servers easy on the eyes. I sat at the
+  counter and watched the sushi chefs whipping up some excellent-looking dishes.
+layout: post
 redirect_from:
-  - /post/11959692337
+- "/post/11959692337"
 ---
 
 <img src="https://cdn.craigmcn.ca/img/michi-asahi-beer.jpg" alt="Asahi Beer at Michi Sushi" height="300" align="left" />

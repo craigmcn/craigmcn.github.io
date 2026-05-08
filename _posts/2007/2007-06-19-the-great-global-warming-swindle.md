@@ -1,16 +1,18 @@
 ---
 title: The Great Global Warming Swindle
-date: 2007-06-19T05:45:00+00:00
-excerpt: "I've mentioned my Facebook addiction before, and I think I have it under control. But I happened across a friend of a"
-layout: post
+date: 2007-06-19 05:45:00 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - climate change
-  - environment
-  - pollution
+- climate change
+- environment
+- pollution
+excerpt: I've mentioned my Facebook addiction before, and I think I have it under
+  control. But I happened across a friend of a
+layout: post
 ---
+
 I&#8217;ve mentioned my [Facebook](http://www.facebook.com/) addiction before, and I think I have it under control. But I happened across a friend of a friend and found that she was in a group called [The Great Global Warming Swindle](http://www.facebook.com/group.php?gid=2259278396&ref=nf). WTF? You gotta be shitting me!
 
 I don&#8217;t pretend to know what I&#8217;m talking about in this case, so I&#8217;m not going to argue against the science. Maybe climate change is entirely natural. Glaciers have receded before, why not again now? The mean temperature of the earth decreased substantially in the early part of the last millenium, why not warm up a bit now? Sure. Fine. Why not?

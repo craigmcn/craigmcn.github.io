@@ -1,14 +1,16 @@
 ---
 title: Short 1 wisdom tooth
-date: 2004-04-16T09:47:27+00:00
-excerpt: "Hey, Hey! So, I'm home from the Oral Surgeon, short 1 wisdom tooth. Now I'm back to my full complement of 28 (sort of"
-layout: post
+date: 2004-04-16 09:47:27 Z
 categories:
-  - Uncategorized
+- Uncategorized
 tags:
-  - oral surgeon
-  - wisdom teeth
+- oral surgeon
+- wisdom teeth
+excerpt: Hey, Hey! So, I'm home from the Oral Surgeon, short 1 wisdom tooth. Now I'm
+  back to my full complement of 28 (sort of
+layout: post
 ---
+
 Hey, Hey! So, I&#8217;m home from the Oral Surgeon, short 1 wisdom tooth. Now I&#8217;m back to my full complement of 28 (sort of crooked, as most of you well know) teeth. I&#8217;ll give a quick synopsis of the original diagnosis, then a quick story about my morning.
 
 The doctor said that the wisdom tooth was interfering with the nerve that runs along the bottom of my jaw, so any attempt to remove the tooth may result in damage to the nerve. The worst case scenario was that nerve would be permanently damaged, resulting in permanent numbness in my the lower-right part of my face and part of my tongue. He said the risk of this was about 5% to 7%, which I thought was reasonably low. Nope. The doctor said that he prefers to work in ranges of about 0.5% to 1%, so 5 to 7 was kind of high. He said that depending on what he finds in my mouth, 1) He may be able to just yank the tooth, like any other, 2) He may cut the top off the tooth and then work the bottom prt out carefully, or 3) He may cut the top off the tooth and leave the bottom in, under the gum. Sounds good to me. Except, if he leaves the bottom in, it may become infected. Depending how long it takes to discover the infection, it may be life-threatening. Excellent.

@@ -1,21 +1,23 @@
 ---
-title: "Christmas Is Now"
-date: 2016-12-26T11:45:00-07:00
-excerpt: "This week’s instalment of Music Monday is a collection of Xmas songs, featuring Stephen Colbert’s Christmas Is Now."
-layout: post
+title: Christmas Is Now
+date: 2016-12-26 18:45:00 Z
 categories:
-  - People
-  - Music Monday
+- People
+- Music Monday
 tags:
-  - covers
-  - music
-  - video
-  - Stephen Colbert
-  - Christmas
-  - Bad Religion
-  - Twisted Sister
-  - Henry Rollins
+- covers
+- music
+- video
+- Stephen Colbert
+- Christmas
+- Bad Religion
+- Twisted Sister
+- Henry Rollins
+excerpt: This week’s instalment of Music Monday is a collection of Xmas songs, featuring
+  Stephen Colbert’s Christmas Is Now.
+layout: post
 ---
+
 This week’s instalment of Music Monday is a collection of Xmas songs, featuring [Stephen Colbert](http://www.cbs.com/shows/the-late-show-with-stephen-colbert/)’s _Christmas Is Now_.
 
 Also included are Bad Religion, Twisted Sister and Henry Rollins.

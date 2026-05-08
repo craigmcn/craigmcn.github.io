@@ -1,16 +1,19 @@
 ---
 title: 'Music Monday: Rusty Cage'
-date: 2012-09-03T09:21:53+00:00
-excerpt: "I'm going to try some themed posts for a little while. This week's instalment of Music Monday is Rusty Cage. The 1991 original by Soundgarden and the 1996 cover by Johnny Cash."
-layout: post
+date: 2012-09-03 09:21:53 Z
 categories:
-  - People
+- People
 tags:
-  - covers
-  - music
-  - Under the Covers
-  - video
+- covers
+- music
+- Under the Covers
+- video
+excerpt: I'm going to try some themed posts for a little while. This week's instalment
+  of Music Monday is Rusty Cage. The 1991 original by Soundgarden and the 1996 cover
+  by Johnny Cash.
+layout: post
 ---
+
 I&#8217;m going to try some themed posts for a little while. [My sister](http://lauramcnaughton.wordpress.com/) has Poetry Wednesday and Friday&#8217;s Essay, so I thought I might try something myself. I&#8217;ve had fun the last few days posting music videos and I always like CBC Radio 2 Morning&#8217;s [Under the Covers](http://music.cbc.ca/#/blogs/2012/3/Under-the-Covers-Seeking-your-favourite-awesome-cover-songs) feature, thus my feature: Music Monday.
 
 This week&#8217;s, and the debut, instalment is _Rusty Cage_. The 1991 original by [Soundgarden](http://www.soundgardenworld.com/) is the third single from their third studio album (but, I would argue, their first mainstream success), [Badmotorfinger](http://en.wikipedia.org/wiki/Badmotorfinger).

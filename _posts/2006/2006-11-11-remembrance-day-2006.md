@@ -1,12 +1,13 @@
 ---
 title: Remembrance Day 2006
-date: 2006-11-11T12:45:00+00:00
-excerpt: "Even though I'm on vacation in he alienated West, I still made sure to get out to a Remembrance Day ceremony. I met up"
-layout: post
+date: 2006-11-11 12:45:00 Z
 categories:
-  - People
+- People
 tags:
-  - Remembrance Day
+- Remembrance Day
+excerpt: Even though I'm on vacation in he alienated West, I still made sure to get
+  out to a Remembrance Day ceremony. I met up
+layout: post
 ---
 
 Even though I&#8217;m on vacation in the alienated West, I still made sure to get out to a <a href="https://cdn.craigmcn.ca/img/remembrance_day_06-2.jpg?x-request=xhr" data-fslightbox="lightbox">Remembrance Day ceremony</a>. I met up with A&M in downtown Calgary and we went over to <a href="https://cdn.craigmcn.ca/img/remembrance_day_06-1.jpg?x-request=xhr" data-fslightbox="lightbox">the cenotaph</a>. Good ol&#8217; [Ralph Klein](http://www.assembly.ab.ca/lao/library/PREMIERS/klein.htm) was there with [Dave Bronconnier](http://www.joindave.com/) to lay wreaths. I was impressed by the extended applause when a wreath was laid on behalf of a Calgary soldier killed in Afghanistan. I felt super bad for the bagpiper and the brass band who were out there in the freezing cold trying to playing frozen instruments with frozen fingers. It was only about -6°C, but it felt way colder.

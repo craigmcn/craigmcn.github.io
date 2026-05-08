@@ -1,15 +1,17 @@
 ---
 title: The bull-mouse
-date: 2006-02-10T23:00:00+00:00
-excerpt: Whew! Late night, last night!! In fact, early this morning ... I got in about 3am. (Thanks to Shuttergirl for the ride
-layout: post
+date: 2006-02-10 23:00:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - music
-  - review
-  - Toronto
+- music
+- review
+- Toronto
+excerpt: Whew! Late night, last night!! In fact, early this morning ... I got in about
+  3am. (Thanks to Shuttergirl for the ride
+layout: post
 ---
+
 Whew! Late night, last night!! In fact, early this morning &#8230; I got in about 3am. (Thanks to Shuttergirl for the ride home!) I went out to [Sneaky Dee&#8217;s](http://www.sneaky-dees.com/) to watch RLP (Shuttergirl&#8217;s fiancé) shred some wicked guitar! He played 2 tunes, backed-up by Montréal&#8217;s [Bullmoose](http://www.myspace.com/bullmooseband), then the &#8216;Moose played 3 or 4 tunes. The line-up also included [The Exchanges](http://www.myspace.com/theexchanges) (very excellent), San Francisco Treat (also very excellent) and [Kill the Lights](http://www.maplemusic.com/artists/kil/bio.asp) (kinda alright). The show was for the birthdays of The Exchanges&#8217; drummer (whose name I no longer recall) and some girl (who I don&#8217;t recall at all). I have the flier somewhere &#8230; hmmm &#8230; nope.
 
   * The Exchanges were good and loud. The lead singer looks a little like [Casey Affleck](http://www.imdb.com/name/nm0000729/). I liked their stuff.

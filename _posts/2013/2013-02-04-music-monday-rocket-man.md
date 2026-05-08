@@ -1,19 +1,21 @@
 ---
 title: 'Music Monday: Rocket Man'
-date: 2013-02-04T11:19:16+00:00
-excerpt: "This week's instalment of Music Monday is Rocket Man. The 1972 Elton John classic and a 1978 cover by William Shatner."
-layout: post
+date: 2013-02-04 11:19:16 Z
 categories:
-  - People
+- People
 tags:
-  - covers
-  - Elton John
-  - Me First and the Gimme Gimmes
-  - music
-  - Stewie Griffin
-  - video
-  - William Shatner
+- covers
+- Elton John
+- Me First and the Gimme Gimmes
+- music
+- Stewie Griffin
+- video
+- William Shatner
+excerpt: This week's instalment of Music Monday is Rocket Man. The 1972 Elton John
+  classic and a 1978 cover by William Shatner.
+layout: post
 ---
+
 Yes, hello, after more than a month, I&#8217;m back with a Music Monday post. Hopefully, this is the start of more regular posting. Today&#8217;s edition features Rocket Man, the original (although the video is not the original) Elton John classic from his 1972 album, [_Honky Château_](http://en.wikipedia.org/wiki/Honky_Ch%C3%A2teau). I&#8217;ve chosen the William Shatner version, from his performance at the 1978 [Saturn Awards](http://en.wikipedia.org/wiki/Saturn_Award), as the cover.
 
 <div class="video-container">

@@ -1,16 +1,18 @@
 ---
-title: 'Movies &#8211; double feature'
-date: 2006-09-18T09:36:00+00:00
-excerpt: I managed to catch a special double feature on the weekend, The Wicker Man and Snakes on a Plane.The Wicker Man was
-layout: post
+title: Movies &#8211; double feature
+date: 2006-09-18 09:36:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - movies
-  - review
-  - Snakes on a Plane
-  - The Wicker Man
+- movies
+- review
+- Snakes on a Plane
+- The Wicker Man
+excerpt: I managed to catch a special double feature on the weekend, The Wicker Man
+  and Snakes on a Plane.The Wicker Man was
+layout: post
 ---
+
 I managed to catch a _special_ double feature on the weekend, [The Wicker Man](http://thewickermanmovie.warnerbros.com/) and [Snakes on a Plane](http://www.imdb.com/title/tt0417148/).
 
 The Wicker Man was ho-hum. [Nicolas Cage](http://www.imdb.com/name/nm0000115/) was overacting, as he tends to do and making what seemed to be calm, rational situations into a whole lot of shouting. [James Franco](http://www.imdb.com/name/nm0290556/) has a short cameo at the end that&#8217;s kinda fun, but it&#8217;s overshadowed by the reason behind: a terrible ending to Nic Cage&#8217;s character&#8217;s situation, especially since he&#8217;s built up as a such a tragic hero. [Molly Parker](http://www.imdb.com/name/nm0662504/) plays a fun, interesting role as a schoolteacher, and [Kate Beahan](http://www.imdb.com/name/nm0063571/) is sexy, but her character is oddly suspicious and detached. 6 saltines out of 10, for the crappy ending and Nic&#8217;s overacting.

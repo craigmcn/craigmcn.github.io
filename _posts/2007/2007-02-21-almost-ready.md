@@ -1,13 +1,14 @@
 ---
 title: Almost ready
-date: 2007-02-21T08:05:48+00:00
-excerpt: "So, I've got the back-end database structure worked out for the Rrroll up the rim stats, I just need to work out the interface."
-layout: post
+date: 2007-02-21 08:05:48 Z
 categories:
-  - Technology
+- Technology
 tags:
-  - Roll Up the Rim
-  - television
+- Roll Up the Rim
+- television
+excerpt: So, I've got the back-end database structure worked out for the Rrroll up
+  the rim stats, I just need to work out the interface.
+layout: post
 ---
 
 So, I&#8217;ve got the back-end database structure worked out for the [Rrroll up the rim](http://www.rolluptherimtowin.com/) stats, I just need to work out the interface. I&#8217;m going to make you log in, so I don&#8217;t get a bunch of bullshit flying in. I&#8217;ll move the [Make Poverty History](http://www.makepovertyhistory.ca/) banner to the bottom (replacing the French one) to make room for the stats, which will have pretty bar graphs. I&#8217;m excited.

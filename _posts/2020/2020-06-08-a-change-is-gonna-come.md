@@ -1,8 +1,6 @@
 ---
-title: "A Change Is Gonna Come"
-date: 2020-06-08T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is A Change Is Gonna Come. The 1964 Sam Cooke original and a 2008 cover by Seal."
-layout: post
+title: A Change Is Gonna Come
+date: 2020-06-08 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Sam Cooke
 - Seal
+excerpt: This week’s instalment of Music Monday is A Change Is Gonna Come. The 1964
+  Sam Cooke original and a 2008 cover by Seal.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_A Change Is Gonna Come_](https://en.wikipedia.org/wiki/A_Change_Is_Gonna_Come) by
 [Sam Cooke](https://en.wikipedia.org/wiki/Sam_Cooke) from his 1964 album,
 [Ain’t That Good News](https://en.wikipedia.org/wiki/Ain%27t_That_Good_News_(album)). The [Seal](http://seal.com/)

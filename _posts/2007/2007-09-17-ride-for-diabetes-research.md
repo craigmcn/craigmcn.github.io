@@ -1,15 +1,16 @@
 ---
 title: Ride for Diabetes Research
-date: 2007-09-17T13:24:00+00:00
-excerpt: "Hey, everybody, I'm committed to putting an end to juvenile (type 1) diabetes by participating in the Ride for"
-layout: post
+date: 2007-09-17 13:24:00 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - Argonauts
-  - JDRF
-  - Ride for Diabetes Research
+- Argonauts
+- JDRF
+- Ride for Diabetes Research
+excerpt: Hey, everybody, I'm committed to putting an end to juvenile (type 1) diabetes
+  by participating in the Ride for
+layout: post
 ---
 
 Hey, everybody, I&#8217;m committed to putting an end to juvenile (type 1) diabetes by participating in the [Ride for Diabetes Research](http://www.jdrf.ca/index.cfm?fuseaction=home.viewPage&page_id=0D2634CD-0C72-2B6A-38820A33AADAED29). Juvenile (type 1) diabetes is the most severe form of diabetes. It is unpreventable and strikes infants, children, teens and young adults leaving them insulin dependent for life, facing a future of uncertainty due to the threat of developing devastating complications. By completing the secure on-line contribution form you will help accelerate the pace of diabetes research to find a cure.

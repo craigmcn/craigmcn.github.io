@@ -1,17 +1,18 @@
 ---
 title: Telephone, Email, Calendar, Tasks, Books, Music
-date: 2010-07-29T12:14:17+00:00
-excerpt: 'With the iPad having sold over 3 million units, a new Kindle coming out, an Android tablet coming out, and Saskatchewan finally getting 3G+ coverage&#8230;'
-layout: post
+date: 2010-07-29 12:14:17 Z
 categories:
-  - Opinion
-  - Technology
+- Opinion
+- Technology
 tags:
-  - Android
-  - iPad
-  - Kindle
-  - productivity
-  - smartphone
+- Android
+- iPad
+- Kindle
+- productivity
+- smartphone
+excerpt: With the iPad having sold over 3 million units, a new Kindle coming out,
+  an Android tablet coming out, and Saskatchewan finally getting 3G+ coverage&#8230;
+layout: post
 ---
 
 <img class="alignright" title="Phones" src="https://cdn.craigmcn.ca/img/top-touchscreen-smartphones.jpg" alt="Phones - image" />

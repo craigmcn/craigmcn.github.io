@@ -1,19 +1,21 @@
 ---
-title: "Once in a Lifetime"
-date: 2016-09-19T11:45:00-07:00
-excerpt: "This week’s instalment of Music Monday is Once in a Lifetime. The 1981 Talking Heads original and a 1996 cover by Kermit the Frog and The Electric Mayhem."
-layout: post
+title: Once in a Lifetime
+date: 2016-09-19 18:45:00 Z
 categories:
-  - People
-  - Music Monday
+- People
+- Music Monday
 tags:
-  - covers
-  - Talking Heads
-  - music
-  - Kermit the Frog
-  - The Electric Mayhem
-  - video
+- covers
+- Talking Heads
+- music
+- Kermit the Frog
+- The Electric Mayhem
+- video
+excerpt: This week’s instalment of Music Monday is Once in a Lifetime. The 1981 Talking
+  Heads original and a 1996 cover by Kermit the Frog and The Electric Mayhem.
+layout: post
 ---
+
 This week&#8217;s instalment of Music Monday is [_Once in a Lifetime_](https://en.wikipedia.org/wiki/Once_in_a_Lifetime_(Talking_Heads_song)) by [Talking Heads](https://en.wikipedia.org/wiki/Talking_Heads) from their 1981 album, [Remain in Light](https://en.wikipedia.org/wiki/Remain_in_Light). The [Kermit the Frog](http://muppet.wikia.com/wiki/Kermit_the_Frog) and [The Electric Mayhem](http://muppet.wikia.com/wiki/Dr._Teeth_and_the_Electric_Mayhem) version is from a [1996 episode of Muppets Tonight](http://muppet.wikia.com/wiki/Episode_109:_Whoopi_Goldberg).
 
 <div class="video-container">

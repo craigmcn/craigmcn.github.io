@@ -1,8 +1,6 @@
 ---
-title: "I Wanna Be Sedated"
-date: 2019-12-30T11:45:00-0800
-excerpt: "This week’s instalment of Music Monday is I Wanna Be Sedated. The 1978 Ramones original and a 2001 cover by the Go-Go’s."
-layout: post
+title: I Wanna Be Sedated
+date: 2019-12-30 19:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - The Ramones
 - The Go-Go’s
+excerpt: This week’s instalment of Music Monday is I Wanna Be Sedated. The 1978 Ramones
+  original and a 2001 cover by the Go-Go’s.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_I Wanna Be Sedated_](https://en.wikipedia.org/wiki/I_Wanna_Be_Sedated) by
 [the Ramones](http://ramones.com/) from their 1978 album,
 [Road to Ruin](https://en.wikipedia.org/wiki/Road_to_Ruin_(Ramones_album)). The [Go-Go’s](http://www.gogos.com/)

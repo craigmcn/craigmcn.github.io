@@ -1,15 +1,16 @@
 ---
 title: Android Keyboards
-date: 2010-12-11T11:53:00+00:00
-excerpt: "I don't think I really hyped it up much, but I got myself an Android phone a few months ago. An HTC Desire, to be"
-layout: post
+date: 2010-12-11 11:53:00 Z
 categories:
-  - Technology
+- Technology
 tags:
-  - 8pen
-  - smartphone
-  - Swype
-  - ThickButtons
+- 8pen
+- smartphone
+- Swype
+- ThickButtons
+excerpt: I don't think I really hyped it up much, but I got myself an Android phone
+  a few months ago. An HTC Desire, to be
+layout: post
 ---
 
 <img class="alignleft" title="HTC Desire" src="https://cdn.craigmcn.ca/img/htc-desire.jpg" alt="HTC Desire - image" />

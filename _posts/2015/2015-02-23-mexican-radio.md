@@ -1,18 +1,20 @@
 ---
 title: Mexican Radio
-date: 2015-02-23T10:51:50+00:00
-excerpt: "This week's instalment of Music Monday is Mexican Radio. The 1982 Wall of Voodoo original and a 2012 cover by the Hang."
-layout: post
+date: 2015-02-23 10:51:50 Z
 categories:
-  - People
-  - Music Monday
+- People
+- Music Monday
 tags:
-  - covers
-  - music
-  - The Hang
-  - video
-  - Wall of Voodoo
+- covers
+- music
+- The Hang
+- video
+- Wall of Voodoo
+excerpt: This week's instalment of Music Monday is Mexican Radio. The 1982 Wall of
+  Voodoo original and a 2012 cover by the Hang.
+layout: post
 ---
+
 Apparently, I just post music every few weeks. This week&#8217;s instalment of Music Monday is [_Mexican Radio_](http://en.wikipedia.org/wiki/Mexican_Radio) by [Wall of Voodoo](http://www.wallofvoodoo.net/) from their 1982 album, [Call of the West](http://en.wikipedia.org/wiki/Call_of_the_West). [The Hang](http://thehangband.com/)&#8216;s version is from their 2012 album, [Playola](https://itunes.apple.com/us/album/playola/id964293752).
 
 <div class="video-container">

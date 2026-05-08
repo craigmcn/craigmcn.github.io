@@ -1,18 +1,19 @@
 ---
 title: I Just Wanna Have Something To Do
-date: 2014-07-14T10:00:59+00:00
-excerpt: "This week's instalment of Music Monday is I Just Wanna Have Something To Do. The 1978 Ramones original and a 2003 cover by Garbage."
-layout: post
+date: 2014-07-14 10:00:59 Z
 categories:
-  - People
+- People
 tags:
-  - covers
-  - Garbage
-  - music
-  - Music Monday
-  - The Ramones
-  - tribute
-  - video
+- covers
+- Garbage
+- music
+- Music Monday
+- The Ramones
+- tribute
+- video
+excerpt: This week's instalment of Music Monday is I Just Wanna Have Something To
+  Do. The 1978 Ramones original and a 2003 cover by Garbage.
+layout: post
 ---
 
 <div id="attachment_3942" class="wp-caption alignleft">

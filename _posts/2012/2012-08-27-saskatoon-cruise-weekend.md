@@ -1,14 +1,15 @@
 ---
 title: Saskatoon Cruise Weekend
-date: 2012-08-27T09:14:14+00:00
-excerpt: "I managed to hit up Rock 102's Cruise Weekend yesterday. I saw the Dodge Challenger my sister wants. And I saw a VW truck that I think would be cool."
-layout: post
+date: 2012-08-27 09:14:14 Z
 categories:
-  - People
+- People
 tags:
-  - nostalgia
-  - Rock 102
-  - YXE
+- nostalgia
+- Rock 102
+- YXE
+excerpt: I managed to hit up Rock 102's Cruise Weekend yesterday. I saw the Dodge
+  Challenger my sister wants. And I saw a VW truck that I think would be cool.
+layout: post
 ---
 
 <a href="https://cdn.craigmcn.ca/img/2012-08-26-16.09.36.jpg?x-request=xhr" data-fslightbox="lightbox"><img class="alignleft size-medium wp-image-2516" title="dodge-challenger" src="https://cdn.craigmcn.ca/img/2012-08-26-16.09.36-300x179.jpg" alt="Dodge Challenger" width="300" height="179" srcset="https://cdn.craigmcn.ca/img/2012-08-26-16.09.36-300x179.jpg 300w, https://cdn.craigmcn.ca/img/2012-08-26-16.09.36-1024x613.jpg 1024w, https://cdn.craigmcn.ca/img/2012-08-26-16.09.36-500x300.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>I managed to hit up [Rock 102&#8217;s Cruise Weekend](http://cruise.rock102rocks.com/) yesterday. I saw the [Dodge Challenger](http://en.wikipedia.org/wiki/Dodge_Challenger#First_generation_.281970.E2.80.931974.29) my sister wants. I didn&#8217;t think to confirm the model year of this one. My sister wants a &#8217;72.

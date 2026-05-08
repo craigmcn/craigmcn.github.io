@@ -1,16 +1,18 @@
 ---
-title: 'New year, new &#8230; something'
-date: 2010-01-14T08:54:23+00:00
-excerpt: "(Just to note, I started this a week ago. I don't know what that says about my motivation.)Alrighty, new year, new"
-layout: post
+title: New year, new &#8230; something
+date: 2010-01-14 08:54:23 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - goals
-  - habits
-  - language
-  - productivity
+- goals
+- habits
+- language
+- productivity
+excerpt: "(Just to note, I started this a week ago. I don't know what that says about
+  my motivation.)Alrighty, new year, new"
+layout: post
 ---
+
 (Just to note, I started this a week ago. I don&#8217;t know what that says about my motivation.)
 
 Alrighty, new year, new years&#8217; resolutions &#8230; Or not. I read a ton of self-improvement, DIY and productivity blogs and all of them have had some post (or several) about making and keeping new years&#8217; resolutons. I&#8217;ve had a bunch of resolutions in the past and stuck to pretty much none of them. But I&#8217;ve also had a number of habits I&#8217;ve wanted to create (or break), new year or not, and I&#8217;ve been mildly successful.

@@ -1,13 +1,14 @@
 ---
 title: My Day Gets a Little Better
-date: 2010-10-12T10:12:47+00:00
-excerpt: "I have mice living in my house. Gross, I know, but  a fact of life and a problem I'm trying to solve. I have a dog in"
-layout: post
+date: 2010-10-12 10:12:47 Z
 categories:
-  - Funny
-  - People
+- Funny
+- People
 tags:
-  - mice
+- mice
+excerpt: I have mice living in my house. Gross, I know, but  a fact of life and a
+  problem I'm trying to solve. I have a dog in
+layout: post
 ---
 
 <img class="alignleft" title="Mouse in Swiss Cheese" src="https://cdn.craigmcn.ca/img/mouse-swiss-cheese.jpg" alt="Mouse in Swiss Cheese - image" />

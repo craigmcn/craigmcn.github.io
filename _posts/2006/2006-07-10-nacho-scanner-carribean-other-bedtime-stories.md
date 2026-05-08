@@ -1,16 +1,18 @@
 ---
 title: Nacho Scanner of the Carribean and other bedtime stories
-date: 2006-07-10T15:30:00+00:00
-excerpt: Friday night was a trip down to the Harbourfront with Cyon and, umm, Sonya (I think I need to find out a nickname for
-layout: post
+date: 2006-07-10 15:30:00 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - friends
-  - movies
-  - review
+- friends
+- movies
+- review
+excerpt: Friday night was a trip down to the Harbourfront with Cyon and, umm, Sonya
+  (I think I need to find out a nickname for
+layout: post
 ---
+
 Friday night was a trip down to the [Harbourfront](http://www.harbourfrontcentre.com/) with Cyon and, umm, [Sonya](http://sonyamatteo.com/) (I think I need to find out a nickname for Sonya). We caught some of [Prefuse 73](http://prefuse73.com/). I was expecting lyrics, but it was just Prefuse and a drummer. The beats and mixes were good, but to my untrained ear all the tracks blended into one.
 
 Saturday afternoon was [Nacho Libre](http://www.imdb.com/title/tt0457510/). My sister asked if it was funny, and, to be honest, I&#8217;m still not sure. There were some funny scenes and situations with [Nacho](http://www.imdb.com/name/nm0085312/) and [Esqueleto](http://www.imdb.com/name/nm0422948/) and the wrestling was pretty comedic, but it wasn&#8217;t a laugh-riot and no <a>School of Rock</a>. Still good &#8230; 7 out of 10 saltines.

@@ -1,16 +1,16 @@
 ---
 title: Springtime Snows
-date: 2012-04-15T07:50:10+00:00
+date: 2012-04-15 07:50:10 Z
+categories:
+- Opinion
+tags:
+- photos
+- Saskatoon
 excerpt: I had plans to rake my lawn this morning.
 layout: post
-categories:
-  - Opinion
-tags:
-  - photos
-  - Saskatoon
 format: image
 redirect_from:
-  - /post/21144881452
+- "/post/21144881452"
 ---
 
 <img class="alignnone size-full wp-image-50" src="https://cdn.craigmcn.ca/img/tumblr_m2ix3mj0eX1qlv5s6o1_1280.jpg" alt="Springtime Snows" width="612" height="612" srcset="https://cdn.craigmcn.ca/img/tumblr_m2ix3mj0eX1qlv5s6o1_1280.jpg 612w, https://cdn.craigmcn.ca/img/tumblr_m2ix3mj0eX1qlv5s6o1_1280-150x150.jpg 150w, https://cdn.craigmcn.ca/img/tumblr_m2ix3mj0eX1qlv5s6o1_1280-300x300.jpg 300w" sizes="(max-width: 612px) 100vw, 612px" />

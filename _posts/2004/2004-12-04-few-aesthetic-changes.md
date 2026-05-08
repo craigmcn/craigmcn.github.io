@@ -1,13 +1,15 @@
 ---
 title: A few aesthetic changes
-date: 2004-12-04T06:34:27+00:00
-excerpt: "So, I'm not sure if you can tell, but I've made a few aesthetic changes to the site ... Did you notice? Are they any"
-layout: post
+date: 2004-12-04 06:34:27 Z
 categories:
-  - People
+- People
 tags:
-  - jobs
+- jobs
+excerpt: So, I'm not sure if you can tell, but I've made a few aesthetic changes to
+  the site ... Did you notice? Are they any
+layout: post
 ---
+
 So, I&#8217;m not sure if you can tell, but I&#8217;ve made a few aesthetic changes to the site &#8230; Did you notice? Are they any good? I&#8217;m having phun with Photoshop &#8230; making all kinds of nice little fancy graphics. (Should there be a comma in there somewhere?)
 
 Oh, by the way &#8230; **WOOO HOOO!!** I _finally_ got a new job! I got a secondment position, I&#8217;m filling in for a lovely young lady on her maternity leave. I&#8217;ll be updating, reviewing, writing, etc. manuals for the front-line staff of my company (which has been in the news lately). I think it should be a lot of fun. I don&#8217;t start &#8217;til Jan 3 but I&#8217;ve got a project already that I can work on a few hours a day, to get accustomed to things _upstairs_.

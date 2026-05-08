@@ -1,16 +1,18 @@
 ---
 title: The best of both worlds
-date: 2006-10-02T14:47:46+00:00
-excerpt: "I would have thought I already had a blog with this same title, but it doesn't look like it.LEGO + Star Wars = Super"
-layout: post
+date: 2006-10-02 14:47:46 Z
 categories:
-  - Opinion
-  - Technology
+- Opinion
+- Technology
 tags:
-  - review
-  - video games
-  - web applications
+- review
+- video games
+- web applications
+excerpt: I would have thought I already had a blog with this same title, but it doesn't
+  look like it.LEGO + Star Wars = Super
+layout: post
 ---
+
 I would have thought I already had a blog with this same title, but it doesn&#8217;t look like it.
 
 LEGO + Star Wars = Super Mad Fun! I picked up [LEGO Star Wars II: The Original Trilogy](http://www.lucasarts.com/games/legostarwarsii/) on Friday and played for a good couple of hours over the weekend. You can&#8217;t beat making [Luke Skywalker](http://www.starwars.com/explore/encyclopedia/characters/lukeskywalker/) build a droid out of LEGO or have [Obi-Wan Kenobi](http://www.starwars.com/explore/encyclopedia/characters/obiwankenobi/) use The Force to turn stairs into a ramp, so that a LEGO [C3P0](http://www.starwars.com/explore/encyclopedia/characters/c3po/) can get onto a ledge (C3P0 can&#8217;t climb stairs). I&#8217;m nowhere near finished and really not that far into it, but it&#8217;s been good times!

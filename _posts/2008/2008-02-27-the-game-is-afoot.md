@@ -1,14 +1,16 @@
 ---
 title: The game is afoot
-date: 2008-02-27T08:07:58+00:00
-excerpt: A foot? WTF? No, no, afoot. It must be some old hunting phrase; the animal (game) walking or running (afoot) rather
-layout: post
+date: 2008-02-27 08:07:58 Z
 categories:
-  - People
+- People
 tags:
-  - Roll Up the Rim
-  - Tim Hortons
+- Roll Up the Rim
+- Tim Hortons
+excerpt: A foot? WTF? No, no, afoot. It must be some old hunting phrase; the animal
+  (game) walking or running (afoot) rather
+layout: post
 ---
+
 A foot? WTF? No, no, [afoot](http://dictionary.reference.com/browse/afoot). It must be some old hunting phrase; the animal (game) walking or running (afoot) rather than sitting.
 
 Anywho, the game I&#8217;m talking about is [Tim Hortons](http://www.timhortons.com/) [Roll Up the Rim](http://www.rolluptherimtowin.com/en/index.php?homepage) contest. Monday, I got my first (non-winning) large coffee. Tuesday was number 2, in more ways than one.

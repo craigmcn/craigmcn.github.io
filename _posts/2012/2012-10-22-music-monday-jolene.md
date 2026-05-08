@@ -1,17 +1,19 @@
 ---
 title: 'Music Monday: Jolene'
-date: 2012-10-22T13:51:04+00:00
-excerpt: "This week’s instalment of Music Monday is Jolene. The 1974 Dolly Parton original and the 2004 cover by The White Stripes."
-layout: post
+date: 2012-10-22 13:51:04 Z
 categories:
-  - People
+- People
 tags:
-  - covers
-  - Dolly Parton
-  - music
-  - video
-  - White Stripes
+- covers
+- Dolly Parton
+- music
+- video
+- White Stripes
+excerpt: This week’s instalment of Music Monday is Jolene. The 1974 Dolly Parton original
+  and the 2004 cover by The White Stripes.
+layout: post
 ---
+
 Another woman&#8217;s first name. I know I&#8217;ve [already posted](/jolene-dolly-parton.html) Dolly Parton&#8217;s [_Jolene_](http://en.wikipedia.org/wiki/Jolene_(song)), but I also wanted to include it as a cover, because there are some great covers out there. I like [The Little Willies](http://www.thelittlewillies.net/) ([Norah Jones](http://www2.norahjones.com/)) version, which seems a little more desperate than the original, but for some reason I prefer [The White Stripes](http://www.whitestripes.com/)&#8216; angrier version, with [Jack White](http://jackwhiteiii.com/)&#8216;s crazy vocals.
 
 <div class="video-container">

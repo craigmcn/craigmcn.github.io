@@ -1,16 +1,18 @@
 ---
 title: A Philosopher? Really?
-date: 2012-08-01T08:30:34+00:00
-excerpt: "It’s not as though you can finish a bachelor’s degree and hang out your shingle as a philosopher."
-layout: post
+date: 2012-08-01 08:30:34 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - complaints
-  - education
-  - profession
+- complaints
+- education
+- profession
+excerpt: It’s not as though you can finish a bachelor’s degree and hang out your shingle
+  as a philosopher.
+layout: post
 ---
+
 Some people obviously think a little too highly of themselves, and with not enough humour. I believe [I mentioned the other day](/learning-about-myself.html "Learning about Myself") that I was at a small gathering, I maybe failed to mention that it was with over-educated people.
 
 We were discussing that a university education is not necessarily intended to get a person a good job. Yes, a person gains skills, abilities and knowledge that will help him get a good job, or at least that will help to move him up the ladder of success more quickly.

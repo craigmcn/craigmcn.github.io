@@ -1,8 +1,6 @@
 ---
-title: "Crabbuckit (2)"
-date: 2019-07-29T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Crabbuckit. The 2004 k-os original and a 2019 cover by Kaia Kater."
-layout: post
+title: Crabbuckit (2)
+date: 2019-07-29 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,8 +10,12 @@ tags:
 - video
 - k-os
 - Kaia Kater
-redirect_from: /crabbuckit-2-.html
+excerpt: This week’s instalment of Music Monday is Crabbuckit. The 2004 k-os original
+  and a 2019 cover by Kaia Kater.
+layout: post
+redirect_from: "/crabbuckit-2-.html"
 ---
+
 This week’s instalment of Music Monday is [_Crabbuckit_](https://en.wikipedia.org/wiki/Crabbuckit) by
 [k-os](http://www.k-osmusic.com/) from his 2004 album,
 [Joyful Rebellion](https://en.wikipedia.org/wiki/Joyful_Rebellion). The [Kaia Kater](https://en.wikipedia.org/wiki/Kaia_Kater)

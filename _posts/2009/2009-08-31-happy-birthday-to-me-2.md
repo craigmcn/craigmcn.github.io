@@ -1,15 +1,17 @@
 ---
 title: Happy birthday to me
-date: 2009-08-31T01:09:47+00:00
-excerpt: "Okay, so it's early the next morning, but it's the first time I've had a chance to post anything. First of all,"
-layout: post
+date: 2009-08-31 01:09:47 Z
 categories:
-  - People
+- People
 tags:
-  - games
-  - holidays
-  - trivia
+- games
+- holidays
+- trivia
+excerpt: Okay, so it's early the next morning, but it's the first time I've had a
+  chance to post anything. First of all,
+layout: post
 ---
+
 Okay, so it&#8217;s early the next morning, but it&#8217;s the first time I&#8217;ve had a chance to post anything. First of all, thanks everybody for the great birthday wishes! Especially, but not exclusively, all my old friends from Banff. It&#8217;s been over 10 years, but I think we could all drop into [Tommy&#8217;s](http://www.taximike.com/tommy.html) for a rye-ginger and not notice the time&#8217;d passed.
 
 A big round of applause to Cracker&#8217;s Marbles (A birthday tribute; Bryce, Jess, Jana, Mike and Jennifer) and a solid second-place showing at trivia night tonight. How can you beat pint glasses and a free pitcher? That&#8217;s close enough to a $50 bar tab for me!

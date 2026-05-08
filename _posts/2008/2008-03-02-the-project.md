@@ -1,14 +1,16 @@
 ---
 title: The project
-date: 2008-03-02T20:26:00+00:00
-excerpt: "Because I mentioned it before, and because the project that's causing me to be super-duper busy is kind of pissing me off."
-layout: post
+date: 2008-03-02 20:26:00 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - jobs
+- jobs
+excerpt: Because I mentioned it before, and because the project that's causing me
+  to be super-duper busy is kind of pissing me off.
+layout: post
 ---
+
 Because I mentioned it before, and because the project that&#8217;s causing me to be [super-duper busy](/holy-overtime-batman.html "Holy Overtime, Batman!") is kind of pissing me off, I thought I&#8217;d share my pain with you. I&#8217;ll start at the beginning. Sort of.
 
 Our senior manager came to me, rather [clandestinely](http://dictionary.reference.com/browse/clandestine), to ask if I would be interested in the project. For our fancy new information platform, we need some kind of request form, accessible to anyone in the company and providing an output compatible with [MOSS](http://office.microsoft.com/sharepoint/). (But not MOSS, because MOSS is secret and no one but our department can have access to it.) As a web developer and technical writer, it seemed right up my alley, so I said I&#8217;d think about it. She told me I should talk to D__.

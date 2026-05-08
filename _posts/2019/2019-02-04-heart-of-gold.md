@@ -1,8 +1,6 @@
 ---
-title: "Heart of Gold"
-date: 2019-02-04T11:45:00-08000
-excerpt: "This week’s instalment of Music Monday is Heart of Gold. The 1972 Neil Young original and a 2018 cover by Midnight Shine."
-layout: post
+title: Heart of Gold
+date: 2019-02-04 11:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Neil Young
 - Midnight Shine
+excerpt: This week’s instalment of Music Monday is Heart of Gold. The 1972 Neil Young
+  original and a 2018 cover by Midnight Shine.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Heart of Gold_](https://en.wikipedia.org/wiki/Heart_of_Gold_(Neil_Young_song)) by
 [Neil Young](http://neilyoung.com/) from his 1972 album,
 [Harvest](https://en.wikipedia.org/wiki/Harvest_(Neil_Young_album)). The [Midnight Shine](https://midnightshineonline.com/)

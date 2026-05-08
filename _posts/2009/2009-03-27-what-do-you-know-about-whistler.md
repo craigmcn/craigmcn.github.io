@@ -1,14 +1,15 @@
 ---
 title: What do you know about Whistler?
-date: 2009-03-27T23:14:05+00:00
-excerpt: My friend Chantal “is going to Whistler BC, in April, has anyone ever been, any input, what to see etc... any info is appreciated!!”
-layout: post
+date: 2009-03-27 23:14:05 Z
 categories:
-  - People
+- People
 tags:
-  - tourism
-  - travel
-  - Whistler
+- tourism
+- travel
+- Whistler
+excerpt: My friend Chantal “is going to Whistler BC, in April, has anyone ever been,
+  any input, what to see etc... any info is appreciated!!”
+layout: post
 ---
 
 My friend Chantal “is going to Whistler BC, in April, has anyone ever been, any input, what to see etc&#8230; any info is appreciated!!”

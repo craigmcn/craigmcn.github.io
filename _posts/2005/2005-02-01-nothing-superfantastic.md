@@ -1,15 +1,17 @@
 ---
 title: Nothing superfantastic
-date: 2005-02-01T07:20:47+00:00
-excerpt: "Man, I did it again! Another week gone by with no blog! I'm sorry, I'm sorry, I'm sorry. Actually, I'm not"
-layout: post
+date: 2005-02-01 07:20:47 Z
 categories:
-  - People
+- People
 tags:
-  - home ownership
-  - movies
-  - music
+- home ownership
+- movies
+- music
+excerpt: Man, I did it again! Another week gone by with no blog! I'm sorry, I'm sorry,
+  I'm sorry. Actually, I'm not
+layout: post
 ---
+
 Man, I did it again! Another week gone by with no blog! I&#8217;m sorry, I&#8217;m sorry, I&#8217;m sorry. Actually, I&#8217;m not <span style="font-weight: bold;">too </span>sorry. It&#8217;s not like I&#8217;ve got emails piling up asking when I&#8217;m going to post another witty remark. So it&#8217;s not like you guys are really hurting for info. Or are you? Are you hurting? Really? I find that hard to believe.
 
 Anyway, nothing <span style="font-style: italic;">super</span>fantastic this past week. <span style="font-weight: bold;">HUGE</span> congrats to <a href="http://gwild0r.tumblr.com/" target="_blank">Gwildor</a> and <a href="http://trikie.tripod.com/" target="_blank">Trikie</a> on purchasing their first home!! Also, I met Gwildor&#8217;s bud, <a href="http://bacon.frymybacon.com" target="_blank">SmokeyB</a>. Smokey is the Creative Director for <a href="http://www.frymybacon.com" target="_blank">Bacon Magazine</a>, which is a fancy way of saying that he gets free stuff by saying he works for a magazine. The magazine is him and his buddies, writing stuff to be able to get free stuff for writing about it. Smokey, if that&#8217;s not true, you let us know the truth &#8230;.

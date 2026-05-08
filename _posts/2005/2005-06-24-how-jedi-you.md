@@ -1,13 +1,14 @@
 ---
 title: How jedi are you?
-date: 2005-06-24T08:43:31+00:00
-excerpt: "Thanks to SmokeyB ... (and Gwildor, since he whined that I didn't credit him when Smokey got it from him) how jedi are"
-layout: post
+date: 2005-06-24 08:43:31 Z
 categories:
-  - Funny
+- Funny
 tags:
-  - Jedi
-  - Star Wars
+- Jedi
+- Star Wars
+excerpt: Thanks to SmokeyB ... (and Gwildor, since he whined that I didn't credit
+  him when Smokey got it from him) how jedi are
+layout: post
 ---
 
 Thanks to [SmokeyB](http://bacon.frymybacon.com/) &#8230; (and [Gwildor](http://gwild0r.tumblr.com/), since he whined that I didn&#8217;t credit him when Smokey got it from him)

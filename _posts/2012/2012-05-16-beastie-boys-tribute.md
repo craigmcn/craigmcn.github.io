@@ -1,18 +1,19 @@
 ---
 title: Beastie Boys Tribute
-date: 2012-05-16T09:10:08+00:00
+date: 2012-05-16 09:10:08 Z
+categories:
+- People
+tags:
+- epic
+- music
+- video
 excerpt: Most Epic Tribute to Beasties EVAR!!
 layout: post
-categories:
-  - People
-tags:
-  - epic
-  - music
-  - video
 format: video
 redirect_from:
-  - /post/23166755116
+- "/post/23166755116"
 ---
+
 <div class="video-container">
 	<iframe src="https://player.vimeo.com/video/42106181" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>

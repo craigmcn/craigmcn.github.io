@@ -1,21 +1,22 @@
 ---
 title: What Is the Internet?
-date: 2012-01-20T13:00:06+00:00
+date: 2012-01-20 13:00:06 Z
+categories:
+- Technology
+tags:
+- complaints
+- computers
+- email
+- Facebook
+- programming
+- television
+- World Wide Web
 excerpt: Your internet browser is not the internet.
 layout: post
-categories:
-  - Technology
-tags:
-  - complaints
-  - computers
-  - email
-  - Facebook
-  - programming
-  - television
-  - World Wide Web
 redirect_from:
-  - /post/16180264535
+- "/post/16180264535"
 ---
+
 Indeed. What is [the internet](http://en.wikipedia.org/wiki/Internet "The Internet")? Most simply, it is information shared between two computers. Emails are the internet. Facebook is the internet. This post is the internet. And quite probably your telephone and television at home are the internet.
 
 “Well, sure, but that window that opens when I clicked that blue underlined text in my email, that’s not the internet.” Yes, yes it is. “Okay, but that picture gallery of my uncle’s vacation to Machu Picchu can’t be the internet.” And yet it is.

@@ -1,15 +1,15 @@
 ---
 title: Pedestrians
-date: 2006-01-08T05:11:57+00:00
-excerpt: "Today's word, boys and girls, is “pedestrian”. Can you say “pedestrian”?"
-layout: post
+date: 2006-01-08 05:11:57 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - complaints
-  - driving
-  - traffic
+- complaints
+- driving
+- traffic
+excerpt: Today's word, boys and girls, is “pedestrian”. Can you say “pedestrian”?
+layout: post
 ---
 
 Today&#8217;s word, boys and girls, is &#8220;pedestrian&#8221;. Can you say &#8220;pedestrian&#8221;?

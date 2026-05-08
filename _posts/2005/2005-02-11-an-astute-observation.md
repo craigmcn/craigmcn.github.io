@@ -1,15 +1,17 @@
 ---
 title: An astute observation
-date: 2005-02-11T05:47:10+00:00
-excerpt: "Wublub made anastute observation in an email to me yesterday morning ... It's timefor my weekly blog. Is it ever!! I"
-layout: post
+date: 2005-02-11 05:47:10 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - complaints
-  - friends
+- complaints
+- friends
+excerpt: Wublub made anastute observation in an email to me yesterday morning ...
+  It's timefor my weekly blog. Is it ever!! I
+layout: post
 ---
+
 Wublub made an astute observation in an email to me yesterday morning &#8230; It&#8217;s time for my weekly blog. Is it ever!! I told him that it would be long, since I&#8217;d had such a busy week &#8230; Well, maybe not <span style="font-style: italic;">busy</span>, full, at least. When was the last blog? Last Tuesday? So &#8230;. What happened between then and now?
 
 First of all, I attended the <a href="http://music.cbc.ca/#/bands/Bullmoose/" target="_blank">Bullmoose</a> show at the <a href="http://www.horseshoetavern.com" target="_blank">Horseshoe</a> Wednesday night. I was invited by RP, who produced/engineered their album and recorded the gig on his iBook. I spent about 20-30 minutes sitting at the bar drinking <a href="http://www.labatt.com/brands/nationalbrands.php" target="_blank">Labatt 50</a> (DEE-licious!)—it&#8217;s no <a href="http://www.molsoncoorscanada.com/en/Brands/Global%20Portfolio/Pilsner.aspx" target="_blank">Pil</a>, but then, what is?—and watching the public. What a fun bunch of idiots the general public is. Always trying to be something they&#8217;re absolutely not. <a href="http://www.stella-artois.com" target="_blank">Stella Artois</a> is a nice beverage, but not at the Horseshoe, and not for $7.50 a pint. And who orders a <a href="http://www.budweiser.com" target="_blank">Bud</a> and a shot of vodka? Oh yeah, and if you don&#8217;t know what&#8217;s on tap, ask. Don&#8217;t keep asking for beers that aren&#8217;t on tap.

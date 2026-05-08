@@ -1,14 +1,16 @@
 ---
-title: 'What&#8217;s in a name'
-date: 2007-03-01T07:59:00+00:00
-excerpt: "This is interesting, Gwildor's (a.k.a Ernie Vegas) biggest enemy is the Tooth Puller, and I am ...."
-layout: post
+title: What&#8217;s in a name
+date: 2007-03-01 07:59:00 Z
 categories:
-  - Funny
-  - People
+- Funny
+- People
 tags:
-  - names
+- names
+excerpt: This is interesting, Gwildor's (a.k.a Ernie Vegas) biggest enemy is the Tooth
+  Puller, and I am ....
+layout: post
 ---
+
 This is interesting, Gwildor&#8217;s (a.k.a Ernie Vegas) biggest enemy is the Tooth Puller, and I am &#8230;.
 
 > ## The Tooth Puller

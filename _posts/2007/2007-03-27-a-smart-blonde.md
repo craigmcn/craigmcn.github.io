@@ -1,13 +1,15 @@
 ---
 title: A smart blonde
-date: 2007-03-27T13:27:46+00:00
-excerpt: '    A guy gets on a plane and finds himself seated next to a cute blonde. He immediately turns to her and makes his'
-layout: post
+date: 2007-03-27 13:27:46 Z
 categories:
-  - Funny
+- Funny
 tags:
-  - jokes
+- jokes
+excerpt: "    A guy gets on a plane and finds himself seated next to a cute blonde.
+  He immediately turns to her and makes his"
+layout: post
 ---
+
 A guy gets on a plane and finds himself seated next to a cute blonde. He immediately turns to her and makes his move.
   
 &#8220;You know,&#8221; he says, &#8220;I&#8217;ve heard that flights will go quicker if you strike up a conversation with your fellow passenger. So let&#8217;s talk.&#8221;

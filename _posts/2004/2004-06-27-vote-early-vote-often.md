@@ -1,13 +1,14 @@
 ---
 title: Vote Early and Vote Often
-date: 2004-06-27T07:12:29+00:00
-excerpt: Boys and Girls ... tomorrow is Votey Day, and I want to urge everybody to Vote ... Vote Early and Vote Often!
-layout: post
+date: 2004-06-27 07:12:29 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - elections
-  - politics
+- elections
+- politics
+excerpt: Boys and Girls ... tomorrow is Votey Day, and I want to urge everybody to
+  Vote ... Vote Early and Vote Often!
+layout: post
 ---
 
 Boys and Girls &#8230; tomorrow is Votey Day, and I want to urge everybody to Vote &#8230; Vote Early and Vote Often!!

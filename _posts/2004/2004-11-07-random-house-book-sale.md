@@ -1,15 +1,17 @@
 ---
 title: Random House book sale
-date: 2004-11-07T09:36:37+00:00
-excerpt: "So, it's late Sunday night, and I have managed to accomplish at least some of what I wanted. Saturday I got up early to"
-layout: post
+date: 2004-11-07 09:36:37 Z
 categories:
-  - People
-  - Technology
+- People
+- Technology
 tags:
-  - books
-  - websites
+- books
+- websites
+excerpt: So, it's late Sunday night, and I have managed to accomplish at least some
+  of what I wanted. Saturday I got up early to
+layout: post
 ---
+
 So, it&#8217;s late Sunday night, and I have managed to accomplish at least some of what I wanted.
 
 Saturday I got up early to go to the <a href="http://www.randomhouse.ca" target="_blank">Random House</a> book sale. At $1 for hardcover and 50¢ for softcover, I picked up $20 worth of books. <a href="http://gwild0r.tumblr.com/" target="_blank">Gwildor</a> warned me that it would be a madhouse (A madhouse, **a madhouse!** &#8211; Charlton Heston, _Planet of the Apes_). And it was to a certain extent, but not quite the mad rush I expected.

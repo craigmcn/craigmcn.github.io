@@ -1,15 +1,19 @@
 ---
 title: Looking for work
-date: 2009-03-16T15:03:20+00:00
-excerpt: Because many of you are in or around Saskatoon and many of the rest of you have family or other connections in or around Saskatoon, if you hear about anyone looking for someone with my considerable talents, I’d be grateful to hear about it.
-layout: post
+date: 2009-03-16 15:03:20 Z
 categories:
-  - People
+- People
 tags:
-  - jobs
-  - programming
-  - technical writing
+- jobs
+- programming
+- technical writing
+excerpt: Because many of you are in or around Saskatoon and many of the rest of you
+  have family or other connections in or around Saskatoon, if you hear about anyone
+  looking for someone with my considerable talents, I’d be grateful to hear about
+  it.
+layout: post
 ---
+
 I’m still looking for work! Because many of you are in or around Saskatoon and many of the rest of you have family or other connections in or around Saskatoon, if you hear about anyone looking for someone with my considerable talents, I’d be grateful to hear about it.
 
 I’m a technical writer and web developer. You can check out [my professional website](http://www.craigmcnaughton.ca/) to get a similar description and see my portfolio and resumé.

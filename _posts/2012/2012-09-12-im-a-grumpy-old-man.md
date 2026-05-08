@@ -1,13 +1,14 @@
 ---
-title: 'I&#8217;m a Grumpy Old Man'
-date: 2012-09-12T10:08:20+00:00
-excerpt: "I've been having the same thoughts and experiences and complaints for the last eight-and-a-half years that I've been documenting them."
-layout: post
+title: I&#8217;m a Grumpy Old Man
+date: 2012-09-12 10:08:20 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - complaints
-  - nostalgia
+- complaints
+- nostalgia
+excerpt: I've been having the same thoughts and experiences and complaints for the
+  last eight-and-a-half years that I've been documenting them.
+layout: post
 ---
 
 <img class="alignleft size-full wp-image-3062" title="Grumpy old man" src="https://cdn.craigmcn.ca/img/old-man.jpg" alt="Grumpy old man" width="175" height="262" />

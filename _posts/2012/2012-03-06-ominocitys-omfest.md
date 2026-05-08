@@ -1,21 +1,22 @@
 ---
-title: 'Ominocity’s OMFEST'
-date: 2012-03-06T13:00:05+00:00
-excerpt: "Saturday night, I attended Ominocity’s OMFEST. It was a really good show."
-layout: post
+title: Ominocity’s OMFEST
+date: 2012-03-06 13:00:05 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - bands
-  - complaints
-  - "Louis' Pub"
-  - music
-  - Ominocity
-  - Saskatoon
-  - YXE
+- bands
+- complaints
+- Louis' Pub
+- music
+- Ominocity
+- Saskatoon
+- YXE
+excerpt: Saturday night, I attended Ominocity’s OMFEST. It was a really good show.
+layout: post
 redirect_from:
-  - /post/18855482471
+- "/post/18855482471"
 ---
+
 <img src="http://www.ominocity.com/logo.png" alt="Ominocity" width="370" height="90" align="right" />Again, a little late, but I only want to post once per day, at the most, and I needed to get my chicken wings post out yesterday.
 
 Saturday night, I attended [Ominocity’s OMFEST](http://www.ominocity.com/2012/03/03/omfest-at-louis/ "Ominocity - OMFEST at Louis'"). It was a really good show.

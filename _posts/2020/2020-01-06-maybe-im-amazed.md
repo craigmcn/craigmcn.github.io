@@ -1,8 +1,6 @@
 ---
-title: "Maybe I’m Amazed"
-date: 2020-01-06T11:45:00-0800
-excerpt: "This week’s instalment of Music Monday is Maybe I’m Amazed. The 1970 Paul McCartney original and a 1971 cover by Faces."
-layout: post
+title: Maybe I’m Amazed
+date: 2020-01-06 19:45:00 Z
 categories:
 - People
 - Music Monday
@@ -14,9 +12,12 @@ tags:
 - Faces
 - Beatles
 - Rod Stewart
-redirect_from: /maybe-i-m-amazed.html
-
+excerpt: This week’s instalment of Music Monday is Maybe I’m Amazed. The 1970 Paul
+  McCartney original and a 1971 cover by Faces.
+layout: post
+redirect_from: "/maybe-i-m-amazed.html"
 ---
+
 This week’s instalment of Music Monday is [_Maybe I’m Amazed_](https://en.wikipedia.org/wiki/Maybe_I%27m_Amazed) by
 [Paul McCartney](http://paulmccartney.com/) from his 1970 debut album,
 [McCartney](https://en.wikipedia.org/wiki/McCartney_(album)). The [Faces](http://the-faces.com/)

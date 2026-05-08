@@ -1,13 +1,15 @@
 ---
 title: Her first paycheque
-date: 2007-05-25T09:22:24+00:00
-excerpt: A young family moved into a house next door to a vacant lot. One day a construction crew turned up to start building a house on the empty lot.
-layout: post
+date: 2007-05-25 09:22:24 Z
 categories:
-  - Funny
+- Funny
 tags:
-  - jokes
+- jokes
+excerpt: A young family moved into a house next door to a vacant lot. One day a construction
+  crew turned up to start building a house on the empty lot.
+layout: post
 ---
+
 A young family moved into a house next door to a vacant lot. One day a construction crew turned up to start building a house on the empty lot.
 
 The young family&#8217;s 5-year-old daughter naturally took an interest in all the activity going on next door and spent much of each day observing the workers.

@@ -1,21 +1,23 @@
 ---
-title: "Islands in the Stream"
-date: 2018-04-09T04:45:00-07:00
-excerpt: "This week’s instalment of Music Monday is Islands in the Stream. The 1983 Kenny Rogers original and a 2017 cover by Jimmy Fallon."
-layout: post
+title: Islands in the Stream
+date: 2018-04-09 11:45:00 Z
 categories:
-  - People
-  - Music Monday
-  - Funny
+- People
+- Music Monday
+- Funny
 tags:
-  - parody
-  - music
-  - video
-  - Kenny Rogers
-  - Dolly Parton
-  - Jimmy Fallon
-  - Miley Cyrus
+- parody
+- music
+- video
+- Kenny Rogers
+- Dolly Parton
+- Jimmy Fallon
+- Miley Cyrus
+excerpt: This week’s instalment of Music Monday is Islands in the Stream. The 1983
+  Kenny Rogers original and a 2017 cover by Jimmy Fallon.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Islands in the Stream_](https://en.wikipedia.org/wiki/Islands_in_the_Stream_(song)) by [Kenny Rogers](http://kennyrogers.com/) and [Dolly Parton](https://dollyparton.com/) from his 1983 album, [Eyes That See in the Dark](https://en.wikipedia.org/wiki/Eyes_That_See_in_the_Dark). The [Jimmy Fallon](https://www.nbc.com/the-tonight-show) and [Miley Cyrus](https://www.mileycyrus.com/) version is from a 2017 performance.
 
 <div class="video-container">

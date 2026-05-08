@@ -1,14 +1,15 @@
 ---
 title: The One-Minute Rule for Tackling Housework
-date: 2010-12-09T11:53:00+00:00
-excerpt: Lifehacker turned me onto the topic and I was skeptical, until I read the source article, which was much clearer.
-layout: post
+date: 2010-12-09 11:53:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - housework
-  - Lifehacker
-  - productivity
+- housework
+- Lifehacker
+- productivity
+excerpt: Lifehacker turned me onto the topic and I was skeptical, until I read the
+  source article, which was much clearer.
+layout: post
 ---
 
 <img class="alignleft" title="Broom and Dustpan" src="https://cdn.craigmcn.ca/img/spring-cleaning.png" alt="Broom and Dustpan - image" />

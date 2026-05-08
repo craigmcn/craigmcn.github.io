@@ -1,15 +1,17 @@
 ---
 title: Handy tips
-date: 2007-04-11T08:09:54+00:00
-excerpt: "I just thought I'd publish some handy tips to help out people as they wander in public:    Vary as much as possible"
-layout: post
+date: 2007-04-11 08:09:54 Z
 categories:
-  - Funny
-  - People
+- Funny
+- People
 tags:
-  - complaints
-  - idiots
+- complaints
+- idiots
+excerpt: 'I just thought I''d publish some handy tips to help out people as they wander
+  in public:    Vary as much as possible'
+layout: post
 ---
+
 I just thought I&#8217;d publish some handy tips to help out people as they wander in public:
 
   1. Vary as much as possible your walking speed, ensuring that you speed up as soon as someone tries to pass you. As soon as you pass someone, slow down so they have to avoid walking on your heels.

@@ -1,18 +1,20 @@
 ---
 title: Illicit v. Elicit
-date: 2011-12-26T13:00:05+00:00
-excerpt: "I used the word illicit and realized that it means something very different from what I intended."
-layout: post
+date: 2011-12-26 13:00:05 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - grammar
-  - language
-  - Muppets
-  - word choices
+- grammar
+- language
+- Muppets
+- word choices
+excerpt: I used the word illicit and realized that it means something very different
+  from what I intended.
+layout: post
 redirect_from:
-  - /post/14819914086
+- "/post/14819914086"
 ---
+
 As I was writing [my Muppets post](/review-the-muppets.html "Review: The Muppets"), I used the word [illicit](http://dictionary.reference.com/browse/illicit "Definition: illicit") and realized that it means something very different from what I intended, [elicit](http://dictionary.reference.com/browse/elicit "Definition: elicit"). I quickly corrected the word, but not before writing it and potentially looking the fool.
 
 For your own reference:

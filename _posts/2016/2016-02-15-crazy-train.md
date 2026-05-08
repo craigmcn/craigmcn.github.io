@@ -1,18 +1,20 @@
 ---
 title: Crazy Train
-date: 2016-02-15T10:24:31+00:00
-excerpt: "This week&#8217;s instalment of Music Monday is Crazy Train. The 1980 Ozzy Osbourne original and a 2015 cover by Iron Horse."
-layout: post
+date: 2016-02-15 10:24:31 Z
 categories:
-  - People
+- People
 tags:
-  - covers
-  - Iron Horse
-  - music
-  - Music Monday
-  - Ozzy Osbourne
-  - video
+- covers
+- Iron Horse
+- music
+- Music Monday
+- Ozzy Osbourne
+- video
+excerpt: This week&#8217;s instalment of Music Monday is Crazy Train. The 1980 Ozzy
+  Osbourne original and a 2015 cover by Iron Horse.
+layout: post
 ---
+
 This week&#8217;s instalment of Music Monday is [_Crazy Train_](https://en.wikipedia.org/wiki/Crazy_Train) by [Ozzy Osbourne](http://ozzy.com/) from his 1980 album, [Blizzard of Ozz](https://en.wikipedia.org/wiki/Blizzard_of_Ozz). The Iron Horse version is from a 2015 performance at [Southside Baptist Church](https://www.facebook.com/Southsidebaptistchurchdecatur/).
 
 <div class="video-container">

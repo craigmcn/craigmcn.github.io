@@ -1,17 +1,19 @@
 ---
 title: Timey-wimey
-date: 2007-10-02T15:02:00+00:00
-excerpt: "So I have a bit of a problem with recent representations of time travel I've seen in some TV shows.On The 4400, people"
-layout: post
+date: 2007-10-02 15:02:00 Z
 categories:
-  - Opinion
-  - Technology
+- Opinion
+- Technology
 tags:
-  - Doctor Who
-  - Star Trek
-  - The 4400
-  - time travel
+- Doctor Who
+- Star Trek
+- The 4400
+- time travel
+excerpt: So I have a bit of a problem with recent representations of time travel I've
+  seen in some TV shows.On The 4400, people
+layout: post
 ---
+
 So I have a bit of a problem with recent representations of time travel I&#8217;ve seen in some TV shows.
 
 On [_The 4400_](http://www.the4400.com/), people from the future abducted people from different times in the past and then returned them all to August 14, 2004. I would think that the future people could have been less obtrusive by returning the 4400 to the same time as they&#8217;d left.

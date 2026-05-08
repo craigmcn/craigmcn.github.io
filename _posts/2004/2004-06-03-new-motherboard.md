@@ -1,15 +1,17 @@
 ---
 title: New motherboard
-date: 2004-06-03T04:33:04+00:00
-excerpt: "Boy, I didn't realize I hadn't posted in almost a week, but I guess my computer's really only barely back in"
-layout: post
+date: 2004-06-03 04:33:04 Z
 categories:
-  - Technology
+- Technology
 tags:
-  - bagpipes
-  - computers
-  - Settlers of Catan
+- bagpipes
+- computers
+- Settlers of Catan
+excerpt: Boy, I didn't realize I hadn't posted in almost a week, but I guess my computer's
+  really only barely back in
+layout: post
 ---
+
 Boy, I didn&#8217;t realize I hadn&#8217;t posted in almost a week, but I guess my computer&#8217;s really only barely back in business. I got the new motherboard and 256MB of DDR RAM &#8230; the new motherboard has onboard audio, video and LAN, excellent. No. The onboard stuff interferes with my other stuff, so I can&#8217;t use my shiny ATI Radeon 7000 video card nor my NIC &#8230; oh, but the onboard LAN wouldn&#8217;t start this morning, so I couldn&#8217;t listen to <a href="http://www.freakradio.net" target="_blank">FreakRadio</a> &#8230; so, I get home from work and put the old NIC back in before I power the computer on &#8230; but now the onboard LAN decides to work, so I have to disable it so it doesn&#8217;t interfere with the NIC &#8230; grrrrrrr&#8230;.
 
 And the new computer likes to power itself off now for no known reason, so I&#8217;m going to have to spend the next few days sorting that out &#8230; grrrr &#8230; I just tried again right now, it got through the boot-up, then shut off&#8230; grrrrrrr.

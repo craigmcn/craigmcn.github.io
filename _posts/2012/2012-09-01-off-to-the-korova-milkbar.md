@@ -1,16 +1,18 @@
 ---
 title: Off to the Korova Milkbar
-date: 2012-09-01T15:09:37+00:00
-excerpt: "Being a fan of both A Clockwork Orange and Rooney Mara, this is really cool. It’s from a NYTimes YouTube series."
-layout: post
+date: 2012-09-01 15:09:37 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - A Clockwork Orange
-  - Rooney Mara
-  - video
+- A Clockwork Orange
+- Rooney Mara
+- video
+excerpt: Being a fan of both A Clockwork Orange and Rooney Mara, this is really cool.
+  It’s from a NYTimes YouTube series.
+layout: post
 ---
+
 Being a fan of both [A Clockwork Orange](http://en.wikipedia.org/wiki/A_Clockwork_Orange) and [Rooney Mara](http://www.imdb.com/name/nm1913734/), this is really cool.
 
 <div class="video-container">

@@ -1,16 +1,17 @@
 ---
-title: "Oxford Comma"
-date: 2017-03-23T11:45:00-07:00
-excerpt: "I totally disagree with always putting a comma before “and” in a list."
-layout: post
+title: Oxford Comma
+date: 2017-03-23 18:45:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - thoughtfulthursday
-  - oxford comma
-  - punctuation
-  - productivity
+- thoughtfulthursday
+- oxford comma
+- punctuation
+- productivity
+excerpt: I totally disagree with always putting a comma before “and” in a list.
+layout: post
 ---
+
 <div class="getty embed image alignright"><div style="padding:66.996047% 0 0 0"><iframe src="//embed.gettyimages.com/embed/155360732?et=2uMUwIciRp1Xbv21s4-95Q&tld=com&viewMoreLink=on&sig=7E6dwfdSubfMmm2UL3b7utlG1Iht_E_TfW-JPSfBW9Q=&caption=true" width="506" height="339" scrolling="no" frameborder="0"></iframe></div>
   <p>
     <a href="http://www.gettyimages.com/detail/155360732" target="_blank" rel="noopener noreferrer">#155360732</a> /

@@ -1,14 +1,16 @@
 ---
-title: 'Meeting minutes &#8230; turn to hours!'
-date: 2006-02-02T02:58:29+00:00
-excerpt: Why is it that stupid people love to hear the sound of their own voice? As a voting member of the Canadian Internet
-layout: post
+title: Meeting minutes &#8230; turn to hours!
+date: 2006-02-02 02:58:29 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - complaints
+- complaints
+excerpt: Why is it that stupid people love to hear the sound of their own voice? As
+  a voting member of the Canadian Internet
+layout: post
 ---
+
 Why is it that stupid people love to hear the sound of their own voice? As a voting member of the [Canadian Internet Registration Authority](http://www.cira.ca/) (CIRA, pronounced <span style="font-style: italic;">see-ra</span>), I attended a meeting to amend the bylaws and the Letters Patent. From the outset, the organization had not provided enough explanation of the changes and the reason behind them, since there were many questions about exactly what was intended. As Bernie Turcotte (President and CEO of CIRA) noted, it was interesting that the members trusted the board from day-to-day, but now that they were suggesting amendments to the bylaws they were no longer trusted.
 
 While I was in favour of the amendments, I admit that I didn&#8217;t necessarily understand all of them and hadn&#8217;t read all of the complementary information provided. The 3 major points that provoked ire were the make-up of the board of directors and the make-up of the nomination committee (nominating people for election to the board), in the bylaws, and the extended &#8220;power&#8221; given in the Letters Patent.

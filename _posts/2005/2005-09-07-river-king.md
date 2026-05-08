@@ -1,14 +1,15 @@
 ---
 title: The River King
-date: 2005-09-07T12:05:55+00:00
-excerpt: On what seems to be its official website, The River King is described as being in the “Supernatural Thriller” genre.
-layout: post
+date: 2005-09-07 12:05:55 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - Ed Burns
-  - movies
-  - review
+- Ed Burns
+- movies
+- review
+excerpt: On what seems to be its official website, The River King is described as
+  being in the “Supernatural Thriller” genre.
+layout: post
 ---
 
 On what seems to be its official website, [_The River King_](http://www.imdb.com/title/tt0386751/) is described as being in the &#8220;Supernatural Thriller&#8221; genre. I describe it as an atypical murder mystery with elements of psychological thriller and police drama. Starring [Edward Burns](http://www.imdb.com/name/nm0122653/) ([_Saving Private Ryan_](http://www.imdb.com/title/tt0120815/), [_15 Minutes_](http://www.imdb.com/title/tt0179626/)) as a smalltown police officer, Abel Grey, the story involves the drowning of a prep school boy, Gus Pierce, which, for whatever reason, seems suspicious to our main protagonist.

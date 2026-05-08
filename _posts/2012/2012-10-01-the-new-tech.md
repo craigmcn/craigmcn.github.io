@@ -1,13 +1,15 @@
 ---
 title: The New Tech
-date: 2012-10-01T16:14:30+00:00
-excerpt: "Now that I'm not totally limited in the apps I can run, I'm looking for some cool apps that can make this phone the super-awesomest phone on the planet. Any suggestions?"
-layout: post
+date: 2012-10-01 16:14:30 Z
 categories:
-  - Technology
+- Technology
 tags:
-  - smartphone
-  - Starbucks
+- smartphone
+- Starbucks
+excerpt: Now that I'm not totally limited in the apps I can run, I'm looking for some
+  cool apps that can make this phone the super-awesomest phone on the planet. Any
+  suggestions?
+layout: post
 ---
 
 <a href="https://cdn.craigmcn.ca/img/Samsung_Galaxy_S3_review_01-580-100.jpg?x-request=xhr" data-fslightbox="lightbox"><img class="alignright size-medium wp-image-3370" title="Samsung Galaxy S3" src="https://cdn.craigmcn.ca/img/Samsung_Galaxy_S3_review_01-580-100-300x168.jpg" alt="" width="300" height="168" srcset="https://cdn.craigmcn.ca/img/Samsung_Galaxy_S3_review_01-580-100-300x168.jpg 300w, https://cdn.craigmcn.ca/img/Samsung_Galaxy_S3_review_01-580-100-500x281.jpg 500w, https://cdn.craigmcn.ca/img/Samsung_Galaxy_S3_review_01-580-100.jpg 580w" sizes="(max-width: 300px) 100vw, 300px" /></a>I&#8217;m loving my brand new [Samsung Galaxy S3](http://www.samsung.com/global/galaxys3/) from [Telus](http://www.telus.com/en/sk/index.jsp)!

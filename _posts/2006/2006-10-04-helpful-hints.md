@@ -1,14 +1,16 @@
 ---
 title: Helpful hints
-date: 2006-10-04T14:31:06+00:00
-excerpt: "One more time and I promise not to whinge about people's idiotic behaviour.    When exiting an elevator, walking"
-layout: post
+date: 2006-10-04 14:31:06 Z
 categories:
-  - People
+- People
 tags:
-  - complaints
-  - idiots
+- complaints
+- idiots
+excerpt: One more time and I promise not to whinge about people's idiotic behaviour.    When
+  exiting an elevator, walking
+layout: post
 ---
+
 One more time and I promise not to whinge about people&#8217;s idiotic behaviour.
 
 <ol class="blog">

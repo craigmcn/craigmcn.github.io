@@ -1,15 +1,17 @@
 ---
 title: Webhost Fail
-date: 2010-08-02T09:33:29+00:00
-excerpt: "I'm not sure how many of you noticed, but the website was up and down over the last few days. Many of my other sites"
-layout: post
+date: 2010-08-02 09:33:29 Z
 categories:
-  - Technology
+- Technology
 tags:
-  - complaints
-  - JustHost
-  - Netfirms
+- complaints
+- JustHost
+- Netfirms
+excerpt: I'm not sure how many of you noticed, but the website was up and down over
+  the last few days. Many of my other sites
+layout: post
 ---
+
 I&#8217;m not sure how many of you noticed, but the website was up and down over the last few days. Many of my other sites experienced the same fate, or worse.
 
 My excellent webhost choose to advise me Thursday that they would be migrating my server Friday morning. They also assured me that the downtime would be minimal. They failed, however, to advise me that database connectivity would take several days to resolve, and that I would have to do it myself.

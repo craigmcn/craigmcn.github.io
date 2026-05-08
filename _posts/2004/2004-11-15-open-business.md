@@ -1,15 +1,17 @@
 ---
 title: Open for busines
-date: 2004-11-15T02:28:33+00:00
-excerpt: WOO HOOOOOOOOO!!!!!!!! This is to let you know that Externalgateway.com is open for business!!After a lot of hard work,
-layout: post
+date: 2004-11-15 02:28:33 Z
 categories:
-  - People
+- People
 tags:
-  - bartending
-  - CFL
-  - websites
+- bartending
+- CFL
+- websites
+excerpt: WOO HOOOOOOOOO!!!!!!!! This is to let you know that Externalgateway.com is
+  open for business!!After a lot of hard work,
+layout: post
 ---
+
 **WOO HOOOOOOOOO!!!!!!!!**
 
 This is to let you know that Externalgateway.com is open for business!!

@@ -1,14 +1,16 @@
 ---
 title: Annual Staff Barbecue
-date: 2004-06-18T04:45:18+00:00
-excerpt: "Hey Hey! And a Hoo! Hoo! I don't know, whatever. Anyway, I have this monster beef with a policy at work, and as such,"
-layout: post
+date: 2004-06-18 04:45:18 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - clothing
-  - complaints
+- clothing
+- complaints
+excerpt: Hey Hey! And a Hoo! Hoo! I don't know, whatever. Anyway, I have this monster
+  beef with a policy at work, and as such,
+layout: post
 ---
+
 Hey Hey! And a Hoo! Hoo! I don&#8217;t know, whatever. Anyway, I have this monster beef with a policy at work, and as such, I am boycotting the Annual Staff Barbecue. Now let me explain and you tell me whether I&#8217;m an idiot. And for all of you just dying to tell me I&#8217;m an idiot, settle down and read first.
 
 So, in my workplace, the dress code is fairly relaxed. When I took the job, I was told, no jeans, shirts with collars and not running shoes. Easy enough. And on Fridays, not ripped jeans or sweatpants (or spandex), no offensive material on shirts, not flip-flops. Again, easy enough. I&#8217;ve never been much of a flip-flop man, myself. Well, the policy has changed enough to piss me off to no end! This &#8220;no jeans&#8221; has been amended to include any pant that might resemble jeans, whether in colour, texture or cut; i.e. rivets on seams or front/back pockets in the style of jeans. Now, I don&#8217;t know about you, but &#8220;jeans&#8221; to me are denim and blue or black. If they&#8217;re not denim, they&#8217;re not jeans.

@@ -1,14 +1,15 @@
 ---
 title: Taste of Saskatchewan
-date: 2010-07-24T10:50:40+00:00
-excerpt: Not to mock Saskatchewan, nor its purveyors of fine food, but A Taste of Saskatchewan is kind of stupid.
-layout: post
+date: 2010-07-24 10:50:40 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - complaints
-  - food
+- complaints
+- food
+excerpt: Not to mock Saskatchewan, nor its purveyors of fine food, but A Taste of
+  Saskatchewan is kind of stupid.
+layout: post
 ---
 
 <img class="alignleft size-full wp-image-1361" title="Perogy combo" src="https://cdn.craigmcn.ca/img/perogy-combo.jpg" alt="Perogy combo - image" width="300" height="200">

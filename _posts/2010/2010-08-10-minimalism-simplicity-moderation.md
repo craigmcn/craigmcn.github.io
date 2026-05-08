@@ -1,15 +1,17 @@
 ---
 title: Minimalism, Simplicity, and Moderation
-date: 2010-08-10T10:24:41+00:00
-excerpt: "Alrighty, so yesterday I read a post at miss minimalist about 100 Things I Don't Own. When I went back today to review"
-layout: post
+date: 2010-08-10 10:24:41 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - minimalism
-  - Miss Minimalist
+- minimalism
+- Miss Minimalist
+excerpt: Alrighty, so yesterday I read a post at miss minimalist about 100 Things
+  I Don't Own. When I went back today to review
+layout: post
 ---
+
 Alrighty, so yesterday I read a post at [miss minimalist](http://www.missminimalist.com/) about _100 Things I Don’t Own_. When I went back today to review it and write this post, I found it had been removed. Which is too bad. Regardless of the response, I think that if that&#8217;s what she wanted to say, then she should have said it and stood by it. But who am I to judge?
 
 The point of my post remains the same. Miss Minimalist lives without a number of things, in my opinion, just for the sake of it. No dining room table or chairs (coffee table and floor), no couch (see previous), no art (bare walls). Granted, she lives in a 500-square-foot apartment and space is an issue, but that seems more like an excuse than a reason.

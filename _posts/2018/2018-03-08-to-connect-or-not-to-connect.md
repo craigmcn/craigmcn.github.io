@@ -1,15 +1,17 @@
 ---
-title: "To Connect or Not to Connect"
-date: 2018-03-08T11:45:00-07:00
-excerpt: "I read an article the other day about going without a smartphone for a week. I have some thoughts, and I’d like to hear yours."
-layout: post
+title: To Connect or Not to Connect
+date: 2018-03-08 18:45:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - thoughtfulthursday
-  - technology
-  - communication
+- thoughtfulthursday
+- technology
+- communication
+excerpt: I read an article the other day about going without a smartphone for a week.
+  I have some thoughts, and I’d like to hear yours.
+layout: post
 ---
+
 <div class="getty embed image alignright"><div style="padding:66.732285% 0 0 0"><iframe src="//embed.gettyimages.com/embed/849360628?et=aDNpNocDSENBEOLwSjKbng&tld=ca&sig=fwV_99YtlajPfjSRpgmM4mW2Rbk5etw2YHCbtAFMi6I=&caption=true&ver=1" scrolling="no" frameborder="0" width="508" height="339"></iframe></div>
   <p>
     <a href="https://www.gettyimages.ca/detail/849360628" target="_blank" rel="noopener noreferrer">#849360628</a> /

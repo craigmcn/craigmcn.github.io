@@ -1,8 +1,6 @@
 ---
-title: "Spiderwebs"
-date: 2020-05-25T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Spiderwebs. The 1995 No Doubt original and a 2020 cover by Trevor Bragg."
-layout: post
+title: Spiderwebs
+date: 2020-05-25 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - No Doubt
 - Trevor Bragg
+excerpt: This week’s instalment of Music Monday is Spiderwebs. The 1995 No Doubt original
+  and a 2020 cover by Trevor Bragg.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Spiderwebs_](https://en.wikipedia.org/wiki/Spiderwebs_(song)) by
 [No Doubt](http://nodoubt.com/) from their 1995 album,
 [Tragic Kingdom](https://en.wikipedia.org/wiki/Tragic_Kingdom). The [Trevor Bragg](https://www.youtube.com/channel/UCklo2D-YdxppQwR7LxLo4ww)

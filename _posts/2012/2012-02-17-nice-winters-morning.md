@@ -1,15 +1,15 @@
 ---
 title: A nice winter’s morning
-date: 2012-02-17T08:06:41+00:00
+date: 2012-02-17 08:06:41 Z
+categories:
+- Opinion
+tags:
+- photos
 excerpt: Photo
 layout: post
-categories:
-  - Opinion
-tags:
-  - photos
 format: image
 redirect_from:
-  - /post/17764995301
+- "/post/17764995301"
 ---
 
 <img class="alignnone size-full wp-image-148" src="https://cdn.craigmcn.ca/img/tumblr_lzjj76CVXC1qlv5s6o1_1280.jpg" alt="A nice winter’s morning" srcset="https://cdn.craigmcn.ca/img/tumblr_lzjj76CVXC1qlv5s6o1_1280.jpg 1280w, https://cdn.craigmcn.ca/img/tumblr_lzjj76CVXC1qlv5s6o1_1280-300x179.jpg 300w, https://cdn.craigmcn.ca/img/tumblr_lzjj76CVXC1qlv5s6o1_1280-1024x612.jpg 1024w, https://cdn.craigmcn.ca/img/tumblr_lzjj76CVXC1qlv5s6o1_1280-500x300.jpg 500w" sizes="(max-width: 1280px) 100vw, 1280px" />

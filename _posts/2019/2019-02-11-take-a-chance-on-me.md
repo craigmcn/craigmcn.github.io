@@ -1,8 +1,6 @@
 ---
-title: "Take A Chance On Me"
-date: 2019-02-11T11:45:00-0800
-excerpt: "This week’s instalment of Music Monday is Take A Chance On Me. The 1977 ABBA original and a 1992 cover by Erasure."
-layout: post
+title: Take A Chance On Me
+date: 2019-02-11 19:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - ABBA
 - Erasure
+excerpt: This week’s instalment of Music Monday is Take A Chance On Me. The 1977 ABBA
+  original and a 1992 cover by Erasure.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Take A Chance On Me_](https://en.wikipedia.org/wiki/Take_a_Chance_on_Me) by
 [ABBA](http://abbasite.com/) from their 1977 album,
 [The Album](https://en.wikipedia.org/wiki/ABBA:_The_Album). The [Erasure](http://erasureinfo.com/)

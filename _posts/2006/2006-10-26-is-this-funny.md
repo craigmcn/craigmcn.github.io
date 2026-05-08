@@ -1,16 +1,18 @@
 ---
 title: Is this funny?
-date: 2006-10-26T12:58:57+00:00
-excerpt: "Supposedly this joke should be funny to folks in Saskatoon; I'm not so sure.  A man met a beautiful woman and he"
-layout: post
+date: 2006-10-26 12:58:57 Z
 categories:
-  - Funny
-  - People
+- Funny
+- People
 tags:
-  - jokes
-  - Saskatoon
-  - YXE
+- jokes
+- Saskatoon
+- YXE
+excerpt: Supposedly this joke should be funny to folks in Saskatoon; I'm not so sure.  A
+  man met a beautiful woman and he
+layout: post
 ---
+
 Supposedly this joke should be funny to folks in Saskatoon; I&#8217;m not so sure.
 
 A man met a beautiful woman and he decided he wanted to marry her right away. She protested, saying, &#8220;But we don&#8217;t know anything about each other.&#8221;

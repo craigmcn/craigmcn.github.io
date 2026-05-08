@@ -1,8 +1,6 @@
 ---
-title: "I Love Rock ’n’ Roll"
-date: 2020-03-30T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is I Love Rock ’n’ Roll. The 1975 Arrows original and a 1981 cover by Joan Jett & the Blackhearts."
-layout: post
+title: I Love Rock ’n’ Roll
+date: 2020-03-30 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -13,8 +11,12 @@ tags:
 - The Arrows
 - Joan Jett & the Blackhearts
 - Britney Spears
-redirect_from: /i-love-rock-n--roll.html
+excerpt: This week’s instalment of Music Monday is I Love Rock ’n’ Roll. The 1975
+  Arrows original and a 1981 cover by Joan Jett & the Blackhearts.
+layout: post
+redirect_from: "/i-love-rock-n--roll.html"
 ---
+
 This week’s instalment of Music Monday is [_I Love Rock ’n’ Roll_](https://en.wikipedia.org/wiki/I_Love_Rock_%27n%27_Roll) by
 [The Arrows](https://en.wikipedia.org/wiki/Arrows_(British_band)) from their 1975 single. The [Joan Jett & the Blackhearts](http://joanjett.com/)
 version is from their 1981 album, [I Love Rock ’n Roll](https://en.wikipedia.org/wiki/I_Love_Rock_%27n_Roll_(album)).

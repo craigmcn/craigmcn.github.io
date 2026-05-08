@@ -1,14 +1,15 @@
 ---
-title: "Do your job"
-date: 2017-01-19T11:45:00-07:00
-excerpt: "I have a rule: “Do your job”"
-layout: post
+title: Do your job
+date: 2017-01-19 18:45:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - thoughtfulthursday
-  - Wheaton's Law
+- thoughtfulthursday
+- Wheaton's Law
+excerpt: 'I have a rule: “Do your job”'
+layout: post
 ---
+
 <div class="getty embed image alignright"><div style="padding:66.601179% 0 0 0"><iframe src="//embed.gettyimages.com/embed/601931800?et=sPOWX7fwR69gRnmiZ8ItYQ&viewMoreLink=off&sig=SU3sNwefrpyPglbkDuuufReot3mGzINy30AMW9KK4ms=&caption=true" width="509" height="339" scrolling="no" frameborder="0"></iframe></div>
   <p>
     <a href="http://www.gettyimages.com/detail/601931800" target="_blank" rel="noopener noreferrer">#601931800</a> /

@@ -1,14 +1,16 @@
 ---
 title: What a nice weekend
-date: 2006-05-01T09:47:08+00:00
-excerpt: Or something like that. I had a pretty successful weekend, but I felt a bit lousy the whole time. I was supposed to go
-layout: post
+date: 2006-05-01 09:47:08 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - friends
+- friends
+excerpt: Or something like that. I had a pretty successful weekend, but I felt a bit
+  lousy the whole time. I was supposed to go
+layout: post
 ---
+
 Or something like that. I had a pretty successful weekend, but I felt a bit lousy the whole time. I was supposed to go to a [comedy show](http://www.toronto.com/arts/listing/000-151-764) Friday night with [Gwildor](http://gwild0r.tumblr.com/) and [Trikie](http://trikie.tripod.com/) (and I think Big A was going too), but I forgot all about it and by the time I was reminded, it was too late. Then I felt guilty all weekend and couldn&#8217;t bring myself to call and apologize for being a moron.
 
 You see, here&#8217;s what happened: I was &#8220;job shadowing&#8221; this dude from another department (in another building across town). He took me on a tour of the office and showed all his job duties and what-not. He was done showing me everything by 1-1:30pm and told me that unless I just wanted to sit and watch him plug away at his work, I could leave. So I did. I went to [Starbucks](http://www.starbucks.ca/) and got a grande non-fat latte. I read [this book](http://www.amazon.com/gp/product/0345428285/103-3891405-1026252?v=glance&n=283155) that I happened to have in my bag. Then I went to [the movies](http://www.imdb.com/title/tt0454848/) (it was pretty good, too). I got another coffee after the movie and meandered home. Well, Trikie and Gwildor sent me reminders (to my work e-mail) of the comedy show, which I obviously didn&#8217;t see (the e-mails, that is), since I wasn&#8217;t at work. I also didn&#8217;t have my cell phone with me. So I was incommunicado and a moron &#8230; a bad combination.

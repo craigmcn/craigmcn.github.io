@@ -1,16 +1,15 @@
 ---
 title: Remembrance Day 2013
-date: 2013-11-11T10:39:52+00:00
-excerpt: 'They shall grow not old, as we that are left grow old;
-  Age shall not weary them, nor the years condemn.
-  At the going down of the sun and in the morning
-  We will remember them. (We will remember them.)'
-layout: post
+date: 2013-11-11 10:39:52 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - Remembrance Day
+- Remembrance Day
+excerpt: They shall grow not old, as we that are left grow old; Age shall not weary
+  them, nor the years condemn. At the going down of the sun and in the morning We
+  will remember them. (We will remember them.)
+layout: post
 ---
 
 > <img class="alignleft size-full wp-image-3663" alt="poppies" src="https://cdn.craigmcn.ca/img/image001.jpg" width="97" height="97" />They shall grow not old, as we that are left grow old;

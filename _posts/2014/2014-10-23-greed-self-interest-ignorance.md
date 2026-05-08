@@ -1,18 +1,21 @@
 ---
 title: Greed, Self-Interest and Ignorance
-date: 2014-10-23T11:43:21+00:00
-excerpt: "Try to be the best you can be, and guide yourself in this endeavour by thinking of those who love you and depend on you, and I'll try to do the same. Maybe if we can all do this, the world will go to hell slightly more slowly."
-layout: post
+date: 2014-10-23 11:43:21 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - complaints
-  - friends
-  - quotes
-  - reading
-  - Robert J. Sawyer
-  - Thoughtful Thursday
+- complaints
+- friends
+- quotes
+- reading
+- Robert J. Sawyer
+- Thoughtful Thursday
+excerpt: Try to be the best you can be, and guide yourself in this endeavour by thinking
+  of those who love you and depend on you, and I'll try to do the same. Maybe if we
+  can all do this, the world will go to hell slightly more slowly.
+layout: post
 ---
+
 <div class="getty embed image alignright">
   <div style="padding:67.261905% 0 0 0">
     <iframe src="//embed.gettyimages.com/embed/6155-000890?et=D4MJm-63Tt1pHUX1nB2BhA&viewMoreLink=off&sig=sURmE8b1GqLe77MCrVXB-mYzggTQTWwyBwlcwqKDeZI=&caption=true" width="504" height="339" scrolling="no" frameborder="0"></iframe>

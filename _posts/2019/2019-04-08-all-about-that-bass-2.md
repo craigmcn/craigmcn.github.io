@@ -1,8 +1,6 @@
 ---
-title: "All About That Bass (2)"
-date: 2019-04-08T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is All About That Bass. The 2014 Meghan Trainor original and a 2014 cover by The Blueshine Brothers."
-layout: post
+title: All About That Bass (2)
+date: 2019-04-08 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Meghan Trainor
 - The Blueshine Brothers
+excerpt: This week’s instalment of Music Monday is All About That Bass. The 2014 Meghan
+  Trainor original and a 2014 cover by The Blueshine Brothers.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_All About That Bass_](https://en.wikipedia.org/wiki/All_About_That_Bass) by
 [Meghan Trainor](http://meghan-trainor.com/) from her 2014 EP,
 [Title](https://en.wikipedia.org/wiki/Title_(EP)). [The Blueshine Brothers](https://www.facebook.com/blueshinebrothers/)

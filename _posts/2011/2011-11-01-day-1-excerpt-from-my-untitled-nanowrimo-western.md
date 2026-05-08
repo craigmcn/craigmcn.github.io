@@ -1,17 +1,19 @@
 ---
 title: Day 1 Excerpt from My Untitled NaNoWriMo Western
-date: 2011-11-01T20:18:00+00:00
-excerpt: The first thing Clive noticed when he walked in was the waitress. For a moment, it was like she was surrounded by a shimmering halo of light.
-layout: post
+date: 2011-11-01 20:18:00 Z
 categories:
-  - People
+- People
 tags:
-  - language
-  - NaNoWriMo
-  - writing
+- language
+- NaNoWriMo
+- writing
+excerpt: The first thing Clive noticed when he walked in was the waitress. For a moment,
+  it was like she was surrounded by a shimmering halo of light.
+layout: post
 redirect_from:
-  - /post/12224788433
+- "/post/12224788433"
 ---
+
 <img src="https://cdn.craigmcn.ca/img/last-days-of-boot-hill021.jpg" alt="Last Days of Boot Hill (Columbia Pictures)" width="239" height="299" align="left" />Clive went downstairs into the restaurant for dinner. The restaurant was attached to the hotel, but he had to leave the hotel and enter from the boardwalk. The chalkboard outside offered a daily special of meatloaf, mashed potatoes with gravy, and boiled carrots, with apple cobbler as the dessert. Clive was not really fond of meatloaf, but as tired as he was, he was willing to eat just about anything at all.
 
 The first thing Clive noticed when he walked in was the waitress. For a moment, it was like she was surrounded by a shimmering halo of light. She was by far the most beautiful woman he’d ever seen. Of course, he’d known popular doves like Missy Perdue and Cherry Blossom, but this girl had them all beat. She was maybe a few years younger than Clive, and he couldn’t take his eyes off of her.

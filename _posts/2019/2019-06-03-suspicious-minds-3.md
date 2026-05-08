@@ -1,8 +1,6 @@
 ---
-title: "Suspicious Minds (3)"
-date: 2019-06-03T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Suspicious Minds. The 1969 Elvis Presley original and a 1985 cover by Fine Young Cannibals."
-layout: post
+title: Suspicious Minds (3)
+date: 2019-06-03 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Elvis Presley
 - Fine Young Cannibals
+excerpt: This week’s instalment of Music Monday is Suspicious Minds. The 1969 Elvis
+  Presley original and a 1985 cover by Fine Young Cannibals.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Suspicious Minds_](https://en.wikipedia.org/wiki/Suspicious_Minds) by
 [Elvis Presley](http://elvis.com/) from his 1969 single. The [Fine Young Cannibals](https://en.wikipedia.org/wiki/Fine_Young_Cannibals)
 version is from their 1985 debut album, [Fine Young Cannibals](https://en.wikipedia.org/wiki/Fine_Young_Cannibals_(album)).

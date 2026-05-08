@@ -1,13 +1,15 @@
 ---
 title: Good-bye to Wublub and Gonch
-date: 2004-10-25T05:31:36+00:00
-excerpt: "It is with great sadness that we say 'Good-bye' to Wublub and Gonch. They will be making the big move to"
-layout: post
+date: 2004-10-25 05:31:36 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - politics
+- politics
+excerpt: It is with great sadness that we say 'Good-bye' to Wublub and Gonch. They
+  will be making the big move to
+layout: post
 ---
+
 It is with great sadness that we say &#8216;Good-bye&#8217; to Wublub and Gonch. They will be making the big move to Saskatchewan. Best of Luck to them in their adventures.
 
 Anyway, I had a pretty good weekend &#8230; <span style="font-family: Courier,monospace; font-weight: bold;">crackerMail v1.0</span> is almost ready for release, just some final touch-ups needed.

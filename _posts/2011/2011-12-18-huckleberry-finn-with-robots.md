@@ -1,17 +1,20 @@
 ---
 title: Huckleberry Finn with Robots
-date: 2011-12-18T13:00:05+00:00
-excerpt: "I’m in the process of reading my new copy of Adventures of Huckleberry Finn [Robotic Edition] by Mark Twain, edited by Gabriel Diani and Etta Devine. And I have to say they did a phenomenal job."
-layout: post
+date: 2011-12-18 13:00:05 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - Huckleberry Finn
-  - Mark Twain
-  - robots
+- Huckleberry Finn
+- Mark Twain
+- robots
+excerpt: I’m in the process of reading my new copy of Adventures of Huckleberry Finn
+  [Robotic Edition] by Mark Twain, edited by Gabriel Diani and Etta Devine. And I
+  have to say they did a phenomenal job.
+layout: post
 redirect_from:
-  - /post/14413466116
+- "/post/14413466116"
 ---
+
 [<img align="right" alt="Adventures of Huckleberry Finn [Robotic Edition]" height="300" src="https://cdn.craigmcn.ca/img/huck-finn-robot-cover.jpg" width="250" />](http://dianianddevine.com/ "Adventures of Huckleberry Finn [Robotic Edition]")I&#8217;m in the process of reading my new copy of _[Adventures of Huckleberry Finn [Robotic Edition]](http://dianianddevine.com/ "Adventures of Huckleberry Finn [Robotic Edition]")_ by Mark Twain, edited by Gabriel Diani and Etta Devine. The book is the successful culmination of a [Kickstarter](http://www.kickstarter.com/projects/dianidevine/replacing-the-n-word-with-robot-in-huck-finn "Replacing the "N-word" with "Robot" in Huck Finn") project where Diani and Devine planned to re-issue Adventures of Huckleberry Finn with the N-word replaced by robots. And I have to say they did a phenomenal job.
 
 I&#8217;ve only gotten through the first couple of chapters and I almost missed the first instance where the word robots was used because it was so perfect.

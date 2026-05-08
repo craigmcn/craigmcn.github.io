@@ -1,17 +1,19 @@
 ---
 title: 'Music Monday: Dancing Queen'
-date: 2012-11-05T08:59:04+00:00
-excerpt: "This week's instalment of Music Monday is Dancing Queen. The 1976 ABBA original and a 1993 cover by U2."
-layout: post
+date: 2012-11-05 08:59:04 Z
 categories:
-  - People
+- People
 tags:
-  - ABBA
-  - covers
-  - music
-  - U2
-  - video
+- ABBA
+- covers
+- music
+- U2
+- video
+excerpt: This week's instalment of Music Monday is Dancing Queen. The 1976 ABBA original
+  and a 1993 cover by U2.
+layout: post
 ---
+
 I&#8217;ve been on the hunt for interesting covers and stumbled onto [ABBA](http://www.abbasite.com/)&#8216;s 1976 international hit, [_Dancing Queen_](http://en.wikipedia.org/wiki/Dancing_Queen), covered by [U2](http://www.u2.com/index/home) during the 1993 Zoo TV tour. I think the coolest part is that they were joined by Benny Andersson and Björn Ulvaeus on stage for the track as the tour reached Stockholm.
 
 <div class="video-container">

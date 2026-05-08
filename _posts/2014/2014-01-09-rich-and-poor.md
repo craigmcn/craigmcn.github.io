@@ -1,11 +1,14 @@
 ---
 title: Rich and Poor
-date: 2014-01-09T16:14:21+00:00
-excerpt: "If you choose to live somewhere, you choose to appreciate what's there and make it yours. You don't make it yours by making it something else altogether. If you want something else altogether, there's probably already a place like that."
-layout: post
+date: 2014-01-09 16:14:21 Z
 categories:
-  - Opinion
+- Opinion
+excerpt: If you choose to live somewhere, you choose to appreciate what's there and
+  make it yours. You don't make it yours by making it something else altogether. If
+  you want something else altogether, there's probably already a place like that.
+layout: post
 ---
+
 Last week, my sister brought to my attention [an interesting article](http://www.vancouversun.com/opinion/op-ed/Mixed+neighbourhoods+always+good+idea/9344177/story.html) about [socio-economically] mixed neighbourhoods.
 
 I had some challenges understanding why &#8220;the supposed beneficiaries of social mix, the poor and marginalized, do not often end up as winners&#8221; and why &#8220;improvements in employment, income, educational outcomes, youth delinquency, and health are not achieved&#8221;, which the article didn&#8217;t really address.

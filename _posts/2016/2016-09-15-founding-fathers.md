@@ -1,17 +1,20 @@
 ---
-title: "Founding Fathers"
-date: 2016-09-15T11:45:00-07:00
-excerpt: "I hear a lot about what the Founding Fathers would do or think, or what they intended I&#8217;m suspicious that 240 years later anyone has any idea what the Founding Fathers intended for their republic, beyond the literal words of the Constitution."
-layout: post
+title: Founding Fathers
+date: 2016-09-15 18:45:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - thoughtfulthursday
-  - 99% Invisible
-  - Constitution
-  - American
-  - politics
+- thoughtfulthursday
+- 99% Invisible
+- Constitution
+- American
+- politics
+excerpt: I hear a lot about what the Founding Fathers would do or think, or what they
+  intended I&#8217;m suspicious that 240 years later anyone has any idea what the
+  Founding Fathers intended for their republic, beyond the literal words of the Constitution.
+layout: post
 ---
+
 <div class="getty embed image alignleft"><div style="padding:68.600000% 0 0 0"><iframe src="//embed.gettyimages.com/embed/169945087?et=uzNYXNMiTJ1ICcg7RCbh8Q&viewMoreLink=on&sig=PyOszHKDTnnRL_YitJ8PYrmUga_GtKM_RROpcycAHPA=&caption=true" width="500" height="343" scrolling="no" frameborder="0"></iframe></div>
   <p>
     <a href="http://www.gettyimages.com/detail/169945087" target="_blank" rel="noopener noreferrer">#169945087</a> /

@@ -1,17 +1,19 @@
 ---
 title: The Adventures of Vomitor and his Faithful Sidekick Barfy
-date: 2005-08-15T06:28:52+00:00
-excerpt: "I'll warn you in advance that this is going to be long, and Iapologize. On that note, let's begin. Although this is"
-layout: post
+date: 2005-08-15 06:28:52 Z
 categories:
-  - Funny
-  - People
+- Funny
+- People
 tags:
-  - family
-  - holidays
-  - moving
-  - travel
+- family
+- holidays
+- moving
+- travel
+excerpt: I'll warn you in advance that this is going to be long, and Iapologize. On
+  that note, let's begin. Although this is
+layout: post
 ---
+
 I&#8217;ll warn you in advance that this is going to be long, and I apologize. On that note, let&#8217;s begin. Although this is not the longest I&#8217;ve gone between blogs—I don&#8217;t think, and I&#8217;m not going to check—it&#8217;s usually because I&#8217;m a lazy jackass, but you all know that already.This time I have a good reason: I&#8217;ve been on vacation for the past week. <span style="font-style: italic;">Yay</span>! I spent 4 days on [Vancouver Island](http://www.vancouverisland.com/) and 3 days in suburban [Seattle](http://www.seeseattle.com/) (well, [Edmonds, WA](http://www.edmondswa.com/) in [Snohomish County](http://www.snohomish.org/) <span style="font-style: italic;">is</span> part of Greater Seattle).
 
 My mom, stepdad, stepsister and her partner, stepbrother, sister, niece and I had a [gorgeous house](http://www.naluhouse.com/) <del>(<span style="font-style: italic;">you&#8217;ll have to click on Suites, then Nalu House &#8230; damn frames!</span>)</del> in [Tofino](http://www.gotofino.com/).There were 4 spectacular days of walks on the beach, a bucketload of hanging out, and even a bike ride on the beach with my stepsister and niece. And I can&#8217;t forget the event that led to the [slightly] cryptic title of this blog &#8230; a whale watching tour.

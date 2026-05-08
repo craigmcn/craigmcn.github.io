@@ -1,13 +1,13 @@
 ---
 title: A wicked new bike
-date: 2005-04-12T07:11:31+00:00
-excerpt: 'I got a brand new pair of roller skates, you got a brand new key ...'
-layout: post
+date: 2005-04-12 07:11:31 Z
 categories:
-  - People
+- People
 tags:
-  - bicycles
-  - lacrosse
+- bicycles
+- lacrosse
+excerpt: I got a brand new pair of roller skates, you got a brand new key ...
+layout: post
 ---
 
 &#8220;I got a brand new pair of roller skates, you got a brand new key &#8230;&#8221; Okay so the song isn&#8217;t about what I&#8217;m writing about, but whatever &#8230; Woo Hoo! Big Cracker&#8217;s got a wicked new bike! A <a href="https://cdn.craigmcn.ca/img/928-4948-1-PB.jpg?x-request=xhr" data-fslightbox="lightbox">Schwinn 5-Star Cruiser</a>! It was feeling a little funny riding to and from work yesterday, so I raised the seat and the handlebars this morning and it rides like a dream! Now I just need to get rid of the chest pains! Wow, am I out of shape!

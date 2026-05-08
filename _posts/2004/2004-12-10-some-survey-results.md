@@ -1,13 +1,15 @@
 ---
 title: Some survey result
-date: 2004-12-10T07:04:40+00:00
-excerpt: "I have some survey results and I'm disappointed by the 'voter turnout'. Current results:movies - 4news - 1other"
-layout: post
+date: 2004-12-10 07:04:40 Z
 categories:
-  - People
+- People
 tags:
-  - websites
+- websites
+excerpt: I have some survey results and I'm disappointed by the 'voter turnout'. Current
+  results:movies - 4news - 1other
+layout: post
 ---
+
 I have some survey results and I&#8217;m disappointed by the &#8216;voter turnout&#8217;. Current results:
   
 movies &#8211; 4

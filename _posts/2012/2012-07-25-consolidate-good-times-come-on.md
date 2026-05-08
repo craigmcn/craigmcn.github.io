@@ -1,18 +1,19 @@
 ---
 title: Consolidate Good Times, Come On!
-date: 2012-07-25T21:29:09+00:00
-excerpt: Like a giant nerd, I have spent the last few days migrating two blogs and two commenting systems to Wordpress.
-layout: post
+date: 2012-07-25 21:29:09 Z
 categories:
-  - Uncategorized
+- Uncategorized
 tags:
-  - blogging
-  - declutter
-  - Disqus
-  - minimalism
-  - PHP
-  - programming
-  - WordPress
+- blogging
+- declutter
+- Disqus
+- minimalism
+- PHP
+- programming
+- WordPress
+excerpt: Like a giant nerd, I have spent the last few days migrating two blogs and
+  two commenting systems to Wordpress.
+layout: post
 ---
 
 <img class="alignright size-full wp-image-1004" title="logo-v-rgb_300x214" src="https://cdn.craigmcn.ca/img/logo-v-rgb_300x214.jpg" alt="" width="300" height="214">

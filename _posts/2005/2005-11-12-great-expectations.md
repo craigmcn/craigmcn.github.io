@@ -1,16 +1,18 @@
 ---
 title: Great Expectations?
-date: 2005-11-12T06:37:34+00:00
-excerpt: So, when I travel, I usually have some expectation that things will bedifferent wherever I am. For example, that stores
-layout: post
+date: 2005-11-12 06:37:34 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - coffee
-  - customer service
-  - food
+- coffee
+- customer service
+- food
+excerpt: So, when I travel, I usually have some expectation that things will bedifferent
+  wherever I am. For example, that stores
+layout: post
 ---
+
 So, when I travel, I usually have some expectation that things will be different wherever I am. For example, that stores will have different products; in fact, that there&#8217;ll be different stores. Or that I&#8217;ll get wonderful, helpful service at these wonderfully different stores. Why is that? I mean, why would I think that?
 
 The reason I ask, is that I went to [Darcy McGee&#8217;s Irish Pub](http://www.primepubs.com/#/whats-on/?id=132) in [Sparks Street Mall](http://www.ottawaplus.ca/portal/profile.do?act=print&profileID=46969&sectionID=) and received exactly the service I&#8217;ve come to expect. I sat at the bar and received my [Harp Lager](http://en.wikipedia.org/wiki/Harp_Lager) rather quickly. But that&#8217;s always misleading. I was not asked if I wanted a menu, nor was I asked if I wanted to have another beer before I finished the first one. Once I asked for a menu and another beer, the bartender was nice enough to suggest a menu item, but then never came back to ask me what I wanted to order. So I left.

@@ -1,13 +1,17 @@
 ---
-title: 'Happy St. Paddy&#8217;s Day!!'
-date: 2006-03-20T09:49:55+00:00
-excerpt: "What a gong show! I went down to Fionn MacCool's, obviously an Irish place. I'd been warned that if I wanted to get in, I should show up by about 2pm. Well, I don't know about you, but I work for a living and didn't get down to the bar until 6pm."
-layout: post
+title: Happy St. Paddy&#8217;s Day!!
+date: 2006-03-20 09:49:55 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - "Fionn MacCool's"
+- Fionn MacCool's
+excerpt: What a gong show! I went down to Fionn MacCool's, obviously an Irish place.
+  I'd been warned that if I wanted to get in, I should show up by about 2pm. Well,
+  I don't know about you, but I work for a living and didn't get down to the bar until
+  6pm.
+layout: post
 ---
+
 <del>(I had to spell it differently than <a href="http://gwild0r.tumblr.com/">Gwildor</a>.)</p> 
 
 

@@ -1,12 +1,13 @@
 ---
-title: 'Big Cracker&#8217;s Chair of Density .. uhh .. Destiny'
-date: 2006-12-29T13:06:00+00:00
-excerpt: So, for those of you unfamiliar with my furniture, I own a Chair of Destiny. Let me tell you the story ...The year was
-layout: post
+title: Big Cracker&#8217;s Chair of Density .. uhh .. Destiny
+date: 2006-12-29 13:06:00 Z
 categories:
-  - People
+- People
 tags:
-  - furniture
+- furniture
+excerpt: So, for those of you unfamiliar with my furniture, I own a Chair of Destiny.
+  Let me tell you the story ...The year was
+layout: post
 ---
 
 So, for those of you unfamiliar with my furniture, I own a <a href="https://cdn.craigmcn.ca/img/chair_after.jpg?x-request=xhr" data-fslightbox="lightbox">Chair of Destiny</a>. Let me tell you the story &#8230;

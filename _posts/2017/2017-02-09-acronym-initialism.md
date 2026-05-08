@@ -1,18 +1,20 @@
 ---
-title: "Acronym v. Initialism"
-date: 2017-02-09T11:45:00-07:00
-excerpt: "I’m often frustrated by the use of the word acronym when initialism is meant, or even the more general abbreviation."
-layout: post
+title: Acronym v. Initialism
+date: 2017-02-09 18:45:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - thoughtfulthursday
-  - grammar
-  - language
-  - correction
-  - word choices
+- thoughtfulthursday
+- grammar
+- language
+- correction
+- word choices
+excerpt: I’m often frustrated by the use of the word acronym when initialism is meant,
+  or even the more general abbreviation.
+layout: post
 redirect_from: "/acronym-v-initialism.html"
 ---
+
 <div class="getty embed image alignright"><div style=" padding:66.666667% 0 0 0"><iframe  src="//embed.gettyimages.com/embed/450741771?et=U2Fx1dptRxxm1770lyUKXg&viewMoreLink=off&sig=96FtSomOBUXu6j20SO5GgMWdyF6NxH3oaxcQyslc2aU=&caption=true" width="507" height="338" scrolling="no" frameborder="0"></iframe></div>
   <p>
   <a href="http://www.gettyimages.com/detail/450741771" target="_blank" rel="noopener noreferrer">#450741771</a> /

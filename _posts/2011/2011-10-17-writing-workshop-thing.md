@@ -1,19 +1,21 @@
 ---
-title: 'Writing Workshop – Thing'
-date: 2011-10-17T21:14:15+00:00
-excerpt: "He vaguely remembered his pa showing him once or twice, but now it just felt like he’d always known."
-layout: post
+title: Writing Workshop – Thing
+date: 2011-10-17 21:14:15 Z
 categories:
-  - People
+- People
 tags:
-  - beard
-  - language
-  - razor
-  - shaving
-  - writing
+- beard
+- language
+- razor
+- shaving
+- writing
+excerpt: He vaguely remembered his pa showing him once or twice, but now it just felt
+  like he’d always known.
+layout: post
 redirect_from:
-  - /post/11600307578
+- "/post/11600307578"
 ---
+
 <img src="https://cdn.craigmcn.ca/img/shaving-kit.jpg" alt="shaving kit" width="300" align="right" />
 
 I mentioned before about the writing workshop I attended. Here’s another assignment we had, writing about a thing. In my case, I chose to write about a ritual. Again, this is related to the untitled Western I’m contemplating for [NaNoWriMo](http://www.nanowrimo.org/ "National Novel Writing Month").

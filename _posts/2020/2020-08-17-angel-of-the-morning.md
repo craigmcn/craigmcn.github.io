@@ -1,8 +1,6 @@
 ---
-title: "Angel of the Morning"
-date: 2020-08-17T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Angel of the Morning. The 1968 Merrilee Rush original and a 1981 cover by Juice Newton."
-layout: post
+title: Angel of the Morning
+date: 2020-08-17 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Merrilee Rush
 - Juice Newton
+excerpt: This week’s instalment of Music Monday is Angel of the Morning. The 1968
+  Merrilee Rush original and a 1981 cover by Juice Newton.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Angel of the Morning_](https://en.wikipedia.org/wiki/Angel_of_the_Morning) by
 [Merrilee Rush](https://en.wikipedia.org/wiki/Merrilee_Rush) from her 1968 single. The [Juice Newton](http://juicenewton.net/)
 version is from her 1981 album, [Juice](https://en.wikipedia.org/wiki/Juice_(Juice_Newton_album)).

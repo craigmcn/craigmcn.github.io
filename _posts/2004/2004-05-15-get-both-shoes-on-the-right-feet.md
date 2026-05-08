@@ -1,17 +1,19 @@
 ---
 title: Get both shoes on the right feet
-date: 2004-05-15T07:49:38+00:00
-excerpt: "Whew, another week already? I've been at work at least an extra hour every day this week, well, except Monday."
-layout: post
+date: 2004-05-15 07:49:38 Z
 categories:
-  - Opinion
-  - Technology
+- Opinion
+- Technology
 tags:
-  - coffee
-  - customer service
-  - fair trade
-  - "Maclean's"
+- coffee
+- customer service
+- fair trade
+- Maclean's
+excerpt: Whew, another week already? I've been at work at least an extra hour every
+  day this week, well, except Monday.
+layout: post
 ---
+
 Whew, another week already? I&#8217;ve been at work at least an extra hour every day this week, well, except Monday. Wednesday or Thursday (I don&#8217;t even remember anymore!) I worked an extra 2 hours and yesterday an extra 4. Woo hoo! Overtime pay!! But it&#8217;s really for the kids &#8230; well, immature adults who can&#8217;t help themselves. I really wonder some days how these people get both shoes on the right feet, get them tied up, and get themselves to work.
 
 For those of you wondering (and I&#8217;m sure nobody is), I work at a computer software support help desk, helping what should be mature, knowledgeable people use software to do their jobs. My colleagues and I would be significantly more effective if the callers actually knew their jobs. I mean, I can help them use the software, they really need to know why they&#8217;re using it, what they&#8217;re trying to do with it, and they need to recognize when they&#8217;ve accomplished what they&#8217;re trying to do.

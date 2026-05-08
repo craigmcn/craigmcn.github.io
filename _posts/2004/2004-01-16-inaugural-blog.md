@@ -1,16 +1,18 @@
 ---
 title: The inaugural blog
-date: 2004-01-16T22:00:00+00:00
-excerpt: "So, here it is ... the inaugural blog of the BigCracker website. I'm hoping to provide politically astute and"
-layout: post
+date: 2004-01-16 22:00:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - National Defense
-  - politics
-  - 'U.S. - Canada Relations'
-  - Urban Municipalities
+- National Defense
+- politics
+- U.S. - Canada Relations
+- Urban Municipalities
+excerpt: So, here it is ... the inaugural blog of the BigCracker website. I'm hoping
+  to provide politically astute and
+layout: post
 ---
+
 So, here it is &#8230; the inaugural blog of the _**BigCracker**_ website. I&#8217;m hoping to provide politically astute and intellectually provocative discussion, but I&#8217;m sure it will really become &#8220;Man, you won&#8217;t believe this &#8230;!&#8221; with responses like &#8220;Dude, **I** know! Like this one time (at band camp) &#8230;!&#8221; But, hey, it&#8217;s worth a try.
 
 I&#8217;m going to start off by listing my **Big 3** of Canadian politics. And it&#8217;s kinda funny that they&#8217;re hot right now.

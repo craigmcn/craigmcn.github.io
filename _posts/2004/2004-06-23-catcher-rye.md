@@ -1,15 +1,17 @@
 ---
 title: The Catcher in the Rye
-date: 2004-06-23T11:19:47+00:00
-excerpt: I just finished reading The Catcher in the Rye for about the eighth time. What an excellent book!
-layout: post
+date: 2004-06-23 11:19:47 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - books
-  - J.D. Salinger
-  - review
+- books
+- J.D. Salinger
+- review
+excerpt: I just finished reading The Catcher in the Rye for about the eighth time.
+  What an excellent book!
+layout: post
 ---
+
 I just finished reading The Catcher in the Rye for about the eighth time. What an excellent book! I first read the book 13 years ago, when a friend of mine gave it to me to read while I was on a student exchange to Germany. I loved it. I even wrote a paper on J.D. Salinger when I was in grade 12.
 
 If you haven&#8217;t read it, the story is about and is narrated by Holden Caulfield. Holden&#8217;s not much of a student and has now failed all his classes and is being kicked out of Pencey Prep, a private boy&#8217;s school. Holden doesn&#8217;t really want to stick around at Pencey, now that he&#8217;s flunked out, and since Christmas vacation is coming up in a few days, he decides to head back to New York City (where his family lives). He doesn&#8217;t go home right away, because he doesn&#8217;t want to confront his parents about having been kicked out of school and because this isn&#8217;t the first time. So Holden gets himself into a couple of adventures in New York. Some things are a little unbelievable, since Holden is only 16 years old, but it&#8217;s all good fun.

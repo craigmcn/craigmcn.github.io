@@ -1,18 +1,23 @@
 ---
 title: Canada Day
-date: 2014-07-03T13:31:18+00:00
-excerpt: "What I think I liked most was the weird, casual bike ride home. Half of us were on bikes and the other half were walking, with one poor lass riding in a wagon, because of a broken foot. We were riding really slowly, sometimes we'd scoot off and ride around on our own and then loop back, or just hang back and coast along. It was all just so relaxed and comfortable and enjoyable."
-layout: post
+date: 2014-07-03 13:31:18 Z
 categories:
-  - People
+- People
 tags:
-  - barbeque
-  - beer
-  - bicycles
-  - family
-  - friends
-  - multicultural
+- barbeque
+- beer
+- bicycles
+- family
+- friends
+- multicultural
+excerpt: What I think I liked most was the weird, casual bike ride home. Half of us
+  were on bikes and the other half were walking, with one poor lass riding in a wagon,
+  because of a broken foot. We were riding really slowly, sometimes we'd scoot off
+  and ride around on our own and then loop back, or just hang back and coast along.
+  It was all just so relaxed and comfortable and enjoyable.
+layout: post
 ---
+
 <div class="getty embed image alignleft">
   <div style="padding:66.535433% 0 0 0">
     <iframe src="//embed.gettyimages.com/embed/145590931?et=s4RfYhXKQSlg0VuzkfXsDQ&viewMoreLink=off&sig=25eQYqoUn74lMqkTbROW-kzX0O0HqsmkvzvgV1gdkBo=&caption=true" width="508" height="338" scrolling="no" frameborder="0"></iframe>

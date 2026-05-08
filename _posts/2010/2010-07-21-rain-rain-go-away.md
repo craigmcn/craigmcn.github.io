@@ -1,13 +1,14 @@
 ---
 title: Rain, rain, go away!
-date: 2010-07-21T09:10:04+00:00
-excerpt: "I don't know about the rest of you, but this rain's starting to get me down. If it's going to rain all summer, fine, I&#8217;ll accept it."
-layout: post
+date: 2010-07-21 09:10:04 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - complaints
-  - weather
+- complaints
+- weather
+excerpt: I don't know about the rest of you, but this rain's starting to get me down.
+  If it's going to rain all summer, fine, I&#8217;ll accept it.
+layout: post
 ---
 
 <img class="alignright size-full wp-image-1384" title="Rain" src="https://cdn.craigmcn.ca/img/rain.jpg" alt="Rain - image" width="300" height="200">

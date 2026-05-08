@@ -1,18 +1,20 @@
 ---
 title: Sunday Morning Coming Down
-date: 2014-05-26T11:56:49+00:00
-excerpt: "This week's instalment of Music Monday is Sunday Morning Coming Down. The Kris Kristofferson original from 1969, performed by Kristofferson and Johnny Cash in 1980, and a 1998 cover by Shawn Mullins."
-layout: post
+date: 2014-05-26 11:56:49 Z
 categories:
-  - People
-  - Music Monday
+- People
+- Music Monday
 tags:
-  - covers
-  - Johnny Cash
-  - Kris Kristofferson
-  - music
-  - Shawn Mullins
-  - video
+- covers
+- Johnny Cash
+- Kris Kristofferson
+- music
+- Shawn Mullins
+- video
+excerpt: This week's instalment of Music Monday is Sunday Morning Coming Down. The
+  Kris Kristofferson original from 1969, performed by Kristofferson and Johnny Cash
+  in 1980, and a 1998 cover by Shawn Mullins.
+layout: post
 ---
 
 <div id="attachment_3865" class="wp-caption alignleft">

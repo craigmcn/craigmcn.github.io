@@ -1,17 +1,19 @@
 ---
 title: 'Ironing Out the Wrinkles: Posting from Tumblr to Facebook'
-date: 2012-02-10T16:10:13+00:00
-excerpt: I have spent quite a long time trying to get my Tumblr posts showing up on Facebook, and now I finally did it!
-layout: post
+date: 2012-02-10 16:10:13 Z
 categories:
-  - Technology
+- Technology
 tags:
-  - blogging
-  - IFTTT
-  - programming
+- blogging
+- IFTTT
+- programming
+excerpt: I have spent quite a long time trying to get my Tumblr posts showing up on
+  Facebook, and now I finally did it!
+layout: post
 redirect_from:
-  - /post/17388675819
+- "/post/17388675819"
 ---
+
 <img src="https://cdn.craigmcn.ca/img/social-media.jpg" alt="Reusing this image from some other social media-related post" width="240" align="left" />I have spent quite a long time trying to get my Tumblr posts showing up on Facebook, and now I finally did it! Nowhere, no how, was there anything telling me why things weren’t working. I tried every once in a while, but never really intensively.
 
 I tried deleting and adding Tumblr to Facebook in all kinds of ways and not once did it work. Until I realized something interesting. I had a few old Facebook pages and apps that were showing up in my Tumblr Facebook options. I had ignored them, assuming that by selecting my own profile it would be fine. Wrong.

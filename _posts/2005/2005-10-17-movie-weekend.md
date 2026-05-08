@@ -1,14 +1,16 @@
 ---
 title: Movie Weekend
-date: 2005-10-17T12:28:34+00:00
-excerpt: So, it was another 2 movie weekend. And other than that, just generally screwing around.First movie was The
-layout: post
+date: 2005-10-17 12:28:34 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - movies
-  - review
+- movies
+- review
+excerpt: So, it was another 2 movie weekend. And other than that, just generally screwing
+  around.First movie was The
+layout: post
 ---
+
 So, it was another 2 movie weekend. And other than that, just generally screwing around.
 
 First movie was [The Aristocrats](http://www.imdb.com/title/tt0436078/). The tagline is &#8220;No Nudity No Violence Unspeakable Obscenity&#8221;, and boy, does that ever hit the nail on the head. The joke is too obscene to even go into any vague detail. And as such, I will not be linking to any further information about the joke. I tried to describe the gist of the joke to Gwildor and probably got most of it, but to hear the likes of [Bob Saget](http://www.imdb.com/name/nm0756114/), [Paul Reiser](http://www.imdb.com/name/nm0001663/), [Drew Carey](http://www.imdb.com/name/nm0004804/) or [Carrie Fisher](http://www.imdb.com/name/nm0000402/) (yes, [Princess Leia](http://www.imdb.com/title/tt0076759/)!) tell the joke is both shocking and appalling. Although I&#8217;m sad to admit that nothing they said was new to me, it was disturbing nonetheless. It all went incredibly beyond any reasonable boundaries of social acceptability, and then it just kept on going. And, really, once it&#8217;s past that boundary, it might as well keep going. 7 out of 10 saltines.

@@ -1,16 +1,16 @@
 ---
 title: Scorched Prairie
-date: 2012-04-14T11:08:05+00:00
+date: 2012-04-14 11:08:05 Z
+categories:
+- People
+tags:
+- photos
+- reblogged
 excerpt: A cool, weird scorched prairie
 layout: post
-categories:
-  - People
-tags:
-  - photos
-  - reblogged
 format: image
 redirect_from:
-  - /post/21090916481
+- "/post/21090916481"
 ---
 
 <img class="alignnone size-full wp-image-53" src="https://cdn.craigmcn.ca/img/tumblr_m2h4pkGdVX1qctvi1o1_1280.jpg" alt="Scorched Prairie" srcset="https://cdn.craigmcn.ca/img/tumblr_m2h4pkGdVX1qctvi1o1_1280.jpg 612w, https://cdn.craigmcn.ca/img/tumblr_m2h4pkGdVX1qctvi1o1_1280-150x150.jpg 150w, https://cdn.craigmcn.ca/img/tumblr_m2h4pkGdVX1qctvi1o1_1280-300x300.jpg 300w" sizes="(max-width: 612px) 100vw, 612px" />

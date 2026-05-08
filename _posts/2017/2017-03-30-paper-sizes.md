@@ -1,18 +1,20 @@
 ---
-title: "ISO 216 Paper Sizes"
-date: 2017-03-30T11:45:00-07:00
-excerpt: "I learned recently about the standard A-series paper sizes and was really impressed. I don't know why these standards aren't used everywhere."
-layout: post
+title: ISO 216 Paper Sizes
+date: 2017-03-30 18:45:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - thoughtfulthursday
-  - today I learned
-  - TIL
-  - efficiency
-  - productivity
+- thoughtfulthursday
+- today I learned
+- TIL
+- efficiency
+- productivity
+excerpt: I learned recently about the standard A-series paper sizes and was really
+  impressed. I don't know why these standards aren't used everywhere.
+layout: post
 redirect_from: "/iso-2016-paper-sizes.html"
 ---
+
 <div class="getty embed image alignright"><div style="padding:75.789474% 0 0 0"><iframe src="//embed.gettyimages.com/embed/89147364?et=cZQEFyAgSfxXcS78NFWWog&viewMoreLink=on&sig=1PsBNvqrpLDle8VZyvNpl9dzAXyAKyH8x2txCgVk5-Y=&caption=true" scrolling="no" frameborder="0">
 </iframe></div>
   <p>

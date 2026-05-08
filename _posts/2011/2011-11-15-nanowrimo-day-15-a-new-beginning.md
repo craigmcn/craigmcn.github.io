@@ -1,21 +1,23 @@
 ---
-title: 'Nanowrimo Day 15 – A New Beginning'
-date: 2011-11-15T20:02:00+00:00
-excerpt: "Alright, so the story of poor Carter McGill, betrayed and framed by his brother, forced to go on the run to save himself, is going nowhere."
-layout: post
+title: Nanowrimo Day 15 – A New Beginning
+date: 2011-11-15 20:02:00 Z
 categories:
-  - People
+- People
 tags:
-  - cowboys
-  - Firefly
-  - language
-  - NaNoWriMo
-  - science fiction
-  - western
-  - writing
+- cowboys
+- Firefly
+- language
+- NaNoWriMo
+- science fiction
+- western
+- writing
+excerpt: Alright, so the story of poor Carter McGill, betrayed and framed by his brother,
+  forced to go on the run to save himself, is going nowhere.
+layout: post
 redirect_from:
-  - /post/12862647814
+- "/post/12862647814"
 ---
+
 <img src="https://cdn.craigmcn.ca/img/Firefly___Malcolm_Reynolds_by_Pyroiguana.jpg" alt="Firefly - Malcolm Reynolds by ~Pyroiguana" width="300" height="267" align="right" />Alright, so the story of poor Carter McGill, betrayed and framed by his brother, forced to go on the run to save himself, is going nowhere. So I’ve started something new. I’m counting all the original words, but telling a whole new story.
 
 I’ve moved into science fiction, with a slight Western feel. Yes, like [Firefly](http://www.fireflywiki.org/ "Firefly"). Who doesn’t love cowboys in space?

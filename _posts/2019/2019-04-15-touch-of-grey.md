@@ -1,8 +1,6 @@
 ---
-title: "Touch of Grey"
-date: 2019-04-15T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Touch of Grey. The 1987 Grateful Dead original and a 2014 cover by Love Canon."
-layout: post
+title: Touch of Grey
+date: 2019-04-15 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Grateful Dead
 - Love Canon
+excerpt: This week’s instalment of Music Monday is Touch of Grey. The 1987 Grateful
+  Dead original and a 2014 cover by Love Canon.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Touch of Grey_](https://en.wikipedia.org/wiki/Touch_of_Grey) by
 [Grateful Dead](http://www.dead.net/) from their 1987 album,
 [In the Dark](https://en.wikipedia.org/wiki/In_the_Dark_(Grateful_Dead_album)). The [Love Canon](https://lovecanon.bandcamp.com/)

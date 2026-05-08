@@ -1,13 +1,15 @@
 ---
 title: Making up words
-date: 2005-07-29T07:58:33+00:00
-excerpt: I have to blog today about a beef I have with the modern use of the English language. People like to change the meaning
-layout: post
+date: 2005-07-29 07:58:33 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - language
+- language
+excerpt: I have to blog today about a beef I have with the modern use of the English
+  language. People like to change the meaning
+layout: post
 ---
+
 I have to blog today about a beef I have with the modern use of the English language. People like to change the meaning of words to suit some new purpose. The beef I have is that appropriate words already exist for the new meaning. I have two specific examples from work that I have heard repeatedly over the last few days and weeks: [metric](http://dictionary.reference.com/search?q=metric) and [ask](http://dictionary.reference.com/search?q=ask).
 
 According to [Dictionary.com](http://www.dictionary.com): ‘**metric:** as a noun, &#8220;A standard of measurement&#8221;,’ not the measurement itself, but a _standard_ of mesurement. And yet, in my day-to-day work routine, the word is used specifically as a reference to a measurement or a group of measurements. We have a word for it already. In fact, I&#8217;ve even used it already, **measurement**. Whatever we measure has a measurement, and thus we can compile a list of measurements. Not metrics, measurements. Why do we need to create a new meaning for a word when we have a word with the correct meaning already?

@@ -1,17 +1,19 @@
 ---
 title: Higher Education
-date: 2015-06-04T13:47:42+00:00
-excerpt: "University is not where you go to get a good job. It's not for corporate training, not just the next step after high school, not where you hone your craft."
-layout: post
+date: 2015-06-04 13:47:42 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - college
-  - corporations
-  - government
-  - Thoughtful Thursday
-  - university
+- college
+- corporations
+- government
+- Thoughtful Thursday
+- university
+excerpt: University is not where you go to get a good job. It's not for corporate
+  training, not just the next step after high school, not where you hone your craft.
+layout: post
 ---
+
 I think universities sell and defend higher education very poorly. University is not where you go to get a good job. It&#8217;s not the place where corporate training gets done. It&#8217;s not just the next step after high school. It&#8217;s not where you learn and hone your craft.
   
 It&#8217;s where you go to get a broad understanding of the world in all its mysterious wonder. It&#8217;s where you learn to think critically and question all of the prevailing wisdom. It&#8217;s where you learn to write competently, and argue your point confidently. It&#8217;s where corporations find the next group of eager young minds to mold into obedient drones. It&#8217;s where keen, intelligent, high performing high school students continue their quest for knowledge and understanding. It&#8217;s where artisans go to gain a much deeper insight into the history and breadth of their craft and its relationship to the wider world.

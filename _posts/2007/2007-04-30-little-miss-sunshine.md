@@ -1,19 +1,21 @@
 ---
 title: Little Miss Sunshine
-date: 2007-04-30T09:11:00+00:00
-excerpt: Yeah, it was nominated for and won some Academy Awards, obviously my review is coming a little late. I had every
-layout: post
+date: 2007-04-30 09:11:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - Abigail Breslin
-  - Academy Awards
-  - Alan Arkin
-  - movies
-  - review
-  - Steve Carell
-  - Toni Collette
+- Abigail Breslin
+- Academy Awards
+- Alan Arkin
+- movies
+- review
+- Steve Carell
+- Toni Collette
+excerpt: Yeah, it was nominated for and won some Academy Awards, obviously my review
+  is coming a little late. I had every
+layout: post
 ---
+
 Yeah, it was nominated for and won some [Academy Awards](http://www.imdb.com/title/tt0449059/awards), obviously my review is coming a little late. I had every intention of seeing it in the theatre, and it seems to me that I was one of the first to get behind it. Anyway, that&#8217;s all in the past, I have now seen the movie, and it was spectacular!
 
 I definitely appreciate [Toni Collette](http://www.imdb.com/name/nm0001057/) in a role where she&#8217;s not downtrodden and depressive. [Steve Carell](http://www.imdb.com/name/nm0136797/) is very good in a somewhat more cerebral role than usual, and [Greg Kinnear](http://www.imdb.com/name/nm0001427/) plays fairly serious with a touch of comic relief. I&#8217;m not sure [Alan Arkin](http://www.imdb.com/name/nm0000273/) deserved the Oscar for Supporting Actor: while his character is pretty good, he&#8217;s not in the whole movie and his character&#8217;s influence is not driven by the acting, it&#8217;s just part of the story.

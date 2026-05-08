@@ -1,20 +1,24 @@
 ---
 title: Getting Positive
-date: 2014-06-05T13:58:15+00:00
-excerpt: It was going to be about getting and staying positive even through crappy times. It was going to be about finding things of my own that make me positive, and focusing on those things through crappy times. It was going to be about not dwelling on negative things and learning the positive lessons from the crappy times.
-layout: post
+date: 2014-06-05 13:58:15 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - bagpiping
-  - books
-  - family
-  - friends
-  - healing
-  - positive
-  - writing
-  - yoga
+- bagpiping
+- books
+- family
+- friends
+- healing
+- positive
+- writing
+- yoga
+excerpt: It was going to be about getting and staying positive even through crappy
+  times. It was going to be about finding things of my own that make me positive,
+  and focusing on those things through crappy times. It was going to be about not
+  dwelling on negative things and learning the positive lessons from the crappy times.
+layout: post
 ---
+
 I usually try to start on these Thursday posts on Monday, if only to get the topic started. Then I have a couple of days to let it stew in my mind and get something solid written by Wednesday evening. And before I publish on Thursday, I can have another quick proofread and fix up any little things.
 
 Well, it&#8217;s already Thursday. I&#8217;m pretty sure Monday I had something I was going to write (and didn&#8217;t) and now I have no idea. I&#8217;m pretty sure I was going to write something positive, given that the last long while has been a pretty crappy time in my life, and I&#8217;d rather not bore you and bring you down with my negativity.
