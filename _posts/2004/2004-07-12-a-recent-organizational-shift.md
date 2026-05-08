@@ -1,14 +1,16 @@
 ---
 title: A recent organizational shift
-date: 2004-07-12T08:26:31+00:00
-excerpt: So, here we are, Monday morning. woo hoo. (Note the subdued, woo hoo.) Mondays drive me nuts. The idiots who call me
-layout: post
+date: 2004-07-12 08:26:31 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - jobs
-  - training
+- jobs
+- training
+excerpt: So, here we are, Monday morning. woo hoo. (Note the subdued, woo hoo.) Mondays
+  drive me nuts. The idiots who call me
+layout: post
 ---
+
 So, here we are, Monday morning. woo hoo. (Note the subdued, woo hoo.) Mondays drive me nuts. The idiots who call me are only idiots because somehow 2 days of not being at work has caused them to forget how to do their jobs. Grr. Oh, and this is going to be a long post &#8230; sorry.
 
 Anyway, I&#8217;m caught in a bit of a dilemma. I&#8217;m really not enjoying my job and so I&#8217;m thinking of leaving. There&#8217;s also a ton of rumour around some restructuring after a recent organizational shift which has me a little worried. I don&#8217;t have a problem with the job changing at all, as long as it&#8217;s for the better. But the rumour is that our job levels and thus our pay will be decreased, while the responsibilties will be increased &#8230; funny how big business likes to operate that way!

@@ -1,18 +1,21 @@
 ---
 title: Your Coherent Story
-date: 2014-06-12T13:06:55+00:00
-excerpt: "I rely on social media to provide me a coherent story about your lives. When I see things that seem to contradict what I thought I knew about you, I have to wonder whether I really know you, and whether I'm interested in knowing you."
-layout: post
+date: 2014-06-12 13:06:55 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - friends
-  - opinions
-  - perspective
-  - relationship
-  - social media
-  - values
+- friends
+- opinions
+- perspective
+- relationship
+- social media
+- values
+excerpt: I rely on social media to provide me a coherent story about your lives. When
+  I see things that seem to contradict what I thought I knew about you, I have to
+  wonder whether I really know you, and whether I'm interested in knowing you.
+layout: post
 ---
+
 <div class="getty embed image alignright">
   <div style="padding:128.142077% 0 0 0">
     <iframe ssrc="//embed.gettyimages.com/embed/EC4616-001?et=IBXN_GO4Q9BzjVrLgUNZQQ&viewMoreLink=off&sig=rK89jS6DULK7wsshkeVr7P-X4hvJG1MsZ8jhJDIYiV8=&caption=true" width="366" height="469" scrolling="no" frameborder="0"></iframe>

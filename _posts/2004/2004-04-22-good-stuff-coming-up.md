@@ -1,15 +1,17 @@
 ---
 title: Good stuff coming up
-date: 2004-04-22T08:40:24+00:00
-excerpt: "Wow, 2 in 2 days! I've definitely never been a prolific writer, but I've got some stuff to add to yesterday's blog."
-layout: post
+date: 2004-04-22 08:40:24 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - blogging
-  - Distillery Jazz Festival
-  - music
+- blogging
+- Distillery Jazz Festival
+- music
+excerpt: Wow, 2 in 2 days! I've definitely never been a prolific writer, but I've
+  got some stuff to add to yesterday's blog.
+layout: post
 ---
+
 Wow, 2 in 2 days! I&#8217;ve definitely never been a prolific writer, but I&#8217;ve got some stuff to add to yesterday&#8217;s blog. First, I&#8217;ll respond to [my sister&#8217;s response to yesterday&#8217;s post](/good-without-the-tooth.html), then I&#8217;ll let you in on some good stuff that&#8217;s coming up.
 
 So my sister asked, “What the hell does ‘blog’ mean anyway? Is it a kind of onomatopeic word describing the disgorgement of the brain onto the internet?” And her guess is not far from the truth&#8230;.

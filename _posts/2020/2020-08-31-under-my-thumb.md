@@ -1,8 +1,6 @@
 ---
-title: "Under My Thumb"
-date: 2020-08-31T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Under My Thumb. The 1966 Rolling Stones original and a 1979 cover by Streetheart."
-layout: post
+title: Under My Thumb
+date: 2020-08-31 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - The Rolling Stones
 - Streetheart
+excerpt: This week’s instalment of Music Monday is Under My Thumb. The 1966 Rolling
+  Stones original and a 1979 cover by Streetheart.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Under My Thumb_](https://en.wikipedia.org/wiki/Under_My_Thumb) by
 [The Rolling Stones](http://rollingstones.com/) from their 1966 album,
 [Aftermath](https://en.wikipedia.org/wiki/Aftermath_(Rolling_Stones_album)). The [Streetheart](http://streetheart.ca/)

@@ -1,16 +1,18 @@
 ---
-title: 'Fixin&#8217; computers'
-date: 2005-05-24T03:08:19+00:00
-excerpt: "Alright, so I tried to blog earlier today, but Daddy-O's computer froze. MAN! Did that ever piss me off! Part of the"
-layout: post
+title: Fixin&#8217; computers
+date: 2005-05-24 03:08:19 Z
 categories:
-  - People
+- People
 tags:
-  - friends
-  - movies
-  - Saskatoon
-  - websites
+- friends
+- movies
+- Saskatoon
+- websites
+excerpt: Alright, so I tried to blog earlier today, but Daddy-O's computer froze.
+  MAN! Did that ever piss me off! Part of the
+layout: post
 ---
+
 Alright, so I tried to blog earlier today, but Daddy-O&#8217;s computer froze. MAN! Did that ever piss me off! Part of the problem is solved with a new USB driver for the Big Cracker&#8217;s fancy-schmancy [Pentax Optio 30](http://www.dpreview.com/news/2004/2/2/pentaxoptio30) digital camera. But I think there&#8217;s still some serious issues with this &#8216;puter. Daddy-O says it likes to freeze regularly, so there&#8217;s prob&#8217;ly a couple of things going on.
 
 Whew! What a week! I finally got finished with h! is for Hulk&#8217;s [wicked new website](http://www.ppfhouse.com/). And we went to this pretty obscure sci-fi movie, [Star Wars: Revenge of the Sith](http://www.imdb.com/title/tt0121766/). You might not have heard about it, I don&#8217;t think this Star Wars series is all that popular.

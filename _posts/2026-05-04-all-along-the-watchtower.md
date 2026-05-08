@@ -1,8 +1,6 @@
 ---
-title: "All Along the Watchtower"
-date: 2026-05-04T11:45:00-0700
-excerpt: "This week's instalment of Music Monday is All Along the Watchtower. The 1967 Bob Dylan original and a 1968 cover by The Jimi Hendrix Experience."
-layout: post
+title: All Along the Watchtower
+date: 2026-05-04 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Bob Dylan
 - The Jimi Hendrix Experience
+excerpt: This week's instalment of Music Monday is All Along the Watchtower. The 1967
+  Bob Dylan original and a 1968 cover by The Jimi Hendrix Experience.
+layout: post
 ---
+
 This week's instalment of Music Monday is [_All Along the Watchtower_](https://en.wikipedia.org/wiki/All_Along_the_Watchtower) by
 [Bob Dylan](https://www.bobdylan.com/) from their 1967 album,
 [John Wesley Harding](https://en.wikipedia.org/wiki/John_Wesley_Harding). The [The Jimi Hendrix Experience](https://www.jimihendrix.com/)

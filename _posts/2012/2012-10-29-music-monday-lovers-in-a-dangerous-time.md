@@ -1,17 +1,19 @@
 ---
 title: 'Music Monday: Lovers in a Dangerous Time'
-date: 2012-10-29T14:31:08+00:00
-excerpt: "This week’s instalment of Music Monday is Lovers in a Dangerous Time. The 1984 Bruce Cockburn original and the 1991 cover by the Barenaked Ladies."
-layout: post
+date: 2012-10-29 14:31:08 Z
 categories:
-  - People
+- People
 tags:
-  - Barenaked Ladies
-  - Bruce Cockburn
-  - covers
-  - music
-  - video
+- Barenaked Ladies
+- Bruce Cockburn
+- covers
+- music
+- video
+excerpt: This week’s instalment of Music Monday is Lovers in a Dangerous Time. The
+  1984 Bruce Cockburn original and the 1991 cover by the Barenaked Ladies.
+layout: post
 ---
+
 This week&#8217;s instalment of Music Monday is [_Lovers in a Dangerous Time_](http://en.wikipedia.org/wiki/Lovers_in_a_Dangerous_Time). The 1984 <http://brucecockburn.com/> original and the 1991 cover by the [Barenaked Ladies](http://barenakedladies.com/). I don&#8217;t know that I remember hearing the original before I listened to the cover on a weird self-published cassette tape, with a yellow photocopied insert, sometime in high school.
 
 <div class="video-container">

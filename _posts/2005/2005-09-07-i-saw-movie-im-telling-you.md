@@ -1,14 +1,16 @@
 ---
-title: 'I saw a movie &#8230; and I&#8217;m telling you!!'
-date: 2005-09-07T12:24:16+00:00
-excerpt: "Holy crap, Batman!! Big Cracker wrote a review for a movie! That only took 9 months! Yes, it's true. There's a review"
-layout: post
+title: I saw a movie &#8230; and I&#8217;m telling you!!
+date: 2005-09-07 12:24:16 Z
 categories:
-  - People
+- People
 tags:
-  - complaints
-  - movies
+- complaints
+- movies
+excerpt: Holy crap, Batman!! Big Cracker wrote a review for a movie! That only took
+  9 months! Yes, it's true. There's a review
+layout: post
 ---
+
 Holy crap, Batman!! Big Cracker wrote a review for a movie! That only took 9 months!
 
 Yes, it&#8217;s true. There&#8217;s a [review](/river-king.html) for _[The River King](http://www.imdb.com/title/tt0386751/)_ which is set to be released sometime in the next month or two. I happened to see it &#8217;cause I was in the right place at the right time. I got a free pass when I went to see _[The Brothers Grimm](http://www.imdb.com/title/tt0355295/)_ on the weekend. There were a few people handing out something when I walked to the escalators and there was a dude at the top of the escalator, so I went to see what he was flogging (a dead horse was the first thing I thought of).

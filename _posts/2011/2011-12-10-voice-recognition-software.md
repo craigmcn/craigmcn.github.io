@@ -1,19 +1,22 @@
 ---
 title: Voice Recognition Software
-date: 2011-12-10T17:06:00+00:00
-excerpt: "I’m writing this post using only the voice recognition software that I just installed. I’m hoping that by being able to just speak some of my thoughts that I might be able to write a little bit more and a little bit faster."
-layout: post
+date: 2011-12-10 17:06:00 Z
 categories:
-  - Technology
+- Technology
 tags:
-  - complaints
-  - Dragon
-  - language
-  - Naturally Speaking
-  - productivity
+- complaints
+- Dragon
+- language
+- Naturally Speaking
+- productivity
+excerpt: I’m writing this post using only the voice recognition software that I just
+  installed. I’m hoping that by being able to just speak some of my thoughts that
+  I might be able to write a little bit more and a little bit faster.
+layout: post
 redirect_from:
-  - /post/14035561849
+- "/post/14035561849"
 ---
+
 <img src="https://cdn.craigmcn.ca/img/dragon-naturally-speaking.jpg" alt="Dragon NaturallySpeaking" width="240" height="224" align="left" />I’m writing this post using only the voice recognition software that I just installed. I’m using [Dragon NaturallySpeaking](http://nuance.com/for-individuals/by-product/dragon-for-pc/home-version/index.htm "Dragon NaturallySpeaking Home Edition") version 11 and giving this a bit of a test drive. I’m hoping that by being able to just speak some of my thoughts that I might be able to write a little bit more and a little bit faster. I think this will take me a little bit of getting used to. I have to talk much more slowly and clearly than I’m accustomed to, and I have to think about punctuation at the same time.
 
 It’s funny, I thought that by being able to speak and not have to type that it would be faster but now I find I have to have all of my thoughts ready to be spoken before actually “writing.”

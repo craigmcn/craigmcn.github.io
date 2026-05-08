@@ -1,8 +1,6 @@
 ---
-title: "Sure Know Something"
-date: 2019-07-08T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Sure Know Something. The 1979 Kiss original and a 2019 cover by The Hindley Street Country Club."
-layout: post
+title: Sure Know Something
+date: 2019-07-08 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Kiss
 - The Hindley Street Country Club
+excerpt: This week’s instalment of Music Monday is Sure Know Something. The 1979 Kiss
+  original and a 2019 cover by The Hindley Street Country Club.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Sure Know Something_](https://en.wikipedia.org/wiki/Sure_Know_Something) by
 [Kiss](http://kissonline.com/) from their 1979 album,
 [Dynasty](https://en.wikipedia.org/wiki/Dynasty_(Kiss_album)). [The Hindley Street Country Club](https://www.thehscc.com/)

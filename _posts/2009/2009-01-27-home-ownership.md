@@ -1,14 +1,16 @@
 ---
 title: Home Ownership
-date: 2009-01-27T19:27:56+00:00
-excerpt: "Is it like this with everyone who owns a home? Every time I look around, there's some new project that needs to get done."
-layout: post
+date: 2009-01-27 19:27:56 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - housework
-  - maintenance
+- housework
+- maintenance
+excerpt: Is it like this with everyone who owns a home? Every time I look around,
+  there's some new project that needs to get done.
+layout: post
 ---
+
 Is it like this with everyone who owns a home? Every time I look around, there&#8217;s some new project that needs to get done.
 
   * a window seat that needs rebuilding

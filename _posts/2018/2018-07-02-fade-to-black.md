@@ -1,18 +1,20 @@
 ---
-title: "Fade To Black"
-date: 2018-07-02T04:45:00-07:00
-excerpt: "This week’s instalment of Music Monday is Fade To Black. The 1984 Metallica original and a 2001 cover by Vitamin String Quartet."
-layout: post
+title: Fade To Black
+date: 2018-07-02 11:45:00 Z
 categories:
-  - People
-  - Music Monday
+- People
+- Music Monday
 tags:
-  - covers
-  - music
-  - video
-  - Metallica
-  - Vitamin String Quartet
+- covers
+- music
+- video
+- Metallica
+- Vitamin String Quartet
+excerpt: This week’s instalment of Music Monday is Fade To Black. The 1984 Metallica
+  original and a 2001 cover by Vitamin String Quartet.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Fade To Black_](https://en.wikipedia.org/wiki/Fade_to_Black_(song)) by [Metallica](http://metallica.com/) from their 1984 album, [Ride the Lightning](https://en.wikipedia.org/wiki/Ride_the_Lightning). The [Vitamin String Quartet](https://www.vitaminstringquartet.com/pages/about-us) version is from their 2001 album, [Say Your Prayers Little One: The String Tribute to Metallica](https://www.vitaminstringquartet.com/collections/albums/products/say-your-prayers-little-one-string-tribute-to-metallica).
 
 I couldn't find an official video, so I used the live video that seemed to be from a slightly official source.

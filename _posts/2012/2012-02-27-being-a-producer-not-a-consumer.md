@@ -1,17 +1,19 @@
 ---
 title: Being a Producer, not a Consumer
-date: 2012-02-27T13:02:06+00:00
-excerpt: If you begin your day checking the news, checking your email, and checking your notifications, you’ve launched yourself into a day of grazing a mindless consumption.
-layout: post
+date: 2012-02-27 13:02:06 Z
 categories:
-  - People
+- People
 tags:
-  - consumption
-  - productivity
-  - quotes
+- consumption
+- productivity
+- quotes
+excerpt: If you begin your day checking the news, checking your email, and checking
+  your notifications, you’ve launched yourself into a day of grazing a mindless consumption.
+layout: post
 redirect_from:
-  - /post/18388097852
+- "/post/18388097852"
 ---
+
 I read [this article](http://www.informationdiet.com/blog/read/500-words-before-8am) the other day and I’m intrigued by it’s premise.
 
 > If you begin your day checking the news, checking your email, and checking your notifications, you’ve launched yourself into a day of grazing a mindless consumption.

@@ -1,20 +1,21 @@
 ---
-title: 'Feel Like Makin’ Love'
-date: 2012-01-05T14:08:34+00:00
+title: Feel Like Makin’ Love
+date: 2012-01-05 14:08:34 Z
+categories:
+- People
+tags:
+- Facebook
+- music
+- Roberta Flack
+- video
+- YouTube
 excerpt: "#1 single in your country of origin in the week you were born"
 layout: post
-categories:
-  - People
-tags:
-  - Facebook
-  - music
-  - Roberta Flack
-  - video
-  - YouTube
 format: video
 redirect_from:
-  - /post/15356904237
+- "/post/15356904237"
 ---
+
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/rzo35edO74A" frameborder="0" allowfullscreen></iframe>
 </div>

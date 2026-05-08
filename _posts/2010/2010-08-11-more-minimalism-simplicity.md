@@ -1,18 +1,20 @@
 ---
 title: More on Minimalism and Simplicity
-date: 2010-08-11T07:30:00+00:00
-excerpt: "Further to yesterday's post, over the last year or so, I've been keeping an eye on the domain Polonius.com. I was"
-layout: post
+date: 2010-08-11 07:30:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - Lifehacker
-  - minimalism
-  - Polonius
-  - productivity
-  - WorkAwesome
-  - Zen Habits
+- Lifehacker
+- minimalism
+- Polonius
+- productivity
+- WorkAwesome
+- Zen Habits
+excerpt: Further to yesterday's post, over the last year or so, I've been keeping
+  an eye on the domain Polonius.com. I was
+layout: post
 ---
+
 Further to [yesterday’s post](minimalism-simplicity-moderation.html), over the last year or so, I’ve been keeping an eye on the domain [Polonius.com](http://www.whois.net/whois/polonius.com). I was thinking that I wanted to start a minimalism, simplicity, and productivity blog, and [Polonius](http://en.wikipedia.org/wiki/Polonius) provided sage advice. Unfortunately, the domain is still not available.
 
 But on further reflection, all I would’ve done is reposted or quoted from existing sites, like [Lifehacker](http://lifehacker.com/), [WorkAwesome](http://workawesome.com/), [Zen Habits](http://zenhabits.net/), and others. So I decided that I would just try to keep you all updated on my minimalism, simplicity, and productivity efforts.

@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 In my opinion, I&rsquo;ve been around the block more than once and I have a pretty good understanding of myself and the world around me.

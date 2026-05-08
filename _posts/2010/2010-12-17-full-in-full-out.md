@@ -1,12 +1,13 @@
 ---
 title: Full In, Full Out
-date: 2010-12-17T12:33:27+00:00
-excerpt: "I've had this in the &ldquo;hopper&rdquo; for a while now. A while ago, I caught a Lifehacker article extoling the"
-layout: post
+date: 2010-12-17 12:33:27 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - productivity
+- productivity
+excerpt: I've had this in the &ldquo;hopper&rdquo; for a while now. A while ago, I
+  caught a Lifehacker article extoling the
+layout: post
 ---
 
 [<img class="alignleft size-full wp-image-1256" title="waiter with plates" src="https://cdn.craigmcn.ca/img/banquet-service-etiquette-200X200.jpg" alt="waiter with plates" width="200" height="200" srcset="https://cdn.craigmcn.ca/img/banquet-service-etiquette-200X200.jpg 200w, https://cdn.craigmcn.ca/img/banquet-service-etiquette-200X200-150x150.jpg 150w" sizes="(max-width: 200px) 100vw, 200px" />](https://cdn.craigmcn.ca/img/banquet-service-etiquette-200X200.jpg)I’ve had this in the “hopper” for a while now. A while ago, I caught a [Lifehacker article](http://lifehacker.com/5642869/use-the-full-in-full-out-method-to-keep-household-clutter-under-control) extoling the virtues of the “full in, full out” strategy. I then read [the original article](http://parentingsquad.com/easy-ways-to-keep-a-house-relatively-clean-with-small-kids) about productivity, cleaning, and decluttering that included the strategy, among others. The general principle is that as you move from room to room in your house, try to bring with you the items from the starting room that belong in the rooms along your travel path. Apparently, the concept comes from the restaurant industry: when going into the kitchen, bring empty, dirty dishes in and new, full dishes out. So that your arms are full on the way in and on the way out; very efficient.

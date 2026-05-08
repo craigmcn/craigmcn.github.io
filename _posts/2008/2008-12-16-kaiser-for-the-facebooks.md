@@ -1,14 +1,16 @@
 ---
 title: Kaiser for the Facebooks
-date: 2008-12-16T20:12:52+00:00
-excerpt: "Hi everybody! I'm in the process of building a Kaiser game for Facebook and I could use your help. I realize that"
-layout: post
+date: 2008-12-16 20:12:52 Z
 categories:
-  - Technology
+- Technology
 tags:
-  - cards
-  - web applications
+- cards
+- web applications
+excerpt: Hi everybody! I'm in the process of building a Kaiser game for Facebook and
+  I could use your help. I realize that
+layout: post
 ---
+
 Hi everybody! I&#8217;m in the process of building a [Kaiser](http://en.wikipedia.org/wiki/Kaiser_(game)) game for [Facebook](http://www.facebook.com/) and I could use your help. I realize that Kaiser really only exists in [Saskatchewan](http://en.wikipedia.org/wiki/Saskatchewan), but I thought maybe someone else might have some insight into algorithms for these kinds of card games.
 
 Without reading the [Wikipedia](http://en.wikipedia.org/wiki/Main_Page) article I linked to above, Kaiser is a trick-taking card game played with 4 players. What I need to know is a way to introduce some basic intelligence so that the game can be played with less than 4 players. The computer will need to be able to bid, and determine an appropriate bid based on his cards, and then play somewhat intelligently to defend the bid.

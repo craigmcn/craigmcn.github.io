@@ -1,18 +1,21 @@
 ---
 title: Passing Judgment
-date: 2014-08-15T11:00:54+00:00
-excerpt: "There are always going to be things in our lives we don't want and I think that's where non-judgment comes in. Passing judgment on external things isn't helpful, getting angry about things you can't change isn't helpful."
-layout: post
+date: 2014-08-15 11:00:54 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - breathing
-  - changes
-  - Forgetful Friday
-  - personal
-  - Thoughtful Thursday
-  - yoga
+- breathing
+- changes
+- Forgetful Friday
+- personal
+- Thoughtful Thursday
+- yoga
+excerpt: There are always going to be things in our lives we don't want and I think
+  that's where non-judgment comes in. Passing judgment on external things isn't helpful,
+  getting angry about things you can't change isn't helpful.
+layout: post
 ---
+
 <div class="getty embed image alignright">
   <div style="padding:66.666667% 0 0 0">
     <iframe src="//embed.gettyimages.com/embed/174197278?et=vna3s0IdSDZRbTflAWsm1A&viewMoreLink=off&sig=2ssYvxlv34F3IOLHxqUGV0rMnACGIxHCXtmh8DKijko=&caption=true" width="507" height="338" scrolling="no" frameborder="0"></iframe>

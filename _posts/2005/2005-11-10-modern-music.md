@@ -1,18 +1,20 @@
 ---
 title: Modern Music
-date: 2005-11-10T04:36:05+00:00
-excerpt: "Big Cracker reporting from Our Nation's Capital!    So, I'm in Ottawa, also known as The National Capital Region, or"
-layout: post
+date: 2005-11-10 04:36:05 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - complaints
-  - holidays
-  - movies
-  - music
-  - Remembrance Day
-  - review
+- complaints
+- holidays
+- movies
+- music
+- Remembrance Day
+- review
+excerpt: Big Cracker reporting from Our Nation's Capital!    So, I'm in Ottawa, also
+  known as The National Capital Region, or
+layout: post
 ---
+
 Big Cracker reporting from <span style="font-weight: bold;">Our Nation&#8217;s Capital</span>!
 
 So, I&#8217;m in [Ottawa](http://www.ottawa.ca/), also known as [The National Capital Region](http://www.canadascapital.gc.ca/), or NCR. I&#8217;m in town for [Remembrance Day](http://www.vac-acc.gc.ca/remembers/sub.cfm?source=history/other/remember/r_intro), hoping to get a photo of our new [GG, Michaëlle Jean](http://www.gg.ca/document.aspx?id=14615) and our Right Honourable Prime Minister, [Paul Martin](http://www.pm.gc.ca/eng/bio_former.asp?id=62).

@@ -1,16 +1,17 @@
 ---
 title: Losing Favourites
-date: 2012-04-01T13:00:05+00:00
+date: 2012-04-01 13:00:05 Z
+categories:
+- Funny
+tags:
+- loss
+- politics
 excerpt: In church I heard a lady in the pew next to me saying a prayer.
 layout: post
-categories:
-  - Funny
-tags:
-  - loss
-  - politics
 redirect_from:
-  - /post/20300532260
+- "/post/20300532260"
 ---
+
 In church I heard a lady in the pew next to me saying a prayer. It was so sweet and sincere that I just had to share with you:
 
 > Dear Lord, This has been a tough two or three years …

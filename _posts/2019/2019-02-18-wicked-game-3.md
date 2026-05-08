@@ -1,8 +1,6 @@
 ---
-title: "Wicked Game (3)"
-date: 2019-02-18T11:45:00-0800
-excerpt: "This week’s instalment of Music Monday is Wicked Game. The 1989 Chris Isaak original and a 2017 cover by Charlotte Cardin."
-layout: post
+title: Wicked Game (3)
+date: 2019-02-18 19:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Chris Isaak
 - Charlotte Cardin
+excerpt: This week’s instalment of Music Monday is Wicked Game. The 1989 Chris Isaak
+  original and a 2017 cover by Charlotte Cardin.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Wicked Game_](https://en.wikipedia.org/wiki/Wicked_Game) by
 [Chris Isaak](https://www.chrisisaak.com/) from his 1989 album,
 [Heart Shaped World](https://en.wikipedia.org/wiki/Heart_Shaped_World_(Chris_Isaak_album)). The [Charlotte Cardin](http://www.charlottecardin.com/)

@@ -1,8 +1,6 @@
 ---
-title: "The Wreck of the Edmund Fitzgerald"
-date: 2019-05-13T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is The Wreck of the Edmund Fitzgerald. The 1976 Gordon Lightfoot original and a 2019 cover by the Headstones."
-layout: post
+title: The Wreck of the Edmund Fitzgerald
+date: 2019-05-13 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Gordon Lightfoot
 - Headstones
+excerpt: This week’s instalment of Music Monday is The Wreck of the Edmund Fitzgerald.
+  The 1976 Gordon Lightfoot original and a 2019 cover by the Headstones.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_The Wreck of the Edmund Fitzgerald_](https://en.wikipedia.org/wiki/The_Wreck_of_the_Edmund_Fitzgerald) by
 [Gordon Lightfoot](https://www.lightfoot.ca/) from his 1976 album,
 [Summertime Dream](https://en.wikipedia.org/wiki/Summertime_Dream). The [Headstones](https://headstonesband.com/)

@@ -1,18 +1,20 @@
 ---
-title: "It Doesn’t Do That"
-date: 2012-03-22T13:00:05+00:00
-excerpt: I ended up with a few extra days of work recently because someone mentioned people doing something stupid, and I chose to make it stop.
-layout: post
+title: It Doesn’t Do That
+date: 2012-03-22 13:00:05 Z
 categories:
-  - People
+- People
 tags:
-  - complaints
-  - customer service
-  - programming
-  - request
+- complaints
+- customer service
+- programming
+- request
+excerpt: I ended up with a few extra days of work recently because someone mentioned
+  people doing something stupid, and I chose to make it stop.
+layout: post
 redirect_from:
-  - /post/19740358198
+- "/post/19740358198"
 ---
+
 <img src="https://cdn.craigmcn.ca/img/cute-puppies.jpg" alt="Cute Puppies" width="300" height="187" align="left" />I ended up with a few extra days of work recently because someone mentioned people doing something stupid, and I chose to make it stop.
 
 A question about my solution came in this morning that forced me to write this post.

@@ -1,13 +1,14 @@
 ---
-title: 'God&#8217;s Gonna Cut You Down &#8211; Johnny Cash'
-date: 2012-08-29T14:53:38+00:00
-excerpt: "Go tell that long tongue liar / Go and tell that midnight rider / Tell the rambler, the gambler, the back biter / Tell 'em that God's gonna cut 'em down"
-layout: post
+title: God&#8217;s Gonna Cut You Down &#8211; Johnny Cash
+date: 2012-08-29 14:53:38 Z
 categories:
-  - People
+- People
 tags:
-  - music
-  - video
+- music
+- video
+excerpt: Go tell that long tongue liar / Go and tell that midnight rider / Tell the
+  rambler, the gambler, the back biter / Tell 'em that God's gonna cut 'em down
+layout: post
 ---
 
 <div class="video-container">

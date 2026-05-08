@@ -1,20 +1,21 @@
 ---
-title: 'I think people don’t like coffee'
-date: 2019-05-09T11:45:00-07:00
-excerpt: 'No, seriously. I think people don’t like coffee.'
-layout: post
+title: I think people don’t like coffee
+date: 2019-05-09 18:45:00 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - thoughtfulthursday
-  - coffee
-  - society
-  - complaints
-  - latte
-  - milk
-redirect_from: "i-think-people-don-t-like-coffee.html"
+- thoughtfulthursday
+- coffee
+- society
+- complaints
+- latte
+- milk
+excerpt: No, seriously. I think people don’t like coffee.
+layout: post
+redirect_from: i-think-people-don-t-like-coffee.html
 ---
+
 <div class="getty-embed--standard alignright">
     <a id='sQwSGmhNRvtjE5wXiRaAwg' class='gie-single' href='http://www.gettyimages.ca/detail/591386687' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a>
     <script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'sQwSGmhNRvtjE5wXiRaAwg',sig:'v-c6IXYx2ysXMCLt45XhDpfRrQQ1hDGQ9xYGTqy2ik0=',w:'509px',h:'339px',items:'591386687',caption: true ,tld:'ca',is360: false })});</script>

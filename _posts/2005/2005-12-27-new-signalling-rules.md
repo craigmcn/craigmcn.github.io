@@ -1,15 +1,17 @@
 ---
 title: New signalling rules
-date: 2005-12-27T07:04:07+00:00
-excerpt: So I rented a car for the weekened. A shiny, black 2005 Chevrolet Malibu. It drives nice, and is very comfortable to
-layout: post
+date: 2005-12-27 07:04:07 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - complaints
-  - driving
+- complaints
+- driving
+excerpt: So I rented a car for the weekened. A shiny, black 2005 Chevrolet Malibu.
+  It drives nice, and is very comfortable to
+layout: post
 ---
+
 So I rented a car for the weekened. A shiny, black [2005 Chevrolet Malibu](http://www.chevrolet.com/malibu/). It drives nice, and is very comfortable to ride in.
 
 Now, as you all know, I don&#8217;t drive a lot. I have a valid driver&#8217;s licence, but I don&#8217;t own a vehicle. Obviously, this puts me at a disadvantage when driving rules change, because I don&#8217;t pay much attention to the changes when I&#8217;m not driving.

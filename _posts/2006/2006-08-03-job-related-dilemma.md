@@ -1,14 +1,16 @@
 ---
 title: Job-related dilemma
-date: 2006-08-03T09:24:07+00:00
-excerpt: "I'm in a bit of a job-related dilemma and I'm seeking advice. There are 3 jobs at stake:    Technical Writer for a"
-layout: post
+date: 2006-08-03 09:24:07 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - choices
-  - jobs
+- choices
+- jobs
+excerpt: 'I''m in a bit of a job-related dilemma and I''m seeking advice. There are
+  3 jobs at stake:    Technical Writer for a'
+layout: post
 ---
+
 I&#8217;m in a bit of a job-related dilemma and I&#8217;m seeking advice. There are 3 jobs at stake:
 
 <ol class="blog">

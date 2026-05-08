@@ -1,21 +1,24 @@
 ---
 title: Free Wings for a Year
-date: 2012-03-05T14:00:00+00:00
-excerpt: I spent last Wednesday afternoon in line outside Hudsons Tap House waiting to be one of the first 200 people into the restaurant at 6:30 pm, thereby winning a weekly order of chicken wings for the next year.
-layout: post
+date: 2012-03-05 14:00:00 Z
 categories:
-  - Uncategorized
+- Uncategorized
 tags:
-  - advertising
-  - chicken wings
-  - food
-  - Hudsons
-  - Saskatoon
-  - YXE
+- advertising
+- chicken wings
+- food
+- Hudsons
+- Saskatoon
+- YXE
+excerpt: I spent last Wednesday afternoon in line outside Hudsons Tap House waiting
+  to be one of the first 200 people into the restaurant at 6:30 pm, thereby winning
+  a weekly order of chicken wings for the next year.
+layout: post
 redirect_from:
-  - /post/18801656847
-  - /free-wings-for-year.html
+- "/post/18801656847"
+- "/free-wings-for-year.html"
 ---
+
 <img src="http://hudsonstaphouse.com/wp-content/themes/hudsons2012/images/hudsons_logo.png" alt="Hudsons Tap House" width="204" height="129" align="left" />Old news for some of you, I know, but I feel the need to write my story and voice my complaint.
 
 I spent last Wednesday afternoon, from 3:30 pm until almost 7:30 pm, in line outside [Hudsons Tap House](http://hudsonstaphouse.com/ "Hudsons Tap House") waiting to be one of the first 200 people into the restaurant at 6:30 pm, thereby winning a weekly order of chicken wings for the next year. I was about 50th in line and handily won my 52 free orders of chicken wings.

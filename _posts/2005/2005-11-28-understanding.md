@@ -1,17 +1,19 @@
 ---
 title: Understanding
-date: 2005-11-28T06:26:52+00:00
-excerpt: "Okay, I have to admit, I don't understand people. First, from Smokey's comment on the last blog, I'm pretty sure the"
-layout: post
+date: 2005-11-28 06:26:52 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - complaints
-  - idiots
-  - movies
-  - transit
+- complaints
+- idiots
+- movies
+- transit
+excerpt: Okay, I have to admit, I don't understand people. First, from Smokey's comment
+  on the last blog, I'm pretty sure the
+layout: post
 ---
+
 Okay, I have to admit, I don&#8217;t understand people. First, from Smokey&#8217;s comment on the [last blog](/the-strangest-one-of-all.html), I&#8217;m pretty sure the girl wasn&#8217;t looking for any Cracker action, and if she was, she went about it all wrong. Obviously, I&#8217;m clueless. But I had a further experience, on the bus, that has fully confused me.
 
 A girl rang the bell to get off the bus. She stood up and walked over to the back door. The bus came to the stop, she got off. A dude sitting close to the door then stood up, arranged his pack on his back, got a solid hold on his guitar case and slowly meandered over to the door. By the time he stepped down to get off the bus, of course the bus was moving again. He got visibly upset, rang the bell and loudly asked the driver to let him off. When the driver stopped the bus, he still didn&#8217;t open the back doors, so the guy huffed and puffed his way to the front door, where he had to ask again that the driver let him off.

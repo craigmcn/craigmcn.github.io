@@ -1,15 +1,16 @@
 ---
 title: About my Tumblelog
-date: 2011-09-07T10:10:05+00:00
+date: 2011-09-07 10:10:05 Z
+categories:
+- Opinion
+tags:
+- blogging
 excerpt: Tumblr is a company that provides a web application for blogging.
 layout: post
-categories:
-  - Opinion
-tags:
-  - blogging
 redirect_from:
-  - /post/9920426544
+- "/post/9920426544"
 ---
+
 I’m a few posts in here and I realize that I probably need to let you know what this is all about.
 
 Tumblr is a company that provides a web application for blogging.

@@ -1,17 +1,18 @@
 ---
 title: Life Is a Highway
-date: 2014-09-08T09:28:16+00:00
-excerpt: "This week's instalment of Music Monday is Life Is a Highway. The 1991 Tom Cochrane original and a 1998 cover by Chris LeDoux."
-layout: post
+date: 2014-09-08 09:28:16 Z
 categories:
-  - People
-  - Music Monday
+- People
+- Music Monday
 tags:
-  - Chris LeDoux
-  - covers
-  - music
-  - Tom Cochrane
-  - video
+- Chris LeDoux
+- covers
+- music
+- Tom Cochrane
+- video
+excerpt: This week's instalment of Music Monday is Life Is a Highway. The 1991 Tom
+  Cochrane original and a 1998 cover by Chris LeDoux.
+layout: post
 ---
 
 <div id="attachment_3987" style="width: 160px" class="wp-caption alignleft">

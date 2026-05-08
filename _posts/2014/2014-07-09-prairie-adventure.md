@@ -1,16 +1,19 @@
 ---
 title: Prairie adventure
-date: 2014-07-09T15:40:35+00:00
-excerpt: The other day was such a refreshing, relaxing afternoon far enough away from the city to think about the almost limitless possibilities that pioneers faced, as well as the hardships.
-layout: post
+date: 2014-07-09 15:40:35 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - history
-  - pioneers
-  - riverbank
+- history
+- pioneers
+- riverbank
+excerpt: The other day was such a refreshing, relaxing afternoon far enough away from
+  the city to think about the almost limitless possibilities that pioneers faced,
+  as well as the hardships.
+layout: post
 ---
+
 <div style="float: right; margin-left: 1em;">
 </div>
 

@@ -1,8 +1,6 @@
 ---
-title: "Peace Frog"
-date: 2019-07-15T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Peace Frog. The 1970 The Doors original and a 2019 cover by Vampire Weekend."
-layout: post
+title: Peace Frog
+date: 2019-07-15 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - The Doors
 - Vampire Weekend
+excerpt: This week’s instalment of Music Monday is Peace Frog. The 1970 The Doors
+  original and a 2019 cover by Vampire Weekend.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Peace Frog_](https://en.wikipedia.org/wiki/Peace_Frog) by
 [The Doors](http://thedoors.com/) from their 1970 album,
 [Morrison Hotel](https://en.wikipedia.org/wiki/Morrison_Hotel). The [Vampire Weekend](http://www.vampireweekend.com/)

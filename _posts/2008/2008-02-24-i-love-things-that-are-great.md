@@ -1,14 +1,16 @@
 ---
 title: I love things that are great
-date: 2008-02-24T11:51:00+00:00
-excerpt: I love things that are great, good things are fantastic. Guess what, I also paint, just a hobby, nothing drastic
-layout: post
+date: 2008-02-24 11:51:00 Z
 categories:
-  - Funny
+- Funny
 tags:
-  - Alec Baldwin
-  - Tony Bennett
+- Alec Baldwin
+- Tony Bennett
+excerpt: I love things that are great, good things are fantastic. Guess what, I also
+  paint, just a hobby, nothing drastic
+layout: post
 ---
+
 I love things that are great, good things are fantastic
   
 Guess what, I also paint, just a hobby, nothing drastic

@@ -1,17 +1,19 @@
 ---
 title: My meagre existence
-date: 2004-08-09T06:42:39+00:00
-excerpt: "Monday, again, boy I never notice how time flies until I realize that I haven't posted anything in a week. I really"
-layout: post
+date: 2004-08-09 06:42:39 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - complaints
-  - language
-  - web hosting
-  - websites
+- complaints
+- language
+- web hosting
+- websites
+excerpt: Monday, again, boy I never notice how time flies until I realize that I haven't
+  posted anything in a week. I really
+layout: post
 ---
+
 Monday, again, boy I never notice how time flies until I realize that I haven&#8217;t posted anything in a week. I really try to keep you guys up-to-date on what&#8217;s going on in my meagre existence, but it doesn&#8217;t always seem to work.
 
 I&#8217;m spending my time trying to tidy up this site a little. Now that I&#8217;m hosting the site through my collaborative web hosting group, I had to back everything up so I could move it to the new server. The problem is that I have to rebuild a number of databases and I&#8217;m thinking that some of them can go. It&#8217;s just a matter of deciding what goes and what stays.

@@ -1,8 +1,6 @@
 ---
-title: "Video Killed The Radio Star"
-date: 2019-06-17T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Video Killed The Radio Star. The 1980 The Buggles original and a 2019 cover by Walk Off the Earth."
-layout: post
+title: Video Killed The Radio Star
+date: 2019-06-17 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - The Buggles
 - Walk Off the Earth
+excerpt: This week’s instalment of Music Monday is Video Killed The Radio Star. The
+  1980 The Buggles original and a 2019 cover by Walk Off the Earth.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Video Killed The Radio Star_](https://en.wikipedia.org/wiki/Video_Killed_the_Radio_Star) by
 [The Buggles](https://en.wikipedia.org/wiki/The_Buggles) from their 1980 album,
 [The Age of Plastic](https://en.wikipedia.org/wiki/The_Age_of_Plastic). The [Walk Off the Earth](https://www.walkofftheearth.com/)

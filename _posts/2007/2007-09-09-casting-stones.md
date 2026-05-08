@@ -1,12 +1,14 @@
 ---
 title: Casting stones
-date: 2007-09-09T20:57:00+00:00
-excerpt: "I'm often amused and frustrated by the general public. My experiences often have to do with riding the TTC. This"
-layout: post
+date: 2007-09-09 20:57:00 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
+excerpt: I'm often amused and frustrated by the general public. My experiences often
+  have to do with riding the TTC. This
+layout: post
 ---
+
 I&#8217;m often amused and frustrated by the general public. My experiences often have to do with riding the [TTC](http://www.ttc.ca/). This morning, on my way to [bagpiping](http://en.wikipedia.org/wiki/Bagpipes), there was a HI-larious show.
 
 One  gentleman, let&#8217;s call him Clippy, was trimming his fingernails with a nail clipper. (Yeah, kinda grody, but is it any worse than him biting his nails?) One young woman, we&#8217;ll call her Booky, was reading. One older gentleman, Ralph (&#8217;cause it doesn&#8217;t matter any more than the other two), was sitting quietly. Booky asked Clippy to &#8220;please stop doing that, it&#8217;s disgusting.&#8221;  (I silently agreed.) I was reminded of something about a &#8220;pot calling the kettle black&#8221;.

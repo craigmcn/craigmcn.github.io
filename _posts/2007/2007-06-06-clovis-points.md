@@ -1,13 +1,15 @@
 ---
 title: Clovis points
-date: 2007-06-06T10:30:00+00:00
-excerpt: I just read an article on discovery.com that reinforces my skepticism about the way history is interpreted. Thankfully,
-layout: post
+date: 2007-06-06 10:30:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - archaeology
+- archaeology
+excerpt: I just read an article on discovery.com that reinforces my skepticism about
+  the way history is interpreted. Thankfully,
+layout: post
 ---
+
 I just read [an article](http://dsc.discovery.com/news/2007/06/05/arrowheads_arc.html?category=archaeology&guid=20070605133030&dcitc=w19-502-ak-0000) on [discovery.com](http://www.discovery.com/) that reinforces my skepticism about the way history is interpreted. Thankfully, there are comments that serve to moderate the conclusions.
 
 Supposedly, based on a handful of similarly-shaped stones (understandably deemed to be arrowheads or spear points), scientists have &#8220;determined&#8221; that American Indians (for lack of a better term) migrated from Asia, across the Bering Strait land bridge and then south through the &#8220;ice-free corridor&#8221;.

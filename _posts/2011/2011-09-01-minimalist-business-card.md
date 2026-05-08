@@ -1,16 +1,17 @@
 ---
 title: Minimalist Business Card
-date: 2011-09-01T19:35:46+00:00
+date: 2011-09-01 19:35:46 Z
+categories:
+- People
+tags:
+- minimalism
 excerpt: I’m in love with this minimalist business card.
 layout: post
-categories:
-  - People
-tags:
-  - minimalism
 format: link
 redirect_from:
-  - /post/9689298401
+- "/post/9689298401"
 ---
+
 I’m in love with [this business card](http://minimalissimo.com/2011/08/minimal-business-card/). Boris isn’t the only person to do it, but he’s the first that I saw. Here are some others:
 
   * <del>http://maty.us/_web/b2.jpg</del>

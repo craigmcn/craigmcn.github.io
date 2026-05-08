@@ -1,14 +1,16 @@
 ---
 title: Do not touch the computer
-date: 2007-02-18T12:43:00+00:00
-excerpt: "Oh man. So one of the girls at work asks if I can look at her son's computer; it only boots to a blank screen. No"
-layout: post
+date: 2007-02-18 12:43:00 Z
 categories:
-  - People
-  - Technology
+- People
+- Technology
 tags:
-  - computers
+- computers
+excerpt: Oh man. So one of the girls at work asks if I can look at her son's computer;
+  it only boots to a blank screen. No
+layout: post
 ---
+
 Oh man. So one of the girls at work asks if I can look at her son&#8217;s computer; it only boots to a blank screen. No problem. Sounds like a standard virus- or spyware-type affliction. She mentioned that her brother-in-law (or nephew, or niece&#8217;s husband, or someone) had already looked at it and couldn&#8217;t fix it. This should have been a bright, flashing, red warning light for me, but it wasn&#8217;t. I had her bring the computer in, I&#8217;d run some spyware and virus scanning on it and it&#8217;d be fine. No such luck. I fire it up and get a shiny boot error &#8220;Primary Sata 0 not found&#8221;. Alrighty then! So, now I have to take the machine home and find out what&#8217;s going on.
 
 I get home, crack open the machine and check the cables. Everything seems fine. Boot &#8230; error. Shit. Try my own cable; nope. Pull out the hard drive (not an easy task on the Dell Dimension) and connect it to my other computer &#8230; Ha! The other computer doesn&#8217;t have SATA connectors on the motherboard. Okay, open the _other_ other computer, connect the SATA hard drive, boot up. Everything&#8217;s fine, the SATA drive is recognized. I run the anti-spyware and anti-virus on the SATA drive and it only takes a couple of minutes. Hunh, wierd. Poke around on the drive, and find the 120GB drive only reads as 20GB, and there&#8217;s no files in My Documents and only a bare minimum of files in WINNT. I unplug my primary drive and leave the SATA drive, it boots up and tells me that the Windows installation is not complete. Great!

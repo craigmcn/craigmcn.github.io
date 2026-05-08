@@ -1,20 +1,23 @@
 ---
 title: Naïve and Gullible
-date: 2014-05-30T13:33:01+00:00
-excerpt: "Sometimes I know I'm being naïve, and I'm sometimes a little gullible. But I believe that comes from having a certain amount of trust in people, rather than not thinking critically about a given situation."
-layout: post
+date: 2014-05-30 13:33:01 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - budget
-  - Canada Post
-  - economy
-  - money
-  - questions
-  - relationship
-  - university
+- budget
+- Canada Post
+- economy
+- money
+- questions
+- relationship
+- university
+excerpt: Sometimes I know I'm being naïve, and I'm sometimes a little gullible. But
+  I believe that comes from having a certain amount of trust in people, rather than
+  not thinking critically about a given situation.
+layout: post
 ---
+
 <div class="getty embed image alignleft">
   <div style="padding:131.578947% 0 0 0">
     <iframe src="//embed.gettyimages.com/embed/165980431?et=G4EJS_jmQcBHMDEX8oOQVw&viewMoreLink=off&sig=1F0pDvDxgMzpKWyXXzkSt5Ma2ZbBM_mR51Nbml9kHiA=&caption=true" width="361" height="475" scrolling="no" frameborder="0"></iframe>

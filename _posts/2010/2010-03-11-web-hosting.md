@@ -1,14 +1,15 @@
 ---
 title: Web hosting
-date: 2010-03-11T10:52:59+00:00
-excerpt: "I'm asking for suggestions for web hosts, because my current host is crappy."
-layout: post
+date: 2010-03-11 10:52:59 Z
 categories:
-  - Technology
+- Technology
 tags:
-  - Netfirms
-  - programming
+- Netfirms
+- programming
+excerpt: I'm asking for suggestions for web hosts, because my current host is crappy.
+layout: post
 ---
+
 Alright, everybody, I previously [mentioned](the-end-of-an-era.html) that I had to move my web hosting. Now I&#8217;m asking for suggestions for web hosts, because my current host is crappy. They seemed to have everything I needed, at reasonable prices, but it turns out that they don&#8217;t.
 
 Most notably, their support for scheduled tasks (cron jobs) is terrible. While the interface is terrible, the actual jobs also don&#8217;t seem to run on schedule. I had a job that was scheduled to run every four hours; it ran every four to six hours. I have a job that I scheduled to run every hour; it ran every hour for three hours, then ran again six hours later, then never ran again. I&#8217;ve added another job to run every 15 minutes, and it doesn&#8217;t seem to run at all.

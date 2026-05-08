@@ -1,12 +1,12 @@
 ---
 title: Back to work
-date: 2006-12-28T08:08:52+00:00
-excerpt: "Back to work, back to work, to show my Dad that I'm no jerk."
-layout: post
+date: 2006-12-28 08:08:52 Z
 categories:
-  - People
+- People
 tags:
-  - holidays
+- holidays
+excerpt: Back to work, back to work, to show my Dad that I'm no jerk.
+layout: post
 ---
 
 &#8220;Back to work, back to work, to show my Dad that I&#8217;m no jerk.&#8221; That&#8217;s my paraphrased [Billy Madison](http://en.wikipedia.org/wiki/Billy_Madison) &#8220;Back to school&#8221; ditty that he sings while waiting for the schoolbus. So, indeed, back to work, not into the classroom, so real work to be done. And, surprise, surpise, right back into the same old BS. Oh well.

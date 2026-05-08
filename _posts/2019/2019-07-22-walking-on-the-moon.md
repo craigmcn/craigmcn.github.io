@@ -1,8 +1,6 @@
 ---
-title: "Walking on the Moon"
-date: 2019-07-22T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Walking on the Moon. The 1979 The Police original and a 2019 cover by Walk off the Earth."
-layout: post
+title: Walking on the Moon
+date: 2019-07-22 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - The Police
 - Walk off the Earth
+excerpt: This week’s instalment of Music Monday is Walking on the Moon. The 1979 The
+  Police original and a 2019 cover by Walk off the Earth.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Walking on the Moon_](https://en.wikipedia.org/wiki/Walking_on_the_Moon) by
 [The Police](http://www.thepolice.com/) from their 1979 album,
 [Reggatta de Blanc](https://en.wikipedia.org/wiki/Reggatta_de_Blanc). The [Walk off the Earth](http://www.walkofftheearth.com/)

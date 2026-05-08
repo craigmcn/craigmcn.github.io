@@ -1,14 +1,16 @@
 ---
 title: Saskatoon Blades!
-date: 2008-01-25T17:05:00+00:00
-excerpt: "Alrighty, so I'm going to completely rephrase an e-mail that was sent to me so that it makes sense:A friend of mine"
-layout: post
+date: 2008-01-25 17:05:00 Z
 categories:
-  - People
+- People
 tags:
-  - hockey
-  - language
+- hockey
+- language
+excerpt: Alrighty, so I'm going to completely rephrase an e-mail that was sent to
+  me so that it makes sense:A friend of mine
+layout: post
 ---
+
 Alrighty, so I&#8217;m going to completely rephrase an e-mail that was sent to me so that it makes sense:
 
 A friend of mine has a friend in Saskatoon; we&#8217;ll call the friend, Lee. (We&#8217;ll call him, Friendly?) For a contest sponsored by the [Saskatoon Blades](http://www.saskatoonblades.com/), Lee&#8217;s child submitted a design for a goalie mask and has been selected as a finalist.

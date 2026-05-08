@@ -1,19 +1,21 @@
 ---
 title: Excellent spicy chicken
-date: 2004-11-14T13:46:29+00:00
-excerpt: WOW! Sunday already? What have I done with my week? Oh, yeah, now I remember ... busy, busy! I was over to h! is for
-layout: post
+date: 2004-11-14 13:46:29 Z
 categories:
-  - People
-  - Technology
+- People
+- Technology
 tags:
-  - bartending
-  - computers
-  - food
-  - friends
-  - games
-  - Settlers of Catan
+- bartending
+- computers
+- food
+- friends
+- games
+- Settlers of Catan
+excerpt: WOW! Sunday already? What have I done with my week? Oh, yeah, now I remember
+  ... busy, busy! I was over to h! is for
+layout: post
 ---
+
 WOW! Sunday already? What have I done with my week? Oh, yeah, now I remember &#8230; busy, busy!
 
 I was over to h! is for Hulk&#8217;s place for dinner Wednesday &#8230; Fantastic! He cooked up some excellent spicy chicken with red peppers, tofu with eggplant, and Chinese broccoli &#8230; did I mention h! is Chinese? Yeah, well, he is. After dinner I tried to help him fix his computer .. no luck. I really don&#8217;t know what&#8217;s up. His DVD burner burns data and movie DVDs, and plays them back. It won&#8217;t recognize data CD-Rs, but is fine with CD-RWs. But the discs burned with the DVD-burner don&#8217;t read in his other DVD-ROM drive &#8230; I couldn&#8217;t figure it out.

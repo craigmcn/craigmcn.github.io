@@ -1,16 +1,18 @@
 ---
 title: William Shatner
-date: 2011-10-31T08:47:31+00:00
-excerpt: 'The main thing that impressed me was all the different things he’d done. Nothing really beyond acting, except for a commerce degree from McGill University, but a lot of acting.'
-layout: post
+date: 2011-10-31 08:47:31 Z
 categories:
-  - Funny
-  - People
+- Funny
+- People
 tags:
-  - Captain James Tiberius Kirk
-  - Star Trek
+- Captain James Tiberius Kirk
+- Star Trek
+excerpt: The main thing that impressed me was all the different things he’d done.
+  Nothing really beyond acting, except for a commerce degree from McGill University,
+  but a lot of acting.
+layout: post
 redirect_from:
-  - /post/12160932712
+- "/post/12160932712"
 ---
 
 <img src="https://cdn.craigmcn.ca/img/shatner.jpg" alt="William Shatner" height="300" align="left" />Grr. I thought I posted this, but it seems to have disappeared. I had originally written something when I was totally impressed by my [Evening with William Shatner](http://www.shatnertour.com/ 'How Time Flies: An Evening with William Shatner'). Not to say that I’m not still totally impressed, but it was a week ago, and now I don’t recall everything that was totally impressive and amazing about it.

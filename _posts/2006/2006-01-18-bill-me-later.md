@@ -1,16 +1,18 @@
 ---
 title: Bill me later
-date: 2006-01-18T23:00:00+00:00
-excerpt: "Sonnuva..!! Every year the same thing! The day comes for me to renew my domain, but I don't get any notification and"
-layout: post
+date: 2006-01-18 23:00:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - complaints
-  - domain
-  - internet
-  - websites
+- complaints
+- domain
+- internet
+- websites
+excerpt: Sonnuva..!! Every year the same thing! The day comes for me to renew my domain,
+  but I don't get any notification and
+layout: post
 ---
+
 Sonnuva..!! Every year the same thing! The day comes for me to renew my domain, but I don&#8217;t get any notification and don&#8217;t have an invoice to pay until it&#8217;s already expired!
 
 You may have noticed the site down for most of today, so did I. Then I realized what day it was, so I logged onto the billing site and lo and behold! my invoice was ready to be paid.

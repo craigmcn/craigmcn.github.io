@@ -1,13 +1,16 @@
 ---
 title: 'PPF Neighborhood: Haiti Relief with Médecins Sans Frontières'
-date: 2010-01-29T06:23:52+00:00
-excerpt: "Hey Friends, I was up until one o'clock this morning finishing my part of this project, I hope you check it out and help out a great cause, and some terrific artists!"
-layout: post
+date: 2010-01-29 06:23:52 Z
 categories:
-  - People
+- People
 tags:
-  - charity
+- charity
+excerpt: Hey Friends, I was up until one o'clock this morning finishing my part of
+  this project, I hope you check it out and help out a great cause, and some terrific
+  artists!
+layout: post
 ---
+
 Hey Friends, I was up until one o&#8217;clock this morning finishing my part of this project, I hope you check it out and help out a great cause, and some terrific artists!
 
 In an effort to bring aid to those suffering in Haiti, over 2 dozen like-minded friends in the independent arts community, many based in Toronto, and a few from abroad, have banded together to put together the PPF Neighborhood: a downloadable benefit compilation of music, visual art and photographs.

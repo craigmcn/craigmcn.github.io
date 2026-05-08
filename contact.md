@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Contact
-permalink: /contact/
+permalink: "/contact/"
+layout: page
 ---
 
 <form id="contact-form" action="https://nqw5473oc2.execute-api.us-east-1.amazonaws.com/dev/static-site-mailer" method="POST" style="width:66.667%">

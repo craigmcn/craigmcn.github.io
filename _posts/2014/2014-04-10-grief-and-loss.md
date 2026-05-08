@@ -1,16 +1,19 @@
 ---
 title: Grief and Loss
-date: 2014-04-10T11:17:03+00:00
-excerpt: "When you're sad, upset, frustrated, confused, doubting yourself, whatever's making you feel uncomfortable, talk to your friends or your family, or find a professional. This is something we all go through and we can help each other."
-layout: post
+date: 2014-04-10 11:17:03 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - break-up
-  - recovery
-  - relationship
+- break-up
+- recovery
+- relationship
+excerpt: When you're sad, upset, frustrated, confused, doubting yourself, whatever's
+  making you feel uncomfortable, talk to your friends or your family, or find a professional.
+  This is something we all go through and we can help each other.
+layout: post
 ---
+
 I&#8217;ve been going through a rough patch these last few weeks and started seeing a counsellor to talk about my issues and establish some strategies for dealing with them.
 
 One of my biggest issues was self-doubt, and mixed with that was my insatiable desire to think about all the terrible things that had happened and were going to happen. It took some counselling to realize that a big part of the solution was determining what was actually happening, not just what I was thinking. I spoke with a couple of people who had some answers about things I was doubting and, boom, doubts gone.

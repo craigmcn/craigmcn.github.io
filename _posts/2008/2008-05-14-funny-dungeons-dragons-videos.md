@@ -1,14 +1,16 @@
 ---
 title: Funny Dungeons and Dragons videos
-date: 2008-05-14T05:53:03+00:00
-excerpt: "So, chatting with my family the other day, I was mentioning some funny D&amp;D spoof videos that I'd seen. It took me"
-layout: post
+date: 2008-05-14 05:53:03 Z
 categories:
-  - Funny
+- Funny
 tags:
-  - 'D&amp;D'
-  - video
+- D&amp;D
+- video
+excerpt: So, chatting with my family the other day, I was mentioning some funny D&amp;D
+  spoof videos that I'd seen. It took me
+layout: post
 ---
+
 So, chatting with my family the other day, I was mentioning some funny D&D spoof videos that I&#8217;d seen. It took me a while to track them down, but, for your enjoyment, here they are:
 
   * [Get a Life](http://www.myspace.com/video/arch-studios/get-a-life/3760481)

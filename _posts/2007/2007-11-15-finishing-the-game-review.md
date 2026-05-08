@@ -1,14 +1,16 @@
 ---
-title: 'Finishing the Game &#8211; Review'
-date: 2007-11-15T08:54:00+00:00
-excerpt: Having done a little bit of PHP coding for the Toronto Reel Asian International Film Festival, I got free passes to the
-layout: post
+title: Finishing the Game &#8211; Review
+date: 2007-11-15 08:54:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - movies
-  - review
+- movies
+- review
+excerpt: Having done a little bit of PHP coding for the Toronto Reel Asian International
+  Film Festival, I got free passes to the
+layout: post
 ---
+
 Having done a little bit of PHP coding for the [Toronto Reel Asian International Film Festival](http://www.reelasian.com), I got free passes to the opening night gala, _[Finishing the Game](http://reelasian.com/blog/?p=24)_. So, last night I went. Why not?
 
 It&#8217;s a really well-made [mockumentary](http://en.wikipedia.org/wiki/Mockumentary) about completing the movie _[Game of Death](http://en.wikipedia.org/wiki/Game_of_Death)_ &#8212; unfinished due to the untimely death of [Bruce Lee](http://www.imdb.com/name/nm0000045/).

@@ -1,18 +1,20 @@
 ---
 title: 'Music Monday: (Everything I Do) I Do It For You'
-date: 2014-03-31T11:02:37+00:00
-excerpt: "Bryan Adams' 1991 soft-rock power ballad (Everything I Do) I Do It for You was often the closing song at my high school dances in grade 12."
-layout: post
+date: 2014-03-31 11:02:37 Z
 categories:
-  - People
-  - Music Monday
+- People
+- Music Monday
 tags:
-  - break-up
-  - Bryan Adams
-  - music
-  - relationship
-  - video
+- break-up
+- Bryan Adams
+- music
+- relationship
+- video
+excerpt: Bryan Adams' 1991 soft-rock power ballad (Everything I Do) I Do It for You
+  was often the closing song at my high school dances in grade 12.
+layout: post
 ---
+
 Today&#8217;s instalment of Music Monday is [Bryan Adams&#8217;](http://bryanadams.com/) 1991 soft-rock power ballad_ [(Everything I Do) I Do It for You](http://en.wikipedia.org/wiki/(Everything_I_Do)_I_Do_It_for_You)_, featured on the [Robin Hood: Prince of Thieves](http://www.imdb.com/title/tt0102798/) soundtrack. This was often the closing song at my high school dances in grade 12.
 
 <div class="video-container">

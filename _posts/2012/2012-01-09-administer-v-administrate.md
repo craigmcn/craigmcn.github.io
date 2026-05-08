@@ -1,18 +1,19 @@
 ---
 title: Administer v. Administrate
-date: 2012-01-09T13:00:05+00:00
+date: 2012-01-09 13:00:05 Z
+categories:
+- Opinion
+tags:
+- clarification
+- correction
+- grammar
+- language
 excerpt: This is another post in my correction and clarification series.
 layout: post
-categories:
-  - Opinion
-tags:
-  - clarification
-  - correction
-  - grammar
-  - language
 redirect_from:
-  - /post/15575008870
+- "/post/15575008870"
 ---
+
 This is another post in my correction and clarification series. This case, in particular, drives me crazy, because not only is it wrong, it sounds wrong.
 
 I hear or read often about someone who _administrates_ a system or process. I fully understand the reason why people might use the term, and I know they&#8217;ll find it in the dictionary. But it&#8217;s not correct.

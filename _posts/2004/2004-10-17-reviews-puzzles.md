@@ -1,14 +1,16 @@
 ---
 title: Reviews and puzzles
-date: 2004-10-17T12:05:51+00:00
-excerpt: "Another post, the next day? What's up? Well, I'll tell you ... I got to see Team America: World Police yesterday with"
-layout: post
+date: 2004-10-17 12:05:51 Z
 categories:
-  - People
+- People
 tags:
-  - friends
-  - movies
+- friends
+- movies
+excerpt: 'Another post, the next day? What''s up? Well, I''ll tell you ... I got to
+  see Team America: World Police yesterday with'
+layout: post
 ---
+
 Another post, the next day? What&#8217;s up? Well, I&#8217;ll tell you &#8230; I got to see <a href="http://www.imdb.com/title/tt0372588/" target="_blank">Team America: World Police</a> yesterday with <a href="http://gwild0r.tumblr.com" target="_blank">Gwildor</a>, Wublub and Wublub&#8217;s lovely wife, Mrs. Wublub. I just had to write a <a href="/team-america-world-police.html" target="_blank">review</a>, and let you guys know about it!
 
 I have another <a href="/william-shatner-has-been.html" target="_blank">review</a> for William Shatner&#8217;s new album _Has Been_, if you want to read it.

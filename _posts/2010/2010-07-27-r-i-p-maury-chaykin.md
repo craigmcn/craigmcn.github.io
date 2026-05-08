@@ -1,11 +1,13 @@
 ---
 title: R.I.P. Maury Chaykin
-date: 2010-07-27T15:59:29+00:00
-excerpt: "Apparently, Maury Chaykin died today. That's kinda sad. He was always kinda fun to watch, in Mystery, Alaska and"
-layout: post
+date: 2010-07-27 15:59:29 Z
 categories:
-  - People
+- People
+excerpt: Apparently, Maury Chaykin died today. That's kinda sad. He was always kinda
+  fun to watch, in Mystery, Alaska and
+layout: post
 ---
+
 Apparently, [Maury Chaykin](http://www.imdb.com/name/nm0001999/) died today. That&#8217;s kinda sad. He was always kinda fun to watch, in [Mystery, Alaska](http://www.imdb.com/title/tt0134618/) and [Dances with Wolves](http://www.imdb.com/title/tt0099348/), among a ton of others. Here are some links to the news:
 
   * <http://www.cbc.ca/arts/film/story/2010/07/27/maury-chaykin-obit.html>

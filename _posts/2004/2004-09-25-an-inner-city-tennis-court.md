@@ -1,13 +1,14 @@
 ---
 title: An inner-city tennis court
-date: 2004-09-25T03:10:15+00:00
-excerpt: So, tennis is not exactly an “inner-city” sport, and yet while I was downtown today I saw an inner-city tennis court
-layout: post
+date: 2004-09-25 03:10:15 Z
 categories:
-  - Technology
+- Technology
 tags:
-  - computers
-  - games
+- computers
+- games
+excerpt: So, tennis is not exactly an “inner-city” sport, and yet while I was downtown
+  today I saw an inner-city tennis court
+layout: post
 ---
 
 So, tennis is not exactly an “inner-city” sport, and yet while I was downtown today I saw an inner-city tennis court. And, considering inner-city basketball courts often use chain for the basketball net, I should have expected to see that this tennis court used chain-link fence for its net. But it still threw me.

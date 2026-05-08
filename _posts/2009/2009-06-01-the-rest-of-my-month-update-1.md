@@ -1,15 +1,17 @@
 ---
 title: 'The rest of my month — update #1'
-date: 2009-06-01T09:52:26+00:00
-excerpt: "Not much to tell you, I'm still trying to track down freelance work. Using Twitter, I've found RentACoder and oDesk,"
-layout: post
+date: 2009-06-01 09:52:26 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - jobs
-  - programming
-  - writing
+- jobs
+- programming
+- writing
+excerpt: Not much to tell you, I'm still trying to track down freelance work. Using
+  Twitter, I've found RentACoder and oDesk,
+layout: post
 ---
+
 Not much to tell you, I&#8217;m still trying to track down freelance work. Using Twitter, I&#8217;ve found [RentACoder](http://www.rentacoder.com/RentACoder/DotNet/default.aspx) and [oDesk](http://www.odesk.com/w/), and somehow I found [eLance](http://www.elance.com/). I can&#8217;t claim any success with them yet, but I&#8217;ll let you know.
 
 I&#8217;m already behind on a blog post on TheTechWriterBlog.com, but it&#8217;s in the works and should be up later today. I&#8217;ll probably back-date it to Friday and try to get another post done today.

@@ -1,16 +1,18 @@
 ---
 title: Happy-eh New Year-uh!
-date: 2006-01-01T08:14:54+00:00
-excerpt: "So, here we are in 2006 .... I'm in a new apartment that I'm still in the process of moving into (maybe one of my New"
-layout: post
+date: 2006-01-01 08:14:54 Z
 categories:
-  - People
+- People
 tags:
-  - holidays
-  - javascript
-  - PHP
-  - websites
+- holidays
+- javascript
+- PHP
+- websites
+excerpt: So, here we are in 2006 .... I'm in a new apartment that I'm still in the
+  process of moving into (maybe one of my New
+layout: post
 ---
+
 So, here we are in 2006 &#8230;. I&#8217;m in a new apartment that I&#8217;m still in the process of moving into (maybe one of my New Year&#8217;s resolutions should be to get my stuff out storage), I have a job that pretty much sucks, but it pays well, and I spent last night drinking and having a generally good time with good ol&#8217; [Gwildor](http://gwild0r.tumblr.com/), [Trikie](http://trikie.tripod.com/) and Big A.
 
 This year&#8217;s resolutions (seriously) are to find a new job and lose some weight. Along the way, I won&#8217;t be disappointed if I manage to get some part-time work as a bartender, get some other part-time work building websites (I mean, check out [ppfhouse.com](http://www.ppfhouse.com/), fabulous and all mine! well, thanks to [h!](http://www.ppfhouse.com/century.php) for the artwork.) and get some time to build some cool [javascript](http://www.javascript.com/) and [PHP](http://www.php.net/) scripts for other people to use.

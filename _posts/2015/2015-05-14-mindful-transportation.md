@@ -1,19 +1,22 @@
 ---
 title: Mindful Transportation
-date: 2015-05-14T15:36:21+00:00
-excerpt: "For the last 13 years, I've relied on alternative transportation. It's a little challenging in Saskatoon, but it's been possible for the last seven years; it just takes some planning."
+date: 2015-05-14 15:36:21 Z
+categories:
+- Opinion
+tags:
+- cars
+- mindfulness
+- sharing
+- Thoughtful Thursday
+- transit
+excerpt: For the last 13 years, I've relied on alternative transportation. It's a
+  little challenging in Saskatoon, but it's been possible for the last seven years;
+  it just takes some planning.
 layout: post
 dsq_needs_sync:
-  - 1
-categories:
-  - Opinion
-tags:
-  - cars
-  - mindfulness
-  - sharing
-  - Thoughtful Thursday
-  - transit
+- 1
 ---
+
 For the last 13 years, I&#8217;ve relied on alternative transportation. It didn&#8217;t start out of any high-minded ideals, simply economic reality. I was living in Toronto, having moved from Banff, and owned a 4×4 pickup truck. For the first year, I drove the truck on weekends and to run errands because it was there. I drove it so infrequently that it was often ticketed for being parked on the wrong side of the street (many neighbourhoods in Toronto have a bi-monthly schedule dictating the side of the street for parking). After that first year, at the end of the lease, I returned the truck to the dealership and started walking, riding my bike, taking the bus, subway and streetcar, and renting cars when necessary. I found myself looking for apartments near transit routes and not taking jobs that would have required travelling out of good transit areas.
 
 It&#8217;s a little more challenging in Saskatoon, but it&#8217;s been possible for the last seven years; it just takes some planning. This is where mindfulness comes in. I walk, ride or take the bus to work, downtown, coffee, pints, the doctor, the dentist, the mall, yoga. Most of my friends live within my transportation area. We carpool with Dad to get groceries. I&#8217;m mindful of my activities and what it will take to accomplish them, and what else I might do while I&#8217;m out.

@@ -1,16 +1,18 @@
 ---
 title: 2 Down, 25 More to Go
-date: 2011-09-06T21:44:02+00:00
-excerpt: A fantastic program that’s been designed to get just about anyone from the couch to running 5 kilometers or 30 minutes in just 9 weeks.
-layout: post
+date: 2011-09-06 21:44:02 Z
 categories:
-  - People
+- People
 tags:
-  - exercise
-  - running
+- exercise
+- running
+excerpt: A fantastic program that’s been designed to get just about anyone from the
+  couch to running 5 kilometers or 30 minutes in just 9 weeks.
+layout: post
 redirect_from:
-  - /post/9906840754
+- "/post/9906840754"
 ---
+
 I’m working on the [Couch to 5k plan](http://www.c25k.com/):
 
 > [A] fantastic program that’s been designed to get just about anyone from the couch to running 5 kilometers or 30 minutes in just 9 weeks.

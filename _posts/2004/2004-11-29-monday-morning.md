@@ -1,16 +1,18 @@
 ---
 title: Monday morning
-date: 2004-11-29T06:23:53+00:00
-excerpt: Yeehaw! Monday morning! I have a little extra time this morning, since my shift is now 10-6. A month ago there were 4
-layout: post
+date: 2004-11-29 06:23:53 Z
 categories:
-  - People
-  - Technology
+- People
+- Technology
 tags:
-  - jobs
-  - video games
-  - web applications
+- jobs
+- video games
+- web applications
+excerpt: Yeehaw! Monday morning! I have a little extra time this morning, since my
+  shift is now 10-6. A month ago there were 4
+layout: post
 ---
+
 Yeehaw! Monday morning! I have a little extra time this morning, since my shift is now 10-6. A month ago there were 4 of us doing the same job, now there&#8217;s 2. Excellent! What a way to manage attrition (good word, hey?) or employee turnover. (Not quite as good as a cherry turnover, but it&#8217;s all good.)
 
 I had a sufficiently productive weekend. I&#8217;ve made some progress on crackerMail v1.1. I was asked to add an option to check all messages when selecting messages to delete, no problem. I wanted to add an option to sort the list by From, Subject or Received. It took a while, but finally I was able to steal some excellent code to do it. (I&#8217;ve acknowledged the authors from whom I stole code.) Except then the &#8216;check all&#8217; didn&#8217;t work anymore. So a little playing around, got it working again &#8230; except only in <a href="http://www.mozilla.org" target="_blank">Mozilla</a>, not <a href="http://www.microsoft.com/windows/ie/default.mspx" target="_blank">IE6</a> &#8230; SONNUVA..! So a whole ton of playing around and almost rebuilding line by line, I got it all working. Very nice.

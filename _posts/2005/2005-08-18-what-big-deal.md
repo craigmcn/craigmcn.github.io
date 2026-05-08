@@ -1,14 +1,16 @@
 ---
-title: 'What&#8217;s the big deal?'
-date: 2005-08-18T11:43:36+00:00
-excerpt: "I like women, I really do. I may be single (a fact that is now 11 years old), but that's not really the point. I have"
-layout: post
+title: What&#8217;s the big deal?
+date: 2005-08-18 11:43:36 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - overreacting
+- overreacting
+excerpt: I like women, I really do. I may be single (a fact that is now 11 years old),
+  but that's not really the point. I have
+layout: post
 ---
+
 I like women, I really do. I may be single (a fact that is now 11 years old), but that&#8217;s not really the point. I have some issue with women going overboard in their reactions to daily trivia and minutiae.
 
 Specifically, one of the ladies at work, Mama Tauti, is pregnant and has gone on maternity leave. So [Gwildor](http://gwild0r.tumblr.com/) drew a little picture on our Away board of Mama Tauti with a fat belly and swollen feet. Mama Tauti was due Aug 8 (I&#8217;m pretty sure) and as of my knowledge today has still not popped. She was to be induced yesterday, so Gwildor changed the drawing to a thinner Mama Tauti holding a baby and without the swollen feet.

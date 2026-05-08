@@ -1,8 +1,6 @@
 ---
-title: "God Save the Queen"
-date: 2019-06-24T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is God Save the Queen. The 1977 Sex Pistols original and a 2000 cover by Motörhead."
-layout: post
+title: God Save the Queen
+date: 2019-06-24 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Sex Pistols
 - Motörhead
+excerpt: This week’s instalment of Music Monday is God Save the Queen. The 1977 Sex
+  Pistols original and a 2000 cover by Motörhead.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_God Save the Queen_](https://en.wikipedia.org/wiki/God_Save_the_Queen_(Sex_Pistols_song)) by
 [Sex Pistols](http://sexpistolsofficial.com/) from their 1977 album,
 [Never Mind the Bollocks, Here’s the Sex Pistols](https://en.wikipedia.org/wiki/Never_Mind_the_Bollocks,_Here%27s_the_Sex_Pistols). The [Motörhead](http://imotorhead.com/)

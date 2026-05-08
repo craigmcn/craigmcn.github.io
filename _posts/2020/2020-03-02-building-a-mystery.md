@@ -1,8 +1,6 @@
 ---
-title: "Building a Mystery"
-date: 2020-03-02T11:45:00-0800
-excerpt: "This week’s instalment of Music Monday is Building a Mystery. The 1997 Sarah McLachlan original and a 2020 cover by Justin Rutledge."
-layout: post
+title: Building a Mystery
+date: 2020-03-02 19:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Sarah McLachlan
 - Justin Rutledge
+excerpt: This week’s instalment of Music Monday is Building a Mystery. The 1997 Sarah
+  McLachlan original and a 2020 cover by Justin Rutledge.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Building a Mystery_](https://en.wikipedia.org/wiki/Building_a_Mystery) by
 [Sarah McLachlan](http://sarahmclachlan.com/) from her 1997 album,
 [Surfacing](https://en.wikipedia.org/wiki/Surfacing_(album)). The [Justin Rutledge](https://justinrutledge.squarespace.com/)

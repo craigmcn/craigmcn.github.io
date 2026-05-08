@@ -1,17 +1,20 @@
 ---
 title: 'Thoughtful Thursday: My whole world'
-date: 2014-04-03T13:12:21+00:00
-excerpt: "She broke up with me. She dumped me. She wasn't in love with me, something wasn't 100% right, a few other issues. It's sad, I'm sad, I'm hurt, I'm doubting myself, all kinds of other things are being affected by my feelings. I hate it. It hurts and I miss her like crazy."
-layout: post
+date: 2014-04-03 13:12:21 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - break-up
-  - counselling
-  - personal
-  - relationship
-  - self-doubt
+- break-up
+- counselling
+- personal
+- relationship
+- self-doubt
+excerpt: She broke up with me. She dumped me. She wasn't in love with me, something
+  wasn't 100% right, a few other issues. It's sad, I'm sad, I'm hurt, I'm doubting
+  myself, all kinds of other things are being affected by my feelings. I hate it.
+  It hurts and I miss her like crazy.
+layout: post
 ---
 
 <div class="gallery" style="width: 310px" class="wp-caption alignright">

@@ -1,19 +1,19 @@
 ---
 title: Blues Traveler
-date: 2014-09-01T11:17:59+00:00
-excerpt: "This week's instalment of Music Monday is Blues Traveler's 1995 hit, Hook."
-layout: post
+date: 2014-09-01 11:17:59 Z
 categories:
-  - Music Monday
-  - People
+- Music Monday
+- People
 tags:
-  - Better Off As We Are
-  - Blue Rodeo
-  - Emma Stone
-  - Hook
-  - Jimmy Fallon
-  - music
-  - video
+- Better Off As We Are
+- Blue Rodeo
+- Emma Stone
+- Hook
+- Jimmy Fallon
+- music
+- video
+excerpt: This week's instalment of Music Monday is Blues Traveler's 1995 hit, Hook.
+layout: post
 ---
 
 <div id="attachment_3983" style="width: 230px" class="wp-caption alignleft">

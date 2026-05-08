@@ -1,17 +1,19 @@
 ---
-title: "What does it mean to be a human being?"
-date: 2017-01-26T11:45:00-07:00
-excerpt: "Being a human being means finding one's place among the more than seven billion people on our planet and in balance with our natural environment."
-layout: post
+title: What does it mean to be a human being?
+date: 2017-01-26 18:45:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - thoughtfulthursday
-  - humanist
-  - responsibility
-  - society
+- thoughtfulthursday
+- humanist
+- responsibility
+- society
+excerpt: Being a human being means finding one's place among the more than seven billion
+  people on our planet and in balance with our natural environment.
+layout: post
 redirect_from: "/what-does-it-mean-to-be-a-human-being.html"
 ---
+
 <div class="getty embed image alignright"><div style="padding:82.096070% 0 0 0"><iframe src="//embed.gettyimages.com/embed/560447233?et=CMQTeiM8QqNPn9rPPfFdDA&viewMoreLink=off&sig=WKIarCp07c_FZe7nPTmpTqfT9r4oFrIN98yv2pRLmwY=&caption=true" width="458" height="376" scrolling="no" frameborder="0"></iframe></div>
   <p>
     <a href="http://www.gettyimages.com/detail/560447233" target="_blank" rel="noopener noreferrer">#560447233</a> /

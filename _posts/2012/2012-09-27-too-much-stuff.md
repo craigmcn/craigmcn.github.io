@@ -1,14 +1,16 @@
 ---
 title: Too Much Stuff
-date: 2012-09-27T09:53:35+00:00
-excerpt: "I already have a basement of stuff, a garage of stuff and a shed of stuff. And much of it never gets used. Much of it is just waiting for me to decide that it's actually garbage."
-layout: post
+date: 2012-09-27 09:53:35 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - consumerism
-  - consumption
+- consumerism
+- consumption
+excerpt: I already have a basement of stuff, a garage of stuff and a shed of stuff.
+  And much of it never gets used. Much of it is just waiting for me to decide that
+  it's actually garbage.
+layout: post
 ---
 
 <div id="attachment_3290" style="width: 310px" class="wp-caption alignleft">

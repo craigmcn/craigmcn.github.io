@@ -1,13 +1,13 @@
 ---
 title: McDonald’s Monopoly
-date: 2012-09-26T08:51:53+00:00
-excerpt: “Is that everything?” “Not even close!”
-layout: post
+date: 2012-09-26 08:51:53 Z
 categories:
-  - Funny
+- Funny
 tags:
-  - games
-  - Settlers of Catan
+- games
+- Settlers of Catan
+excerpt: "“Is that everything?” “Not even close!”"
+layout: post
 ---
 
 Every time [McDonald&#8217;s Monopoly](http://www.mcdonalds.ca/ca/en/promotions/monopoly.html) comes around, I always think of this:

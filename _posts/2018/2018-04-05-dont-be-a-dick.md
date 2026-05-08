@@ -1,15 +1,16 @@
 ---
-title: "Don’t be a dick"
-date: 2018-04-05T11:45:00-07:00
-excerpt: "I do my best to follow Wheaton’s Law: “Don’t be a dick”"
-layout: post
+title: Don’t be a dick
+date: 2018-04-05 18:45:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - thoughtfulthursday
-  - Wheaton's Law
+- thoughtfulthursday
+- Wheaton's Law
+excerpt: 'I do my best to follow Wheaton’s Law: “Don’t be a dick”'
+layout: post
 redirect_from: "/don-t-be-a-dick.html"
 ---
+
 <div class="getty embed image alignright"><div style="padding:150.4451% 0 0 0"><iframe src="//embed.gettyimages.com/embed/80116387?et=1G4wyw8vSRV2iyvtZWwBWg&tld=ca&sig=XBbQvxNBR3_EB9o6q-TQ0o-I-OwShQqn4dUjUO3eDco=&caption=true&ver=1" scrolling="no" frameborder="0" width="337" height="507"></iframe></div>
   <p>
   <a href="https://www.gettyimages.com/detail/80116387" target="_blank" rel="noopener noreferrer">#80116387</a> /

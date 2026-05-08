@@ -1,18 +1,18 @@
 ---
 title: Great Shakespeare Mug
-date: 2012-02-20T10:03:05+00:00
+date: 2012-02-20 10:03:05 Z
+categories:
+- Funny
+tags:
+- insult
+- language
+- quotes
+- Shakespeare
 excerpt: A multitude of great insults from a multitude of Shakespeare plays.
 layout: post
-categories:
-  - Funny
-tags:
-  - insult
-  - language
-  - quotes
-  - Shakespeare
 format: image
 redirect_from:
-  - /post/17949341518
+- "/post/17949341518"
 ---
 
 <img class="alignnone size-full wp-image-143" src="https://cdn.craigmcn.ca/img/tumblr_lzlo73Zhd01qlv5s6o1_1280.jpg" alt="Great Shakespeare Mug" srcset="https://cdn.craigmcn.ca/img/tumblr_lzlo73Zhd01qlv5s6o1_1280.jpg 640w, https://cdn.craigmcn.ca/img/tumblr_lzlo73Zhd01qlv5s6o1_1280-300x225.jpg 300w, https://cdn.craigmcn.ca/img/tumblr_lzlo73Zhd01qlv5s6o1_1280-400x300.jpg 400w" sizes="(max-width: 640px) 100vw, 640px" />

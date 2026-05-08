@@ -1,18 +1,20 @@
 ---
-title: "Rolling in the Deep"
-date: 2016-10-03T11:45:00-06:00
-excerpt: "This week’s instalment of Music Monday is Rolling in the Deep. The 2011 Adele original and a 2011 cover by Linkin Park."
-layout: post
+title: Rolling in the Deep
+date: 2016-10-03 17:45:00 Z
 categories:
-  - People
-  - Music Monday
+- People
+- Music Monday
 tags:
-  - covers
-  - music
-  - video
-  - Adele
-  - Linkin Park
+- covers
+- music
+- video
+- Adele
+- Linkin Park
+excerpt: This week’s instalment of Music Monday is Rolling in the Deep. The 2011 Adele
+  original and a 2011 cover by Linkin Park.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Rolling in the Deep_](https://en.wikipedia.org/wiki/Rolling_in_the_Deep) by [Adele](http://adele.com/) from their 2011 album, [21](https://en.wikipedia.org/wiki/21_(Adele_album)). The [Linkin Park](http://linkinpark.com/) version is from their 2011 album, [2011 iTunes Festival in London]().
 
 I searched for &#8220;folk covers&#8221; and somehow ended up with &#8220;nu-metal covers of pop songs&#8221;. Good enough.

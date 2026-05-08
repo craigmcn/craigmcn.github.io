@@ -1,14 +1,16 @@
 ---
 title: Good old Wednesday
-date: 2004-07-07T06:20:41+00:00
-excerpt: "Wednesday, good old Wednesday. It's morning, I've got a coffee, it's all good. I'm listening to my good buddy DJ"
-layout: post
+date: 2004-07-07 06:20:41 Z
 categories:
-  - Technology
+- Technology
 tags:
-  - email
-  - programming
+- email
+- programming
+excerpt: Wednesday, good old Wednesday. It's morning, I've got a coffee, it's all
+  good. I'm listening to my good buddy DJ
+layout: post
 ---
+
 Wednesday, good old Wednesday. It&#8217;s morning, I&#8217;ve got a coffee, it&#8217;s all good. I&#8217;m listening to my good buddy DJ Gwildor on the Freak Radio. Good Times!
 
 You may have noticed my cute, little &#8216;Loading &#8230;&#8217; message at the top of the page when you opened it up. That&#8217;s my latest contribution. I discovered it while working on a page that will allow me to access my email from this website. It was taking so long for the page to load (longer than this page even) that I wanted some note to show what was going on. So I implemented it on all my pages.

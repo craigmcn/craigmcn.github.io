@@ -1,8 +1,6 @@
 ---
-title: "Happy Xmas (War Is Over)"
-date: 2018-12-31T11:45:00-0800
-excerpt: "This week’s instalment of Music Monday is Happy Xmas (War Is Over). The 1971 John Lennon, Yoko Ono and Plastic Ono Band original and a 2018 cover by Miley Cyrus and Mark Ronson, featuring Sean Ono Lennon."
-layout: post
+title: Happy Xmas (War Is Over)
+date: 2018-12-31 19:45:00 Z
 categories:
 - People
 - Music Monday
@@ -16,8 +14,13 @@ tags:
 - Miley Cyrus
 - Mark Ronson
 - Sean Ono Lennon
-redirect_from: /happy-xmas-war-is-over-.html
+excerpt: This week’s instalment of Music Monday is Happy Xmas (War Is Over). The 1971
+  John Lennon, Yoko Ono and Plastic Ono Band original and a 2018 cover by Miley Cyrus
+  and Mark Ronson, featuring Sean Ono Lennon.
+layout: post
+redirect_from: "/happy-xmas-war-is-over-.html"
 ---
+
 This week’s instalment of Music Monday is [_Happy Xmas (War Is Over)_](https://en.wikipedia.org/wiki/Happy_Xmas_(War_Is_Over)) by
 [John Lennon](http://johnlennon.com/), [Yoko Ono](http://imaginepeace.com/) and [Plastic Ono Band](http://yopob.com/) from their 1971 single. The [Miley Cyrus](http://mileycyrus.com/), [Mark Ronson](http://markronson.co.uk/) and [Sean Ono Lennon](http://www.seanonolennon.com/)
 version is from a 2018 performance.

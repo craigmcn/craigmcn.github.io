@@ -1,14 +1,16 @@
 ---
-title: 'Ocean&#8217;s Twelve'
-date: 2004-12-12T08:54:11+00:00
-excerpt: "This second installment of the story of Ocean's Eleven comes off brilliantly. If you want a hint"
-layout: post
+title: Ocean&#8217;s Twelve
+date: 2004-12-12 08:54:11 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - movies
-  - review
+- movies
+- review
+excerpt: This second installment of the story of Ocean's Eleven comes off brilliantly.
+  If you want a hint
+layout: post
 ---
+
 This second installment of the story of _Ocean&#8217;s Eleven _comes off brilliantly. If you want a hint about the movie, I&#8217;ll try not to give too much away, but it&#8217;s worth remembering that these are master con artists, not bank robbers or art thieves. As with the first movie, there&#8217;s far more going on than we get to see &#8230; until the signature flashback fills in the gaps.
 
 The plot summaries I&#8217;ve read must have been written by people who had read other plot summaries. Most of what I&#8217;ve read about consists of 3 simultaneous heists in Amsterdam, Rome and Paris, while being pursued by Terry Benedict. While that&#8217;s true in a way, it&#8217;s completely bogus in another. Terry Benedict is what gets them back together, and there are heists in Europe. But it&#8217;s not like the first one where they are robbing 3 casinos at once. It&#8217;s a very convoluted and exciting plot. Where almost all the characters from the first movie play some role &#8230; including Topher Grace as himself.

@@ -1,17 +1,19 @@
 ---
 title: A new domain
-date: 2007-09-25T17:57:00+00:00
-excerpt: "Alrighty, everybody, I need your help. I've decided it's time to [slowly] start my career as a freelance web"
-layout: post
+date: 2007-09-25 17:57:00 Z
 categories:
-  - Technology
+- Technology
 tags:
-  - HTML
-  - javascript
-  - MySQL
-  - PHP
-  - websites
+- HTML
+- javascript
+- MySQL
+- PHP
+- websites
+excerpt: Alrighty, everybody, I need your help. I've decided it's time to [slowly]
+  start my career as a freelance web
+layout: post
 ---
+
 Alrighty, everybody, I need your help. I&#8217;ve decided it&#8217;s time to [slowly] start my career as a freelance web developer and technical writer. My focus will be on web-based procedural documentation and communications.
 
 The main web site is going to be a _tips and hints_ blog about [HTML](http://en.wikipedia.org/wiki/HTML), [javascript](http://en.wikipedia.org/wiki/JavaScript), [PHP](http://en.wikipedia.org/wiki/PHP), [MySQL](http://en.wikipedia.org/wiki/MySQL), and general web design concepts. I plan to write two short pieces and one detailed piece each week. with a weekly podcast encompassing all three pieces. (While I _plan_ to write all this stuff, it may not actually happen right away.)

@@ -1,18 +1,20 @@
 ---
-title: "Billie Jean"
-date: 2016-12-12T11:45:00-07:00
-excerpt: "This week’s instalment of Music Monday is Billie Jean. The 1982 Michael Jackson original and a 2016 cover by Alexandr Misko."
-layout: post
+title: Billie Jean
+date: 2016-12-12 18:45:00 Z
 categories:
-  - People
-  - Music Monday
+- People
+- Music Monday
 tags:
-  - covers
-  - music
-  - video
-  - Michael Jackson
-  - Alexandr Misko
+- covers
+- music
+- video
+- Michael Jackson
+- Alexandr Misko
+excerpt: This week’s instalment of Music Monday is Billie Jean. The 1982 Michael Jackson
+  original and a 2016 cover by Alexandr Misko.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Billie Jean_](https://en.wikipedia.org/wiki/Billie_Jean) by [Michael Jackson](http://michaeljackson.com/) from their 1982 album, [Thriller](https://en.wikipedia.org/wiki/Thriller_(Michael_Jackson_album)). The [Alexandr Misko](https://www.youtube.com/user/AlehandroMiskauskas) version is from a 2016 performance.
 
 This cover was shared by a friend on Facebook and it seemed really cool.

@@ -1,14 +1,15 @@
 ---
 title: Top Ten New Movies
-date: 2004-12-12T11:38:46+00:00
-excerpt: "So, the results are in ... a landslide victory for 'Top Ten New Movies'!"
-layout: post
+date: 2004-12-12 11:38:46 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - surveys
-  - websites
+- surveys
+- websites
+excerpt: So, the results are in ... a landslide victory for 'Top Ten New Movies'!
+layout: post
 ---
+
 So, the results are in &#8230; a landslide victory for &#8216;Top Ten New Movies&#8217;
 
 <table>

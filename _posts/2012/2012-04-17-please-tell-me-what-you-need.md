@@ -1,18 +1,20 @@
 ---
 title: Please tell me what you need
-date: 2012-04-17T15:33:00+00:00
-excerpt: "When someone asks me to do something, if they provide no further direction, I trust that it requires no further direction. All too often, that’s a poor assumption."
-layout: post
+date: 2012-04-17 15:33:00 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - communication
-  - complaints
-  - programming
+- communication
+- complaints
+- programming
+excerpt: When someone asks me to do something, if they provide no further direction,
+  I trust that it requires no further direction. All too often, that’s a poor assumption.
+layout: post
 redirect_from:
-  - /post/21285608352
+- "/post/21285608352"
 ---
+
 When someone asks me to do something, if they provide no further direction, I trust that it requires no further direction. All too often, that’s a poor assumption.
 
 > _Person Who Should Be More Helpful:_ Hey, can you please disable the nomination form?

@@ -1,13 +1,14 @@
 ---
 title: Giant Girl Drinking Milk
-date: 2012-09-11T07:33:35+00:00
-excerpt: "Sometimes, when I look out my back window, there's a giant girl drinking milk behind my house. Strange."
-layout: post
+date: 2012-09-11 07:33:35 Z
 categories:
-  - People
+- People
 tags:
-  - milk
-  - photos
+- milk
+- photos
+excerpt: Sometimes, when I look out my back window, there's a giant girl drinking
+  milk behind my house. Strange.
+layout: post
 format: gallery
 ---
 

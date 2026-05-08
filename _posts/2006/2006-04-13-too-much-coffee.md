@@ -1,13 +1,13 @@
 ---
 title: Too much coffee
-date: 2006-04-13T08:41:13+00:00
-excerpt: 'HA HA, this is HI-larious!'
-layout: post
+date: 2006-04-13 08:41:13 Z
 categories:
-  - Funny
+- Funny
 tags:
-  - photos
-  - Roll Up the Rim
+- photos
+- Roll Up the Rim
+excerpt: HA HA, this is HI-larious!
+layout: post
 ---
 
 HA HA, this is HI-larious!

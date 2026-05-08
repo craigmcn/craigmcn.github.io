@@ -1,8 +1,6 @@
 ---
-title: "Ain’t No Mountain High Enough"
-date: 2020-01-27T11:45:00-0800
-excerpt: "This week’s instalment of Music Monday is Ain’t No Mountain High Enough. The 1967 Marvin Gaye and Tammi Terrell original and a 1970 cover by Diana Ross."
-layout: post
+title: Ain’t No Mountain High Enough
+date: 2020-01-27 19:45:00 Z
 categories:
 - People
 - Music Monday
@@ -13,8 +11,12 @@ tags:
 - Marvin Gaye
 - Tammi Terrell
 - Diana Ross
-redirect_from: /ain-t-no-mountain-high-enough.html
+excerpt: This week’s instalment of Music Monday is Ain’t No Mountain High Enough.
+  The 1967 Marvin Gaye and Tammi Terrell original and a 1970 cover by Diana Ross.
+layout: post
+redirect_from: "/ain-t-no-mountain-high-enough.html"
 ---
+
 This week’s instalment of Music Monday is [_Ain’t No Mountain High Enough_](https://en.wikipedia.org/wiki/Ain%27t_No_Mountain_High_Enough) by
 [Marvin Gaye](https://en.wikipedia.org/wiki/Marvin_Gaye) and [Tammi Terrell](https://en.wikipedia.org/wiki/Tammi_Terrell) from their 1967 album,
 [United](https://en.wikipedia.org/wiki/United_(Marvin_Gaye_and_Tammi_Terrell_album)). The [Diana Ross](https://en.wikipedia.org/wiki/Diana_Ross)

@@ -1,8 +1,6 @@
 ---
-title: "Cat’s in the Cradle"
-date: 2018-10-15T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Cat’s in the Cradle. The 1974 Harry Chapin original and a 1992 cover by Ugly Kid Joe."
-layout: post
+title: Cat’s in the Cradle
+date: 2018-10-15 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -13,8 +11,12 @@ tags:
 - video
 - Harry Chapin
 - Ugly Kid Joe
-redirect_from: /cat-s-in-the-cradle.html
+excerpt: This week’s instalment of Music Monday is Cat’s in the Cradle. The 1974 Harry
+  Chapin original and a 1992 cover by Ugly Kid Joe.
+layout: post
+redirect_from: "/cat-s-in-the-cradle.html"
 ---
+
 This week’s instalment of Music Monday is [_Cat’s in the Cradle_](https://en.wikipedia.org/wiki/Cat%27s_in_the_Cradle) by
 [Harry Chapin](http://harrychapinmusic.com/) from their 1974 album,
 [Verities & Balderdash](https://en.wikipedia.org/wiki/Verities_%26_Balderdash). The [Ugly Kid Joe](http://uglykidjoe.net/)

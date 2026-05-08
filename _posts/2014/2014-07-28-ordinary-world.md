@@ -1,17 +1,18 @@
 ---
 title: Ordinary World
-date: 2014-07-28T11:59:06+00:00
-excerpt: "This week's instalment of Music Monday is Ordinary World. The 1993 Duran Duran original and a 2002 cover by Gregorian."
-layout: post
+date: 2014-07-28 11:59:06 Z
 categories:
-  - People
-  - Music Monday
+- People
+- Music Monday
 tags:
-  - covers
-  - Duran Duran
-  - Gregorian
-  - music
-  - video
+- covers
+- Duran Duran
+- Gregorian
+- music
+- video
+excerpt: This week's instalment of Music Monday is Ordinary World. The 1993 Duran
+  Duran original and a 2002 cover by Gregorian.
+layout: post
 ---
 
 <div id="attachment_3956" style="width: 160px" class="wp-caption alignleft">

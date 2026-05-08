@@ -1,15 +1,16 @@
 ---
-title: 'Freakin&#8217; hilarious'
-date: 2008-05-14T23:09:49+00:00
-excerpt: "I got this from Falzone via the Facebooks ... freakin' HI-larious!"
-layout: post
+title: Freakin&#8217; hilarious
+date: 2008-05-14 23:09:49 Z
 categories:
-  - Funny
+- Funny
 tags:
-  - running away
-  - video
-  - YouTube
+- running away
+- video
+- YouTube
+excerpt: I got this from Falzone via the Facebooks ... freakin' HI-larious!
+layout: post
 ---
+
 I got this from [Falzone](http://www.italiantourism.com/) via the [Facebooks](http://www.facebook.com) ….
 
 <div class="video-container">

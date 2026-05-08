@@ -1,14 +1,16 @@
 ---
 title: The Long Weekend
-date: 2006-07-04T14:36:43+00:00
-excerpt: "Shmicken sal! Scarbloosh! Aaah ... the gibberish of yesteryear. I don't remember where they came from but those two"
-layout: post
+date: 2006-07-04 14:36:43 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - movies
-  - review
+- movies
+- review
+excerpt: Shmicken sal! Scarbloosh! Aaah ... the gibberish of yesteryear. I don't remember
+  where they came from but those two
+layout: post
 ---
+
 Shmicken sal! Scarbloosh! Aaah &#8230; the gibberish of yesteryear. I don&#8217;t remember where they came from but those two &#8230; uhhh &#8230; phrases(?) were used commonly in high school and university, respectively. My buddy, Cal, used to use &#8220;luftwaffe&#8221; regularly, as well. I didn&#8217;t quite get into that one. What does this have to with anything? Nothing. I&#8217;m just saying.
 
 The long weekend was spent in darkness and quiet as I nursed a migraine Saturday and Sunday.

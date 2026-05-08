@@ -1,14 +1,16 @@
 ---
 title: 'Team America: World Police'
-date: 2004-10-17T11:50:58+00:00
-excerpt: " - Team America: World Police -Wow! I'm speechless. From the creators of South Park, this is a movie that made me"
-layout: post
+date: 2004-10-17 11:50:58 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - movies
-  - review
+- movies
+- review
+excerpt: " - Team America: World Police -Wow! I'm speechless. From the creators of
+  South Park, this is a movie that made me"
+layout: post
 ---
+
 Wow! I&#8217;m speechless. From the creators of South Park, this is a movie that made me laugh the whole way through. Although I could hear Eric Cartman and Mr. Garrison behind half the characters that did not take away from the movie at all. What might have taken away a little bit was the swearing the whole way through. The tagline &#8216;Putting the &#8220;F&#8221; back in Freedom&#8217; was not wrong, nor was the R rating. The soundtrack even had songs with significant swearing.
 
 But the language was absolutely necessary to make the satire even more convincing. Trey Parker and Matt Stone spared no one, painting Americans generally as imperialist war-mongers (which they are!), and liberal peaceniks as useless fence-sitters. They even portrayed the Screen Actors Guild (referred to as the Film Actors Guild, or F.A.G.) as a bunch of mindless actors willing to jump on any bandwagon that might be popular.

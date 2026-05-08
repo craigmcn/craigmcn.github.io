@@ -1,13 +1,15 @@
 ---
-title: 'Gwildor&#8217;s Big Day'
-date: 2005-09-26T01:00:00+00:00
-excerpt: "Last night was the big man's wedding! Gwildor and Trikie tied the knot in a short, tear-filled ceremony. In Gwildor"
-layout: post
+title: Gwildor&#8217;s Big Day
+date: 2005-09-26 01:00:00 Z
 categories:
-  - Uncategorized
+- Uncategorized
 tags:
-  - weddings
+- weddings
+excerpt: Last night was the big man's wedding! Gwildor and Trikie tied the knot in
+  a short, tear-filled ceremony. In Gwildor
+layout: post
 ---
+
 Last night was the big man&#8217;s wedding! [Gwildor](http://gwild0r.tumblr.com/) and [Trikie](http://trikie.tripod.com/) tied the knot in a short, tear-filled ceremony. In Gwildor fashion, it was presided over by a jolly little elf, Rev. Leslie. She kept smiling with these little, squinty eyes that made me laugh every time. It was also a meeting of bloggers: people who only know each other by blog handle finally met face to face and learned names; Wublub, [SmokeyB](http://bacon.frymybacon.com/), Gwildor and the Big Cracker! (Yeah, sorry, **you** won&#8217;t learn names … I make every effort to refrain from naming names on this site, mostly to avoid the litigation I know you people would bring!)
 
 Although there was some concern about my ability to pick up and deliver the flowers, it worked out exactly as expected. There was also some concern about the weather. The forecast was for rain, but it didn&#8217;t rain until well into the evening, after all the outdoor festivities were concluded.

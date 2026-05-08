@@ -1,15 +1,17 @@
 ---
 title: Big Cracker goes Mobile!!
-date: 2005-08-29T05:18:31+00:00
-excerpt: "Boy! What a weekend! Here we are Monday morning (at work, of course,so that somebody will pay me to blog!), and it's"
-layout: post
+date: 2005-08-29 05:18:31 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - movies
-  - review
+- movies
+- review
+excerpt: Boy! What a weekend! Here we are Monday morning (at work, of course,so that
+  somebody will pay me to blog!), and it's
+layout: post
 ---
+
 Boy! What a weekend! Here we are Monday morning (at work, of course, so that somebody will pay me to blog!), and it&#8217;s really the first chance I&#8217;ve had to just sit down, relax and consider what has been going on. Although, we&#8217;re busy at work (well, I am &#8230; I don&#8217;t know about [Gwildor](http://gwild0r.tumblr.com/) &#8230; ha ha!) so while I started writing this before 9am, it&#8217;ll likely be noon before it&#8217;s finished&#8230;. Actually, it turns out I didn&#8217;t finished until 7:15pm.
 
 Saturday, I went to see [War of the Worlds](http://www.imdb.com/title/tt0407304/)&#8230;not exactly what I was expecting. There was plenty of action, but the story and the moral of the story got lost somewhere along the line. [Morgan Freeman](http://www.imdb.com/name/nm0000151/) has a short monologue at the beginning and another at the end that (I think) are supposed to explain some of the elements that somehow a spectacular filmmaker like [Steven Spielberg](http://www.imdb.com/name/nm0000229/) was unable to explain in the movie. And I&#8217;m still not sure I understood what happened.

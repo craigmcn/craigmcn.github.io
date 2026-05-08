@@ -1,16 +1,17 @@
 ---
 title: The Future of My Ignorance
-date: 2014-10-30T14:12:56+00:00
-excerpt: Ideally, the argument against “Yes” is “No.” And vice versa. But all too often the extreme argument only gets a moderate response.
-layout: post
+date: 2014-10-30 14:12:56 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - debate
-  - extremism
-  - frustration
-  - Thoughtful Thursday
+- debate
+- extremism
+- frustration
+- Thoughtful Thursday
+excerpt: Ideally, the argument against “Yes” is “No.” And vice versa. But all too
+  often the extreme argument only gets a moderate response.
+layout: post
 ---
 
 <div class="getty embed image alignright">

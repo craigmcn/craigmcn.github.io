@@ -1,15 +1,17 @@
 ---
 title: Post-secondary Education
-date: 2012-02-10T13:00:05+00:00
-excerpt: "My friends are considering trying to convince their kids to take a year off after high school to figure things out."
-layout: post
+date: 2012-02-10 13:00:05 Z
 categories:
-  - People
+- People
 tags:
-  - university
+- university
+excerpt: My friends are considering trying to convince their kids to take a year off
+  after high school to figure things out.
+layout: post
 redirect_from:
-  - /post/17380289562
+- "/post/17380289562"
 ---
+
 [<img src="https://cdn.craigmcn.ca/img/puppy-vaccinations.jpg" alt="Puppy Vaccinations" width="300" align="right" />](http://www.clickpets.co.uk/pet-health-guides/puppy-vaccinations/ "Puppy Vaccinations")Another post stemming from a discussion with friends and family. (And isn’t this little guy cute? I’m borrowing this picture from [clickpets.co.uk](http://www.clickpets.co.uk/ "clickpets.co.uk").)
 
 We were discussing post-secondary education (hence the neat title) and that my friends are considering trying to convince their kids to take a year off after high school to figure things out.

@@ -1,14 +1,16 @@
 ---
 title: Oh, the humanity
-date: 2015-06-11T15:04:59+00:00
-excerpt: I think we should be nurturing the most apt and most interested humans for any role and not be concerned about the demographics.
-layout: post
+date: 2015-06-11 15:04:59 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - humanist
-  - understanding
+- humanist
+- understanding
+excerpt: I think we should be nurturing the most apt and most interested humans for
+  any role and not be concerned about the demographics.
+layout: post
 ---
+
 <div class="getty embed image alignright">
   <div style="padding:67.524752% 0 0 0">
     <iframe src="//embed.gettyimages.com/embed/555947639?et=1chJFLf2T3t8ClPVVYXeHA&viewMoreLink=off&sig=Cz4HC4vJDr06biENBdj_75s7AlLNF_xQQEbq-BrWOHU=&caption=true" width="505" height="341" scrolling="no" frameborder="0"></iframe>

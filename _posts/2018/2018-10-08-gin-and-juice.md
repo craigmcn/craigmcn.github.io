@@ -1,8 +1,6 @@
 ---
-title: "Gin and Juice"
-date: 2018-10-08T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Gin and Juice. The 1993 Snoop Doggy Dogg original and a 2000 cover by The Gourds."
-layout: post
+title: Gin and Juice
+date: 2018-10-08 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -13,7 +11,11 @@ tags:
 - Snoop Doggy Dogg
 - The Gourds
 - Phish
+excerpt: This week’s instalment of Music Monday is Gin and Juice. The 1993 Snoop Doggy
+  Dogg original and a 2000 cover by The Gourds.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Gin and Juice_](https://en.wikipedia.org/wiki/Gin_and_Juice) by
 [Snoop Doggy Dogg](http://snoopdogg.com/) from his 1993 album,
 [Doggystyle](https://en.wikipedia.org/wiki/Doggystyle). [The Gourds](http://www.thegourds.com/)

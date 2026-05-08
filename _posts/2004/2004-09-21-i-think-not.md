@@ -1,13 +1,15 @@
 ---
 title: I think not
-date: 2004-09-21T12:48:28+00:00
-excerpt: "Here's something to tide you over for a while ...Descartes walks into a bar.The bartender comes up to him and asks,"
-layout: post
+date: 2004-09-21 12:48:28 Z
 categories:
-  - Funny
+- Funny
 tags:
-  - jokes
+- jokes
+excerpt: Here's something to tide you over for a while ...Descartes walks into a bar.The
+  bartender comes up to him and asks,
+layout: post
 ---
+
 Here&#8217;s something to tide you over for a while &#8230;
 
 Descartes walks into a bar.

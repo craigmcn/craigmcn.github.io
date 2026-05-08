@@ -1,18 +1,20 @@
 ---
 title: Back in business
-date: 2009-05-05T10:46:04+00:00
-excerpt: "Sorry for the huge delay here, kids, but I've been laid up with bronchitis and busy with some other stuff. The"
-layout: post
+date: 2009-05-05 10:46:04 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - bronchitis
-  - documentation
-  - learning
-  - Starbucks
-  - training
+- bronchitis
+- documentation
+- learning
+- Starbucks
+- training
+excerpt: Sorry for the huge delay here, kids, but I've been laid up with bronchitis
+  and busy with some other stuff. The
+layout: post
 ---
+
 Sorry for the huge delay here, kids, but I’ve been laid up with [bronchitis](http://en.wikipedia.org/wiki/Bronchitis) and busy with some other stuff. The bronchitis is generally under control, with the help of some [delicious antibiotics](http://en.wikipedia.org/wiki/Erythromycin). The other stuff was working out sort of well, until it all fell apart.
 
 About the other stuff, I had a verbal agreement, not a contract exactly, with a company to be their webmaster. Yay! Full-time work! The work was quite intensive, much more so than my last job as web publisher, which is saying something, because web publishing was a ridiculous amount of work! Unfortunately, they fired me, sort of, because there was no contract, so they just said, “Thanks anyway, off you go.” I didn&#8217;t argue and was not given much of a reason, but I can piece it together. I think they thought I wasn&#8217;t progressing as quickly as they would have liked. And, at the same time, I wasn&#8217;t receiving the training I would&#8217;ve liked.

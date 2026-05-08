@@ -1,14 +1,15 @@
 ---
 title: Life Lessons from the Big Cracker
-date: 2010-08-25T21:21:59+00:00
-excerpt: 'If you recall, awhile back I posted a blog about regrets. The only comment was from Big T who advised, &#8220;No regrets! Forge ahead!&#8221;  And I am.'
-layout: post
+date: 2010-08-25 21:21:59 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - expert
-  - jobs
+- expert
+- jobs
+excerpt: If you recall, awhile back I posted a blog about regrets. The only comment
+  was from Big T who advised, &#8220;No regrets! Forge ahead!&#8221;  And I am.
+layout: post
 ---
 
 <img class="alignright" title="Expert by Pete Prodoehl" src="https://cdn.craigmcn.ca/img/expert-pete-prodoehl.jpg" alt="Expert, Pete Prodoehl - image" />

@@ -1,13 +1,15 @@
 ---
 title: Wedding fun!
-date: 2006-09-03T04:15:00+00:00
-excerpt: "Ummm, it's 5 o'clock in the morning and I'm just getting home. What a good night!!It was RLP and Shuttergirl's"
-layout: post
+date: 2006-09-03 04:15:00 Z
 categories:
-  - People
+- People
 tags:
-  - weddings
+- weddings
+excerpt: Ummm, it's 5 o'clock in the morning and I'm just getting home. What a good
+  night!!It was RLP and Shuttergirl's
+layout: post
 ---
+
 Ummm, it&#8217;s 5 o&#8217;clock in the morning and I&#8217;m just getting home. What a good night!!
 
 It was RLP and Shuttergirl&#8217;s wedding and what an excellent wedding! We were at the beautiful [Boulevard Club](http://www.boulevardclub.com/) on the lakeshore. Although it was raining most of the day, [Ernesto](http://en.wikipedia.org/wiki/Hurricane_Ernesto_(2006)) failed to spoil our fun. The ceremony was short and to the point. The [Unitarian](http://www.firstunitariantoronto.org/) minister had some original words and vows for the couple; very refreshing. RLP&#8217;s mom read from [1 Corinthians 13:4-13](http://www.biblegateway.com/passage/?search=1%20corinthians%2013:4-13;&version=50;), but it was a version I&#8217;ve never heard before; equally refreshing. Although perhaps I&#8217;m not completely familiar with verses 8-10 and 12.

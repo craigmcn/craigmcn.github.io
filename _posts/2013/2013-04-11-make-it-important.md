@@ -1,14 +1,14 @@
 ---
 title: Make It Important
-date: 2013-04-11T10:01:24+00:00
-excerpt: "Thoughtful Thursday. If it's important to you, make it important."
-layout: post
+date: 2013-04-11 10:01:24 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - productivity
-  - responsibility
-  - tasks
+- productivity
+- responsibility
+- tasks
+excerpt: Thoughtful Thursday. If it's important to you, make it important.
+layout: post
 ---
 
 <div id="attachment_3562" style="width: 310px" class="wp-caption alignright">

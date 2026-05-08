@@ -1,13 +1,15 @@
 ---
 title: Unpacking and setting up
-date: 2005-01-09T05:33:03+00:00
-excerpt: Whew! Another week gone by already. And what a week it was! New apartment, new job ... a lot of unpacking and setting
-layout: post
+date: 2005-01-09 05:33:03 Z
 categories:
-  - People
+- People
 tags:
-  - apartments
+- apartments
+excerpt: Whew! Another week gone by already. And what a week it was! New apartment,
+  new job ... a lot of unpacking and setting
+layout: post
 ---
+
 Whew! Another week gone by already. And what a week it was! New apartment, new job &#8230; a lot of unpacking and setting up, a lot of getting used to new things &#8230; like the 1 hour lunch. 1 hour! That&#8217;s a lot of sitting around chatting! But good times. We even had plenty of time to walk around to the <a href="http://www.subway.com" target="_blank">Subway</a> for lunch on Friday. And last night, a quick and easy jaunt over to the <a href="http://www.ttc.ca/Subway/index.jsp" target="_blank">subway</a> for a quick trip up to <a href="http://gwild0r.tumblr.com" target="_blank">Gwildor</a>&#8216;s for <a href="http://www.imdb.com/title/tt0374900/" target="_blank">a movie</a> and snacks &#8230; mmmm .. quesadillas. (Thanks Trikie!)
 
 Yup, being in my new location is quite nice. I just have to get used to the fact that I&#8217;m really close to a lot of places where I can spend my money. And, as I said, I&#8217;ve done a lot of unpacking, so it&#8217;s getting to feel more like home. I just need to find more space for all my stuff. I put more than half my stuff in storage and there&#8217;s still too much for this apartment!

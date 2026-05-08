@@ -1,15 +1,17 @@
 ---
 title: TGIF (what? Friday already?)
-date: 2005-10-21T02:23:16+00:00
-excerpt: "I can't believe it's Friday. Although I've gotten a ton of stuffdone this week, it's too early to be the weekend."
-layout: post
+date: 2005-10-21 02:23:16 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - music
-  - review
+- music
+- review
+excerpt: I can't believe it's Friday. Although I've gotten a ton of stuffdone this
+  week, it's too early to be the weekend.
+layout: post
 ---
+
 I can&#8217;t believe it&#8217;s Friday. Although I&#8217;ve gotten a ton of stuff done this week, it&#8217;s too early to be the weekend. Most people would rejoice at having the week go by quickly, but in my case, I&#8217;m thinking about how soon Monday will come, if this week went by so quickly.
 
 I wrote some cool code for [h!](http://www.ppfhouse.com/century.php) to manage his [art page](http://www.ppfhouse.com/art.php) better. Of course it doesn&#8217;t work in [IE](http://www.microsoft.com/windows/ie/default.asp), probably &#8217;cause IE sucks, but I really don&#8217;t know. It&#8217;s not spectacular code, it&#8217;s just a little [javascript](http://www.javascript.com/), but IE doesn&#8217;t know what to do with it. [Firefox](http://www.mozilla.org/products/firefox/) loves it and I love Firefox, so it really doesn&#8217;t matter what IE does.Except that there may be cases where IE is the only browser available (No, please God, no!!), so I will make cross-browser compatible after awhile.

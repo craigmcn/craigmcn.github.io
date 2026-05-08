@@ -1,8 +1,6 @@
 ---
-title: "Blackbird"
-date: 2020-06-22T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Blackbird. The 1968 Beatles original and a 2019 cover by Emma Stevens."
-layout: post
+title: Blackbird
+date: 2020-06-22 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - The Beatles
 - Emma Stevens
+excerpt: This week’s instalment of Music Monday is Blackbird. The 1968 Beatles original
+  and a 2019 cover by Emma Stevens.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Blackbird_](https://en.wikipedia.org/wiki/Blackbird_(Beatles_song)) by
 [The Beatles](http://thebeatles.com/) from their 1968 album,
 [The Beatles](https://en.wikipedia.org/wiki/The_Beatles_(album)). The [Emma Stevens](https://www.google.com/search?rlz=1C1CHBF_enCA872CA872&sxsrf=ALeKk03KLpayXv5lDTsoxYq5RkLGbc_dZw%3A1592846098860&ei=EufwXtWENMKs0PEPtu618AE&q=emma+stevens+blackbird&oq=emma+stevens+blackbird&gs_lcp=CgZwc3ktYWIQAzIECCMQJzIECCMQJzICCAAyBggAEBYQHjIGCAAQFhAeMggIABAWEAoQHjIGCAAQFhAeMgYIABAWEB5QgwRY9wRg_QZoAHAAeACAAVaIAaYCkgEBNJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwjV1Z2P9pXqAhVCFjQIHTZ3DR4Q4dUDCAw&uact=5)

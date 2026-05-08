@@ -1,18 +1,20 @@
 ---
 title: Social Media Connections
-date: 2011-12-08T13:00:06+00:00
-excerpt: "People with a large number of social media connections (e.g., Facebook friends) have a larger volume of grey matter in the amygdala than average."
-layout: post
+date: 2011-12-08 13:00:06 Z
 categories:
-  - People
+- People
 tags:
-  - brain
-  - Facebook
-  - friends
-  - Twitter
+- brain
+- Facebook
+- friends
+- Twitter
+excerpt: People with a large number of social media connections (e.g., Facebook friends)
+  have a larger volume of grey matter in the amygdala than average.
+layout: post
 redirect_from:
-  - /post/13929025028
+- "/post/13929025028"
 ---
+
 <img src="https://cdn.craigmcn.ca/img/social-media.jpg" alt="Social Media" width="300" align="left" />I read [an article about social media connections and brain size](http://www.cbc.ca/news/health/story/2011/10/19/facebook-brain.html "Facebook friend count linked to brain region size") that indicated that people with a large number of social media connections (e.g., Facebook friends) have a larger volume of grey matter in the amygdala than average.
 
 I found it very interesting because I recently _unfriended_ a number of friends on Facebook and stopped following a number of people on Twitter. I wondered what the correlation meant for me, having had a large number of connections and consciously choosing to have fewer.

@@ -1,15 +1,17 @@
 ---
 title: Happy Birthday
-date: 2004-05-18T06:28:50+00:00
-excerpt: A quick note to say Hey, Howdy! And Happy Birthday to Gwildor! The big man is now 27 years old ... still not as old as
-layout: post
+date: 2004-05-18 06:28:50 Z
 categories:
-  - People
-  - Technology
+- People
+- Technology
 tags:
-  - computers
-  - The Matrix
+- computers
+- The Matrix
+excerpt: A quick note to say Hey, Howdy! And Happy Birthday to Gwildor! The big man
+  is now 27 years old ... still not as old as
+layout: post
 ---
+
 A quick note to say Hey, Howdy! And Happy Birthday to Gwildor! The big man is now 27 years old &#8230; still not as old as Big Cracker, but _nobody_ wants to be _that_ old!
 
 I got my tax refund and the reimbursement for my wisdom tooth extraction, so I&#8217;m going to pay off my credit cards, pay down my line of credit and buy another computer. Why do I need another computer? I don&#8217;t. But as I mentioned at some point, my video card is not good enough for <a href="http://en.wikipedia.org/wiki/The_Matrix_Online" target="_blank">The Matrix Online</a>, so it&#8217;s time to upgrade.

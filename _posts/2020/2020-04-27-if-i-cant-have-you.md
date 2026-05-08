@@ -1,8 +1,6 @@
 ---
-title: "If I Can’t Have You"
-date: 2020-04-27T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is If I Can’t Have You. The 2018 Shawn Mendes original and a 2020 cover by Trevor Bragg."
-layout: post
+title: If I Can’t Have You
+date: 2020-04-27 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,8 +10,12 @@ tags:
 - video
 - Shawn Mendes
 - Trevor Bragg
-redirect_from: /if-i-can-t-have-you.html
+excerpt: This week’s instalment of Music Monday is If I Can’t Have You. The 2018 Shawn
+  Mendes original and a 2020 cover by Trevor Bragg.
+layout: post
+redirect_from: "/if-i-can-t-have-you.html"
 ---
+
 This week’s instalment of Music Monday is [_If I Can’t Have You_](https://en.wikipedia.org/wiki/If_I_Can%27t_Have_You_(Shawn_Mendes_song)) by
 [Shawn Mendes](http://shawnmendesofficial.com/) from his 2018 album,
 [Shawn Mendes](https://en.wikipedia.org/wiki/Shawn_Mendes_(album)). The [Trevor Bragg](https://www.youtube.com/channel/UCklo2D-YdxppQwR7LxLo4ww)

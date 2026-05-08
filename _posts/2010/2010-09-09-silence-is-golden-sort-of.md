@@ -1,15 +1,16 @@
 ---
 title: Silence is Golden, Sort of
-date: 2010-09-09T10:17:43+00:00
-excerpt: "Sorry for my extended silence this week. I've been working on redesigning this site and have run into some problems. I"
-layout: post
+date: 2010-09-09 10:17:43 Z
 categories:
-  - Opinion
-  - Technology
+- Opinion
+- Technology
 tags:
-  - Dvorak
-  - productivity
-  - typing
+- Dvorak
+- productivity
+- typing
+excerpt: Sorry for my extended silence this week. I've been working on redesigning
+  this site and have run into some problems. I
+layout: post
 ---
 
 <img class="alignleft" title="silence" src="https://cdn.craigmcn.ca/img/silence.gif" alt="silence - image" />

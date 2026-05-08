@@ -1,18 +1,20 @@
 ---
 title: Van Helsing
-date: 2004-05-09T03:55:17+00:00
-excerpt: Friday night, I went with some friends to the very acceptable Van Helsing. My movie-going companions seemed to think it
-layout: post
+date: 2004-05-09 03:55:17 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - Dracula
-  - Frankenstein
-  - Hugh Jackman
-  - Kate Beckinsale
-  - movies
-  - review
+- Dracula
+- Frankenstein
+- Hugh Jackman
+- Kate Beckinsale
+- movies
+- review
+excerpt: Friday night, I went with some friends to the very acceptable Van Helsing.
+  My movie-going companions seemed to think it
+layout: post
 ---
+
 Friday night, I went with some friends to the very acceptable <a href="http://www.imdb.com/title/tt0338526/" target="_blank">Van Helsing</a>. My movie-going companions seemed to think it was repetitive and dragged on, and it sort of did, but I think it told a good story. I call it “very acceptable”, not excellent or spectacular, again, it told a good story.
 
 We start with a solid openeing: the villagers with torches coming for <a href="http://www.literature.org/authors/shelley-mary/frankenstein/" target="_blank">Dr. Frankenstein and his monster</a> (who comes to be known simply as Frankenstein, which drives me nuts, I&#8217;ll get to that). Then we move onto Van Helsing battling Mr. Edward Hyde, of <a href="http://www.bartleby.com/1015/" target="_blank">Dr. Jekyll and Mr. Hyde</a> fame. The movie is littered with direct references and minor allusions to classic literature, which are always fun when you recognize them.

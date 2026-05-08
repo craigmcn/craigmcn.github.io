@@ -1,17 +1,19 @@
 ---
 title: Riddle me this
-date: 2007-07-24T04:25:00+00:00
-excerpt: "Can someone please explain to me how the Elder Wand passed to Draco Malfoy? (Maybe I'll post this as a question on"
-layout: post
+date: 2007-07-24 04:25:00 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - Draco Malfoy
-  - Dumbledore
-  - Elder Wand
-  - Harry Potter
+- Draco Malfoy
+- Dumbledore
+- Elder Wand
+- Harry Potter
+excerpt: Can someone please explain to me how the Elder Wand passed to Draco Malfoy?
+  (Maybe I'll post this as a question on
+layout: post
 ---
+
 **Spoiler Warning**
 
 Can someone please explain to me how the [Elder Wand](http://en.wikipedia.org/wiki/Elder_Wand#Elder_Wand) passed to [Draco Malfoy](http://en.wikipedia.org/wiki/Draco_Malfoy)? (Maybe I&#8217;ll post this as a question on Facebook and see what I get there.)

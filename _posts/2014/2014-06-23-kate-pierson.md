@@ -1,21 +1,23 @@
 ---
 title: Kate Pierson
-date: 2014-06-23T13:15:01+00:00
-excerpt: "This week's instalment of Music Monday is Love Shack (1989) and Shiny Happy People (1991) both fun, silly songs featuring Kate Pierson."
-layout: post
+date: 2014-06-23 13:15:01 Z
 categories:
-  - People
-  - Music Monday
+- People
+- Music Monday
 tags:
-  - Cosmic Thing
-  - Love Shack
-  - music
-  - Out of Time
-  - R.E.M.
-  - Shiny Happy People
-  - "The B-52's"
-  - video
+- Cosmic Thing
+- Love Shack
+- music
+- Out of Time
+- R.E.M.
+- Shiny Happy People
+- The B-52's
+- video
+excerpt: This week's instalment of Music Monday is Love Shack (1989) and Shiny Happy
+  People (1991) both fun, silly songs featuring Kate Pierson.
+layout: post
 ---
+
 <div class="wp-caption alignleft">
   <a href="http://upload.wikimedia.org/wikipedia/en/thumb/e/e8/KatePierson.jpg/273px-KatePierson.jpg"><img src="http://upload.wikimedia.org/wikipedia/en/thumb/e/e8/KatePierson.jpg/273px-KatePierson.jpg" alt="Kate Pierson (2009)" width="273" height="240" /></a>
   

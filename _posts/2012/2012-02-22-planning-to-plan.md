@@ -1,18 +1,20 @@
 ---
 title: Planning to Plan
-date: 2012-02-22T13:00:05+00:00
-excerpt: "I’m not complaining about the process or the need for planning. I’m driven a little bit nuts right now with planning."
-layout: post
+date: 2012-02-22 13:00:05 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - complaints
-  - organization
-  - planning
+- complaints
+- organization
+- planning
+excerpt: I’m not complaining about the process or the need for planning. I’m driven
+  a little bit nuts right now with planning.
+layout: post
 redirect_from:
-  - /post/18080600097
+- "/post/18080600097"
 ---
+
 <img src="https://cdn.craigmcn.ca/img/planning.jpg" alt="Planning" width="300" height="214" align="right" />I’m driven a little bit nuts right now with planning. Our organization has four-year planning cycles, the second of which is just finishing and the third starting.
 
 I’m not complaining about the process or the need for planning. The first planning cycle was mostly a top-down approach (here’s what we want to do, how can you make it happen?) and has evolved to a bottom-up approach (what do you want to do? We’ll fit it to a set of organization-wide themes).

@@ -1,15 +1,17 @@
 ---
 title: Finally off the phones
-date: 2006-03-04T06:22:53+00:00
-excerpt: "Oh. My. Gawd! It's over. No more phones. And now I realize that I have to tell my boss that she can never put me back"
-layout: post
+date: 2006-03-04 06:22:53 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - customer support
-  - lacrosse
+- customer support
+- lacrosse
+excerpt: Oh. My. Gawd! It's over. No more phones. And now I realize that I have to
+  tell my boss that she can never put me back
+layout: post
 ---
+
 Oh. My. Gawd! It&#8217;s over. No more phones. And now I realize that I have to tell my boss that she can never put me back on the phones. Ever. There is no way that I&#8217;ll be able to do it again. Seriously, I spent several minutes each morning agonizing over whether to get out of bed, then over whether to go to work, then again whether to just get up and go home. I don&#8217;t think there&#8217;s words for my extreme negative attitude.
 
 At the same time, I&#8217;m not sure there&#8217;s a way to make it better. And the re-organization implemented last November, while I thought it was a good idea at the time, is not the right way. I don&#8217;t know&#8230;.

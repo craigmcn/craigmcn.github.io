@@ -1,14 +1,16 @@
 ---
-title: 'I don&#8217;t post often enough'
-date: 2004-11-25T05:23:37+00:00
-excerpt: "Alright, alright. I know. I don't post often enough. Settle down. It's been a busy week ... sort of. I'm working on a"
-layout: post
+title: I don&#8217;t post often enough
+date: 2004-11-25 05:23:37 Z
 categories:
-  - People
+- People
 tags:
-  - complaints
-  - video games
+- complaints
+- video games
+excerpt: Alright, alright. I know. I don't post often enough. Settle down. It's been
+  a busy week ... sort of. I'm working on a
+layout: post
 ---
+
 Alright, alright. I know. I don&#8217;t post often enough. Settle down. It&#8217;s been a busy week &#8230; sort of.
 
 I&#8217;m working on a new design for a website. I was studying for my bartending exam. I&#8217;m working on crackerMail v1.1. And I&#8217;ve got a new game I&#8217;m playing. Oh, by the way, I **aced** the exam.
