@@ -21,7 +21,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/configure-pages@v5
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
@@ -31,6 +30,7 @@ jobs:
         run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
+      - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
 
   deploy:
