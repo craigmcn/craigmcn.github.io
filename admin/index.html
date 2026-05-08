@@ -7,41 +7,6 @@
   <title>Content Manager</title>
 </head>
 <body>
-  <script>window.CMS_MANUAL_INIT = true;</script>
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
-  <script>
-    CMS.init({
-      config: {
-        load_config_file: false,
-        backend: {
-          name: 'github',
-          repo: 'craigmcn/craigmcn.github.io',
-          branch: 'main',
-          auth_type: 'pkce',
-          app_id: 'Ov23lidKMfqod2ZIuGyX',
-        },
-        media_folder: 'images/uploads',
-        public_folder: '/images/uploads',
-        collections: [
-          {
-            name: 'posts',
-            label: 'Posts',
-            folder: '_posts',
-            create: true,
-            slug: '{{year}}-{{month}}-{{day}}-{{slug}}',
-            fields: [
-              { label: 'Title', name: 'title', widget: 'string' },
-              { label: 'Date', name: 'date', widget: 'datetime', date_format: 'YYYY-MM-DD', time_format: 'HH:mm:ssZ', format: 'YYYY-MM-DDTHH:mm:ssZ' },
-              { label: 'Excerpt', name: 'excerpt', widget: 'text' },
-              { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' },
-              { label: 'Categories', name: 'categories', widget: 'list' },
-              { label: 'Tags', name: 'tags', widget: 'list' },
-              { label: 'Body', name: 'body', widget: 'markdown' },
-            ],
-          },
-        ],
-      },
-    });
-  </script>
 </body>
 </html>

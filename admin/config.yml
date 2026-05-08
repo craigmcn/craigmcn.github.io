@@ -2,8 +2,7 @@ backend:
   name: github
   repo: craigmcn/craigmcn.github.io
   branch: main
-  auth_type: pkce
-  app_id: Ov23lidKMfqod2ZIuGyX
+  base_url: https://quiet-sunset-3f55.craig-040.workers.dev
 
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
