@@ -1,14 +1,16 @@
 ---
 title: The new season has begun
-date: 2007-10-10T09:56:00+00:00
-excerpt: "Sorry, this is now getting a little late, and it might have spoilers, but I figured I'd say my piece about the new TV season."
-layout: post
+date: 2007-10-10 09:56:00 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - television
+- television
+excerpt: Sorry, this is now getting a little late, and it might have spoilers, but
+  I figured I'd say my piece about the new TV season.
+layout: post
 ---
+
 Sorry, this is now getting a little late, and it might have spoilers, but I figured I&#8217;d say my piece about the new TV season. My comments generally apply to the first episode, but may apply to the second episode, as well.
 
 [**Bionic Woman**](http://www.nbc.com/Bionic_Woman/) (season 1) &#8211; Ch-ch-ch-ch, ch-ch-ch-ch &#8230; yup, a new [Jaime Sommers](http://en.wikipedia.org/wiki/Jaime_Sommers_%28Bionic_Woman%29). While the second episode is available, I haven&#8217;t had a chance to watch, but the pilot was pretty good. Already we got the &#8220;How I became Bionic Woman&#8221; story and an arch-nemesis has been introduced.  It looks pretty good, but I&#8217;ll wait a couple of episodes before passing final judgement.

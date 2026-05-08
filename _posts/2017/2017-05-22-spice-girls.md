@@ -1,16 +1,18 @@
 ---
-title: "Spice Girls"
-date: 2017-05-22T11:45:00-06:00
-excerpt: "This week’s instalment of Music Monday is Spice Girls. The first two singles from their 1996 debut album, Spice."
-layout: post
+title: Spice Girls
+date: 2017-05-22 17:45:00 Z
 categories:
-  - People
-  - Music Monday
+- People
+- Music Monday
 tags:
-  - music
-  - video
-  - Spice Girls
+- music
+- video
+- Spice Girls
+excerpt: This week’s instalment of Music Monday is Spice Girls. The first two singles
+  from their 1996 debut album, Spice.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Spice Girls_](https://www.thespicegirls.com/) and two songs from their 1996 debut album, [Spice](https://en.wikipedia.org/wiki/Spice_(album)).
 
 I had [_Wannabe_](https://en.wikipedia.org/wiki/Wannabe) in my head the other day and wanted to share it with you, but I wasn't keen on the cover versions. So here's a couple of songs that are fun to hear.

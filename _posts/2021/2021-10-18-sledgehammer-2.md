@@ -1,8 +1,6 @@
 ---
-title: "Sledgehammer"
-date: 2021-10-18T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Sledgehammer. The 1986 Peter Gabriel original and a 2020 cover by Harry Styles."
-layout: post
+title: Sledgehammer
+date: 2021-10-18 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Peter Gabriel
 - Harry Styles
+excerpt: This week’s instalment of Music Monday is Sledgehammer. The 1986 Peter Gabriel
+  original and a 2020 cover by Harry Styles.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Sledgehammer_](https://en.wikipedia.org/wiki/Sledgehammer_(Peter_Gabriel_song)) by
 [Peter Gabriel](https://petergabriel.com/) from his 1986 album,
 [So](https://en.wikipedia.org/wiki/So_(album)). The [Harry Styles](https://hstyles.co.uk/)

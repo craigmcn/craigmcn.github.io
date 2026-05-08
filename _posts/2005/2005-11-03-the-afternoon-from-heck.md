@@ -1,14 +1,16 @@
 ---
 title: The afternoon from heck
-date: 2005-11-03T07:28:31+00:00
-excerpt: "Although you may think I'm trying to keep my blogs PG, my descriptionof my afternoon from heck is quite apt. It"
-layout: post
+date: 2005-11-03 07:28:31 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - complaints
+- complaints
+excerpt: Although you may think I'm trying to keep my blogs PG, my descriptionof my
+  afternoon from heck is quite apt. It
+layout: post
 ---
+
 Although you may think I&#8217;m trying to keep my blogs PG, my description of my afternoon from heck is quite apt. It wasn&#8217;t quite hell, since there was some entertainment and a little enjoyment even if it was boring as &#8230; well, something really boring.
 
 I spent my afternoon at the Annual Achievers&#8217; celebration for work. What a crock of shit! So-and-so won for not having a life and spending all his time at work, or thinking about work. And Whatshername won for being a jerk and telling everyone how do to their job better. There were ten of these people, all representing some level of both examples. And I&#8217;m supposed to emulate these people so I can help make the company the best in the &#8216;verse. Again, what a crock of shit!

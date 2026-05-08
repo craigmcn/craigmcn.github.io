@@ -1,16 +1,18 @@
 ---
 title: That beef really had a funny smell to it
-date: 2004-06-21T07:08:41+00:00
-excerpt: So, I definitely feel a little more important after the comments from Gwildor and K. Thanks. And, sorry K, that beef
-layout: post
+date: 2004-06-21 07:08:41 Z
 categories:
-  - Technology
+- Technology
 tags:
-  - Call of Duty
-  - Hitman
-  - programming
-  - video games
+- Call of Duty
+- Hitman
+- programming
+- video games
+excerpt: So, I definitely feel a little more important after the comments from Gwildor
+  and K. Thanks. And, sorry K, that beef
+layout: post
 ---
+
 So, I definitely feel a little more important after the comments from Gwildor and K. Thanks. And, sorry K, that beef really had a funny smell to it.
 
 Had a huge headache by the time work was done today &#8230; I don&#8217;t know how these people can get their own shoes tied, let alone do their jobs. It was busy, so I didn&#8217;t get a chance to work on a couple of [ASP](http://en.wikipedia.org/wiki/Active_Server_Pages) projects I wanted to work on. One of them, I&#8217;m still not quite sure why I agreed to do it &#8230; I created a small addition to our departmental intranet site to make some information available that was orginally emailed on a weekly basis. I thought it would be easier, rather than sort out a bunch of emails, people could just &#8220;go online&#8221; and get the info. Well, someone whined about needing the information emailed, so I agreed to build a way for the email to send automatically each week. I&#8217;m still working on it, but I&#8217;m not sure why. The information is right there for anyone to see, why does it need to be emailed? Whatever.

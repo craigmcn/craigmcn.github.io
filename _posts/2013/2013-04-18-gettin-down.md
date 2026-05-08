@@ -1,14 +1,16 @@
 ---
-title: 'Gettin&#8217; down'
-date: 2013-04-18T09:44:48+00:00
-excerpt: "Boy, the weather this winter sure has gotten me down. We've had snow on the ground and consistently freezing temperatures here for almost six months. I didn't think the winter would last so friggin' long!"
-layout: post
+title: Gettin&#8217; down
+date: 2013-04-18 09:44:48 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - depression
-  - hot holiday
-  - weather
+- depression
+- hot holiday
+- weather
+excerpt: Boy, the weather this winter sure has gotten me down. We've had snow on the
+  ground and consistently freezing temperatures here for almost six months. I didn't
+  think the winter would last so friggin' long!
+layout: post
 ---
 
 <a href="https://cdn.craigmcn.ca/img/rsz_2012-12-02_140124.jpg?x-request=xhr" data-fslightbox="lightbox"><img class="size-medium wp-image-3572  alignleft" title="Saskatoon riverbank in winter" alt="Saskatoon riverbank in winter" src="https://cdn.craigmcn.ca/img/rsz_2012-12-02_140124-300x225.jpg" width="300" height="225" srcset="https://cdn.craigmcn.ca/img/rsz_2012-12-02_140124-300x225.jpg 300w, https://cdn.craigmcn.ca/img/rsz_2012-12-02_140124-624x468.jpg 624w, https://cdn.craigmcn.ca/img/rsz_2012-12-02_140124.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a>

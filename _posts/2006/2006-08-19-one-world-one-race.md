@@ -1,14 +1,16 @@
 ---
 title: One World One Race
-date: 2006-08-19T10:23:38+00:00
-excerpt: "I'll just bet you saw the title of this post and thought you in for another enlightening political discussion from Big"
-layout: post
+date: 2006-08-19 10:23:38 Z
 categories:
-  - People
+- People
 tags:
-  - bagpipes
-  - multicultural
+- bagpipes
+- multicultural
+excerpt: I'll just bet you saw the title of this post and thought you in for another
+  enlightening political discussion from Big
+layout: post
 ---
+
 I&#8217;ll just bet you saw the title of this post and thought you in for another enlightening political discussion from Big Cracker. Nope! I spent the other night at [Folkfest](http://www.saskatoonfolkfest.ca/home), here in sunny Saskatoon; &#8220;One World One Race&#8221; is this year&#8217;s slogan.
 
 Back when I was a lad, I played bagpipes in a couple of pipe bands: [the 96th Highlanders](http://www.96th.ca/) and the [I&#8217;ll just bet you saw the title of this post and thought you in for another enlightening political discussion from Big Cracker. Nope! I spent the other night at [Folkfest](http://www.saskatoonfolkfest.ca/home), here in sunny Saskatoon; &#8220;One World One Race&#8221; is this year&#8217;s slogan.

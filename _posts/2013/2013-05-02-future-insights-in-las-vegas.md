@@ -1,15 +1,18 @@
 ---
 title: Future Insights in Las Vegas
-date: 2013-05-02T15:21:18+00:00
-excerpt: "I'm in Las Vegas for the Future Insights web technology conference and I've had a pretty good time. I've heard the same thing a few too many times, but that just reinforces the importance of some of those concepts. I'll definitely be coming back to work with some ideas for doing things better."
-layout: post
+date: 2013-05-02 15:21:18 Z
 categories:
-  - Opinion
-  - People
-  - Technology
+- Opinion
+- People
+- Technology
 tags:
-  - Las Vegas
-  - learning
+- Las Vegas
+- learning
+excerpt: I'm in Las Vegas for the Future Insights web technology conference and I've
+  had a pretty good time. I've heard the same thing a few too many times, but that
+  just reinforces the importance of some of those concepts. I'll definitely be coming
+  back to work with some ideas for doing things better.
+layout: post
 format: gallery
 ---
 

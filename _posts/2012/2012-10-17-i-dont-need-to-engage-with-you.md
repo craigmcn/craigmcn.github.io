@@ -1,15 +1,18 @@
 ---
-title: 'I don&#8217;t need to engage with you'
-date: 2012-10-17T11:34:57+00:00
-excerpt: "I don’t need to engage with someone who’s not engaged with me. Once the topic has moved away from whatever involved me, especially if I still had something to contribute, I'll probably just shut down for a time, until the conversation either comes back around or moves onto something for which I have a contribution."
-layout: post
+title: I don&#8217;t need to engage with you
+date: 2012-10-17 11:34:57 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - complaints
+- complaints
+excerpt: I don’t need to engage with someone who’s not engaged with me. Once the topic
+  has moved away from whatever involved me, especially if I still had something to
+  contribute, I'll probably just shut down for a time, until the conversation either
+  comes back around or moves onto something for which I have a contribution.
+layout: post
 redirect_from:
-  - /post/18937273699
+- "/post/18937273699"
 ---
 
 <img class="alignleft size-medium wp-image-3394" title="picard-engage" src="https://cdn.craigmcn.ca/img/picard-engage-300x200.jpg" alt="Picard: Engage" width="300" height="200" srcset="https://cdn.craigmcn.ca/img/picard-engage-300x200.jpg 300w, https://cdn.craigmcn.ca/img/picard-engage.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" />

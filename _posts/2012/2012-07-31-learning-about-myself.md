@@ -1,16 +1,17 @@
 ---
 title: Learning about Myself
-date: 2012-07-31T10:07:27+00:00
+date: 2012-07-31 10:07:27 Z
+categories:
+- Opinion
+- People
+tags:
+- complaints
+- education
+- graduate
 excerpt: You want to learn about yourself? Spend a few months travelling the world.
 layout: post
-categories:
-  - Opinion
-  - People
-tags:
-  - complaints
-  - education
-  - graduate
 ---
+
 I was out to a small gathering a few days ago and ended up having to walk away from a conversation. Not literally, we were sitting at a table, but I had to stop having the conversation.
 
 I mentioned that I had considered graduate studies (e.g., masters degree), but that I couldn&#8217;t think of any particular subject that I would want to study in great enough detail, or for such an extended length of time. I mostly got nods from people around the table.

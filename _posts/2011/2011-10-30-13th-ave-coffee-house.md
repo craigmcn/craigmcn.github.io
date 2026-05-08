@@ -1,17 +1,19 @@
 ---
 title: 13th Ave Coffee House
-date: 2011-10-30T11:26:37+00:00
-excerpt: 'My breakfast consisted of a dark roast coffee (Peru/Columbia) and a Power breakfast bowl (granola, berry mix, strawberry, banana, coconut, bee pollen). Allegedly, the banana was kind of brown, so they substituted mango; equally delicious.'
-layout: post
+date: 2011-10-30 11:26:37 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - breakfast
-  - eclectic
-  - food
-  - review
+- breakfast
+- eclectic
+- food
+- review
+excerpt: My breakfast consisted of a dark roast coffee (Peru/Columbia) and a Power
+  breakfast bowl (granola, berry mix, strawberry, banana, coconut, bee pollen). Allegedly,
+  the banana was kind of brown, so they substituted mango; equally delicious.
+layout: post
 redirect_from:
-  - /post/12121810108
+- "/post/12121810108"
 ---
 
 <img src="https://cdn.craigmcn.ca/img/13th-ave-coffee-house.jpg" alt="13th Ave Coffee House" width="225" height="300" align="left" />Again, no picture of the food, but a picture of the outside of [13th Ave Coffee in Regina](http://maps.google.ca/maps?hl=en&q=13th+ave+coffee+house+regina&gs_sm=c&gs_upl=1992l1992l0l3268l1l1l0l0l0l0l171l171l0.1l1l0&bav=on.2,or.r_gc.r_pw.r_cp.,cf.osb&biw=1264&bih=870&um=1&ie=UTF-8&sa=N&tab=wl 'Map'). Sorry.

@@ -1,16 +1,19 @@
 ---
 title: Symphony No. 8 in B minor
-date: 2014-05-12T10:54:13+00:00
-excerpt: "This week’s instalment of Music Monday is Franz Schubert's Symphony No. 8 in B minor. I think I like the first movement (Allegro moderato in B minor) the most and picture it as a “dark and stormy night” opening to a movie."
-layout: post
+date: 2014-05-12 10:54:13 Z
 categories:
-  - People
-  - Music Monday
+- People
+- Music Monday
 tags:
-  - music
-  - video
-  - Franz Schubert
+- music
+- video
+- Franz Schubert
+excerpt: This week’s instalment of Music Monday is Franz Schubert's Symphony No. 8
+  in B minor. I think I like the first movement (Allegro moderato in B minor) the
+  most and picture it as a “dark and stormy night” opening to a movie.
+layout: post
 ---
+
 <div style="width: 258px" class="wp-caption alignright">
   <a title="Wilhelm August Rieder [Public domain], via Wikimedia Commons" href="http://commons.wikimedia.org/wiki/File%3AFranz_Schubert_by_Wilhelm_August_Rieder_1875.jpg"><img src="//upload.wikimedia.org/wikipedia/commons/0/0d/Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg" alt="Franz Schubert by Wilhelm August Rieder 1875" width="248" height="360" /></a>
   

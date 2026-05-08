@@ -1,8 +1,6 @@
 ---
-title: "You Might Think"
-date: 2019-09-16T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is You Might Think. The Cars’ 1984 original and a 2011 cover by Weezer."
-layout: post
+title: You Might Think
+date: 2019-09-16 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - The Cars
 - Weezer
+excerpt: This week’s instalment of Music Monday is You Might Think. The Cars’ 1984
+  original and a 2011 cover by Weezer.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_You Might Think_](https://en.wikipedia.org/wiki/You_Might_Think) by
 [The Cars](http://thecars.org/) from their 1984 album,
 [Heartbeat City](https://en.wikipedia.org/wiki/Heartbeat_City). The [Weezer](http://weezer.com/)

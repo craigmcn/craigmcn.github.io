@@ -1,15 +1,17 @@
 ---
 title: Chili today, Hot tamale!
-date: 2006-10-22T02:30:00+00:00
-excerpt: "Ok, so I didn't really post this at 03:30ET, but I'm writing from the perspective that I did (except I'm a whole lot"
-layout: post
+date: 2006-10-22 02:30:00 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - food
-  - review
+- food
+- review
+excerpt: Ok, so I didn't really post this at 03:30ET, but I'm writing from the perspective
+  that I did (except I'm a whole lot
+layout: post
 ---
+
 Ok, so I didn&#8217;t really post this at 03:30ET, but I&#8217;m writing from the perspective that I did (except I&#8217;m a whole lot more sober now).
 
 I started the day with a quick zip over to [h!](http://ppfhouse.com/video/)&#8216;s place to help sort out some wireless internet issues. We updated the driver on his wireless card and cleaned up some settings and [bingo!](http://www.bingo.com/) all fixed. Then we went for lunch to an [Ethiopian](http://en.wikipedia.org/wiki/Ethiopian_cuisine) place. I&#8217;d never had it before, and to be honest, given the [images of skeletal children](http://news.bbc.co.uk/2/hi/africa/703958.stm) with distended stomachs, I never had much of a concept of Ethiopian cuisine. It was very good. Although I was a little hesitant with the [kitfo](http://en.wikipedia.org/wiki/Kitfo), it was all quite tasty. I would definitely recommend it, if you get a chance.

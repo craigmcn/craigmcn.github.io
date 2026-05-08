@@ -1,18 +1,20 @@
 ---
 title: I Feel Free
-date: 2014-10-27T16:30:39+00:00
-excerpt: "This week's instalment of Music Monday is I Feel Free. Cream's 1966 classic and a 2005 cover by the Foo Fighters."
-layout: post
+date: 2014-10-27 16:30:39 Z
 categories:
-  - People
-  - Music Monday
+- People
+- Music Monday
 tags:
-  - covers
-  - Cream
-  - Foo Fighters
-  - music
-  - video
+- covers
+- Cream
+- Foo Fighters
+- music
+- video
+excerpt: This week's instalment of Music Monday is I Feel Free. Cream's 1966 classic
+  and a 2005 cover by the Foo Fighters.
+layout: post
 ---
+
 This week&#8217;s instalment of Music Monday is [Cream](http://en.wikipedia.org/wiki/Cream_(band))&#8216;s 1966 classic, [_I Feel Free_](http://en.wikipedia.org/wiki/I_Feel_Free), from their debut album, [Fresh Cream](http://en.wikipedia.org/wiki/Fresh_Cream).
 
 The cover version is by the [Foo Fighters](http://foofighters.com/), from their 2005 EP, [Five Songs and a Cover](http://en.wikipedia.org/wiki/Five_Songs_and_a_Cover).

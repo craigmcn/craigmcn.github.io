@@ -1,19 +1,19 @@
 ---
 title: Best of You
-date: '2022-10-31T11:45:00-0700'
-excerpt: >-
-  This week’s instalment of Music Monday is Best of You. The 2005 Foo Fighters
+date: 2022-10-31 18:45:00 Z
+categories:
+- People
+- Music Monday
+tags:
+- music
+- video
+- Foo Fighters
+- acoustic
+excerpt: This week’s instalment of Music Monday is Best of You. The 2005 Foo Fighters
   original and a 2006 acoustic version.
 layout: post
-categories:
-  - People
-  - Music Monday
-tags:
-  - music
-  - video
-  - Foo Fighters
-  - acoustic
 ---
+
 This week’s instalment of Music Monday is [_Best of You_](https://en.wikipedia.org/wiki/Best_of_You) by
 [Foo Fighters](http://foofighters.com/) from their 2005 album,
 [In Your Honor](https://en.wikipedia.org/wiki/In_Your_Honor). The acoustic

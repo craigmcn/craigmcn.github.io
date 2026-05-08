@@ -1,8 +1,6 @@
 ---
-title: "I’m Like a Bird"
-date: 2019-03-18T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is I’m Like a Bird. The 2000 Nelly Furtado original and a 2019 cover by Tyler Shaw."
-layout: post
+title: I’m Like a Bird
+date: 2019-03-18 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,8 +10,12 @@ tags:
 - video
 - Nelly Furtado
 - Tyler Shaw
+excerpt: This week’s instalment of Music Monday is I’m Like a Bird. The 2000 Nelly
+  Furtado original and a 2019 cover by Tyler Shaw.
+layout: post
 redirect_from: "/i-m-like-a-bird.html"
 ---
+
 This week’s instalment of Music Monday is [_I’m Like a Bird_](https://en.wikipedia.org/wiki/I%27m_Like_a_Bird) by
 [Nelly Furtado](http://nellyfurtado.com/) from her 2000 album,
 [Whoa, Nelly!](https://en.wikipedia.org/wiki/Whoa,_Nelly!). The [Tyler Shaw](https://www.tylershawmusic.com/)

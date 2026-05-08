@@ -1,14 +1,15 @@
 ---
 title: Airplane humour
-date: 2007-02-22T14:08:27+00:00
-excerpt: After every flight, Qantas pilots fill out a form, called a “gripe sheet,” which tells mechanics about problems with the aircraft.
-layout: post
+date: 2007-02-22 14:08:27 Z
 categories:
-  - Funny
-  - People
+- Funny
+- People
 tags:
-  - complaints
-  - language
+- complaints
+- language
+excerpt: After every flight, Qantas pilots fill out a form, called a “gripe sheet,”
+  which tells mechanics about problems with the aircraft.
+layout: post
 ---
 
 I got this from Argo the Greek at work &#8230;.

@@ -1,16 +1,18 @@
 ---
 title: Living in the Past
-date: 2014-05-01T10:41:08+00:00
-excerpt: "I have a real issue with the campaign to save door-to-door mail delivery by Canada Post. To me, it means we're trying to live in the past. The world changes. The world has never and will never stop changing."
-layout: post
+date: 2014-05-01 10:41:08 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - Canada Post
-  - door-to-door
-  - economy
-  - mail
+- Canada Post
+- door-to-door
+- economy
+- mail
+excerpt: I have a real issue with the campaign to save door-to-door mail delivery
+  by Canada Post. To me, it means we're trying to live in the past. The world changes.
+  The world has never and will never stop changing.
+layout: post
 ---
 
 <a href="https://cdn.craigmcn.ca/img/canada-post.jpg?x-request=xhr" data-fslightbox="lightbox"><img class="alignleft size-medium wp-image-3835" src="https://cdn.craigmcn.ca/img/canada-post-300x300.jpg" alt="Canada Post... I'm for door-to-door" width="300" height="300" srcset="https://cdn.craigmcn.ca/img/canada-post-300x300.jpg 300w, https://cdn.craigmcn.ca/img/canada-post-150x150.jpg 150w, https://cdn.craigmcn.ca/img/canada-post.jpg 498w" sizes="(max-width: 300px) 100vw, 300px" /></a>I have a real issue with the campaign to save door-to-door mail delivery by Canada Post. To me, it means we&#8217;re trying to live in the past. It means that regardless of the diminishing need for door-to-door mail delivery, and the increasing cost, we&#8217;re not willing to accept a necessary change in our lives.

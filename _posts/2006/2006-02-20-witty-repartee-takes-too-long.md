@@ -1,16 +1,18 @@
 ---
 title: Witty repartee takes too long
-date: 2006-02-20T03:40:02+00:00
-excerpt: "So I had a great blog written for today, but my  browser timed out and killed it before I finished posting. What's"
-layout: post
+date: 2006-02-20 03:40:02 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - language
-  - music
-  - programming
+- language
+- music
+- programming
+excerpt: So I had a great blog written for today, but my  browser timed out and killed
+  it before I finished posting. What's
+layout: post
 ---
+
 So I had a great blog written for today, but my browser timed out and killed it before I finished posting. What&#8217;s here is missing a lot of the witty repartee that I&#8217;d written.
 
 I&#8217;d made some comment about it being Monday and not being able to think of a good title for a Monday blog, except to quote <a style="font-style: italic;" href="http://www.sing365.com/music/lyric.nsf/Monday-Monday-lyrics-The-Mamas-the-Papas/B6C30A6352116D5148256BB900148656">Monday, Monday</a> by [the Mamas and the Papas](http://mpinfo.davidredd.com/). Then I thought <a style="font-style: italic;" href="http://www.sing365.com/music/lyric.nsf/Manic-Monday-lyrics-The-Bangles/9ED9658EEEDA61FC4825697D003210D0">Manic Monday</a> by [the Bangles](http://www.thebangles.com/discography.html) might be the way to go, but &#8220;Six o&#8217;clock already &#124; I was just in the middle of a dream &#124; I was kissin&#8217; Valentino &#124; By a crystal blue Italian stream&#8221; isn&#8217;t really my style. If anything, my alarm doesn&#8217;t go off until 6:30, and I snooze it a couple of times first.

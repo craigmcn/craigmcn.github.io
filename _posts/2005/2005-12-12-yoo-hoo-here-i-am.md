@@ -1,14 +1,16 @@
 ---
 title: Yoo hoo, here I am!
-date: 2005-12-12T03:16:27+00:00
-excerpt: "Alright, alright, I'm posting, I'm posting!!I realize it's been 2 weeks, but I've been moving. I only got my"
-layout: post
+date: 2005-12-12 03:16:27 Z
 categories:
-  - People
+- People
 tags:
-  - blogging
-  - complaints
+- blogging
+- complaints
+excerpt: Alright, alright, I'm posting, I'm posting!!I realize it's been 2 weeks,
+  but I've been moving. I only got my
+layout: post
 ---
+
 Alright, alright, I&#8217;m posting, I&#8217;m posting!!
 
 I realize it&#8217;s been 2 weeks, but I&#8217;ve been moving. I only got my internet running Saturday. It still took some time to get the emails working. I ended up calling Sympatico support, who provided me completely different instructions for setting up my email than what they had provided in the install kit. Ridiculous.

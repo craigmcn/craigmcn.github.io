@@ -1,8 +1,6 @@
 ---
-title: "Eyes of a Stranger"
-date: 2019-03-25T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Eyes of a Stranger. The 1982 Payola$ original and a 2019 cover by Serena Ryder."
-layout: post
+title: Eyes of a Stranger
+date: 2019-03-25 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Payola$
 - Serena Ryder
+excerpt: This week’s instalment of Music Monday is Eyes of a Stranger. The 1982 Payola$
+  original and a 2019 cover by Serena Ryder.
+layout: post
 ---
+
 This week’s instalment of Music Monday is _Eyes of a Stranger_ by
 [Payola$](https://en.wikipedia.org/wiki/Payolas) from their 1982 album,
 [No Stranger to Danger](https://en.wikipedia.org/wiki/No_Stranger_to_Danger_(Payolas_album)). The [Serena Ryder](https://serenaryder.com/ca/)

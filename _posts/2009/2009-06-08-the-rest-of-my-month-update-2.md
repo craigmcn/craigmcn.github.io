@@ -1,15 +1,17 @@
 ---
 title: 'The rest of my month — update #2'
-date: 2009-06-08T12:24:10+00:00
-excerpt: "What's been going on for the last week, you ask? Good question. I've got a to-do list for today that's a page and a half in my notebook."
-layout: post
+date: 2009-06-08 12:24:10 Z
 categories:
-  - Uncategorized
+- Uncategorized
 tags:
-  - programming
-  - Twitter
-  - writing
+- programming
+- Twitter
+- writing
+excerpt: What's been going on for the last week, you ask? Good question. I've got
+  a to-do list for today that's a page and a half in my notebook.
+layout: post
 ---
+
 What&#8217;s been going on for the last week, you ask? Good question. I&#8217;ve got a to-do list for today that&#8217;s a page and a half in my notebook, with a bunch of stuff left over from last week; that&#8217;s something. I got a haircut at Haarley&#8217;s Salon; that&#8217;s something. I had beers with my good buddy Kev; that&#8217;s something else. And I&#8217;ve worked a few shifts at [the SB](http://starbucks.ca/); something else again.
 
 Work? Oh yeah, that&#8217;s what I&#8217;m supposed to be doing. I&#8217;m still at it. I&#8217;ve done some work on the [Western Cities Conference](http://westerncitiesconference.ca/) website and my own site, as well as blogging on The Tech Writer Blog website. I&#8217;ve also been following a bunch of people on Twitter. The Twitter thing is to get more info and more ideas for stuff to do.

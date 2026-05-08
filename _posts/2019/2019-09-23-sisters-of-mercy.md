@@ -1,8 +1,6 @@
 ---
-title: "Sisters of Mercy"
-date: 2019-09-23T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Sisters of Mercy. The 1967 Leonard Cohen original and a 2015 cover by Serena Ryder."
-layout: post
+title: Sisters of Mercy
+date: 2019-09-23 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Leonard Cohen
 - Serena Ryder
+excerpt: This week’s instalment of Music Monday is Sisters of Mercy. The 1967 Leonard
+  Cohen original and a 2015 cover by Serena Ryder.
+layout: post
 ---
+
 This week’s instalment of Music Monday is _Sisters of Mercy_ by
 [Leonard Cohen](http://leonardcohen.com/) from his 1967 album,
 [Songs of Leonard Cohen](https://en.wikipedia.org/wiki/Songs_of_Leonard_Cohen). The [Serena Ryder](https://www.serenaryder.com/)

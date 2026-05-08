@@ -1,17 +1,19 @@
 ---
 title: 'Declutter: The Breadbox Test'
-date: 2011-10-03T11:31:09+00:00
-excerpt: "Today, I learned about The Breadbox Test, a clever way to sort out what gets tidied and how."
-layout: post
+date: 2011-10-03 11:31:09 Z
 categories:
-  - People
+- People
 tags:
-  - complaints
-  - housework
-  - productivity
+- complaints
+- housework
+- productivity
+excerpt: Today, I learned about The Breadbox Test, a clever way to sort out what gets
+  tidied and how.
+layout: post
 redirect_from:
-  - /post/10984189790
+- "/post/10984189790"
 ---
+
 From [Unpluggd](http://www.unplggd.com/) today, I learned about [The Breadbox Test](http://www.unplggd.com/unplggd/housekeeping-cleaning/the-home-staging-trick-that-helped-declutter-our-office-for-good-156975), a clever way to sort out what gets tidied and how. Essentially, anything smaller than a breadbox should be put away:
 
 > Things like pencils and paper clips get tucked into a drawer, while larger items like your drawing tablet, reference books or a potted plant stay seated comfortably in plain sight on your desk top and shelves.

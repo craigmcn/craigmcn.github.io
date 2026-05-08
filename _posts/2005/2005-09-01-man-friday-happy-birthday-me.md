@@ -1,15 +1,17 @@
 ---
 title: Oh man! Is it Friday, yet? (oh, and Happy Birthday to me!)
-date: 2005-09-01T09:49:46+00:00
-excerpt: I am so tired! Tired of work, tired of not sleeping long enough ... oh man! Oh well, whatever, I bring it on myself,
-layout: post
+date: 2005-09-01 09:49:46 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - holidays
-  - music
+- holidays
+- music
+excerpt: I am so tired! Tired of work, tired of not sleeping long enough ... oh man!
+  Oh well, whatever, I bring it on myself,
+layout: post
 ---
+
 I am so tired! Tired of work, tired of not sleeping long enough &#8230; oh man! Oh well, whatever, I bring it on myself, really.
 
 You all got the weekend story, now is the equally eventful weekday story. Monday I went to a spoken word show at [The Trane Studio](http://www.tranestudio.com/history/). ProACTIVE Words was hosted by [Simonee Chichester](http://myfriendsimonee.com/) and all the proceeds went to her Outta the Box grant project. <del>(Her website appears to be one big Flash presentation, so you&#8217;ll need to surf around a bit to see all the information.)</del> The artists who performed were Melanie Janisse (poetry reading), Simonee Chichester (storytelling), Hajile Kalaike (lyrical prose), Elisha Lim (political discussion), [Amanda Hiebert](http://www.tumf.net/poetryslam_bios/Amanda_Hiebert.phtml) (slam poetry) and [LEO37](http://www.ppfhouse.com/leo37/) with Al Buddy Black (acapella rap/hip-hop). It was a very interesting and thought-provoking show, although Amanda Hiebert&#8217;s enthusiasm scared the pants off me! I got home late and still had to go to work!

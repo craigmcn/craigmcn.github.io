@@ -1,14 +1,16 @@
 ---
-title: 'Just &#8217;cause'
-date: 2006-12-13T08:54:53+00:00
-excerpt: "Actually, I'm posting this just because it's been almost a week since I last posted and I felt I should let people"
-layout: post
+title: Just &#8217;cause
+date: 2006-12-13 08:54:53 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - food
-  - Star Trek
+- food
+- Star Trek
+excerpt: Actually, I'm posting this just because it's been almost a week since I last
+  posted and I felt I should let people
+layout: post
 ---
+
 Actually, I&#8217;m posting this just because it&#8217;s been almost a week since I last posted and I felt I should let people know what&#8217;s going on. And, as you wait with [bated](http://dictionary.reference.com/browse/bate) breath, because the adventurous Big Cracker is always entertaining, there&#8217;s really nothing to tell. Unfortunate, I know. Other than a potluck lunch at work yesterday, and a new Big Cracker food creation, it&#8217;s been pretty quiet. I&#8217;ve been re-running [Season 3](http://www.imdb.com/title/tt0106145/episodes?season=3) of [Star Trek: Deep Space Nine](http://www.startrek.com/page/star-trek-deep-space-nine) and I managed to get all my Christmas shopping done, wrapped and mailed. Woo! I had to bail on D&D last night, since I had to go to the dentist for some kind of treatment on a couple of my molars. Although, I did spend the extra time at home getting a pretty decent score ([IMO](http://en.wikipedia.org/wiki/IMO_(in_my_opinion)#IM); it was 73) in [Tower Defence](http://www.onemorelevel.com/games.php?game=415).
 
 My food creation? Smoked turkey tortilla rolls:

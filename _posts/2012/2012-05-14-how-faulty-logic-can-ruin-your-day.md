@@ -1,18 +1,19 @@
 ---
 title: How Faulty Logic Can Ruin Your Day
-date: 2012-05-14T16:12:31+00:00
-excerpt: "Here’s the logic I wrote. It made perfectly good sense when I wrote it."
-layout: post
+date: 2012-05-14 16:12:31 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - communication
-  - error
-  - programming
-  - success
+- communication
+- error
+- programming
+- success
+excerpt: Here’s the logic I wrote. It made perfectly good sense when I wrote it.
+layout: post
 redirect_from:
-  - /post/23061800539
+- "/post/23061800539"
 ---
+
 Here’s the logic I wrote:
 
 ```

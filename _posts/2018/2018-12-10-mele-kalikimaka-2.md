@@ -1,8 +1,6 @@
 ---
-title: "Mele Kalikimaka"
-date: 2018-12-10T11:45:00-0800
-excerpt: "This week’s instalment of Music Monday is Mele Kalikimaka. The 1960 Bing Crosby original and a 2011 cover by Walk off the Earth."
-layout: post
+title: Mele Kalikimaka
+date: 2018-12-10 19:45:00 Z
 categories:
 - People
 - Music Monday
@@ -14,7 +12,11 @@ tags:
 - Andrews Sisters
 - Walk off the Earth
 - Christmas
+excerpt: This week’s instalment of Music Monday is Mele Kalikimaka. The 1960 Bing
+  Crosby original and a 2011 cover by Walk off the Earth.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Mele Kalikimaka_](https://en.wikipedia.org/wiki/Mele_Kalikimaka) by
 [Bing Crosby](https://en.wikipedia.org/wiki/Bing_Crosby) and [The Andrews Sisters](https://en.wikipedia.org/wiki/The_Andrews_Sisters), circa 1960. The [Walk off the Earth](http://www.walkofftheearth.com/)
 version is from a 2011 performance.

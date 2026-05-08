@@ -1,8 +1,6 @@
 ---
-title: "I Don’t Like Mondays"
-date: 2020-06-01T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is I Don’t Like Mondays. The 1979 Boomtown Rats original and a 2001 cover by Tori Amos."
-layout: post
+title: I Don’t Like Mondays
+date: 2020-06-01 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,8 +10,12 @@ tags:
 - video
 - The Boomtown Rats
 - Tori Amos
-redirect_from: /i-don-t-like-mondays.html
+excerpt: This week’s instalment of Music Monday is I Don’t Like Mondays. The 1979
+  Boomtown Rats original and a 2001 cover by Tori Amos.
+layout: post
+redirect_from: "/i-don-t-like-mondays.html"
 ---
+
 This week’s instalment of Music Monday is [_I Don’t Like Mondays_](https://en.wikipedia.org/wiki/I_Don%27t_Like_Mondays) by
 [The Boomtown Rats](http://www.boomtownrats.co.uk/) from their 1979 album,
 [The Fine Art of Surfacing](https://en.wikipedia.org/wiki/The_Fine_Art_of_Surfacing). The [Tori Amos](http://toriamos.com/)

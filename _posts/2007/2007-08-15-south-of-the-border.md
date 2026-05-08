@@ -1,18 +1,20 @@
 ---
 title: South of the Border
-date: 2007-08-15T06:32:00+00:00
-excerpt: Woo hoo! Here I am in sunny Dallas, Texas doing some training on Sharepoint. Leaving the airport Monday afternoon, I
-layout: post
+date: 2007-08-15 06:32:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - Buster Poindexter
-  - Dallas
-  - John F. Kennedy
-  - Texas
-  - weather
-  - ZZ Top
+- Buster Poindexter
+- Dallas
+- John F. Kennedy
+- Texas
+- weather
+- ZZ Top
+excerpt: Woo hoo! Here I am in sunny Dallas, Texas doing some training on Sharepoint.
+  Leaving the airport Monday afternoon, I
+layout: post
 ---
+
 Woo hoo! Here I am in sunny [Dallas, Texas](http://www.dallascityhall.com/) doing some training on Sharepoint. Leaving the airport Monday afternoon, I found out that the summer motto for [Dallas](http://www.dallascityhall.com/) must be from the [Buster Poindexter](http://en.wikipedia.org/wiki/David_Johansen) tune _[Hot, Hot, Hot](http://en.wikipedia.org/wiki/Hot_Hot_Hot_%28Arrow%29)_. It is hot here. Really, really hot. I think the temperature at any time of the day is just slightly less than on the surface of the sun. Man, is it ever hot.
 
 And did I mention, it&#8217;s really hot?

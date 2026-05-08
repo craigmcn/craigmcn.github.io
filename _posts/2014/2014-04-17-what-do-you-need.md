@@ -1,17 +1,21 @@
 ---
 title: What do you need?
-date: 2014-04-17T11:15:50+00:00
-excerpt: "I realized recently that I need to be told exactly what people need, and I will try to be clear about what I need. I can't help solve problems when I don't really know what the problem is, and I can't expect to get that information if I don't ask."
-layout: post
+date: 2014-04-17 11:15:50 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - answers
-  - personal
-  - questions
-  - relationship
+- answers
+- personal
+- questions
+- relationship
+excerpt: I realized recently that I need to be told exactly what people need, and
+  I will try to be clear about what I need. I can't help solve problems when I don't
+  really know what the problem is, and I can't expect to get that information if I
+  don't ask.
+layout: post
 ---
+
 The title question was going to be, &#8220;What do I need?&#8221; But I think this can apply to most everyone, and I&#8217;m going to try to be proactive. I realized recently that I need to be told exactly what people need, I can&#8217;t be guessing. I need to make it clear that I expect to be told exactly what people need, and in return I will try to be clear about what I need. I can&#8217;t help solve problems when I don&#8217;t really know what the problem is, and I can&#8217;t expect to get that information if I don&#8217;t ask.
 
 When [my relationship ended](http://craigmcn.ca/thoughtful-thursday-my-whole-world.html "Thoughtful Thursday: My whole world") several weeks ago, it was a very vague ending. And I was trying to let go of something that I wasn&#8217;t certain was over, and that I still didn&#8217;t want to be over. But I was left with questions and I was without my best friend, who had the answers. I felt very much alone and questioning a good part of myself.

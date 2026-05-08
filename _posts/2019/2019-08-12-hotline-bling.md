@@ -1,8 +1,6 @@
 ---
-title: "Hotline Bling"
-date: 2019-08-12T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Hotline Bling. The 2015 Drake original and a 2015 cover by Daniela Andrade."
-layout: post
+title: Hotline Bling
+date: 2019-08-12 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Drake
 - Daniela Andrade
+excerpt: This week’s instalment of Music Monday is Hotline Bling. The 2015 Drake original
+  and a 2015 cover by Daniela Andrade.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Hotline Bling_](https://en.wikipedia.org/wiki/Hotline_Bling) by
 [Drake](http://drakeofficial.com/) from his 2016 album,
 [Views](https://en.wikipedia.org/wiki/Views_(album)), but released as a single in 2015. The [Daniela Andrade](https://www.danielaandrade.com/)

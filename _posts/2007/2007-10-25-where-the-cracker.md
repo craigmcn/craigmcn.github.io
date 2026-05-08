@@ -1,22 +1,24 @@
 ---
-title: 'Where&#8217;s the cracker?'
-date: 2007-10-25T14:20:25+00:00
-excerpt: "So, I'm sure you've all been wondering, where's the Big Cracker? What's he up to? Why isn't he writing? Well, I'm"
-layout: post
+title: Where&#8217;s the cracker?
+date: 2007-10-25 14:20:25 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - Doctor Who
-  - HBO
-  - music
-  - review
-  - Rome
-  - Sunparlour Players
-  - television
-  - The IT Crowd
-  - Worst Pop Band Ever
+- Doctor Who
+- HBO
+- music
+- review
+- Rome
+- Sunparlour Players
+- television
+- The IT Crowd
+- Worst Pop Band Ever
+excerpt: So, I'm sure you've all been wondering, where's the Big Cracker? What's he
+  up to? Why isn't he writing? Well, I'm
+layout: post
 ---
+
 So, I&#8217;m sure you&#8217;ve all been wondering, where&#8217;s the Big Cracker? What&#8217;s he up to? Why isn&#8217;t he writing? Well, I&#8217;m here to answer those very questions &#8230;.. drum roll &#8230;. wait for it &#8230;..
 
 I don&#8217;t know.

@@ -1,13 +1,15 @@
 ---
 title: The Accident
-date: 2012-09-14T13:17:45+00:00
-excerpt: As a Christmas present one year, the Laird gave his gamekeeper, MacPhail, a deerstalker hat with ear-flaps. MacPhail was most appreciative and always wore it with the flaps tied under his chin to keep his ears warm in the winter winds.
-layout: post
+date: 2012-09-14 13:17:45 Z
 categories:
-  - Funny
+- Funny
 tags:
-  - jokes
-  - Scottish
+- jokes
+- Scottish
+excerpt: As a Christmas present one year, the Laird gave his gamekeeper, MacPhail,
+  a deerstalker hat with ear-flaps. MacPhail was most appreciative and always wore
+  it with the flaps tied under his chin to keep his ears warm in the winter winds.
+layout: post
 ---
 
 <img class="alignright size-medium wp-image-3087" title="Whisky-composite-006" src="https://cdn.craigmcn.ca/img/Whisky-composite-006-300x180.jpg" alt="Whisky" width="300" height="180" srcset="https://cdn.craigmcn.ca/img/Whisky-composite-006-300x180.jpg 300w, https://cdn.craigmcn.ca/img/Whisky-composite-006.jpg 460w" sizes="(max-width: 300px) 100vw, 300px" />As a Christmas present one year, the Laird gave his gamekeeper, MacPhail, a deerstalker hat with ear-flaps. MacPhail was most appreciative and always wore it with the flaps tied under his chin to keep his ears warm in the winter winds. One cold, windy day the Laird noticed he was not wearing the hat.

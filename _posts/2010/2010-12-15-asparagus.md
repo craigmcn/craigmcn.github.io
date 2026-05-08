@@ -1,13 +1,14 @@
 ---
 title: Asparagus
-date: 2010-12-15T10:16:38+00:00
-excerpt: "What about this: a tribe of asparagus children, but they're self-conscious about the way their pee smells. -- Elf"
-layout: post
+date: 2010-12-15 10:16:38 Z
 categories:
-  - Funny
-  - People
+- Funny
+- People
 tags:
-  - odour
+- odour
+excerpt: 'What about this: a tribe of asparagus children, but they''re self-conscious
+  about the way their pee smells. -- Elf'
+layout: post
 ---
 
 <img class="alignright" title="Asparagus" src="https://cdn.craigmcn.ca/img/asparagus.jpg" alt="Asparagus - image" width="300" height="200" />

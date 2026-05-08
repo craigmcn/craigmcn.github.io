@@ -1,19 +1,22 @@
 ---
 title: Jim Cuddy Speaks
-date: 2012-10-31T09:19:14+00:00
-excerpt: "Until the early '80s, most Canadian bands were doing everything they could to sound American or British, in order to be successful in North America, if not internationally. By around 1985, Canadian bands were sounding like Canadian bands and becoming popular in Canada."
-layout: post
+date: 2012-10-31 09:19:14 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - Blue Rodeo
-  - Canada
-  - Greg Keelor
-  - Jim Cuddy
-  - Malcolm Gladwell
-  - music
-  - Seth Godin
+- Blue Rodeo
+- Canada
+- Greg Keelor
+- Jim Cuddy
+- Malcolm Gladwell
+- music
+- Seth Godin
+excerpt: Until the early '80s, most Canadian bands were doing everything they could
+  to sound American or British, in order to be successful in North America, if not
+  internationally. By around 1985, Canadian bands were sounding like Canadian bands
+  and becoming popular in Canada.
+layout: post
 ---
 
 <a href="https://cdn.craigmcn.ca/img/jim-cuddy-5.jpg?x-request=xhr" data-fslightbox="lightbox"><img class="alignright size-medium wp-image-3410" title="jim-cuddy-5" src="https://cdn.craigmcn.ca/img/jim-cuddy-5-300x225.jpg" alt="Jim Cuddy" width="300" height="225" srcset="https://cdn.craigmcn.ca/img/jim-cuddy-5-300x225.jpg 300w, https://cdn.craigmcn.ca/img/jim-cuddy-5-400x300.jpg 400w, https://cdn.craigmcn.ca/img/jim-cuddy-5.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>I had the rare opportunity almost two weeks ago (yes, *I know* this is late, get off my back!) to hear [Jim Cuddy](http://www.jimcuddy.com/) speak about the [Dawning of Independence of Canadian Music](http://news.usask.ca/2012/10/09/gail-appel-lecture-brings-cuddy-to-campus/). It was specifically about the transformative change that occurred in Canadian music between 1980 and 1990.

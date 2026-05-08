@@ -1,17 +1,19 @@
 ---
-title: 'Hockey&#8217;s Back (aka Serenity Now!)'
-date: 2005-10-06T09:44:08+00:00
-excerpt: "Not only have I actually decided to blog this week, or indeed this month, but Hockey's Back, too! While the local"
-layout: post
+title: Hockey&#8217;s Back (aka Serenity Now!)
+date: 2005-10-06 09:44:08 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - hockey
-  - movies
-  - review
-  - Washington Capitals
+- hockey
+- movies
+- review
+- Washington Capitals
+excerpt: Not only have I actually decided to blog this week, or indeed this month,
+  but Hockey's Back, too! While the local
+layout: post
 ---
+
 Not only have I actually decided to blog this week, or indeed this month, but **[Hockey&#8217;s Back](http://www.tsn.ca/nhl/)**, too! While the local favourite [Toronto Maple Leafs](http://www.torontomapleleafs.com/) lost (at home to the rival [Ottawa Senators](http://www.ottawasenators.com/), in a final shootout), my beloved [Washington Capitals](http://www.washingtoncaps.com/) won their first game (at home against the [Columbus Blue Jackets](http://www.bluejackets.com/)). I&#8217;m not sure whether I&#8217;ll be able to continue cheering for the Caps, though, since they still have [Matt Pettinger](http://www.tsn.ca/nhl/teams/players/bio/?id=2175&hubname=nhl-capitals) in their line-up.
 
 It&#8217;s not that I don&#8217;t like Matt, I&#8217;ve never even met the boy. It&#8217;s that I don&#8217;t like his sister. She was my archnemesis back when I worked in Banff. Not archrival, she never came close to being better than me at anything! I don&#8217;t remember what initially put her in my bad books, but she never did anything to get out, and in fact only reinforced my reasons for having her there. One instance in particular, she arrived at 7:30am, for her 7:30am shift. She was the supervisor on duty, who was supposed to be on duty from 7:30am. Now, by arriving at 7:30am, obviously she couldn&#8217;t be on duty at the same time, having to take her coat off, get her float out, get logged into the computer, get the overnight update from me, etc. I just made a joking gesture of looking at my watch, and immediately she was defensive, &#8220;I&#8217;m not late! It&#8217;s just 7:30am!&#8221; True &#8216;dat, sistah! I didn&#8217;t care, that was the common practice between me and the other supervisors in the same situation, I joked with them about them coming in late. I mean, come on, it&#8217;s 7:30am, who wants to be at work that early? And since I&#8217;d already been there since 11:00pm the day before and couldn&#8217;t leave until 8:00am anyway, what did I care about another few minutes? So, due to his relationship with my archnemesis, Matt Pettinger&#8217;s reputation is in a pending status with me.

@@ -1,8 +1,6 @@
 ---
-title: "Call Me Maybe"
-date: 2019-08-05T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Call Me Maybe. The 2012 Carly Rae Jepsen original and a 2012 cover by JP Maurice and the Matinee."
-layout: post
+title: Call Me Maybe
+date: 2019-08-05 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Carly Rae Jepsen
 - JP Maurice and the Matinee
+excerpt: This week’s instalment of Music Monday is Call Me Maybe. The 2012 Carly Rae
+  Jepsen original and a 2012 cover by JP Maurice and the Matinee.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Call Me Maybe_](https://en.wikipedia.org/wiki/Call_Me_Maybe) by
 [Carly Rae Jepsen](http://carlyraemusic.com/) from her 2012 album,
 [Kiss](https://en.wikipedia.org/wiki/Kiss_(Carly_Rae_Jepsen_album)). The [JP Maurice and the Matinee](http://jpthemaurice.com/)

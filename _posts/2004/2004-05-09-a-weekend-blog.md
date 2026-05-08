@@ -1,17 +1,19 @@
 ---
 title: A weekend blog
-date: 2004-05-09T03:30:32+00:00
-excerpt: 'Hey, Hey! A weekend blog!I had a fairly eventful weekend: out to the movies Friday and out for the (now ubiquitous)'
-layout: post
+date: 2004-05-09 03:30:32 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - games
-  - Settlers of Catan
-  - trivia
-  - Trivial Pursuit
+- games
+- Settlers of Catan
+- trivia
+- Trivial Pursuit
+excerpt: 'Hey, Hey! A weekend blog!I had a fairly eventful weekend: out to the movies
+  Friday and out for the (now ubiquitous)'
+layout: post
 ---
+
 Hey, Hey! A weekend blog!
 
 I had a fairly eventful weekend: out to the movies Friday and out for the (now ubiquitous) game night with <a href="http://gwild0r.tumblr.com" target="_blank">Gwildor</a> and <a href="http://trikie.tripod.com/" target="_blank">Trikie</a>. Trikie&#8217;s sister, J, was out as was Trikie&#8217;s old buddy, Big A, aka The Big Stoner. I mean no offence to Big A, but, boy, that dude smokes a lot of dope.

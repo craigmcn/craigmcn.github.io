@@ -1,17 +1,19 @@
 ---
 title: 'Music Monday: Old Man'
-date: 2013-03-25T11:03:12+00:00
-excerpt: "This week’s instalment of Music Monday is Old Man. The 1972 Neil Young classic and a 2007 cover by the Wailin’ Jennys."
-layout: post
+date: 2013-03-25 11:03:12 Z
 categories:
-  - People
+- People
 tags:
-  - covers
-  - music
-  - Neil Young
-  - video
-  - "Wailin' Jennys"
+- covers
+- music
+- Neil Young
+- video
+- Wailin' Jennys
+excerpt: This week’s instalment of Music Monday is Old Man. The 1972 Neil Young classic
+  and a 2007 cover by the Wailin’ Jennys.
+layout: post
 ---
+
 This week&#8217;s instalment of Music Monday is _[Old Man](http://en.wikipedia.org/wiki/Old_Man_(song))_ by [Neil Young](http://neilyoung.warnerreprise.com/) from his 1972 album [Harvest](http://en.wikipedia.org/wiki/Harvest_(Neil_Young_album) "Harvest (Neil Young album)"). The [Wailin&#8217; Jennys](http://www.thewailinjennys.com/)&#8216; version is from the 2007 tribute album, [Like a Hurricane](http://www.amazon.com/Like-Hurricane-Tribute-Neil-Young/dp/B0011SOXFS), produced by [Uncut Magazine](http://www.uncut.co.uk/).
 
 <div class="video-container">

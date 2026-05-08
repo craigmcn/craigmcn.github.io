@@ -1,17 +1,20 @@
 ---
 title: Why listen to the public
-date: 2009-01-23T08:21:02+00:00
-excerpt: ' I attended a public ward meeting with the mayor and our local city councillor, Charlie Clark, and was (somewhat) astonished by the selfish, single-mindedness of some of my neighbours.'
-layout: post
+date: 2009-01-23 08:21:02 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - complaints
-  - idiots
-  - politics
-  - recycling
-  - Urban Municipalities
+- complaints
+- idiots
+- politics
+- recycling
+- Urban Municipalities
+excerpt: " I attended a public ward meeting with the mayor and our local city councillor,
+  Charlie Clark, and was (somewhat) astonished by the selfish, single-mindedness of
+  some of my neighbours."
+layout: post
 ---
+
 The title of this post is both a statement and a question. Last night, I attended a public ward meeting with the mayor and our [local city councillor](http://charlieclark.ca/), Charlie Clark, and was (somewhat) astonished by the selfish, single-mindedness of some of my neighbours.
 
 Firstly, I need to reverse my position on the mayor of our fine city, [Don Atchison](http://www.saskatoon.ca/CITY%20COUNCIL/Mayors%20Office/Pages/Mayors%20Bio.aspx). Yes, he was voted Canada&#8217;s craziest mayor by the [Rick Mercer Report](http://www.cbc.ca/mercerreport/), but I now see that it was unfounded (or, at least, is _now_ unfounded). This guy is tuned in. His policies may not be perfect, and he may have changed his position over his 14 years in public office, but he knows what&#8217;s going on in this city and has a fairly positive outlook on where things need to go. He is also very clear and honest about how much it costs to get things done and how little money is available to the city.

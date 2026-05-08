@@ -1,16 +1,17 @@
 ---
 title: Holy Filing, Batman!
-date: 2010-07-27T16:30:04+00:00
-excerpt: "I've spent a few hours a day over the last few days filing and cleaning out old files. I've come up with a stack for shredding that’s over 20cm thick."
-layout: post
+date: 2010-07-27 16:30:04 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - backup
-  - Dropbox
-  - minimalism
-  - paper
-  - productivity
+- backup
+- Dropbox
+- minimalism
+- paper
+- productivity
+excerpt: I've spent a few hours a day over the last few days filing and cleaning out
+  old files. I've come up with a stack for shredding that’s over 20cm thick.
+layout: post
 ---
 
 <img class="alignleft size-full wp-image-1356" title="Files" src="https://cdn.craigmcn.ca/img/files.jpg" alt="Files - image" width="300" height="200">

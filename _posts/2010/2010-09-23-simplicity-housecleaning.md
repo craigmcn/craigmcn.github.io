@@ -1,13 +1,14 @@
 ---
 title: Simplicity and Housecleaning
-date: 2010-09-23T20:33:45+00:00
-excerpt: Given my developing trend of posting simplicity and productivity information, and reading similar blogs, my stepmom
-layout: post
+date: 2010-09-23 20:33:45 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - housework
-  - productivity
+- housework
+- productivity
+excerpt: Given my developing trend of posting simplicity and productivity information,
+  and reading similar blogs, my stepmom
+layout: post
 ---
 
 <img class="alignleft" title="Spring Cleaning" src="https://cdn.craigmcn.ca/img/spring-cleaning.jpg" alt="Spring Cleaning - image" />

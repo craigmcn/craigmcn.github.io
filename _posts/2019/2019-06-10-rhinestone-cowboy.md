@@ -1,8 +1,6 @@
 ---
-title: "Rhinestone Cowboy"
-date: 2019-06-10T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Rhinestone Cowboy. The 1975 Glen Campbell original and a 2019 cover by Jim Cuddy."
-layout: post
+title: Rhinestone Cowboy
+date: 2019-06-10 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Glen Campbell
 - Jim Cuddy
+excerpt: This week’s instalment of Music Monday is Rhinestone Cowboy. The 1975 Glen
+  Campbell original and a 2019 cover by Jim Cuddy.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Rhinestone Cowboy_](https://en.wikipedia.org/wiki/Rhinestone_Cowboy) by
 [Glen Campbell](http://www.glencampbell.com/) from his 1975 album,
 [Rhinestone Cowboy](https://en.wikipedia.org/wiki/Rhinestone_Cowboy_(album)). The [Jim Cuddy](http://jimcuddy.com/)

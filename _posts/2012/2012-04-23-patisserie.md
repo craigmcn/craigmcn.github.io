@@ -1,20 +1,20 @@
 ---
 title: Patisserie
-date: 2012-04-23T11:59:00+00:00
+date: 2012-04-23 11:59:00 Z
+categories:
+- Opinion
+- People
+tags:
+- Bellagio
+- food
+- Jean-Phillippe Pattisserie
+- Las Vegas
+- photos
 excerpt: A delicious crepe and latte at Jean-Phillippe Patisserie
 layout: post
-categories:
-  - Opinion
-  - People
-tags:
-  - Bellagio
-  - food
-  - Jean-Phillippe Pattisserie
-  - Las Vegas
-  - photos
 format: gallery
 redirect_from:
-  - /post/21655357506
+- "/post/21655357506"
 ---
 
 <div id='gallery-2' class='gallery galleryid-43 gallery-columns-3 gallery-size-thumbnail gallery1'>

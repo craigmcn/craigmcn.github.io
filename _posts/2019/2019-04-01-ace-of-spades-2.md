@@ -1,8 +1,6 @@
 ---
-title: "Ace of Spades (2)"
-date: 2019-04-01T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Ace of Spades. The 1980 Motörhead original and a 2014 cover by o Bardo e o Banjo."
-layout: post
+title: Ace of Spades (2)
+date: 2019-04-01 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Motörhead
 - o Bardo e o Banjo
+excerpt: This week’s instalment of Music Monday is Ace of Spades. The 1980 Motörhead
+  original and a 2014 cover by o Bardo e o Banjo.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Ace of Spades_](https://en.wikipedia.org/wiki/Ace_of_Spades_(song)) by
 [Motörhead](http://imotorhead.com/) from their 1980 album,
 [Ace of Spades](https://en.wikipedia.org/wiki/Ace_of_Spades_(album)). The [o Bardo e o Banjo](https://obardoeobanjo.bandcamp.com/)

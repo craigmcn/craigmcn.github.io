@@ -1,13 +1,13 @@
 ---
 title: Please ask a question
-date: 2007-02-27T14:31:18+00:00
-excerpt: "Please don't present a question as a statement."
-layout: post
+date: 2007-02-27 14:31:18 Z
 categories:
-  - People
+- People
 tags:
-  - complaints
-  - language
+- complaints
+- language
+excerpt: Please don't present a question as a statement.
+layout: post
 ---
 
 Please don&#8217;t present a question as a statement. &#8220;The status is Read-only and the user cannot modify the data.&#8221; Yes. True. _Read-only_ means the user can _only read_ the information. Thank you and have a good night.

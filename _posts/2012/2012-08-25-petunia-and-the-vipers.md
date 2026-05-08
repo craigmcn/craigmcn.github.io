@@ -1,13 +1,15 @@
 ---
 title: Petunia and the Vipers
-date: 2012-08-25T17:59:52+00:00
-excerpt: I first heard Petunia and the Vipers a couple of months ago on cbcmusic.ca on the Alternative Country channel and needed to see them live. I found the video for Yes Baby Yes (Cold Heartbreaker) on YouTube and loved it!
-layout: post
+date: 2012-08-25 17:59:52 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - music
-  - review
+- music
+- review
+excerpt: I first heard Petunia and the Vipers a couple of months ago on cbcmusic.ca
+  on the Alternative Country channel and needed to see them live. I found the video
+  for Yes Baby Yes (Cold Heartbreaker) on YouTube and loved it!
+layout: post
 ---
 
 <img class="alignleft size-medium wp-image-2439" title="petunia-and-the-vipers" src="https://cdn.craigmcn.ca/img/Album-Art-CD-Baby-copy-300x300.jpg" alt="Petunia and the Vipers" width="300" height="300" srcset="https://cdn.craigmcn.ca/img/Album-Art-CD-Baby-copy-300x300.jpg 300w, https://cdn.craigmcn.ca/img/Album-Art-CD-Baby-copy-150x150.jpg 150w, https://cdn.craigmcn.ca/img/Album-Art-CD-Baby-copy.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" />

@@ -1,17 +1,19 @@
 ---
 title: Long weekends
-date: 2005-09-06T09:44:17+00:00
-excerpt: Boy, oh boy. Long weekends only manage to remind me of how much time I would rather spend not being at work. I mean, I
-layout: post
+date: 2005-09-06 09:44:17 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - books
-  - food
-  - holidays
-  - movies
+- books
+- food
+- holidays
+- movies
+excerpt: Boy, oh boy. Long weekends only manage to remind me of how much time I would
+  rather spend not being at work. I mean, I
+layout: post
 ---
+
 Boy, oh boy. Long weekends only manage to remind me of how much time I would rather spend not being at work. I mean, I saw 3 movies, almost read a whole book, finished almost all of the new [ppfhouse.com](http://www.ppfhouse.com/) pages, plus there were some beers and wings, a band at the bar, some video games and the ever-popular nap. All in all, quite an eventful weekend. And then, of course, back to work for the same old bulls&#8211;t!
 
 The movies, you ask? [The Transporter 2](http://www.imdb.com/title/tt0388482/): excellent action movie! [The Brothers Grimm](http://www.imdb.com/title/tt0355295/): very good; well-told story with dark cinematography, consistent with the Grimm Brothers versions of the fairy tales. I know [SmokeyB](http://bacon.frymybacon.com/) didn&#8217;t much care for it, but he&#8217;s wrong. And [Wedding Crashers](http://www.imdb.com/title/tt0396269/): good movie; pretty funny for the most part, but the depressed brooding towards the end really killed it for me; and then it was over. My advice to future filmmakers: have a good ending. Movies that just stop can be fantastic the whole way through, but if the ending is shite, my opinion of the movie will be shite also.

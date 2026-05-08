@@ -1,17 +1,19 @@
 ---
 title: Cold noodle salad
-date: 2005-07-25T09:11:57+00:00
-excerpt: "Whew! What a week! I was soooo busy, I didn't get a chance to blog! (Well, not really, but it's a good excuse.) So,"
-layout: post
+date: 2005-07-25 09:11:57 Z
 categories:
-  - People
+- People
 tags:
-  - food
-  - friends
-  - games
-  - music
-  - Settlers of Catan
+- food
+- friends
+- games
+- music
+- Settlers of Catan
+excerpt: Whew! What a week! I was soooo busy, I didn't get a chance to blog! (Well,
+  not really, but it's a good excuse.) So,
+layout: post
 ---
+
 Whew! What a week! I was soooo busy, I didn&#8217;t get a chance to blog! (Well, not really, but it&#8217;s a good excuse.)
 
 So, what made it busy, you ask? Let me tell you &#8230; **Tuesday** evening was a nice quiet dinner with [h! is for Hulk](http://www.ppfhouse.com/art.php). It was a cold noodle salad with anise, cucumber, cold chicken and a peanut sauce. Then we were going to go to [Crash](http://www.imdb.com/title/tt0375679/) at the Paradise Cinema, but we decided instead to see [Charlie and the Chocolate Factory](http://www.imdb.com/title/tt0367594/). Wow! What a good movie! That [Johnny Depp](http://www.imdb.com/name/nm0000136/) can do anything. I mean, I&#8217;ve seen [Fear and Loathing in Las Vegas](http://www.imdb.com/title/tt0120669/), [Edward Scissorhands](http://www.imdb.com/title/tt0099487/), even [21 Jump Street](http://www.imdb.com/title/tt0092312/). He can pull off any character he wants.

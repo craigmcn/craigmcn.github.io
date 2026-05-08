@@ -1,8 +1,6 @@
 ---
-title: "Lost Together"
-date: 2019-07-01T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Lost Together. The 1992 Blue Rodeo original and a 2012 cover by Blue Rodeo and Friends."
-layout: post
+title: Lost Together
+date: 2019-07-01 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Blue Rodeo
 - Blue Rodeo and Friends
+excerpt: This week’s instalment of Music Monday is Lost Together. The 1992 Blue Rodeo
+  original and a 2012 cover by Blue Rodeo and Friends.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Lost Together_](https://en.wikipedia.org/wiki/Lost_Together_(Blue_Rodeo_album) "Song") by
 [Blue Rodeo](https://www.bluerodeo.com/) from their 1992 album,
 [Lost Together](https://www.bluerodeo.com/discography/lost-together/ "Album"). The Blue Rodeo and Friends

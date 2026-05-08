@@ -1,15 +1,16 @@
 ---
 title: Minimalism and Productivity
-date: 2011-09-03T10:57:56+00:00
-layout: post
-excerpt: 'I’ve chosen to restart my writing on a new (to me) blogging platform that is both minimalist and productive.'
+date: 2011-09-03 10:57:56 Z
 categories:
-  - People
+- People
 tags:
-  - productivity
-  - minimalism
+- productivity
+- minimalism
+layout: post
+excerpt: I’ve chosen to restart my writing on a new (to me) blogging platform that
+  is both minimalist and productive.
 redirect_from:
-  - /post/9751380638
+- "/post/9751380638"
 ---
 
 I’m trying to get back into blogging, or at least writing every now and again about the things going on in my mind. I’m very interested in both minimalism and productivity, so I’ll try to focus on those topics.

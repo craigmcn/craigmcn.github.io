@@ -1,12 +1,13 @@
 ---
 title: Dating Tips
-date: 2010-12-10T13:48:00+00:00
-excerpt: This post is just for fun. I stumbled across some How Stuff Works posts about dating and decided to share some thoughts
-layout: post
+date: 2010-12-10 13:48:00 Z
 categories:
-  - People
+- People
 tags:
-  - conversation
+- conversation
+excerpt: This post is just for fun. I stumbled across some How Stuff Works posts about
+  dating and decided to share some thoughts
+layout: post
 ---
 
 <img class="alignright" title="Dating" src="https://cdn.craigmcn.ca/img/dating.jpg" alt="Dating - image" />

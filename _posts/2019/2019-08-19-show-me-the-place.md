@@ -1,8 +1,6 @@
 ---
-title: "Show Me the Place"
-date: 2019-08-19T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Show Me the Place. The 2012 Leonard Cohen original and a 2016 cover by Zaki Ibrahim."
-layout: post
+title: Show Me the Place
+date: 2019-08-19 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Leonard Cohen
 - Zaki Ibrahim
+excerpt: This week’s instalment of Music Monday is Show Me the Place. The 2012 Leonard
+  Cohen original and a 2016 cover by Zaki Ibrahim.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Show Me the Place_](https://leonardcohen.com/track/show-me-the-place-2) by
 [Leonard Cohen](http://leonardcohen.com/) from his 2012 album,
 [Old Ideas](https://en.wikipedia.org/wiki/Old_Ideas). The [Zaki Ibrahim](https://en.wikipedia.org/wiki/Zaki_Ibrahim)

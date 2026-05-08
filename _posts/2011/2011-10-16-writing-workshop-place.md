@@ -1,17 +1,19 @@
 ---
-title: 'Writing Workshop – Place'
-date: 2011-10-16T21:56:50+00:00
-excerpt: "Another day’s ride got him to another grey town. Sometimes he thought he could be riding in circles."
-layout: post
+title: Writing Workshop – Place
+date: 2011-10-16 21:56:50 Z
 categories:
-  - People
+- People
 tags:
-  - language
-  - lists
-  - writing
+- language
+- lists
+- writing
+excerpt: Another day’s ride got him to another grey town. Sometimes he thought he
+  could be riding in circles.
+layout: post
 redirect_from:
-  - /post/11559766682
+- "/post/11559766682"
 ---
+
 <img src="http://farm3.static.flickr.com/2780/4117217709_8ddc28a351.jpg" alt="OLD COWBOY TOWN by ERICINWALES, on Flickr" width="300" align="right" />I attended a writing workshop with [Yvette Nolan](http://www.playwrightscanada.com/index.php/yvette-nolan.html "Yvette Nolan") on the weekend and one of the exercises was to write about a place. Here’s what I came up with:
 
 > Another day’s ride got him to another grey town. Sometimes he thought he could be riding in circles. The general store, the livery stable, the hotel (the only two-storey building in town), the blacksmith, the saloon and its batwing doors, invariably with some drunk stumbling through, sometimes in, but usually out. Wagons on the road, horses and mules tied up, filthy children moving about, maybe playing, maybe just causing trouble.

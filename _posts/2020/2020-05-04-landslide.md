@@ -1,8 +1,6 @@
 ---
-title: "Landslide"
-date: 2020-05-04T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Landslide. The 1975 Fleetwood Mac original and a 1994 cover by The Smashing Pumpkins."
-layout: post
+title: Landslide
+date: 2020-05-04 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Fleetwood Mac
 - Smashing Pumpkins
+excerpt: This week’s instalment of Music Monday is Landslide. The 1975 Fleetwood Mac
+  original and a 1994 cover by The Smashing Pumpkins.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Landslide_](https://en.wikipedia.org/wiki/Landslide_(Fleetwood_Mac_song)) by
 [Fleetwood Mac](http://fleetwoodmac.com/) from their self-titled 1975 album,
 [Fleetwood Mac](https://en.wikipedia.org/wiki/Fleetwood_Mac_(1975_album)). The [Smashing Pumpkins](http://smashingpumpkins.com/)

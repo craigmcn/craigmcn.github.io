@@ -1,14 +1,15 @@
 ---
 title: Flesh v. Flush
-date: 2010-08-18T11:11:58+00:00
-excerpt: "I noticed this posted on Daily Writing Tips, but didn't really think it was a thing until my boss said it the other"
-layout: post
+date: 2010-08-18 11:11:58 Z
 categories:
-  - People
+- People
 tags:
-  - communication
-  - Daily Writing Tips
-  - word choices
+- communication
+- Daily Writing Tips
+- word choices
+excerpt: I noticed this posted on Daily Writing Tips, but didn't really think it was
+  a thing until my boss said it the other
+layout: post
 ---
 
 <img class="alignright" title="Bite Me toilet" src="https://cdn.craigmcn.ca/img/bite-me-toilet-200.jpg" alt="Bite Me toilet - image" />

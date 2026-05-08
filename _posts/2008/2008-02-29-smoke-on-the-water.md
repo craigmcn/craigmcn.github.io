@@ -1,13 +1,14 @@
 ---
 title: Smoke on the Water!
-date: 2008-02-29T18:30:37+00:00
+date: 2008-02-29 18:30:37 Z
+categories:
+- Uncategorized
+tags:
+- Deep Purple
 excerpt: For all you hardcore Deep Purple fans ...
 layout: post
-categories:
-  - Uncategorized
-tags:
-  - Deep Purple
 ---
+
 <div class="video-container">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/xq1JpfuTKeg" frameborder="0" allowfullscreen></iframe>
 </div>

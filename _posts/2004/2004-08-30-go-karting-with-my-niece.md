@@ -1,16 +1,18 @@
 ---
 title: Go-karting with my niece
-date: 2004-08-30T08:51:33+00:00
-excerpt: Happy Birthday to Me! So, I had intended a quick post again after the babysitting gig, but I stayed for
-layout: post
+date: 2004-08-30 08:51:33 Z
 categories:
-  - People
+- People
 tags:
-  - bicycles
-  - birthday
-  - holiday
-  - sushi
+- bicycles
+- birthday
+- holiday
+- sushi
+excerpt: Happy Birthday to Me! So, I had intended a quick post again after the babysitting
+  gig, but I stayed for
+layout: post
 ---
+
 <p style="font-size: 12pt; font-weight: bold; text-align: left;" align="center">
   Happy Birthday to Me!
 </p>

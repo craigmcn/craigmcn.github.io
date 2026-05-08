@@ -1,8 +1,6 @@
 ---
-title: "Thunderstruck (2)"
-date: 2020-05-18T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Thunderstruck. The 1990 AC/DC original and a 2020 cover by Walk off the Earth."
-layout: post
+title: Thunderstruck (2)
+date: 2020-05-18 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - AC/DC
 - Walk off the Earth
+excerpt: This week’s instalment of Music Monday is Thunderstruck. The 1990 AC/DC original
+  and a 2020 cover by Walk off the Earth.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Thunderstruck_](https://en.wikipedia.org/wiki/Thunderstruck_(song)) by
 [AC/DC](http://acdc.com/) from their 1990 album,
 [The Razors Edge](https://en.wikipedia.org/wiki/The_Razors_Edge_(AC/DC_album)). The [Walk off the Earth](http://walkofftheearth.com/)

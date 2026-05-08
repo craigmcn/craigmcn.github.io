@@ -1,15 +1,17 @@
 ---
-title: 'It&#8217;s been over a year'
-date: 2006-07-12T04:49:10+00:00
-excerpt: "For over a year now, I've been part of an unprecedented global call to action to end poverty:  Make Poverty History"
-layout: post
+title: It&#8217;s been over a year
+date: 2006-07-12 04:49:10 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - politics
-  - poverty
+- politics
+- poverty
+excerpt: 'For over a year now, I''ve been part of an unprecedented global call to
+  action to end poverty:  Make Poverty History'
+layout: post
 ---
+
 For over a year now, I&#8217;ve been part of an unprecedented global call to action to end poverty: [Make Poverty History](http://www.makepovertyhistory.ca/)
 
 Right now, there is active campaigning in over 50 countries around the three core demands: More and Better Aid, Make Trade Fair, and Cancel the Debt. In Canada, we&#8217;re also campaigning to End Child Poverty in Canada.

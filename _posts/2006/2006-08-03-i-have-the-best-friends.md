@@ -1,14 +1,16 @@
 ---
 title: I have the best friends
-date: 2006-08-03T18:00:28+00:00
-excerpt: "I really appreciate all the excellent feedback about my job dilemma. I'm a little surprised that the majority of you"
-layout: post
+date: 2006-08-03 18:00:28 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - jobs
-  - morals
+- jobs
+- morals
+excerpt: I really appreciate all the excellent feedback about my job dilemma. I'm
+  a little surprised that the majority of you
+layout: post
 ---
+
 I really appreciate all the excellent feedback about my [job dilemma](/job-related-dilemma.html). I&#8217;m a little surprised that the majority of you have such loose morals regarding taking a job and then fucking off within a couple of weeks. In fact, the guy who told me to apply for job #2 told me the same thing, and he&#8217;s a senior manager! One common thread was to contact job #1 and push them a bit, by telling them about the other offer. Already done and obviously unsuccessful, but good advice! Wublub had a good point about how since I don&#8217;t much care for the current company, why would changing jobs change my feeling toward them? Yeah, I don&#8217;t think it would. And those of you familiar with the current company were the first to tell me to dump at the first opportunity!
 
 So, here&#8217;s what I&#8217;ve decided:

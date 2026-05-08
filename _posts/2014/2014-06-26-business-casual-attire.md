@@ -1,17 +1,19 @@
 ---
 title: Business Casual Attire
-date: 2014-06-26T09:56:26+00:00
-excerpt: "I might have been vitriolic in the past about the appearance of my colleagues, they might now say the same about me. And probably should, but I'm good with it."
-layout: post
+date: 2014-06-26 09:56:26 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - business
-  - opinions
-  - perception
-  - reputation
-  - work ethic
+- business
+- opinions
+- perception
+- reputation
+- work ethic
+excerpt: I might have been vitriolic in the past about the appearance of my colleagues,
+  they might now say the same about me. And probably should, but I'm good with it.
+layout: post
 ---
+
 <div class="getty embed image alignleft">
   <div style="padding:66.666667% 0 0 0">
     <iframe src="//embed.gettyimages.com/embed/467876447?et=ZE__P6J9Qf9eM6ph4g2Fxw&viewMoreLink=off&sig=ssvPJBIfpY-iCn1UwmTn7Zk23YOFyXn4r4uHzcpJ3pE=&caption=true" width="507" height="338" scrolling="no" frameborder="0"></iframe>

@@ -1,15 +1,17 @@
 ---
 title: A few changes
-date: 2004-02-08T09:23:41+00:00
-excerpt: "Okay, so I've changed up the site a bit. I've moved the original Blog post to a section called Editorials. This"
-layout: post
+date: 2004-02-08 09:23:41 Z
 categories:
-  - Uncategorized
+- Uncategorized
 tags:
-  - changes
-  - games
-  - Settlers of Catan
+- changes
+- games
+- Settlers of Catan
+excerpt: Okay, so I've changed up the site a bit. I've moved the original Blog post
+  to a section called Editorials. This
+layout: post
 ---
+
 Okay, so I&#8217;ve changed up the site a bit. I&#8217;ve moved the original Blog post to a section called Editorials. This section will contain the &#8220;Man, you won&#8217;t believe this &#8230;!&#8221; posts, with responses like &#8220;Dude, **I** know! Like this one time (at band camp) &#8230;!&#8221;
 
 You can post responses to either. I plan to maintain both.

@@ -1,13 +1,15 @@
 ---
 title: Good without the tooth
-date: 2004-04-21T07:36:47+00:00
-excerpt: "Well, still no new editorial for y'all, but I'll at least blog something, since it's been almost a week.I'm feeling"
-layout: post
+date: 2004-04-21 07:36:47 Z
 categories:
-  - Uncategorized
+- Uncategorized
 tags:
-  - NHL playoffs
+- NHL playoffs
+excerpt: Well, still no new editorial for y'all, but I'll at least blog something,
+  since it's been almost a week.I'm feeling
+layout: post
 ---
+
 Well, still no new editorial for y&#8217;all, but I&#8217;ll at least blog something, since it&#8217;s been almost a week.
 
 I&#8217;m feeling pretty good without the tooth, but the mouth is still a little sore. It&#8217;s a weird sort of tension, it&#8217;s kind of hard to describe. I feel like I&#8217;ve got stuff stuck in my teeth, but there&#8217;s nothing there.

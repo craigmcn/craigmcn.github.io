@@ -1,19 +1,21 @@
 ---
-title: 'The how, not the what'
-date: 2019-04-25T11:45:00-07:00
-excerpt: 'I often find myself agreeing with the what but not necessarily the how. The thing is understandable, the implementation, not so much.'
-layout: post
+title: The how, not the what
+date: 2019-04-25 18:45:00 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - thoughtfulthursday
-  - politics
-  - war
-  - values
-  - understanding
-  - society
+- thoughtfulthursday
+- politics
+- war
+- values
+- understanding
+- society
+excerpt: I often find myself agreeing with the what but not necessarily the how. The
+  thing is understandable, the implementation, not so much.
+layout: post
 ---
+
 <div class="getty embed image alignleft"><div style="padding:65.31986% 0 0 0"><iframe src="//embed.gettyimages.com/embed/1000192722?et=SQg7AFdXRQJtqphZ067NRg&tld=ca&sig=aRVV32oCxjKFEAXLYwvQcWtP0q7oX430agTbwo8xKxY=&caption=true&ver=1" scrolling="no" frameborder="0" width="594" height="388" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div>
   <p>
     <a href="http://www.gettyimages.ca/detail/1000192722" target="_blank" rel="noopener noreferrer">#1000192722</a> /

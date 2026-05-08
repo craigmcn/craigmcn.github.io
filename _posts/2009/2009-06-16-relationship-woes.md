@@ -1,13 +1,16 @@
 ---
 title: Relationship woes
-date: 2009-06-16T10:34:50+00:00
-excerpt: "I rarely talk about this stuff, because it has (unfortunately) a low priority for me, but I'm having some challenges understanding my current failure establishing a relationship with a young woman."
-layout: post
+date: 2009-06-16 10:34:50 Z
 categories:
-  - People
+- People
 tags:
-  - dating
+- dating
+excerpt: I rarely talk about this stuff, because it has (unfortunately) a low priority
+  for me, but I'm having some challenges understanding my current failure establishing
+  a relationship with a young woman.
+layout: post
 ---
+
 I rarely talk about this stuff, because it has (unfortunately) a low priority for me, but I&#8217;m having some challenges understanding my current failure establishing a relationship with a young woman and I&#8217;m asking for a little help.
 
 I&#8217;ll start at the beginning, and a few of you may recognize the young woman in question from my story. I met this young woman (let&#8217;s call her [Beatrice](http://en.wikipedia.org/wiki/Beatrice_Portinari)) at a Christmas party, but only briefly and at the end of the evening. However, when introduced, she was accompanied by a young man, so I didn&#8217;t consider pursuing anything.

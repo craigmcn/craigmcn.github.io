@@ -1,8 +1,6 @@
 ---
-title: "Crazy Train (2)"
-date: 2019-04-22T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Crazy Train. The 1980 Ozzy Osbourne original and a 2012 cover by The Gravel Spreaders."
-layout: post
+title: Crazy Train (2)
+date: 2019-04-22 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Ozzy Osbourne
 - The Gravel Spreaders
+excerpt: This week’s instalment of Music Monday is Crazy Train. The 1980 Ozzy Osbourne
+  original and a 2012 cover by The Gravel Spreaders.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Crazy Train_](https://en.wikipedia.org/wiki/Crazy_Train) by
 [Ozzy Osbourne](http://ozzy.com/) from his 1980 album,
 [Blizzard of Ozz](https://en.wikipedia.org/wiki/Blizzard_of_Ozz). The [The Gravel Spreaders](http://www.thegravelspreaders.com/)

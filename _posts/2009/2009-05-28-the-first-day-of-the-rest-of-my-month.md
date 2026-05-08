@@ -1,17 +1,20 @@
 ---
 title: The first day of the rest of my month
-date: 2009-05-28T16:53:01+00:00
-excerpt: "Alrighty, Big Cracker is officially no longer unemployed. I've decided that I am in fact self-employed and will spend the next month hard at work finding freelance jobs."
-layout: post
+date: 2009-05-28 16:53:01 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - blogging
-  - freelance
-  - jobs
-  - Starbucks
-  - Twitter
+- blogging
+- freelance
+- jobs
+- Starbucks
+- Twitter
+excerpt: Alrighty, Big Cracker is officially no longer unemployed. I've decided that
+  I am in fact self-employed and will spend the next month hard at work finding freelance
+  jobs.
+layout: post
 ---
+
 Alrighty, Big Cracker is officially no longer unemployed. I&#8217;ve decided that I _am_ in fact self-employed and will spend the next month hard at work finding, and completing, freelance web development and technical writing jobs.
 
 I&#8217;ve been spending my time looking for fulltime work and been highly unsuccessful, so now I&#8217;m taking matters into my own hands. I&#8217;ll be looking at [staff blogging](http://www.problogger.net/archives/2009/05/21/the-other-side-of-problogging-making-real-money-right-from-the-start-of-your-blogging-career/), blogging on my other website, a host of other freelancing websites and job boards, plus writing short stories and working on my novel.

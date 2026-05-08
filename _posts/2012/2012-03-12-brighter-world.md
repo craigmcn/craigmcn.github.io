@@ -1,19 +1,19 @@
 ---
 title: A Brighter World
-date: 2012-03-12T13:02:33+00:00
+date: 2012-03-12 13:02:33 Z
+categories:
+- Funny
+- Opinion
+tags:
+- homophobia
+- politics
+- reblogged
 excerpt: Changing light bulbs
 layout: post
-categories:
-  - Funny
-  - Opinion
-tags:
-  - homophobia
-  - politics
-  - reblogged
 format: image
 redirect_from:
-  - /post/19189027482
-  - /a-brighter-world.html
+- "/post/19189027482"
+- "/a-brighter-world.html"
 ---
 
 <img class="alignnone size-full wp-image-106" src="https://cdn.craigmcn.ca/img/tumblr_m0rxg954Ak1ro7c4so1_1280.png" alt="A Brighter World" srcset="https://cdn.craigmcn.ca/img/tumblr_m0rxg954Ak1ro7c4so1_1280.png 838w, https://cdn.craigmcn.ca/img/tumblr_m0rxg954Ak1ro7c4so1_1280-300x183.png 300w, https://cdn.craigmcn.ca/img/tumblr_m0rxg954Ak1ro7c4so1_1280-490x300.png 490w" sizes="(max-width: 838px) 100vw, 838px" />

@@ -1,18 +1,20 @@
 ---
 title: 'Fantastic Four: Rise of the Silver Surfer'
-date: 2007-06-17T15:00:00+00:00
-excerpt: Woo hoo! Super good movie. This is the movie that Spiderman 3 could have been. We got the character introductions in
-layout: post
+date: 2007-06-17 15:00:00 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - Horatio Hornblower
-  - Ioan Gruffudd
-  - Jessica Alba
-  - movies
-  - review
+- Horatio Hornblower
+- Ioan Gruffudd
+- Jessica Alba
+- movies
+- review
+excerpt: Woo hoo! Super good movie. This is the movie that Spiderman 3 could have
+  been. We got the character introductions in
+layout: post
 ---
+
 Woo hoo! Super good movie. This is the movie that [Spiderman 3](http://www.imdb.com/title/tt0413300/) could have been. We got the character introductions in the last movie, so we didn&#8217;t need anything significant this time around&#8211;and we didn&#8217;t. We got right into the current story: it&#8217;s some time later and things have happened. A new bad guy, sort of, and the return of the other bad guy, sort of. A little plot-twisty to keep us guessing. Not the greatest special effects, but still entertaining.
 
 I didn&#8217;t know much about the [Silver Surfer](http://en.wikipedia.org/wiki/Silver_Surfer) and now I still really don&#8217;t, but he made a good, interesting bad guy.

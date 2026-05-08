@@ -1,16 +1,18 @@
 ---
 title: About death and dying
-date: 2004-02-09T20:12:58+00:00
-excerpt: "It's interesting ... I was about to say funny, but there's definitely nothing funny about today's Editorial. So,"
-layout: post
+date: 2004-02-09 20:12:58 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - celebrate
-  - closure
-  - life
+- celebrate
+- closure
+- life
+excerpt: It's interesting ... I was about to say funny, but there's definitely nothing
+  funny about today's Editorial. So,
+layout: post
 ---
+
 It&#8217;s interesting &#8230; I was about to say funny, but there&#8217;s definitely nothing funny about today&#8217;s Editorial. So, it&#8217;s interesting when subjects come to mind that seem sort of close to home and then all of a sudden hit you right where you live.
 
 There&#8217;s an Italian couple who lived down the hall from me and I would see them in the morning walking down my hall. She had a bad heart and bad circulation, which made her legs hurt, so she had trouble walking. I lived at the end of the hall then, and they lived at the opposite end. She would walk to elevators (in the middle) have a little rest, walk to the end, have a rest, then walk back, resting at the elevators again on the way. We&#8217;d chat about nothing much sometimes while I waited for the elevator and watched them walk up and down the hall. One time I was taking out the trash on my way out of the building and I had a big pizza box. She asked me if I liked to eat pizza, and, of course, I said I did. So she promised that when she was feeling better, she would make me a nice homemade, Italian pizza.

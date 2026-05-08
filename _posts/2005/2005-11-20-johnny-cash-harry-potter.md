@@ -1,14 +1,16 @@
 ---
 title: Johnny Cash and Harry Potter
-date: 2005-11-20T01:00:00+00:00
-excerpt: What do these 2 larger-than-life characters have in common? Each had a brand-new movie released this weekend that Big
-layout: post
+date: 2005-11-20 01:00:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - movies
-  - review
+- movies
+- review
+excerpt: What do these 2 larger-than-life characters have in common? Each had a brand-new
+  movie released this weekend that Big
+layout: post
 ---
+
 What do these 2 larger-than-life characters have in common? Each had a brand-new movie released this weekend that Big Cracker went to see.
 
 [Harry Potter and the Goblet of Fire](http://harrypotter.warnerbros.com/) was playing at the [Paramount downtown](http://www.cineplex.com/Theatres/TheatreDetails/Scotiabank-Theatre-Toronto.aspx) at 9:15pm. So [h! is for Hulk](http://ppfhouse.com/video/) and I were planning to meet up at 8:00pm, pick up tickets, head out for a coffee and a chat, then get in line for the movie. There was only 2 of us, so there shouldn&#8217;t have been too much trouble getting decent seats, even if we didn&#8217;t get in line until 8:45pm. The problem we ran into was that all but the 2 latest shows were sold out when I got there at 8:00pm. [h!](http://www.ppfhouse.com/art.php) didn&#8217;t get there &#8217;til 8:30pm (a long story about not getting off the subway at the right stop). We decided we&#8217;d get tickets for the 11:00pm show and figure something out until then. So h! buys his ticket &#8230; and the show&#8217;s sold out. Yes, that&#8217;s right, Big Cracker got no ticket! Well, h! went to see the manager and he was able to sell me another ticket. Wicked!

@@ -1,13 +1,15 @@
 ---
-title: 'Goin&#8217; to the candidates debate'
-date: 2006-01-18T08:05:44+00:00
-excerpt: Hip hip hooray! For politics! Yay!I attended an all-candidates debate ... well, forum ... tonight. What a tremendous
-layout: post
+title: Goin&#8217; to the candidates debate
+date: 2006-01-18 08:05:44 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - politics
+- politics
+excerpt: Hip hip hooray! For politics! Yay!I attended an all-candidates debate ...
+  well, forum ... tonight. What a tremendous
+layout: post
 ---
+
 Hip hip hooray! For politics! Yay!
 
 I attended an all-candidates debate &#8230; well, forum &#8230; tonight. What a tremendous experience. I realize now that I&#8217;m in a very political constituency, or at least that there are several <span style="font-style: italic;">very</span> politically vocal people living in my riding.

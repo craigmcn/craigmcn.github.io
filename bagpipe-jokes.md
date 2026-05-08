@@ -1,9 +1,10 @@
 ---
 title: Bagpipe Jokes
-date: 2012-07-25T17:56:03+00:00
+date: 2012-07-25 17:56:03 Z
 author: craigmcn
 layout: page
 ---
+
 What’s the difference between a bagpipe and a trampoline?
   
 Eventually, people get tired of jumping on a trampoline.

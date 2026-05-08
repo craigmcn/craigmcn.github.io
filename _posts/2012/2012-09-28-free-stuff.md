@@ -1,12 +1,14 @@
 ---
 title: Free Stuff
-date: 2012-09-28T11:13:00+00:00
-excerpt: I put in an ad alerting the community to two free lawnmowers beside my garage. Before I left for work the next morning, the electric was gone. By the time I got home from work, the reel mower was gone. Amazing.
-layout: post
+date: 2012-09-28 11:13:00 Z
 categories:
-  - People
+- People
 tags:
-  - Kijiji
+- Kijiji
+excerpt: I put in an ad alerting the community to two free lawnmowers beside my garage.
+  Before I left for work the next morning, the electric was gone. By the time I got
+  home from work, the reel mower was gone. Amazing.
+layout: post
 ---
 
 <a href="https://cdn.craigmcn.ca/img/lawnmowers.jpg?x-request=xhr" data-fslightbox="lightbox"><img class="alignright size-medium wp-image-3295" title="lawnmowers" src="https://cdn.craigmcn.ca/img/lawnmowers-300x225.jpg" alt="Lawnmowers" width="300" height="225" srcset="https://cdn.craigmcn.ca/img/lawnmowers-300x225.jpg 300w, https://cdn.craigmcn.ca/img/lawnmowers-400x300.jpg 400w, https://cdn.craigmcn.ca/img/lawnmowers.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" /></a>I forgot to tell you about my excellent experience getting rid of some stuff.

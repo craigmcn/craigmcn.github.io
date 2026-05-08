@@ -1,13 +1,14 @@
 ---
 title: Remembrance Day
-date: 2005-11-11T10:53:47+00:00
-excerpt: "So it's 12:30pm, I'm back from Parliament Hill and the National War Memorial:I took a stroll around the Hill and over"
-layout: post
+date: 2005-11-11 10:53:47 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - holidays
-  - Remembrance Day
+- holidays
+- Remembrance Day
+excerpt: So it's 12:30pm, I'm back from Parliament Hill and the National War Memorial:I
+  took a stroll around the Hill and over
+layout: post
 ---
 
 So it&#8217;s 12:30pm, I&#8217;m back from [Parliament Hill](http://www.parl.gc.ca/information/visitors/mainmap-e.asp) and the [**National War Memorial**](http://www.vac-acc.gc.ca/general/sub.cfm?source=memorials/memcan/national/Memorial):

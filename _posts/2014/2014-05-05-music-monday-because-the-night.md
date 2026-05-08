@@ -1,18 +1,19 @@
 ---
 title: 'Music Monday: Because the Night'
-date: 2014-05-05T10:20:03+00:00
-excerpt: "This week's instalment of Music Monday is Because the Night. The 1978 Patti Smith original and a comtemporary cover by Bruce Springsteen."
-layout: post
+date: 2014-05-05 10:20:03 Z
 categories:
-  - People
+- People
 tags:
-  - 10000 Maniacs
-  - Blue Rodeo
-  - Bruce Springsteen
-  - covers
-  - music
-  - Patti Smith
-  - video
+- 10000 Maniacs
+- Blue Rodeo
+- Bruce Springsteen
+- covers
+- music
+- Patti Smith
+- video
+excerpt: This week's instalment of Music Monday is Because the Night. The 1978 Patti
+  Smith original and a comtemporary cover by Bruce Springsteen.
+layout: post
 ---
 
 <div id="attachment_3841" style="width: 160px" class="wp-caption alignleft">

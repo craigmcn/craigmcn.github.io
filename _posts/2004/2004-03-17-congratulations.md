@@ -1,14 +1,16 @@
 ---
 title: Congratulations
-date: 2004-03-17T04:06:25+00:00
-excerpt: Just a quick celebratory note for my friends Tim and Tonia Shia...their new daughter, Chloe Xiang-Wen Shia was
-layout: post
+date: 2004-03-17 04:06:25 Z
 categories:
-  - Uncategorized
+- Uncategorized
 tags:
-  - babies
-  - bagpipes
+- babies
+- bagpipes
+excerpt: Just a quick celebratory note for my friends Tim and Tonia Shia...their new
+  daughter, Chloe Xiang-Wen Shia was
+layout: post
 ---
+
 Just a quick celebratory note for my friends Tim and Tonia Shia&#8230;their new daughter, Chloë Xiang-Wen Shia was born March 15. Congratulations, Tim and Tonia! New proud Uncles are Howie and Leo, and Aunt Jolene (boy, I hope I got that right).
   
 Now I think there&#8217;s 7 or 8 living in the house!

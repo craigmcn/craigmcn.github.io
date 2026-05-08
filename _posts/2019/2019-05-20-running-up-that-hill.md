@@ -1,8 +1,6 @@
 ---
-title: "Running Up That Hill"
-date: 2019-05-20T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Running Up That Hill. The 1985 Kate Bush original and a 2019 cover by Meg Myers."
-layout: post
+title: Running Up That Hill
+date: 2019-05-20 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Kate Bush
 - Meg Myers
+excerpt: This week’s instalment of Music Monday is Running Up That Hill. The 1985
+  Kate Bush original and a 2019 cover by Meg Myers.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Running Up That Hill_](https://en.wikipedia.org/wiki/Running_Up_That_Hill) by
 [Kate Bush](http://katebush.com/) from their 1985 album,
 [Hounds of Love](https://en.wikipedia.org/wiki/Hounds_of_Love). The [Meg Myers](https://www.megmyers.com/)

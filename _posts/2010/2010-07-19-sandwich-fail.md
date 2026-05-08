@@ -1,15 +1,17 @@
 ---
 title: Sandwich Fail
-date: 2010-07-19T13:47:53+00:00
-excerpt: "I suppose I could have mentioned this Friday after lunch, when I developed my opinion, but I haven't posted here much"
-layout: post
+date: 2010-07-19 13:47:53 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - buns
-  - complaints
-  - Subway
+- buns
+- complaints
+- Subway
+excerpt: I suppose I could have mentioned this Friday after lunch, when I developed
+  my opinion, but I haven't posted here much
+layout: post
 ---
+
 I suppose I could have mentioned this Friday after lunch, when I developed my opinion, but I haven&#8217;t posted here much lately and kinda forgot it was an option.
 
 I popped into Subway for a quick, slightly healthy, sandwich Friday and thought I made a pretty good choice:a [ham sandwich](http://www.freshenergy.com/#/subway/sandwichesandmore/ham/) on flatbread, with lettuce, tomatoes, green peppers, cucumumbumbers, onions, pickles, mustard, mayo, cheddar cheese, and pepper.

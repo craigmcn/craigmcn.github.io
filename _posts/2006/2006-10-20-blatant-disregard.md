@@ -1,15 +1,17 @@
 ---
 title: Blatant disregard
-date: 2006-10-20T19:07:52+00:00
-excerpt: "I couldn't believe the cojones on the two dudes in the subway selling obviously pirated DVDs. I went shopping on my"
-layout: post
+date: 2006-10-20 19:07:52 Z
 categories:
-  - Funny
-  - Opinion
+- Funny
+- Opinion
 tags:
-  - illegal
-  - media
+- illegal
+- media
+excerpt: I couldn't believe the cojones on the two dudes in the subway selling obviously
+  pirated DVDs. I went shopping on my
+layout: post
 ---
+
 I couldn&#8217;t believe the [_cojones_](http://en.wikipedia.org/wiki/Cojones) on the two dudes in the subway selling obviously [pirated](http://www.ifpi.org/content/section_views/what_is_piracy.html) DVDs. I went shopping on my way home after work and since I was headed to [College and Spadina](http://www.google.ca/maps?f=q&hl=en&q=college+and+spadina+toronto&ie=UTF8&z=15&ll=43.658092,-79.400167&spn=0.015151,0.054245&om=1), I took the subway to Spadina station, then took the streetcar south.
 
 For those of you unfamiliar with [the TTC](http://www.ttc.ca/), transferring from the north-south University-Spadina line to the east-west Bloor-Danforth line (or to the streetcars) at Spadina station means walking down a super-long hallway. The hallway used to have moving sidewalks (à la 1980s). But the sidewalks kept breaking down, so they were removed. This leaves a super-wide, super-long hallway.

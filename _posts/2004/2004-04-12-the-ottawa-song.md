@@ -1,15 +1,17 @@
 ---
 title: The Ottawa Song
-date: 2004-04-12T09:21:21+00:00
-excerpt: "Okay, you have to check this out ... The Ottawa Song. It takes some time to load, and I'm not sure if you'll need"
-layout: post
+date: 2004-04-12 09:21:21 Z
 categories:
-  - Funny
+- Funny
 tags:
-  - holidays
-  - Humble and Fred
-  - NHL playoffs
+- holidays
+- Humble and Fred
+- NHL playoffs
+excerpt: Okay, you have to check this out ... The Ottawa Song. It takes some time
+  to load, and I'm not sure if you'll need
+layout: post
 ---
+
 Okay, you have to check this out &#8230; [The Ottawa Song](http://www.youtube.com/watch?v=AMQzcbCVdqA). It takes some time to load, and I&#8217;m not sure if you&#8217;ll need RealPlayer, but if you can, listen, it&#8217;s HI-larious! I gotta find out where Wublub picked it up &#8230; presumably from Mix 99.9. (It starts with a &#8216;Humble and Fred&#8217; intro.)
 
 Oh, wait, here it is &#8230; [Humble and Fred](http://www.humbleandfred.com/) in the Morning. Too funny.

@@ -1,18 +1,20 @@
 ---
-title: "Ace of Spades"
-date: 2016-10-31T11:45:00-06:00
-excerpt: "This week’s instalment of Music Monday is Ace of Spades. The 1980 Motörhead original and a 2016 cover by Lisa LeBlanc."
-layout: post
+title: Ace of Spades
+date: 2016-10-31 17:45:00 Z
 categories:
-  - People
-  - Music Monday
+- People
+- Music Monday
 tags:
-  - covers
-  - music
-  - video
-  - Motörhead
-  - Lisa LeBlanc
+- covers
+- music
+- video
+- Motörhead
+- Lisa LeBlanc
+excerpt: This week’s instalment of Music Monday is Ace of Spades. The 1980 Motörhead
+  original and a 2016 cover by Lisa LeBlanc.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Ace of Spades_](https://en.wikipedia.org/wiki/Ace_of_Spades_(song)) by [Motörhead](http://imotorhead.com/) from their 1980 album, [Ace of Spades](https://en.wikipedia.org/wiki/Ace_of_Spades_(album)). The [Lisa LeBlanc](http://www.lisaleblanc.ca/en/) version is from her 2016 performance on [CBC Music&#8217;s First Play Live](http://www.cbcmusic.ca/posts/14532/lisa-leblanc-why-you-wanna-leave-runaway-queen-fpl).
 
 This just came up in my Facebook feed. I think it&#8217;s a good Hallowe&#8217;en tune. Although I suppose maybe _Thriller_ would be more appropriate.

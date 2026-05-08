@@ -1,15 +1,17 @@
 ---
-title: 'Frank Miller&#8217;s Sin City'
-date: 2005-04-07T13:47:38+00:00
-excerpt: "I just have to fire off a quick blog, since it's been a week since the last one. Last weekend I went to see Frank"
-layout: post
+title: Frank Miller&#8217;s Sin City
+date: 2005-04-07 13:47:38 Z
 categories:
-  - People
+- People
 tags:
-  - litter
-  - movies
-  - transit
+- litter
+- movies
+- transit
+excerpt: I just have to fire off a quick blog, since it's been a week since the last
+  one. Last weekend I went to see Frank
+layout: post
 ---
+
 I just have to fire off a quick blog, since it&#8217;s been a week since the last one. Last weekend I went to see [Frank Miller&#8217;s Sin City](http://www.imdb.com/title/tt0401792/)—f&#8212;in&#8217; amazing! I&#8217;ve been trying to write a review for it for several days and it hasn&#8217;t quite happened.
 
 Other than that, it&#8217;s been a pretty boring week. I released crackerMail 1.0.1 RC1 and have put together a preliminary RC2 based on the feedback. And that was it.

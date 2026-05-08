@@ -1,16 +1,17 @@
 ---
 title: Eco-choices
-date: 2007-10-28T11:19:00+00:00
-excerpt: "I forwarded this video to all my Facebook “friends”, but I figured I'd also hit those of you non-Facebookers."
-layout: post
+date: 2007-10-28 11:19:00 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - Canada
-  - climate change
-  - environment
-  - recycling
+- Canada
+- climate change
+- environment
+- recycling
+excerpt: I forwarded this video to all my Facebook “friends”, but I figured I'd also
+  hit those of you non-Facebookers.
+layout: post
 ---
 
 I forwarded <del>this video</del> (_This video has been removed by the user._) to all my [Facebook](http://www.facebook.com/) &#8220;friends&#8221;, but I figured I&#8217;d also hit those of you non-Facebookers. This guy presents exactly the same point that I would (if I could get off my lazy ass and do a video or write an essay or something). _**Update 2012-08-10:** Sorry, the video&#8217;s been removed. The dude was talking about how whether climate change is true or not, there&#8217;s no reason not to act._

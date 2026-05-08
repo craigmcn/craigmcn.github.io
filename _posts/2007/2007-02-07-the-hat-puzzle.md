@@ -1,12 +1,13 @@
 ---
 title: The hat puzzle
-date: 2007-02-07T10:05:00+00:00
-excerpt: "Alrighty, here's an interesting puzzle that I ran across at work the other day. There are four men. There are four hats."
-layout: post
+date: 2007-02-07 10:05:00 Z
 categories:
-  - People
+- People
 tags:
-  - puzzles
+- puzzles
+excerpt: Alrighty, here's an interesting puzzle that I ran across at work the other
+  day. There are four men. There are four hats.
+layout: post
 ---
 
 Alrighty, here&#8217;s an interesting puzzle that I ran across at work the other day.

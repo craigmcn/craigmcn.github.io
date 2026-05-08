@@ -1,17 +1,20 @@
 ---
 title: Day 8 Excerpt from My Untitled NaNoWriMo Western
-date: 2011-11-08T19:21:16+00:00
-excerpt: "It was late, well past dark, when Carter rode the grulla stallion into the barn. The horse became skittish and Carter tried to soothe him with some gentle words."
-layout: post
+date: 2011-11-08 19:21:16 Z
 categories:
-  - People
+- People
 tags:
-  - language
-  - NaNoWriMo
-  - writing
+- language
+- NaNoWriMo
+- writing
+excerpt: It was late, well past dark, when Carter rode the grulla stallion into the
+  barn. The horse became skittish and Carter tried to soothe him with some gentle
+  words.
+layout: post
 redirect_from:
-  - /post/12537044569
+- "/post/12537044569"
 ---
+
 <img width="300" alt="Bowie Knife" src="https://cdn.craigmcn.ca/img/bowie-dark-rider.jpg" align="right" />
 
 It was like something out of a nightmare. It was late, well past dark, when Carter rode the grulla stallion into the barn. The horse became skittish and Carter tried to soothe him with some gentle words. He dismounted and walked the still-bucking horse into his stall. That’s when he noticed that the other horses also seemed restless. Carter walked around the barn, looking for anything amiss, a fox, badger, skunk, anything that might spook the animals.

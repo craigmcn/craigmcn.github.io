@@ -1,8 +1,6 @@
 ---
-title: "Island in the Sun"
-date: 2020-08-10T11:45:00-0700
-excerpt: "This week’s instalment of Music Monday is Island in the Sun. The 2001 Weezer original and a 2020 cover by Trevor Bragg."
-layout: post
+title: Island in the Sun
+date: 2020-08-10 18:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Weezer
 - Trevor Bragg
+excerpt: This week’s instalment of Music Monday is Island in the Sun. The 2001 Weezer
+  original and a 2020 cover by Trevor Bragg.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Island in the Sun_](https://en.wikipedia.org/wiki/Island_in_the_Sun_(Weezer_song)) by
 [Weezer](http://weezer.com/) from their 2001 album,
 [Green Album](https://en.wikipedia.org/wiki/Weezer_(Green_Album)). The [Trevor Bragg](https://www.youtube.com/channel/UCklo2D-YdxppQwR7LxLo4ww)

@@ -1,13 +1,15 @@
 ---
 title: Make Poverty History
-date: 2005-09-15T05:32:52+00:00
-excerpt: Alright, boys and girls, I did it again. This time it was a letterto the Right Honourable Paul Martin urging him to
-layout: post
+date: 2005-09-15 05:32:52 Z
 categories:
-  - People
+- People
 tags:
-  - poverty
+- poverty
+excerpt: Alright, boys and girls, I did it again. This time it was a letterto the
+  Right Honourable Paul Martin urging him to
+layout: post
 ---
+
 Alright, boys and girls, I did it again. This time it was a letter to the Right Honourable Paul Martin urging him to commit 0.7% of the country&#8217;s Gross National Income (US$756.9 billion), or US$5.29 billion, to aid to developing nations. This amount is roughly equal to half the current budget surplus. That is, half the amount of money the government has just lying around after all the bills are paid. I also offered that the easiest, quickest, least detrimental option for alleviating debt among developing nations is to re-value the International Monetary Fund&#8217;s gold reserves, which are valued at 1970 levels. This price less than 10% of the current gold price. To re-value it would not risk the current gold price, since it would not flood the market, but only increase the amount of money available to the IMF, with which it could eradicate the debt owed by the world&#8217;s poorest countries.
 
 I still have a handful of white bands and some Make Poverty History stickers, so let me know if you want anything. Here&#8217;s the form-letter that MPH has asked me to forward to a jillion people:

@@ -1,17 +1,20 @@
 ---
 title: 'LEO37: Download Now'
-date: 2012-02-26T16:48:59+00:00
-excerpt: 'After a 5-year whirlwind of tours through 11 countries, shared stages with some of contemporary music’s great talents, and a personal life that has held its share of highs and lows, Taiwanese-Canadian emcee/producer/turntablist LEO37 has finally emerged with his brand new EP, FANFARE.'
-layout: post
+date: 2012-02-26 16:48:59 Z
 categories:
-  - People
+- People
 tags:
-  - music
-  - producer
-  - turntablist
+- music
+- producer
+- turntablist
+excerpt: After a 5-year whirlwind of tours through 11 countries, shared stages with
+  some of contemporary music’s great talents, and a personal life that has held its
+  share of highs and lows, Taiwanese-Canadian emcee/producer/turntablist LEO37 has
+  finally emerged with his brand new EP, FANFARE.
+layout: post
 format: image
 redirect_from:
-  - /post/18342992559
+- "/post/18342992559"
 ---
 
 <a href="http://cdn.ppfhouse.com/leo37/download/LEO37-FANFARE.zip" rel="attachment wp-att-127"><img class="alignnone size-full wp-image-127" src="https://cdn.craigmcn.ca/img/tumblr_m00tig0Sa71qawuxwo1_r4_1280.jpg" alt="LEO37: Download Now" srcset="https://cdn.craigmcn.ca/img/tumblr_m00tig0Sa71qawuxwo1_r4_1280.jpg 1280w, https://cdn.craigmcn.ca/img/tumblr_m00tig0Sa71qawuxwo1_r4_1280-150x150.jpg 150w, https://cdn.craigmcn.ca/img/tumblr_m00tig0Sa71qawuxwo1_r4_1280-300x300.jpg 300w, https://cdn.craigmcn.ca/img/tumblr_m00tig0Sa71qawuxwo1_r4_1280-1024x1024.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>

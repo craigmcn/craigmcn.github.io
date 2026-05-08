@@ -1,16 +1,18 @@
 ---
 title: Some jackass honked
-date: 2005-03-15T09:57:54+00:00
-excerpt: "I'll apologize right off the bat about this rant, but, man, am I irked! I know I've mentioned to a few of you my"
-layout: post
+date: 2005-03-15 09:57:54 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - complaints
-  - honking
-  - idiots
+- complaints
+- honking
+- idiots
+excerpt: I'll apologize right off the bat about this rant, but, man, am I irked! I
+  know I've mentioned to a few of you my
+layout: post
 ---
+
 I&#8217;ll apologize right off the bat about this rant, but, man, am I irked! I know I&#8217;ve mentioned to a few of you my utter distaste for the use of the car horn, but I&#8217;ve found recently that there are really no words to describe how much I truly hate the car horn!
 
 Yesterday, on my way to work, some jackass honked (_the honker_) at a guy who was finishing his left turn (_the honkee_) as the honkee&#8217;s light turned red and the honker&#8217;s light turned green. My comment: &#8220;Settle the f&#8212; down! Some day you&#8217;ll need to make that last minute left turn and you&#8217;ll prefer no one honks at you.&#8221;

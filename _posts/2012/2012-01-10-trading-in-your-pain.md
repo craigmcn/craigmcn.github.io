@@ -1,17 +1,19 @@
 ---
 title: Trading in Your Pain
-date: 2012-01-10T13:00:05+00:00
-excerpt: If I just get a little bigger, a little more famous, a little richer—then the pain will go away.
-layout: post
+date: 2012-01-10 13:00:05 Z
 categories:
-  - People
+- People
 tags:
-  - Seth Godin
-  - Poke the Box
-  - books
+- Seth Godin
+- Poke the Box
+- books
+excerpt: If I just get a little bigger, a little more famous, a little richer—then
+  the pain will go away.
+layout: post
 redirect_from:
-  - /post/15627363486
+- "/post/15627363486"
 ---
+
 I read Seth Godin’s blog fairly regularly and even bought one of his most recent books, _[Poke the Box](http://www.amazon.ca/Poke-Box-Seth-Godin/dp/1936719002/ref=sr_1_1?s=books&ie=UTF8&qid=1325951918&sr=1-1 "Poke the Box")_ (an excellent book, by the way). He had a post a few days ago called [Trading in Your Pain](http://sethgodin.typepad.com/seths_blog/2012/01/trading-in-your-pain.html "Trading in Your Pain"). It’s about the perception that whatever pain you feel in your current job, there’s a way past it.
 
 > “If I just get a little bigger, a little more famous, a little richer—then the pain will go away.”

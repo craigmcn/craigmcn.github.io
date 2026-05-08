@@ -1,12 +1,13 @@
 ---
 title: Customer Service
-date: 2010-12-07T12:08:37+00:00
-excerpt: I read an article about customer service late last week and have some comments. My past colleagues may not entirely
-layout: post
+date: 2010-12-07 12:08:37 Z
 categories:
-  - People
+- People
 tags:
-  - customer service
+- customer service
+excerpt: I read an article about customer service late last week and have some comments.
+  My past colleagues may not entirely
+layout: post
 ---
 
 <img class="alignleft" title="Yelling at Telephone" src="https://cdn.craigmcn.ca/img/customer-service.png" alt="Yelling at Telephone - image" />

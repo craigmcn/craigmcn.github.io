@@ -1,8 +1,6 @@
 ---
-title: "Home for a Rest"
-date: 2019-12-02T11:45:00-0800
-excerpt: "This week’s instalment of Music Monday is Home for a Rest. The 1990 Spirit of the West original and a 2019 cover by Alan Doyle."
-layout: post
+title: Home for a Rest
+date: 2019-12-02 19:45:00 Z
 categories:
 - People
 - Music Monday
@@ -12,7 +10,11 @@ tags:
 - video
 - Spirit of the West
 - Alan Doyle
+excerpt: This week’s instalment of Music Monday is Home for a Rest. The 1990 Spirit
+  of the West original and a 2019 cover by Alan Doyle.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_Home for a Rest_](https://en.wikipedia.org/wiki/Home_for_a_Rest) by
 [Spirit of the West](http://sotw.ca/) from their 1990 album,
 [Save This House](https://en.wikipedia.org/wiki/Save_This_House). The [Alan Doyle](https://alandoyle.ca/)

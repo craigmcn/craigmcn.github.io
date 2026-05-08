@@ -1,19 +1,22 @@
 ---
 title: Chicanas on Bikes
-date: 2012-03-18T17:35:36+00:00
-excerpt: 'Two months ago, when 22-year-old Bree’Anna Guzman was murdered in Lincoln Heights, the all-women bike group Ovarian-Pscyos Bicycle Brigade scrapped their previously planned ride to ride instead through the neighborhood to protest the killing.'
-layout: post
+date: 2012-03-18 17:35:36 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - bicycles
-  - politics
-  - protest
-  - reblogged
+- bicycles
+- politics
+- protest
+- reblogged
+excerpt: Two months ago, when 22-year-old Bree’Anna Guzman was murdered in Lincoln
+  Heights, the all-women bike group Ovarian-Pscyos Bicycle Brigade scrapped their
+  previously planned ride to ride instead through the neighborhood to protest the
+  killing.
+layout: post
 format: gallery
 redirect_from:
-  - /post/19542255533
-  - /chicanas-on-bikes.html
+- "/post/19542255533"
+- "/chicanas-on-bikes.html"
 ---
 
 <div id='gallery-1' class='gallery galleryid-95 gallery-columns-3 gallery-size-thumbnail gallery1'>

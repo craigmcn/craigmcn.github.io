@@ -1,18 +1,20 @@
 ---
 title: Problem Solving
-date: 2011-11-02T10:40:05+00:00
-excerpt: "What are the knowns? What are the unknowns? What are the constants? What governing laws are at play?"
-layout: post
+date: 2011-11-02 10:40:05 Z
 categories:
-  - People
+- People
 tags:
-  - Best Laid Plans
-  - problem solving
-  - programming
-  - Terry Fallis
+- Best Laid Plans
+- problem solving
+- programming
+- Terry Fallis
+excerpt: What are the knowns? What are the unknowns? What are the constants? What
+  governing laws are at play?
+layout: post
 redirect_from:
-  - /post/12244535552
+- "/post/12244535552"
 ---
+
 I posted yesterday about [Terry Fallis’ _The Best Laid Plans_](http://terryfallis.com/the-best-laid-plans/ "Terry Fallis' The Best Laid Plans") and today I have another idea that stems from the book. One of the protagonists is an engineering professor-turned-rookie politician and he realizes that solving political problems is no different than solving engineering problems:
 
 > What are the knowns? What are the unknowns? What are the constants? What governing laws are at play?

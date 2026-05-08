@@ -1,18 +1,19 @@
 ---
-title: 'Nancy Sinatra &#8211; Bang Bang (My Baby Shot Me Down)'
-date: 2012-05-23T21:43:56+00:00
-excerpt: 'Nancy Sinatra - Bang Bang (My Baby Shot Me Down)'
-layout: post
+title: Nancy Sinatra &#8211; Bang Bang (My Baby Shot Me Down)
+date: 2012-05-23 21:43:56 Z
 categories:
-  - People
+- People
 tags:
-  - Kill Bill
-  - music
-  - reblogged
+- Kill Bill
+- music
+- reblogged
+excerpt: Nancy Sinatra - Bang Bang (My Baby Shot Me Down)
+layout: post
 format: audio
 redirect_from:
-  - /post/23654024421
+- "/post/23654024421"
 ---
+
 <img class="aligncenter" title="Kill Bill, Volume 1" src="//24.media.tumblr.com/tumblr_m49ktp82X41qz9qooo1_1337665624_cover.jpg" alt="Kill Bill, Volume 1" width="300" height="300" />
 
 <audio class="wp-audio-shortcode" id="audio-19-1" preload="none" controls="controls">

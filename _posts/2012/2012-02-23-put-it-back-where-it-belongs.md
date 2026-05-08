@@ -1,18 +1,20 @@
 ---
 title: Put It Back Where It Belongs
-date: 2012-02-23T13:02:05+00:00
-excerpt: "When I was little, my parents tried to teach me to put things back where they belong."
-layout: post
+date: 2012-02-23 13:02:05 Z
 categories:
-  - People
+- People
 tags:
-  - complaints
-  - courtesy
-  - organization
-  - productivity
+- complaints
+- courtesy
+- organization
+- productivity
+excerpt: When I was little, my parents tried to teach me to put things back where
+  they belong.
+layout: post
 redirect_from:
-  - /post/18139528749
+- "/post/18139528749"
 ---
+
 <img src="https://cdn.craigmcn.ca/img/put-it-back.jpg" alt="Put it back" width="117" height="100" align="right" />When I was little, my parents tried to teach me to put things back where they belong. Part of this same advice was to put things back _where_ I found them, or _how_ I found them.
 
 I was in our lunch room at work, with the door mostly closed, because it opens onto a main corridor. Someone came in, used the sink, we exchanged pleasantries, then she left. And left the door open. Why? Because. Probably because it didn’t occur to her that the door was closed when she came in, and probably because, once she left, the position of the door had no importance.

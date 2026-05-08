@@ -1,15 +1,17 @@
 ---
-title: 'Because the rest of my day has been crappy &#8230;'
-date: 2008-03-04T10:57:42+00:00
-excerpt: One of the guys at work sent this. My day has been a giant pile of crap, so this brightened things a little.
-layout: post
+title: Because the rest of my day has been crappy &#8230;
+date: 2008-03-04 10:57:42 Z
 categories:
-  - Funny
+- Funny
 tags:
-  - cop
-  - jokes
-  - lawyer
+- cop
+- jokes
+- lawyer
+excerpt: One of the guys at work sent this. My day has been a giant pile of crap,
+  so this brightened things a little.
+layout: post
 ---
+
 One of the guys at work sent this. My day has been a giant pile of crap, so this brightened things a little. Especially since a few people in the office have been the lawyer and I can imagine being the cop.
 
 > A London lawyer runs a stop sign and gets pulled over by a Glasgow copper. He thinks that he is smarter than the cop because he is a lawyer from _London_ and is certain that he has a better education than any Jock cop.

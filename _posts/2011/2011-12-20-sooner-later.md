@@ -1,21 +1,22 @@
 ---
 title: Sooner or Later
-date: 2011-12-20T06:29:01+00:00
-excerpt: "You should have indicated a problem with the app sooner."
-layout: post
+date: 2011-12-20 06:29:01 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - communication
-  - complaints
-  - programming
-  - reblogged
+- communication
+- complaints
+- programming
+- reblogged
+excerpt: You should have indicated a problem with the app sooner.
+layout: post
 format: quote
 redirect_from:
-  - /post/14506902786
-  - /soonoer-or-later.html
+- "/post/14506902786"
+- "/soonoer-or-later.html"
 ---
+
 [clientsfromhell](http://clientsfromhell.net/post/14464795534/client-you-should-have-indicated-a-problem-with):
 
 > **Client:** You should have indicated a problem with the app sooner.

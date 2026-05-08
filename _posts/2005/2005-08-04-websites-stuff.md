@@ -1,15 +1,17 @@
 ---
-title: 'Websites n&#8217; stuff'
-date: 2005-08-04T08:07:19+00:00
-excerpt: "I was so good about blogging last week, this week, not so much. I've been a little busy putting the finishing touches"
-layout: post
+title: Websites n&#8217; stuff
+date: 2005-08-04 08:07:19 Z
 categories:
-  - People
+- People
 tags:
-  - jobs
-  - movies
-  - websites
+- jobs
+- movies
+- websites
+excerpt: I was so good about blogging last week, this week, not so much. I've been
+  a little busy putting the finishing touches
+layout: post
 ---
+
 I was so good about blogging last week, this week, not so much. I&#8217;ve been a little busy putting the finishing touches on the [ppfhouse.com](http://www.ppfhouse.com/) website &#8230; [h!](http://www.ppfhouse.com/animation.php) is a little picky and has been changing the layout and content like mad. It&#8217;s all good times &#8230; sh&#8211;s and giggles! I&#8217;m also trying to get a few pages of my own done, to advertise my web development skills and my tetherball skills, but that&#8217;s taking it&#8217;s sweet time.
 
 I think I&#8217;m going to push towards freelance web development. I mean, I&#8217;m already a partner in a great hosting company, and I&#8217;ve done some solid work on a handful of websites. Daddy-O even sent me a web design and logo/letterhead design opportunity that unfortunately I was not ready to do at the time. But I&#8217;m putting together some plans and a portfolio, so hopefully the next time something similar comes up, I&#8217;ll be ready.

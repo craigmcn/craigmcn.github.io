@@ -1,17 +1,19 @@
 ---
-title: 'I’m Only Going to Say This Once'
-date: 2014-05-22T09:44:59+00:00
-excerpt: 'There seems to be some idea that money shouldn’t matter at the university, that somehow we should be able to provide any kind of post-secondary education to anyone regardless of the cost. Bullshit.'
-layout: post
+title: I’m Only Going to Say This Once
+date: 2014-05-22 09:44:59 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - budget
-  - higher education
-  - money
-  - post-secondary
-  - taxes
-  - university
+- budget
+- higher education
+- money
+- post-secondary
+- taxes
+- university
+excerpt: There seems to be some idea that money shouldn’t matter at the university,
+  that somehow we should be able to provide any kind of post-secondary education to
+  anyone regardless of the cost. Bullshit.
+layout: post
 ---
 
 <div id="attachment_3855" style="width: 310px" class="wp-caption alignleft">

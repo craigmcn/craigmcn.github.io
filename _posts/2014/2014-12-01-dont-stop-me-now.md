@@ -1,20 +1,22 @@
 ---
-title: "Don’t Stop Me Now"
-date: 2014-12-01T09:06:02+00:00
-excerpt: "This week's instalment of Music Monday is Don't Stop Me Now. The 1978 Queen original and a 2014 cover by Foxes."
-layout: post
+title: Don’t Stop Me Now
+date: 2014-12-01 09:06:02 Z
 categories:
-  - People
-  - Music Monday
+- People
+- Music Monday
 tags:
-  - covers
-  - Foxes
-  - music
-  - Queen
-  - video
+- covers
+- Foxes
+- music
+- Queen
+- video
+excerpt: This week's instalment of Music Monday is Don't Stop Me Now. The 1978 Queen
+  original and a 2014 cover by Foxes.
+layout: post
 redirect_from:
-  - /dont-stop-now.html
+- "/dont-stop-now.html"
 ---
+
 This week&#8217;s instalment of Music Monday is _[Don&#8217;t Stop Me Now](http://en.wikipedia.org/wiki/Don%27t_Stop_Me_Now)_ by [Queen](http://queenonline.com/) from their 1978 album, [Jazz](http://en.wikipedia.org/wiki/Jazz_(Queen_album)). The [Foxes](http://www.iamfoxes.com/) version is from an October 2014 [Doctor Who](http://www.bbc.co.uk/programmes/b006q2x0) episode, [Mummy on the Orient Express](http://www.bbc.co.uk/programmes/b04lny6c). For some reason, this was an earworm for me the other day, so I&#8217;m sharing it with you.
 
 <div class="video-container">

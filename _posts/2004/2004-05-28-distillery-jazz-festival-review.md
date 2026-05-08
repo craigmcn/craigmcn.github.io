@@ -1,16 +1,18 @@
 ---
 title: The Distillery Jazz Festival (Review)
-date: 2004-05-28T12:54:20+00:00
-excerpt: Wednesday night I was down to the Distillery Jazz Festival, in the Distillery Historic District, in downtown Toronto.
-layout: post
+date: 2004-05-28 12:54:20 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - Distillery District
-  - Distillery Jazz Festival
-  - music
-  - review
+- Distillery District
+- Distillery Jazz Festival
+- music
+- review
+excerpt: Wednesday night I was down to the Distillery Jazz Festival, in the Distillery
+  Historic District, in downtown Toronto.
+layout: post
 ---
+
 Wednesday night I was down to the Distillery Jazz Festival, in the Distillery Historic District, in downtown Toronto. This area is such an excellent venue for this type of event, with restaurants, galleries and all kinds of great event space. I went specifically to see two performances, the Love Orchestra, of whom I have spoken, and what was billed as Love Mechaniques. Both performances were excellent &#8212; I may be a little biased, they&#8217;re friends of mine, but the responses I heard from others were equally complimentary.
 
 The first performance I saw was the Love Orchestra in an innovative performance which incorporated the modern dance of the lovely Ming Hon (aka Aqua-Fuschia Citrus). Ming began the performance with a pantomime of opening a gift, which turned out to be a small electronic saxophone player. Ming started the sax man and began to imitate his movements. Once the sax man stopped, Ming shrugged her shoulders and the band began.

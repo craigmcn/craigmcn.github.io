@@ -1,18 +1,19 @@
 ---
-title: 'Decide What’s Important'
-date: 2012-02-19T13:00:05+00:00
+title: Decide What’s Important
+date: 2012-02-19 13:00:05 Z
+categories:
+- Opinion
+- People
+tags:
+- decide
+- important
+- programming
 excerpt: And do that.
 layout: post
-categories:
-  - Opinion
-  - People
-tags:
-  - decide
-  - important
-  - programming
 redirect_from:
-  - /post/17895454052
+- "/post/17895454052"
 ---
+
 <img src="https://cdn.craigmcn.ca/img/important.jpg" alt="Important?" width="240" height="239" align="left" />And do that.
 
 That’s my motto. I’m not fantastic about it making it happen myself, but I’m trying to make it what drives me.

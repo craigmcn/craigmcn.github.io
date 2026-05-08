@@ -1,17 +1,20 @@
 ---
-title: 'Nanowrimo Day 29 – Going Generally Nowhere'
-date: 2011-11-29T20:45:00+00:00
-excerpt: "Alrighty, it’s been a poor couple of weeks, with many more things other than writing occupying my mind and time. I’ve written a few things, so here’s another short selection from my very short novel."
-layout: post
+title: Nanowrimo Day 29 – Going Generally Nowhere
+date: 2011-11-29 20:45:00 Z
 categories:
-  - People
+- People
 tags:
-  - language
-  - NaNoWriMo
-  - writing
+- language
+- NaNoWriMo
+- writing
+excerpt: Alrighty, it’s been a poor couple of weeks, with many more things other than
+  writing occupying my mind and time. I’ve written a few things, so here’s another
+  short selection from my very short novel.
+layout: post
 redirect_from:
-  - /post/13528418052
+- "/post/13528418052"
 ---
+
 [<img src="http://images2.wikia.nocookie.net/__cb20090928165961/starwars/images/9/92/HanSolo-AoD.jpg" alt="Images by Kerem Beyit" width="300" height="300" align="left" />](http://starwars.wikia.com/index.php?title=Category:Images_by_Kerem_Beyit&image=HanSolo-AoD-jpg)
 
 Alrighty, it’s been a poor couple of weeks, with many more things other than writing occupying my mind and time. I’ve written a few things, so here’s another short selection from my very short novel.

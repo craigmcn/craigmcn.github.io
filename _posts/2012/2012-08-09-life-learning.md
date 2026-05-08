@@ -1,16 +1,18 @@
 ---
 title: Life Learning
-date: 2012-08-09T09:10:39+00:00
-excerpt: "A student needs to learn the material and prove he's learned the material; that's how school works."
-layout: post
+date: 2012-08-09 09:10:39 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - complaints
-  - education
-  - experience
-  - university
+- complaints
+- education
+- experience
+- university
+excerpt: A student needs to learn the material and prove he's learned the material;
+  that's how school works.
+layout: post
 ---
+
 This has taken me a little while to put together, because I’m on vacation and not really thinking about stuff; just reading and napping, mostly.
 
 I’ve discussed two things about university that bother me, and I’ve realized a third thing, and I think there’s at least a fourth thing (if not more things) that I can discuss.

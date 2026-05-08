@@ -1,21 +1,22 @@
 ---
 title: Common Courtesy and Equality
-date: 2011-11-01T09:09:59+00:00
+date: 2011-11-01 09:09:59 Z
+categories:
+- People
+tags:
+- complaints
+- language
+- misogyny
+- patriarchy
+- Terry Fallis
+- The Best Laid Plans
+- traditional
 excerpt: It’s about not being an asshole.
 layout: post
-categories:
-  - People
-tags:
-  - complaints
-  - language
-  - misogyny
-  - patriarchy
-  - Terry Fallis
-  - The Best Laid Plans
-  - traditional
 redirect_from:
-  - /post/12197730950
+- "/post/12197730950"
 ---
+
 When I started writing this post, I was about halfway through [Terry Fallis’ _The Best Laid Plans_](http://terryfallis.com/the-best-laid-plans/ "Terry Fallis' The Best Laid Plans"); I finished Sunday. There’s a short passage about misogyny, equality, and common courtesy. The protagonist describes an encounter where he holds a door open for a woman and is accused, loudly, of being a misogynist. His response, while retelling the story:
 
 > I’ve never considered good manners and equality mutually exclusive. Good manners may regrettably be an anachronism, but its roots are in common courtesy, not patriarchy.

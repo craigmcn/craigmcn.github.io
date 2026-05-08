@@ -1,14 +1,16 @@
 ---
 title: Hooray for new jobs!
-date: 2005-12-13T07:42:59+00:00
-excerpt: "Not mine. No, sadly, I still have the same old job ... well, actually, I'm not certain I know what my job is this"
-layout: post
+date: 2005-12-13 07:42:59 Z
 categories:
-  - Funny
-  - Opinion
+- Funny
+- Opinion
 tags:
-  - jobs
+- jobs
+excerpt: Not mine. No, sadly, I still have the same old job ... well, actually, I'm
+  not certain I know what my job is this
+layout: post
 ---
+
 Not mine. No, sadly, I still have the same old job &#8230; well, actually, I&#8217;m not certain I know what my job is this week/month/quarter. But they pay me money, I guess that&#8217;s something.
 
 No, I&#8217;m talking about [Gwildor](http://gwild0r.tumblr.com/) and his fancy new [Geek Squad](http://www.bestbuy.ca/en-CA/geeksquad.aspx) job that he&#8217;ll start Monday. Congratulations!!

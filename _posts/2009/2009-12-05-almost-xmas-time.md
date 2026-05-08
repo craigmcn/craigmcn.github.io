@@ -1,15 +1,16 @@
 ---
 title: Almost Xmas time
-date: 2009-12-05T21:40:29+00:00
-excerpt: "We're well into December now and I haven't written you guys a real note in over three months. I have been a little"
-layout: post
+date: 2009-12-05 21:40:29 Z
 categories:
-  - People
+- People
 tags:
-  - dogs
-  - jobs
-  - trivia
-  - Xmas
+- dogs
+- jobs
+- trivia
+- Xmas
+excerpt: We're well into December now and I haven't written you guys a real note in
+  over three months. I have been a little
+layout: post
 ---
 
 We&#8217;re well into December now and I haven&#8217;t written you guys a real note in over three months. I _have_ been a little busy, but not really, and noteworthy things have happened, but not really.

@@ -1,15 +1,17 @@
 ---
 title: Professional jazz
-date: 2004-04-29T07:13:40+00:00
-excerpt: If any of you ever get a chance to see professional jazz musicians play, do it. Now, I will add a caveat to that
-layout: post
+date: 2004-04-29 07:13:40 Z
 categories:
-  - People
+- People
 tags:
-  - Love Orchestra
-  - music
-  - Wayne Shorter
+- Love Orchestra
+- music
+- Wayne Shorter
+excerpt: If any of you ever get a chance to see professional jazz musicians play,
+  do it. Now, I will add a caveat to that
+layout: post
 ---
+
 If any of you ever get a chance to see professional jazz musicians play, do it. Now, I will add a _caveat_ to that suggestion: Don&#8217;t expect sing-along favourites. Because even if you do recognize the melody, good, professional jazz musicians will put their own spin on it and make it virtually unrecognizable. Which is what I was witness to last night when The Love Orchestra played <a href="http://www.therex.ca/" target="_blank">The Rex</a>.
 
 The first set was pretty straightforward. Sax, guitar, bass, drums. Joel Joseph, Rob Ritchie, Mark Cashion, and Tim Shia, respectively. The opening number, _Chief Crazy Horse_, was probably close to the best impression of the band they could have given the audience. It started with Joseph&#8217;s solid sax and gave us solos from each of the players, which was like being introduced to new friends.

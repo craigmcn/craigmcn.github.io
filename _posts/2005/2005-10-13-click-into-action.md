@@ -1,14 +1,16 @@
 ---
 title: Click into action!
-date: 2005-10-13T05:16:27+00:00
-excerpt: We know that poverty exists in our own Canadian backyard. On October 17, the United Nations International Day for the
-layout: post
+date: 2005-10-13 05:16:27 Z
 categories:
-  - Opinion
-  - People
+- Opinion
+- People
 tags:
-  - poverty
+- poverty
+excerpt: We know that poverty exists in our own Canadian backyard. On October 17,
+  the United Nations International Day for the
+layout: post
 ---
+
 We know that poverty exists in our own Canadian backyard. On October 17, the [United Nations International Day for the Eradication of Poverty](http://www.un.org/en/events/povertyday/), [Make Poverty History](http://www.makepovertyhistory.ca) will be focusing on the sad reality of child poverty in Canada.
 
 Fifteen years ago the House of Commons unanimously resolved to **&#8220;seek to achieve the goal of eliminating poverty among Canadian children by the year 2000.&#8221;** Yet still more than one million Canadian kids, that’s one in six, remains poor.

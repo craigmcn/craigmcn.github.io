@@ -1,13 +1,15 @@
 ---
 title: My morning chuckle
-date: 2007-08-03T05:49:07+00:00
-excerpt: 'I always get a kick out of this quote: I eat pieces of shit like you for breakfast.'
-layout: post
+date: 2007-08-03 05:49:07 Z
 categories:
-  - Funny
+- Funny
 tags:
-  - Happy Gilmore
+- Happy Gilmore
+excerpt: 'I always get a kick out of this quote: I eat pieces of shit like you for
+  breakfast.'
+layout: post
 ---
+
 I always get a kick out of [this quote](http://www.imdb.com/title/tt0116483/quotes):
 
 > [Shooter McGavin](http://www.imdb.com/name/nm0001520/): I eat pieces of shit like you for breakfast.

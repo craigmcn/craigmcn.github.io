@@ -1,15 +1,16 @@
 ---
 title: Many updates
-date: 2007-07-18T08:34:00+00:00
-excerpt: "Wublub's recent post spurred me to post something, but not because I feel that “Facebook killed my website”"
-layout: post
+date: 2007-07-18 08:34:00 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - books
-  - Facebook
-  - Harry Potter
-  - websites
+- books
+- Facebook
+- Harry Potter
+- websites
+excerpt: Wublub's recent post spurred me to post something, but not because I feel
+  that “Facebook killed my website”
+layout: post
 ---
 
 Hi there, boys and girls! Wublub&#8217;s recent post <em style="font-size: 0.8em;">(2012-08-12: Wublub&#8217;s website has since been removed)</em> spurred me to post something. Not because I feel that &#8220;Facebook killed my website&#8221;, but because I realized that it&#8217;s been far too long since I posted anything.

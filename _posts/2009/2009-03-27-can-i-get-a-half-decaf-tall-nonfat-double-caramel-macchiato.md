@@ -1,15 +1,16 @@
 ---
 title: Can I get a tall half-decaf nonfat double caramel macchiato?
-date: 2009-03-27T17:05:40+00:00
-excerpt: “Can I get a tall half-decaf half-sweet non-fat double caramel macchiato with no foam?” was too long
-layout: post
+date: 2009-03-27 17:05:40 Z
 categories:
-  - People
+- People
 tags:
-  - coffee
-  - customer service
-  - Starbucks
-  - training
+- coffee
+- customer service
+- Starbucks
+- training
+excerpt: "“Can I get a tall half-decaf half-sweet non-fat double caramel macchiato
+  with no foam?” was too long"
+layout: post
 ---
 
 I wanted the title to be “Can I get a tall half-decaf half-sweet non-fat double caramel macchiato with no foam?” but my titles have a limited length! Even then, that’s how I’d call the order, it probably would have come from the customer as, “Uhhh, maybe a caramel macchiato, the smaller size, and, like, half-decaf and half-sweet, with, umm, skim milk? Oh, yeah, and no foam? &#8230; And an extra shot of espresso.”

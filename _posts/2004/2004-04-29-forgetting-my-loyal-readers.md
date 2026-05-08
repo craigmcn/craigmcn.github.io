@@ -1,15 +1,17 @@
 ---
 title: Forgotten my loyal readers
-date: 2004-04-29T06:30:10+00:00
-excerpt: "Okay, I'm disappointed that there were no responses to the last blog. But, hey, I know you're all busy, busy people."
-layout: post
+date: 2004-04-29 06:30:10 Z
 categories:
-  - Technology
+- Technology
 tags:
-  - blogging
-  - music
-  - programming
+- blogging
+- music
+- programming
+excerpt: Okay, I'm disappointed that there were no responses to the last blog. But,
+  hey, I know you're all busy, busy people.
+layout: post
 ---
+
 Okay, I&#8217;m disappointed that there were no responses to the last blog. But, hey, I know you&#8217;re all busy, busy people. I just want to mention that I&#8217;ve got kind of a big post on the go, and I was hoping that it would be ready this morning, but I&#8217;ll get it finished for tonight. I haven&#8217;t forgotten my loyal readers!
 
 **Update:**

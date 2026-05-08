@@ -1,20 +1,21 @@
 ---
 title: Stratosphere Thrill Rides
-date: 2012-04-25T10:49:40+00:00
-excerpt: Imagine sitting backwards on a see-saw balanced 1000 feet in the air. Good times!
-layout: post
+date: 2012-04-25 10:49:40 Z
 categories:
-  - People
-  - Technology
+- People
+- Technology
 tags:
-  - holidays
-  - photos
-  - stratosphere
-  - Vegas Baby
-  - x-scream
+- holidays
+- photos
+- stratosphere
+- Vegas Baby
+- x-scream
+excerpt: Imagine sitting backwards on a see-saw balanced 1000 feet in the air. Good
+  times!
+layout: post
 format: gallery
 redirect_from:
-  - /post/21788243337
+- "/post/21788243337"
 ---
 
 <div id='gallery-4' class='gallery galleryid-31 gallery-columns-3 gallery-size-thumbnail gallery1 clearfix'>

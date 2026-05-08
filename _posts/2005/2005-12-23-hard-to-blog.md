@@ -1,13 +1,15 @@
 ---
 title: Hard to blog
-date: 2005-12-23T07:56:58+00:00
-excerpt: Bad Blogger, bad! I was doing so well, a blog every day last week, then came the weekend and this week and, well,
-layout: post
+date: 2005-12-23 07:56:58 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - blogging
+- blogging
+excerpt: Bad Blogger, bad! I was doing so well, a blog every day last week, then came
+  the weekend and this week and, well,
+layout: post
 ---
+
 Bad Blogger, bad! I was doing so well, a blog every day last week, then came the weekend and this week and, well, nothing. Unfortunately, really nothing happened this week. I mean, I guess that&#8217;s not completely true, but it sure feels that way. The only thing I&#8217;ve feel I&#8217;ve done was to keep up with [Gwildor](http://gwild0r.tumblr.com/)&#8216;s blogs. And even then Wublub was on it before me!
 
 I did get Wublub to update his domain name servers, and then told him he needs to make it so I can post comments to his blogs and provide me with an RSS feed.

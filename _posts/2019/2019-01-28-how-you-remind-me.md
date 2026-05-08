@@ -1,8 +1,6 @@
 ---
-title: "How You Remind Me"
-date: 2019-01-28T11:45:00-0800
-excerpt: "This week’s instalment of Music Monday is How You Remind Me. The 2001 Nickelback original and a 2018 cover by Charlotte Cardin."
-layout: post
+title: How You Remind Me
+date: 2019-01-28 19:45:00 Z
 categories:
 - People
 - Music Monday
@@ -13,7 +11,11 @@ tags:
 - Nickelback
 - Charlotte Cardin
 - Junos
+excerpt: This week’s instalment of Music Monday is How You Remind Me. The 2001 Nickelback
+  original and a 2018 cover by Charlotte Cardin.
+layout: post
 ---
+
 This week’s instalment of Music Monday is [_How You Remind Me_](https://en.wikipedia.org/wiki/How_You_Remind_Me) by
 [Nickelback](http://nickelback.com/) from their 2001 album,
 [Silver Side Up](https://en.wikipedia.org/wiki/Silver_Side_Up). The [Charlotte Cardin](http://www.charlottecardin.com/)

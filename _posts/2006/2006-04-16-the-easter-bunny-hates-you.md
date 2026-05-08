@@ -1,13 +1,14 @@
 ---
 title: The Easter Bunny hates you
-date: 2006-04-16T08:20:12+00:00
+date: 2006-04-16 08:20:12 Z
+categories:
+- Funny
+tags:
+- video
 excerpt: Unfortunately, the Easter Bunny hates you
 layout: post
-categories:
-  - Funny
-tags:
-  - video
 ---
+
 Unfortunately, the Easter Bunny hates you &#8230;
   
 <div class="video-container">

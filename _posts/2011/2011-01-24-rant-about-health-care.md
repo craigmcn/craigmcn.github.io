@@ -1,16 +1,18 @@
 ---
 title: Rant about Health Care
-date: 2011-01-24T15:15:25+00:00
-excerpt: "I got a little upset with my girlfriend (I'll call her Cupcake) yesterday afternoon about health care. I'm in the"
-layout: post
+date: 2011-01-24 15:15:25 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - complaints
-  - health care
-  - politics
-  - restaurant
+- complaints
+- health care
+- politics
+- restaurant
+excerpt: I got a little upset with my girlfriend (I'll call her Cupcake) yesterday
+  afternoon about health care. I'm in the
+layout: post
 ---
+
 <img class="alignleft" title="doctor" src="https://cdn.craigmcn.ca/img/doctor.jpg" alt="doctor - image" width="160" height="280" />
 
 I got a little upset with my girlfriend (I’ll call her Cupcake) yesterday afternoon about health care. I’m in the market for a family doctor, but I’m not really keen on the ones listed on the health region’s website of doctors taking new patients. But at some point, I’ll go through the list and figure out which one to choose.

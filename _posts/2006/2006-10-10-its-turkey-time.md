@@ -1,15 +1,17 @@
 ---
-title: 'It&#8217;s turkey time!'
-date: 2006-10-10T10:13:45+00:00
-excerpt: "Whoop-a-dee-doo! It's Thanksgiving!I went out to visit people in London (ON), and I feel guilty, since I didn't visit"
-layout: post
+title: It&#8217;s turkey time!
+date: 2006-10-10 10:13:45 Z
 categories:
-  - People
+- People
 tags:
-  - complaints
-  - holidays
-  - Thanksgiving
+- complaints
+- holidays
+- Thanksgiving
+excerpt: Whoop-a-dee-doo! It's Thanksgiving!I went out to visit people in London (ON),
+  and I feel guilty, since I didn't visit
+layout: post
 ---
+
 Whoop-a-dee-doo! It&#8217;s Thanksgiving!
 
 I went out to visit people in London (ON), and I feel guilty, because I didn&#8217;t visit everyone I should have. I intended to head out to [the Hammer](http://www.hamilton.ca/index.htm) to visit an old friend, and visit my cousins and my great-aunt, as well. But I was too lazy to call and organize anything, and I didn&#8217;t want to stress-out my 86-year-old, [post-polio](http://www.marchofdimes.ca/EN/programs/PolioCanada/Pages/default.aspx) aunt by just popping in.

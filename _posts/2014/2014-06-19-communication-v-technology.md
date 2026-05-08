@@ -1,15 +1,19 @@
 ---
 title: Communication v. Technology
-date: 2014-06-19T11:19:28+00:00
-excerpt: "Text messages are great for small talk and general chatting, but not for a real adult conversation. Email is great for short messages that don't need a lot of discussion, and if you need to reach multiple people and ensure a consistent message. But it can't be used instead of sitting down and talking with people."
-layout: post
+date: 2014-06-19 11:19:28 Z
 categories:
-  - Opinion
+- Opinion
 tags:
-  - communication
-  - relationship
-  - technology
+- communication
+- relationship
+- technology
+excerpt: Text messages are great for small talk and general chatting, but not for
+  a real adult conversation. Email is great for short messages that don't need a lot
+  of discussion, and if you need to reach multiple people and ensure a consistent
+  message. But it can't be used instead of sitting down and talking with people.
+layout: post
 ---
+
 <div class="getty embed image alignleft">
   <div style="padding:66.666667% 0 0 0">
     <iframe src="//embed.gettyimages.com/embed/142892797?et=HpUKA_AjSFNbVH6IbWbp6g&viewMoreLink=off&sig=VhPj1CREBN9WpE5a08i5jKCePgkXb7o22-Uc48v_l34=&caption=true" width="507" height="338" scrolling="no" frameborder="0"></iframe>
