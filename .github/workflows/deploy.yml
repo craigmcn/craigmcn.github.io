@@ -5,6 +5,7 @@ on:
     branches: [main]
   schedule:
     - cron: '0 20 * * *'  # 12:00 PM PST (1:00 PM PDT)
+  workflow_dispatch:
 
 permissions:
   contents: read
