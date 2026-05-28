@@ -8,8 +8,9 @@ excerpt: The em dash has been doing honest literary work since Shakespeare, but
 layout: post
 categories:
   - Opinion
-tags:
   - Thoughtful Thursday
+tags:
+  - ""
   - 99% Invisible
   - language
   - punctuation
