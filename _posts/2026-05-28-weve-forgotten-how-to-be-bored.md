@@ -7,12 +7,12 @@ excerpt: We engineered away every idle moment and then repackaged the experience
 layout: post
 categories:
   - Opinion
+  - Thoughtful Thursday
 tags:
   - productivity
   - technology
   - mindfulness
   - social media
-  - Thoughtful Thursday
 ---
 There was a time when boredom was simply part of life. You sat in a waiting room. You rode the bus. You stood in line at the bank. There was nothing to do, so you did nothing. You stared out the window, let your mind wander, maybe solved a problem you hadn't been consciously thinking about. Nobody called it mindfulness. It was just waiting.
 
