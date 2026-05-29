@@ -10,7 +10,6 @@ categories:
   - Opinion
   - Thoughtful Thursday
 tags:
-  - ""
   - 99% Invisible
   - language
   - punctuation
