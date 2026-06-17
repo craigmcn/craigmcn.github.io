@@ -29,7 +29,7 @@ layout: page
   </p>
 </form>
 
-<div style="margin-top: 1rem;" data-fs-success>Thanks for your submission!</div>
+<div style="margin-top: 1rem;" data-fs-success>Thanks for the message. I’ll be in touch shortly.</div>
 <div style="margin-top: 1rem;" data-fs-error>Oops! There was a problem submitting your form.</div>
 
 <script>
@@ -38,9 +38,10 @@ layout: page
     function () {
       (formspree.q = formspree.q || []).push(arguments);
     };
+  const contactForm = document.getElementById("contact-form");
   formspree("initForm", {
-    formElement: "#contact-form",
-    formId: "mnjyygrj",
+    formElement: contactForm,
+    formId: contactForm.action.split("/").pop(),
   });
 </script>
-<script src="https://unpkg.com/@formspree/ajax@1" defer></script>
+<script src="https://unpkg.com/@formspree/ajax@1.1.5" integrity="sha384-9fQrvHz7unHjhv7e+pJqhvNxPV4tYHHsSn3PxBIEyPTGY8Q/PAKM1sfhL+zTYmhc" crossorigin="anonymous" defer></script>
