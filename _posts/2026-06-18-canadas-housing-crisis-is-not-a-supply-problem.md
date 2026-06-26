@@ -14,6 +14,7 @@ tags:
   - government
   - language
   - housing
+  - economy
 ---
 Every politician with a microphone has decided Canada's housing crisis is a construction problem. Build more, build faster, build anywhere. That's the pitch. It has the advantage of sounding like a plan while leaving untouched every structural issue that actually drives unaffordability. Zoning reform moves at a glacial pace when it moves at all, speculation is taxed lightly if at all, and [foreign ownership restrictions](https://www.canada.ca/en/department-finance/news/2022/12/government-of-canada-introduces-legislation-to-implement-ban-on-foreign-ownership-of-canadian-housing.html) arrived years late, riddled with exemptions and largely unenforced. Framing this as a supply crisis is politically convenient because building more housing is something governments can announce without making anyone powerful uncomfortable.
 
