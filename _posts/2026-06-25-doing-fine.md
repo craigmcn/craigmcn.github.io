@@ -14,6 +14,7 @@ tags:
   - government
   - affordability
   - housing
+  - economy
 ---
 The Canadian economy, by most official measures, is in reasonable shape. Unemployment is low, inflation has come down from its 2022 peak, and the majority of Canadians are employed, housed and not in default on anything. If you described this situation to an economist, they would probably tell you things are more or less fine. If you described it to someone who just got home from buying groceries, you might get a different response.
 
