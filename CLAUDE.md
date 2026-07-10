@@ -21,8 +21,20 @@ Personal Jekyll blog hosted on GitHub Pages at https://craigmcn.ca.
 - **PRs #30–#34 merged** — iterative debugging and final Cloudflare Worker approach all landed
 - **CMS login works in Chrome Incognito** ✅ — confirms Worker + config are correct
 
+### 2026-06-17
+- **Contact form migrated to Formspree** — replaced AWS Lambda + API Gateway mailer (`contact.md`) with Formspree's `@formspree/ajax` widget (pinned version + SRI hash); `formId` derived from the form's `action` URL to avoid duplicating it; honeypot field and no-JS fallback (`action`/`method="POST"`) preserved
+- **AWS mailer stack torn down** — Lambda, API Gateway, deployment S3 bucket, and CloudWatch log group all removed after confirming Formspree works in production
+- **PR #36** — Formspree migration, plus unrelated README local-dev docs and `.ruby-version`/`.gitignore` housekeeping
+
+### 2026-07-10
+- **Fixed broken site search** — `feed.json` built `title`/`excerpt`/`categories`/`tags` via raw Liquid string interpolation instead of JSON-encoding; any post excerpt containing a literal `"` (e.g. the em-dash post's `the "ChatGPT hyphen."`) produced invalid JSON, breaking `search.js`'s `fetch('/feed.json').then(r => r.json())` for every query, not just ones matching that post
+  - **Fix**: switched every field to Liquid's `jsonify` filter (proper escaping; also replaces the manual category/tag loops with direct array serialization)
+  - **Verified** via `mise exec -- bundle exec jekyll build` (system Ruby is 2.6.10; project needs 3.3.11, available through `mise`) — confirmed `_site/feed.json` parses as valid JSON (1132 posts) and the em-dash excerpt now escapes correctly (`\"ChatGPT hyphen.\"`)
+  - Branch: `fix/search`; not yet committed/PR'd
+
 ## Next / In Progress
 
+- **Commit + PR the `feed.json` fix** on `fix/search`
 - **Regular Chrome window not working** — login fails in regular Chrome but works in Incognito; suspected cause is a Chrome extension (ad blocker / privacy extension blocking the OAuth popup or `postMessage`); user is investigating
 - **Verify date format** — confirm first CMS-created post uses `-0700` timezone offset style (not `-07:00`) to match existing front matter
 
