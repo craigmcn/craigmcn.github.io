@@ -1,10 +1,9 @@
 ---
-title: The new rules of phone etiquette
-date: 2026-07-30T11:45:00-07:00
-excerpt: We've built an entire etiquette rulebook around the phone call, from
-  asking permission to text before you dial to policing speakerphone in public.
-  None of it existed fifty years ago, and all of it adds friction to a tool that
-  used to have none.
+title: The office killed the quick call
+date: 2026-08-06T11:45:00-07:00
+excerpt: The office didn't kill the phone call so much as expose what it was
+  never good at. The real failure isn't Slack or email versus calling, it's how
+  rarely any of them get used with any care.
 layout: post
 categories:
   - Opinion
@@ -14,10 +13,10 @@ tags:
   - productivity
   - social media
 ---
-Somewhere along the way, calling someone stopped being the direct route and became the thing you ask permission for first. "Can I call you?" is now its own genre of text message, a small diplomatic overture that exists purely to avoid the crime of making someone's phone ring without warning. It's a strange inversion. The tool built to remove friction from communication now requires a scheduling step before you're allowed to use it, and the step itself often takes longer than the call would have.
+Slack and email were supposed to make workplace communication faster. Instead they gave us forty-message threads that a two-minute phone call would have resolved in the time it takes to say hello, followed by a scheduled follow-up meeting to clarify what the thread failed to settle. The promise was efficiency. What we got was a different kind of slowness, one that feels productive because it generates a paper trail, even when the actual problem sits unresolved somewhere around message thirty-one.
 
-Some of this is generational, and neither side seems to notice they're negotiating from different rulebooks. Older relatives still call cold, the way phones were designed to be used, and mean nothing by it. Younger people receive that same call as an intrusion, sometimes a mildly alarming one, because their entire communication life has trained them to expect warning and context before a live conversation. Neither position is wrong exactly. They're just answering to different defaults, and the friction shows up whenever the two collide, usually at a family dinner where someone's phone rings and half the table flinches.
+And yet I'm not convinced the answer is just "call more". A well-written email, one that actually gives context and links to whatever it's referencing, beats a call most of the time, because it lets me think before I respond instead of performing comprehension in real time on someone else's clock. The problem was never asynchronous communication. The problem is low-effort communication, and both calls and emails can fail that test equally. A rushed call with no agenda wastes exactly as much time as a context-free email that assumes I already know what "following up on this" refers to.
 
-Then there's the public conduct layer, which is its own quiet battlefield. Speakerphone on a train, a video call answered in a waiting room, someone narrating their entire day to a phone propped against a coffee cup: these aren't new behaviours so much as newly visible ones, and the etiquette hasn't caught up to how normalized they've become for the person doing it and how grating they remain for everyone nearby. We used to have a shared sense that phone calls belonged in private or at least in a lowered voice. That sense didn't survive contact with headphones and unlimited data.
+That's also why "quick call?" as a Slack message lands as a small ambush rather than an offer. It assumes the other person has nothing better to do than drop whatever they're doing and switch modes instantly, on your timeline rather than theirs. Compare that to an email with a clear ask and the relevant link attached: it respects that the recipient might be in the middle of something else, and it lets them engage with the actual substance instead of scrambling to catch up verbally.
 
-What's actually happened is that we've built an entire unwritten rulebook around a device that used to need none. Ask before calling. Text before speaking. Headphones before speakerphone. Every one of these rules exists to manage a discomfort that wasn't there fifty years ago, and every one of them adds a step between the impulse to talk to someone and actually doing it. That's not etiquette maturing. That's a tool quietly losing the thing that made it useful in the first place.
+So the office didn't kill the phone call so much as expose what it was never good at. Calls are for things sync actually helps, urgent alignment, a decision that needs back-and-forth, a tone that email keeps flattening into ambiguity. Everything else is better served by writing it down properly the first time. The real failure isn't the medium. It's how rarely either one gets used with any care.
