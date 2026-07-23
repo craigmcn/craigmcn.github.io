@@ -17,9 +17,9 @@ This week&#039;s instalment of Music Monday is [*Blackbird*](https://en.wikipedi
 
 Paul McCartney wrote and recorded this solo acoustic piece after Martin Luther King Jr.&#039;s assassination, using the blackbird as a symbol of the civil rights struggle in the American south. McLachlan&#039;s stripped down reading appeared on the I Am Sam soundtrack, an album of Beatles covers by contemporary artists.
 
-&lt;div class=&quot;video-container&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/TxYCG0eZQuc&quot; frameborder=&quot;0&quot; allowfullscreen title=&quot;Video: Blackbird by The Beatles&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;div class=&quot;video-container&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SQmlKcW4ir0&quot; frameborder=&quot;0&quot; allowfullscreen title=&quot;Video: Blackbird by Sarah McLachlan&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/TxYCG0eZQuc" frameborder="0" allowfullscreen title="Video: Blackbird by The Beatles"></iframe>
+</div>
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/SQmlKcW4ir0" frameborder="0" allowfullscreen title="Video: Blackbird by Sarah McLachlan"></iframe>
+</div>
