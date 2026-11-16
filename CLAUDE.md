@@ -70,3 +70,15 @@ Personal Jekyll blog hosted on GitHub Pages at https://craigmcn.ca.
 - Worker URL: `https://quiet-sunset-3f55.craig-040.workers.dev`
 - Secrets: `GITHUB_CLIENT_ID`, `GITHUB_CLIENT_SECRET` (set in Cloudflare dashboard)
 - Handles: `GET /auth` (redirect to GitHub), `GET /callback` (token exchange + postMessage back to CMS)
+
+## CDN (`cdn.craigmcn.ca`)
+
+- Served from **Cloudflare R2** bucket `cdn-craigmcn-ca` via an R2 custom domain (migrated from AWS CloudFront + S3 `s3.craigmcn.ca` on 2026-11-16); posts link to `https://cdn.craigmcn.ca/img/...`
+- Upload with the AWS CLI `r2` profile (object read/write token only — bucket settings like CORS must be changed in the dashboard):
+  `aws s3 cp <file> s3://cdn-craigmcn-ca/img/ --profile r2 --endpoint-url https://04020f0e4c7ba4d4a71941712d01e1dc.r2.cloudflarestorage.com --cache-control "public, max-age=2592000"`
+  - Set `AWS_REQUEST_CHECKSUM_CALCULATION=when_required` if the CLI errors on checksums
+- CORS allows GET/HEAD from `https://craigmcn.ca` and `http://127.0.0.1:4000`
+- A Cache Rule on the `craigmcn.ca` zone makes the hostname cache-eligible (without it every response was `cf-cache-status: DYNAMIC`)
+- Keys are case-sensitive: `img/Samsung_Galaxy_S3_review_01-580-100.jpg` and `.JPG` are both stored (identical content) — macOS downloads collapse them into one file
+- Local backup: `~/Web/Archive/cdn-craigmcn-ca` (2026-11-16)
+- **Pending cleanup:** remove the alias from and disable CloudFront distribution `E1DMGHEFNCGGE6`, then delete S3 bucket `s3.craigmcn.ca` (rollback until then: re-point the `cdn` CNAME to `dv8b8dkxht4vb.cloudfront.net`); remove test custom domain `cdn-r2.craigmcn.ca`
